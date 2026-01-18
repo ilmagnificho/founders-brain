@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import { useTranslations } from "next-intl";
 import ChatMessage from "./ChatMessage";
 import styles from "./Chat.module.css";
@@ -27,18 +27,58 @@ interface Message {
 interface ChatProps {
     inputValue: string;
     setInputValue: (value: string) => void;
+    autoSubmit?: boolean; // New: trigger auto-submit
+    onAutoSubmitComplete?: () => void; // New: callback after auto-submit
 }
+
+// =============================================================================
+// Constants
+// =============================================================================
+
+const STORAGE_KEY = "foundersbrain_chat_history";
 
 // =============================================================================
 // Chat Component
 // =============================================================================
 
-export default function Chat({ inputValue, setInputValue }: ChatProps) {
+export default function Chat({
+    inputValue,
+    setInputValue,
+    autoSubmit = false,
+    onAutoSubmitComplete
+}: ChatProps) {
     const t = useTranslations("chat");
     const [messages, setMessages] = useState<Message[]>([]);
     const [isLoading, setIsLoading] = useState(false);
+    const [isCopied, setIsCopied] = useState(false);
     const messagesEndRef = useRef<HTMLDivElement>(null);
     const lastUserMsgRef = useRef<HTMLDivElement>(null);
+
+    // Load chat history from localStorage on mount
+    useEffect(() => {
+        try {
+            const saved = localStorage.getItem(STORAGE_KEY);
+            if (saved) {
+                const parsed = JSON.parse(saved);
+                if (Array.isArray(parsed) && parsed.length > 0) {
+                    setMessages(parsed);
+                }
+            }
+        } catch (e) {
+            console.error("Failed to load chat history:", e);
+        }
+    }, []);
+
+    // Save chat history to localStorage when messages change
+    useEffect(() => {
+        if (messages.length > 0) {
+            try {
+                localStorage.setItem(STORAGE_KEY, JSON.stringify(messages));
+            } catch (e) {
+                console.error("Failed to save chat history:", e);
+            }
+        }
+    }, [messages]);
 
     // Auto-scroll to show the user's question at top when new messages arrive
     useEffect(() => {
@@ -47,15 +87,13 @@ export default function Chat({ inputValue, setInputValue }: ChatProps) {
         }
     }, [messages]);
 
-    const handleSubmit = async (e: React.FormEvent) => {
-        e.preventDefault();
-
-        if (!inputValue.trim() || isLoading) return;
+    const submitQuestion = useCallback(async (question: string) => {
+        if (!question.trim() || isLoading) return;
 
         const userMessage: Message = {
             id: Date.now().toString(),
             role: "user",
-            content: inputValue.trim(),
+            content: question.trim(),
         };
 
         setMessages((prev) => [...prev, userMessage]);
@@ -99,6 +137,35 @@ export default function Chat({ inputValue, setInputValue }: ChatProps) {
         } finally {
             setIsLoading(false);
         }
+    }, [isLoading, setInputValue, t]);
+
+    // Handle auto-submit when triggered from parent
+    useEffect(() => {
+        if (autoSubmit && inputValue.trim() && !isLoading) {
+            submitQuestion(inputValue);
+            onAutoSubmitComplete?.();
+        }
+    }, [autoSubmit, inputValue, isLoading, submitQuestion, onAutoSubmitComplete]);
+
+    const handleSubmit = async (e: React.FormEvent) => {
+        e.preventDefault();
+        await submitQuestion(inputValue);
+    };
+
+    const handleClearHistory = () => {
+        setMessages([]);
+        setInputValue("");
+        localStorage.removeItem(STORAGE_KEY);
+    };
+
+    const handleShareChat = async () => {
+        try {
+            await navigator.clipboard.writeText(window.location.href);
+            setIsCopied(true);
+            setTimeout(() => setIsCopied(false), 2000);
+        } catch (e) {
+            console.error("Failed to copy:", e);
+        }
     };
 
     return (
@@ -109,76 +176,95 @@ export default function Chat({ inputValue, setInputValue }: ChatProps) {
                     <h2 className={styles.title}>{t("title")}</h2>
                     <p className={styles.subtitle}>{t("subtitle")}</p>
                 </div>
-                {messages.length > 0 && (
-                    <button
-                        onClick={() => {
-                            setMessages([]);
-                            setInputValue("");
-                        }}
-                        className={styles.resetButton}
-                        title="새 대화 시작"
-                    >
-                        🔄 새 대화
-                    </button>
-                )}
+                <div className={styles.headerActions}>
+                    {messages.length > 0 && (
+                        <>
+                            <button
+                                onClick={handleShareChat}
+                                className={styles.shareButton}
+                                title="링크 복사"
+                            >
+                                {isCopied ? "✓ 복사됨" : "🔗 공유"}
+                            </button>
+                            <button
+                                onClick={handleClearHistory}
+                                className={styles.resetButton}
+                                title="새 대화 시작"
+                            >
+                                🔄 새 대화
+                            </button>
+                        </>
+                    )}
+                </div>
             </div>
 
             {/* Messages */}
             <div className={styles.messages}>
                 {messages.length === 0 ? (
                     <div className={styles.empty}>
-                        <div className={styles.emptyIcon}>💬</div>
+                        <div className={styles.emptyIcon}>🧠</div>
                         <h3 className={styles.emptyTitle}>궁금한 것을 물어보세요</h3>
                         <p className={styles.emptyText}>
-                            왼쪽 토픽에서 주제를 선택하거나,<br />
-                            아래 입력창에 직접 질문을 입력하세요.
+                            왼쪽 토픽에서 주제를 선택하거나<br />
+                            아래에 직접 질문을 입력해보세요
                         </p>
+                        <div className={styles.emptyHint}>
+                            <span className={styles.hintIcon}>💡</span>
+                            <span>예시: "MVP는 어떻게 만들어야 하나요?"</span>
+                        </div>
                     </div>
                 ) : (
-                    messages.map((message, index) => {
-                        const isLastUserMsg = message.role === "user" &&
-                            messages.slice(index + 1).every(m => m.role !== "user");
-                        return (
-                            <div
-                                key={message.id}
-                                ref={isLastUserMsg ? lastUserMsgRef : undefined}
-                            >
-                                <ChatMessage message={message} />
-                            </div>
-                        );
-                    })
+                    <>
+                        {messages.map((message, index) => {
+                            const isLastUserMessage =
+                                message.role === "user" &&
+                                index === messages.map(m => m.role).lastIndexOf("user");
+
+                            return (
+                                <div
+                                    key={message.id}
+                                    ref={isLastUserMessage ? lastUserMsgRef : undefined}
+                                >
+                                    <ChatMessage message={message} />
+                                </div>
+                            );
+                        })}
+                        <div ref={messagesEndRef} />
+                    </>
                 )}
 
+                {/* Loading Indicator */}
                 {isLoading && (
                     <div className={styles.loading}>
-                        <div className={styles.loadingDots}>
-                            <span></span>
-                            <span></span>
-                            <span></span>
+                        <div className={styles.loadingAvatar}>🧠</div>
+                        <div className={styles.loadingContent}>
+                            <p className={styles.loadingText}>AI가 답변을 생성하고 있어요</p>
+                            <div className={styles.loadingDots}>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
                         </div>
-                        <p>{t("thinking")}</p>
                     </div>
                 )}
-
-                <div ref={messagesEndRef} />
             </div>
 
-            {/* Input */}
+            {/* Input Form */}
             <form onSubmit={handleSubmit} className={styles.inputForm}>
                 <input
                     type="text"
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
                     placeholder={t("placeholder")}
-                    disabled={isLoading}
                     className={styles.input}
+                    disabled={isLoading}
                 />
                 <button
                     type="submit"
                     disabled={!inputValue.trim() || isLoading}
                     className={styles.sendButton}
                 >
-                    {isLoading ? "..." : t("send")}
+                    {t("send")}
                 </button>
             </form>
         </div>

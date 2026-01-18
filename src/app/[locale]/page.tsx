@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import Chat from "@/components/Chat";
 import TopicSidebar from "@/components/TopicSidebar";
@@ -11,6 +11,7 @@ export default function HomePage() {
     const [theme, setTheme] = useState<"light" | "dark">("light");
     const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
     const [inputValue, setInputValue] = useState("");
+    const [autoSubmit, setAutoSubmit] = useState(false);
 
     // Load theme from localStorage on mount
     useEffect(() => {
@@ -32,10 +33,15 @@ export default function HomePage() {
         document.documentElement.setAttribute("data-theme", newTheme);
     };
 
-    // Handle question selection from sidebar
-    const handleQuestionSelect = (question: string) => {
+    // Handle question selection from sidebar - now auto-submits!
+    const handleQuestionSelect = useCallback((question: string) => {
         setInputValue(question);
-    };
+        setAutoSubmit(true); // Trigger auto-submit
+    }, []);
+
+    const handleAutoSubmitComplete = useCallback(() => {
+        setAutoSubmit(false);
+    }, []);
 
     return (
         <main className={styles.main}>
@@ -76,6 +82,8 @@ export default function HomePage() {
                     <Chat
                         inputValue={inputValue}
                         setInputValue={setInputValue}
+                        autoSubmit={autoSubmit}
+                        onAutoSubmitComplete={handleAutoSubmitComplete}
                     />
                 </section>
 
