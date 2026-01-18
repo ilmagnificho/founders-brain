@@ -88,7 +88,7 @@ CREATE TRIGGER update_knowledge_base_updated_at
 -- ============================================================
 CREATE OR REPLACE FUNCTION match_knowledge(
   query_embedding VECTOR(768),
-  match_threshold FLOAT DEFAULT 0.7,
+  match_threshold FLOAT DEFAULT 0.15,
   match_count INT DEFAULT 5,
   filter_source TEXT DEFAULT NULL
 )
@@ -98,6 +98,7 @@ RETURNS TABLE (
   source_origin TEXT,
   video_id TEXT,
   video_title TEXT,
+  video_url TEXT,
   start_time FLOAT,
   metadata JSONB,
   similarity FLOAT
@@ -112,6 +113,7 @@ BEGIN
     kb.source_origin,
     kb.video_id,
     kb.video_title,
+    kb.video_url,
     kb.start_time,
     kb.metadata,
     1 - (kb.embedding <=> query_embedding) AS similarity
