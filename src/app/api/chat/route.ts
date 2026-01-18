@@ -286,16 +286,17 @@ function formatSources(chunks: MatchResult[]): Source[] {
 
     return Array.from(uniqueVideos.values()).map((chunk) => {
         // Build YouTube URL from video_id
-        // Handle non-youtube IDs (slugs)
-        let youtubeUrl = chunk.video_url;
-        if (!youtubeUrl.includes("http")) {
-            youtubeUrl = `https://www.youtube.com/watch?v=${chunk.video_id}&t=${Math.floor(chunk.start_time)}`;
+        // Handle non-youtube IDs (slugs) or undefined video_url
+        let youtubeUrl = chunk.video_url || "";
+        if (!youtubeUrl || !youtubeUrl.includes("http")) {
+            const timestamp = Math.floor(chunk.start_time || 0);
+            youtubeUrl = `https://www.youtube.com/watch?v=${chunk.video_id}${timestamp > 0 ? `&t=${timestamp}` : ""}`;
         }
 
         return {
-            title: chunk.video_title,
+            title: chunk.video_title || "Unknown Video",
             url: youtubeUrl,
-            timestamp: chunk.start_time,
+            timestamp: chunk.start_time || 0,
             speaker: chunk.metadata?.speaker?.name,
         };
     });
