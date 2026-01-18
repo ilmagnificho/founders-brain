@@ -138,9 +138,7 @@ export default function ChatMessage({ message }: ChatMessageProps) {
     return (
         <div className={`${styles.message} ${styles.assistant}`}>
             <div className={styles.avatar}>
-                <div className={styles.avatarInner}>
-                    <img src="/ycbrain.png" alt="YC Brain" />
-                </div>
+                🧠
             </div>
             <div className={styles.contentWrapper}>
                 {/* Speaker Header */}
@@ -172,7 +170,7 @@ export default function ChatMessage({ message }: ChatMessageProps) {
                             🎬 원본 영상에서 확인하기
                         </p>
                         <div className={styles.sourceCards}>
-                            {message.sources.map((source, index) => (
+                            {message.sources?.map((source, index) => (
                                 <SourceCard key={index} source={source} />
                             ))}
                         </div>
