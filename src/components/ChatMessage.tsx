@@ -2,6 +2,7 @@
 
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { videos } from "@/data/topics";
 import styles from "./ChatMessage.module.css";
 
 // =============================================================================
@@ -46,6 +47,45 @@ function getYouTubeThumbnail(videoId: string): string {
     return `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
 }
 
+/**
+ * Resolves a video title from the source data.
+ * When API returns a raw video ID or "video_id: {id}" as title, this looks up the real title.
+ */
+function resolveVideoTitle(source: Source): string {
+    // Pattern for YouTube video IDs (11 characters, alphanumeric with _ and -)
+    const videoIdPattern = /^[a-zA-Z0-9_-]{10,12}$/;
+    let searchId = source.videoId;
+
+    // Handle "video_id: {id}" prefix pattern from API
+    if (source.title?.toLowerCase().startsWith("video_id:")) {
+        searchId = source.title.replace(/video_id:\s*/i, "").trim();
+        const video = videos.find(v => v.id === searchId);
+        if (video) return video.title;
+    }
+
+    // If title looks like a video ID, try to find the real title
+    if (source.title && videoIdPattern.test(source.title)) {
+        const video = videos.find(v => v.id === source.title || v.id === source.videoId);
+        if (video) return video.title;
+    }
+
+    // Try to look up by videoId field
+    if (source.videoId) {
+        const video = videos.find(v => v.id === source.videoId);
+        if (video) return video.title;
+    }
+
+    // Try to extract video ID from URL and look up
+    const urlVideoId = getVideoIdFromUrl(source.url);
+    if (urlVideoId) {
+        const video = videos.find(v => v.id === urlVideoId);
+        if (video) return video.title;
+    }
+
+    // Fallback to the provided title or a generic label
+    return source.title || "YC Startup School Lecture";
+}
+
 // =============================================================================
 // Sub-Components
 // =============================================================================
@@ -62,6 +102,7 @@ function YCBadge() {
 function SourceCard({ source }: { source: Source }) {
     const videoId = getVideoIdFromUrl(source.url);
     const thumbnailUrl = videoId ? getYouTubeThumbnail(videoId) : null;
+    const displayTitle = resolveVideoTitle(source);
 
     return (
         <a
@@ -75,7 +116,7 @@ function SourceCard({ source }: { source: Source }) {
                 <div className={styles.thumbnail}>
                     <img
                         src={thumbnailUrl}
-                        alt={source.title}
+                        alt={displayTitle}
                         className={styles.thumbnailImg}
                     />
                     <div className={styles.playOverlay}>
@@ -89,7 +130,7 @@ function SourceCard({ source }: { source: Source }) {
 
             {/* Info */}
             <div className={styles.sourceCardInfo}>
-                <span className={styles.sourceCardTitle}>{source.title}</span>
+                <span className={styles.sourceCardTitle}>{displayTitle}</span>
                 {source.speaker && (
                     <span className={styles.sourceCardSpeaker}>
                         👤 {source.speaker}

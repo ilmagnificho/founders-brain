@@ -1,14 +1,14 @@
 .container {
     min-height: 100vh;
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-    color: white;
+    background: #ffffff;
+    color: #1a1a2e;
     display: flex;
     flex-direction: column;
 }
 
 .header {
     padding: 20px 24px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .backLink {
@@ -48,18 +48,18 @@
     font-size: 1.25rem;
     font-weight: 600;
     margin-bottom: 12px;
-    color: white;
+    color: #1a1a2e;
 }
 
 .text {
     font-size: 1rem;
     line-height: 1.7;
-    color: rgba(255, 255, 255, 0.8);
+    color: #555;
 }
 
 .disclaimer {
-    background: rgba(255, 107, 53, 0.1);
-    border: 1px solid rgba(255, 107, 53, 0.3);
+    background: rgba(255, 107, 53, 0.08);
+    border: 1px solid rgba(255, 107, 53, 0.2);
     border-radius: 12px;
     padding: 16px 20px;
 }
@@ -67,7 +67,7 @@
 .disclaimer p {
     font-size: 0.95rem;
     line-height: 1.6;
-    color: rgba(255, 255, 255, 0.85);
+    color: #444;
     margin: 0 0 12px 0;
 }
 
@@ -79,11 +79,12 @@
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(0, 0, 0, 0.05);
     border-radius: 20px;
     padding: 8px 16px;
     margin-bottom: 12px;
     font-size: 0.9rem;
+    color: #333;
 }
 
 .betaTag {
@@ -104,8 +105,8 @@
 .roadmap li {
     padding: 8px 0;
     font-size: 0.95rem;
-    color: rgba(255, 255, 255, 0.8);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    color: #555;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .roadmap li:last-child {
@@ -124,7 +125,7 @@
 .footer {
     text-align: center;
     padding: 20px;
-    border-top: 1px solid rgba(255, 255, 255, 0.05);
-    color: rgba(255, 255, 255, 0.4);
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    color: rgba(0, 0, 0, 0.4);
     font-size: 0.8rem;
 }

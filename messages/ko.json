@@ -7,7 +7,7 @@
     },
     "chat": {
         "title": "🧠 FoundersBrain",
-        "subtitle": "YC Startup School 내용을 기반으로 답변합니다",
+        "subtitle": "핵심 강의 내용을 기반으로 답변합니다",
         "placeholder": "스타트업에 대해 무엇이든 물어보세요...",
         "send": "전송",
         "empty": "질문을 입력하거나 아래 예시를 클릭해보세요",

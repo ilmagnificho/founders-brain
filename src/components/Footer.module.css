@@ -1,50 +1,25 @@
+/* =============================================================================
+   Footer Component
+   ============================================================================= */
+
 .footer {
-    background: rgba(0, 0, 0, 0.2);
-    border-top: 1px solid rgba(255, 255, 255, 0.05);
-    padding: 16px 24px;
-    margin-top: auto;
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 8px;
-}
-
-.disclaimer {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    flex-wrap: wrap;
-    justify-content: center;
+    padding: 12px 20px;
+    text-align: center;
+    border-top: 1px solid var(--border-light);
+    background: var(--bg-secondary);
 }
 
 .text {
+    margin: 0;
     font-size: 0.75rem;
-    color: rgba(255, 255, 255, 0.4);
-}
-
-.separator {
-    color: rgba(255, 255, 255, 0.2);
-    font-size: 0.75rem;
+    color: var(--text-tertiary);
 }
 
 .link {
-    font-size: 0.75rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: var(--yc-orange);
     text-decoration: none;
-    transition: color 0.2s ease;
 }
 
 .link:hover {
-    color: #ff6b35;
     text-decoration: underline;
-}
-
-.copyright {
-    font-size: 0.7rem;
-    color: rgba(255, 255, 255, 0.3);
 }

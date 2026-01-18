@@ -3,9 +3,6 @@
 import { useState, useRef, useEffect } from "react";
 import { useTranslations } from "next-intl";
 import ChatMessage from "./ChatMessage";
-import TopicCarousel from "./TopicCarousel";
-import VideoLibrary from "./VideoLibrary";
-import Footer from "./Footer";
 import styles from "./Chat.module.css";
 
 // =============================================================================
@@ -27,35 +24,42 @@ interface Message {
     sources?: Source[];
 }
 
+interface ChatProps {
+    inputValue: string;
+    setInputValue: (value: string) => void;
+}
+
 // =============================================================================
 // Chat Component
 // =============================================================================
 
-export default function Chat() {
+export default function Chat({ inputValue, setInputValue }: ChatProps) {
     const t = useTranslations("chat");
     const [messages, setMessages] = useState<Message[]>([]);
-    const [input, setInput] = useState("");
     const [isLoading, setIsLoading] = useState(false);
     const messagesEndRef = useRef<HTMLDivElement>(null);
+    const lastUserMsgRef = useRef<HTMLDivElement>(null);
 
-    // Auto-scroll to bottom when new messages arrive
+    // Auto-scroll to show the user's question at top when new messages arrive
     useEffect(() => {
-        messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+        if (lastUserMsgRef.current) {
+            lastUserMsgRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
     }, [messages]);
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
 
-        if (!input.trim() || isLoading) return;
+        if (!inputValue.trim() || isLoading) return;
 
         const userMessage: Message = {
             id: Date.now().toString(),
             role: "user",
-            content: input.trim(),
+            content: inputValue.trim(),
         };
 
         setMessages((prev) => [...prev, userMessage]);
-        setInput("");
+        setInputValue("");
         setIsLoading(true);
 
         try {
@@ -99,26 +103,22 @@ export default function Chat() {
 
     return (
         <div className={styles.container}>
-            {/* Header */}
-            {/* Header */}
+            {/* Chat Header */}
             <div className={styles.header}>
-                <div className={styles.headerTitleGroup}>
-                    <div className={styles.titleRow}>
-                        <h2 className={styles.title}>{t("title")}</h2>
-                        <span className={styles.betaBadge}>Beta</span>
-                    </div>
+                <div className={styles.headerInfo}>
+                    <h2 className={styles.title}>{t("title")}</h2>
                     <p className={styles.subtitle}>{t("subtitle")}</p>
                 </div>
                 {messages.length > 0 && (
                     <button
                         onClick={() => {
                             setMessages([]);
-                            setInput("");
+                            setInputValue("");
                         }}
                         className={styles.resetButton}
-                        title="첫 화면으로 돌아가기"
+                        title="새 대화 시작"
                     >
-                        🔄 처음으로
+                        🔄 새 대화
                     </button>
                 )}
             </div>
@@ -127,17 +127,26 @@ export default function Chat() {
             <div className={styles.messages}>
                 {messages.length === 0 ? (
                     <div className={styles.empty}>
-                        <TopicCarousel onQuestionSelect={(q) => {
-                            setInput(q);
-                            // Optional: auto-submit or focus input?
-                            // For now, just set input so user can confirm/edit
-                        }} />
-                        <VideoLibrary />
+                        <div className={styles.emptyIcon}>💬</div>
+                        <h3 className={styles.emptyTitle}>궁금한 것을 물어보세요</h3>
+                        <p className={styles.emptyText}>
+                            왼쪽 토픽에서 주제를 선택하거나,<br />
+                            아래 입력창에 직접 질문을 입력하세요.
+                        </p>
                     </div>
                 ) : (
-                    messages.map((message) => (
-                        <ChatMessage key={message.id} message={message} />
-                    ))
+                    messages.map((message, index) => {
+                        const isLastUserMsg = message.role === "user" &&
+                            messages.slice(index + 1).every(m => m.role !== "user");
+                        return (
+                            <div
+                                key={message.id}
+                                ref={isLastUserMsg ? lastUserMsgRef : undefined}
+                            >
+                                <ChatMessage message={message} />
+                            </div>
+                        );
+                    })
                 )}
 
                 {isLoading && (
@@ -158,24 +167,20 @@ export default function Chat() {
             <form onSubmit={handleSubmit} className={styles.inputForm}>
                 <input
                     type="text"
-                    value={input}
-                    onChange={(e) => setInput(e.target.value)}
+                    value={inputValue}
+                    onChange={(e) => setInputValue(e.target.value)}
                     placeholder={t("placeholder")}
                     disabled={isLoading}
                     className={styles.input}
                 />
                 <button
                     type="submit"
-                    disabled={!input.trim() || isLoading}
+                    disabled={!inputValue.trim() || isLoading}
                     className={styles.sendButton}
                 >
                     {isLoading ? "..." : t("send")}
                 </button>
             </form>
-
-            {/* Footer */}
-            <Footer />
         </div>
     );
 }
-
