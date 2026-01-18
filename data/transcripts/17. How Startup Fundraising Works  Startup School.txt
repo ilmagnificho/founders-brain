@@ -1,0 +1,1630 @@
+---
+How Startup Fundraising Works  Startup School
+
+YC Group Partner Brad Flora has seen startup fundraising from every angle: as a founder, as one of the most prolific angel investors in Silicon Valley, and now as a YC Group Partner. Brad has coached hundreds of companies on fundraising. In this talk, he shares stories and advice on how modern startup fundraising works.
+---
+Intro
+0:01
+foreign
+0:03
+[Music]
+0:09
+I'm Brad Flora I'm a group partner here
+0:12
+at YC and I'm going to be talking about
+0:13
+how startup fundraising works today like
+0:16
+I said I'm a group partner at YC and
+0:18
+what that means is that I read
+0:20
+applications I interview the startups
+0:23
+that apply and then I work with them to
+0:25
+try to make something people want and
+Fundraising resources
+0:27
+one of the topics that people ask about
+0:29
+all the time at YC is fundraising in
+0:32
+fact it's probably the thing that we get
+0:34
+asked about more often than anything
+0:36
+else and the reason for that is because
+0:38
+as Paul Graham wrote years ago raising
+0:41
+money is the second hardest part of
+0:43
+starting a startup after making
+0:44
+something people want so let's take a
+0:46
+quick tour of all the awesome stuff that
+0:48
+YC's put out about fundraising over the
+0:49
+years first there's the Paul Graham
+0:51
+essays he wrote the fundraising Survival
+0:53
+Guide how to fund a startup how to
+0:56
+convince investors to invest in your
+0:58
+company and even wrote a great essay
+1:00
+about understanding investor herd
+1:02
+Dynamics all of the stuff's online you
+1:04
+can see the links below you should check
+1:06
+it out years later just a little bit ago
+1:08
+YC president Jeff Ralston posted a
+1:11
+terrific guide to raising a seed round
+1:12
+where he covers everything from start to
+1:14
+finish that you need to know the Nitty
+1:16
+Gritty on how to raise a seed round and
+1:19
+he gave a great video presentation at
+1:21
+startup School a few years ago where he
+1:22
+presented that material it's on YouTube
+1:24
+you should check it out it'll tell you
+1:26
+how to raise a seed round finally we've
+1:28
+posted a lot of tactical guides about
+1:30
+specific aspects of fundraising how to
+1:33
+build a seed deck how to pitch your
+1:35
+startup how to get meetings with
+1:37
+investors and how to raise money online
+1:39
+for startups using platforms like Angel
+1:41
+list we've even got something about the
+1:43
+different types of investors and their
+1:44
+incentives so if you really want to get
+1:46
+specific and drill into stuff there's
+1:48
+content for you that you can find what I
+1:50
+didn't want to do today is just rehash
+1:52
+all of that stuff because it's already
+1:53
+out there what I wanted to do instead is
+1:56
+talk about some of the misconceptions
+1:58
+and myths that we see as YC Partners
+2:01
+when we work with Founders Founders out
+2:04
+there are consuming all sorts of
+2:05
+information in the media and a lot of it
+2:07
+is about startup fundraising and there's
+2:10
+some things in there that just are not
+2:11
+true that we're going to talk about the
+7 fundraising myths
+2:13
+goal of this talk is to catch you up on
+2:15
+how fundraising actually works today and
+2:17
+we're going to do that by exploring
+2:19
+seven fundraising myths and for each one
+2:21
+of them we're going to talk about the
+2:23
+myth the reality behind the myth and
+2:25
+then look at some great YC companies
+2:27
+that bust that myth before we get
+2:29
+started just a little bit more about me
+2:31
+I'm a YC partner but I've also been on
+2:33
+both sides of the table as a founder and
+2:35
+an investor from 2008 to 2014 I was
+2:38
+building startups and the company that I
+2:40
+got the most success was perfect
+2:42
+audience which was an ad retargeting
+2:45
+startup for small businesses I took
+2:47
+perfect audience through the YC summer
+2:48
+11 batch 11 years ago and we raised a
+2:52
+million dollar seed round after demo day
+2:54
+I hired a bunch of great people we grew
+2:57
+to three million dollars in revenue and
+2:58
+we were acquired in 2014. after that
+3:00
+acquisition I got really into investing
+3:03
+in startups it started with Angel
+3:05
+Investing where I was writing just a few
+3:07
+checks five thousand dollars ten
+3:09
+thousand dollars into YC companies that
+3:12
+I thought sounded really cool at demo
+3:13
+day but I got hooked the thrill of going
+3:16
+and meeting Founders finding out what
+3:18
+their deal is trying to figure out are
+3:19
+they making something people want should
+3:21
+I invest was too much for me and
+3:23
+suddenly I was raising a fund with some
+3:25
+friends to scale up and invest in even
+3:27
+more YC companies and so through that
+3:29
+fund I invested in 150 YC companies and
+3:32
+the good news for my backers is that we
+3:34
+got into some great companies you may
+3:36
+have heard of a few of them deal open C
+3:39
+retool razor pay it was really awesome
+3:41
+to help those companies raise their
+3:42
+first round funding and it's been a lot
+3:45
+of fun being involved since eventually
+3:47
+though I joined YC as a group partner
+3:49
+and I get to do both sides I get act as
+3:52
+a Founder as a fellow peer to the YC
+3:54
+Founders and help them figure out how to
+3:55
+make something people want and then use
+3:57
+my investor experience to help them
+3:59
+figure out how to raise money so I've
+4:01
+got a good view of this I've been
+4:02
+involved in a lot of seed fundraising so
+4:04
+let's get started with these myths and
+Raising money is glamorous
+4:06
+for the first one I want to talk about
+4:07
+is this idea that raising money is
+4:11
+glamorous what's the image in your head
+4:13
+that you think of when you think of
+4:15
+startup fundraising for a lot of you it
+4:18
+might be something like this this is an
+4:20
+image of Shark Tank and it's a
+4:22
+television show where entrepreneurs they
+4:24
+dress up they make a sign they get a
+4:27
+bunch of materials and they pitch a
+4:29
+bunch of investors at once called sharks
+4:32
+and these are a bunch of people of
+4:34
+varying levels of investor expertise who
+4:36
+hear the pitch ask a bunch of uh nosy
+4:39
+kind of pushy questions and then fire
+4:41
+offers that the founder rapid fire and
+4:44
+so if you watch this you may be thinking
+4:45
+gosh I've gotta put a whole presentation
+4:48
+together like this and I'm gonna pitch a
+4:50
+bunch of people and they're going to ask
+4:51
+me all these tough questions and it's
+4:52
+going to be this high pressure situation
+4:54
+nation that I've got to figure out the
+4:56
+reality is that fundraising actually
+4:58
+looks like this this is a picture taken
+5:01
+in the creamery which is a now departed
+5:04
+Cafe in San Francisco notice what's
+5:06
+happening here it's just a bunch of
+5:08
+people sitting in chairs talking quietly
+5:11
+amongst themselves right it's just a
+5:13
+bunch of coffee chats that's how
+5:15
+fundraising actually looks that's what
+5:17
+it actually feels like is just sitting
+5:19
+in a cafe talking to someone Shark Tank
+5:21
+the pitch competitions the business plan
+5:23
+competitions they're just for show
+5:25
+they're marketing events for the
+5:27
+organizations that put them on and in
+5:29
+fact a lot of the investors at these
+5:31
+things they don't invest they're just
+5:33
+there to meet other investors and hang
+5:34
+out and even on Shark Tank I think Mark
+5:37
+Cuban recently said that even though
+5:38
+he's put 20 million dollars into these
+5:40
+companies he hasn't made a dime yet he's
+5:42
+still in the red actual fundraising is
+5:45
+just a bunch of one-on-one meetings on
+5:47
+Zoom over and over again while you try
+5:50
+to collect checks and convince investors
+5:52
+It's a Grind okay what you see here is a
+5:55
+diagram that was made by an actual YC
+5:57
+company called fresh paint that shows
+5:59
+what an actual round of fundraising
+6:01
+looked like for their startup you see at
+6:03
+the top the company in each one of these
+6:05
+circles and squares represents a
+6:07
+different investor that they met with
+6:08
+and when the boxes are connected it's
+6:10
+because that investor made an
+6:12
+introduction for them they met with 160
+6:14
+investors and 39 of them said yes which
+6:17
+is a very high conversion rate but the
+6:18
+check range was all over the place they
+6:20
+had people write 5K checks and people
+6:22
+write 200k checks all right not
+6:24
+everybody with some fancy VC they could
+6:26
+write a giant check and it took them
+6:28
+four months and 18 days to get through
+6:31
+all these meetings and close all these
+6:33
+deals and that was to raise 1.6 million
+6:36
+dollars fundraising was painful and it
+6:38
+was a grind but it was pretty
+6:39
+straightforward it was just a bunch of
+6:41
+conversations they've written a great
+6:43
+blog post that's where this image comes
+6:45
+from that you can check out should
+6:46
+definitely read it so great example of
+6:49
+what it's actually like to raise money
+The need to raise money before starting a startup
+6:51
+okay the next myth I want to talk about
+6:52
+is this idea that I need to raise money
+6:55
+before I can start working on my startup
+6:57
+all right we see this a lot with
+6:59
+Founders we meet people that have a big
+7:01
+idea which is great and the next thought
+7:04
+they have is well gosh I guess I need to
+7:06
+raise money so I can build my big idea
+7:08
+but that's not how the best Founders
+7:10
+actually think about fundraising the
+7:12
+best Founders they build the first
+7:14
+version of the product first even if
+7:16
+it's a simple almost toy-like version of
+7:20
+it and then they go get some users for
+7:22
+it and then only then when they see that
+7:24
+people are starting to use it and maybe
+7:26
+there's some value being created do they
+7:28
+start thinking about raising money and
+7:30
+the reason for this is that it's cheaper
+7:31
+than ever to build a prototype of a
+7:33
+product to build a first version okay
+7:35
+it's cheaper than ever to host a website
+7:37
+and and build software it gets easier
+7:39
+and easier and easier every year and
+7:42
+also it's easier than ever to find
+7:43
+potential users you can get users on
+7:46
+platforms like product hunt on Hacker
+7:48
+News you can find users on social media
+7:50
+Twitter LinkedIn everybody's on the
+7:53
+internet today and you can use that to
+7:55
+find early people to try out your
+7:57
+product and when you do this when you've
+7:59
+got a little bit of product just a
+8:00
+little bit and a few users for it it
+8:03
+immediately gives you a great deal of
+8:05
+Leverage all right you've gone from that
+8:08
+person waving the pitch deck around
+8:10
+trying to figure out how to find 20
+8:11
+million dollars to someone whose startup
+8:14
+is in motion and investors want to jump
+8:16
+on trains that are in motion here's an
+8:19
+example solugen is a YC company from the
+8:22
+winter 17 batch and they are a chemical
+8:24
+manufacturing startup they literally
+8:26
+make chemicals and sell them as you can
+8:29
+imagine that is a capital intensive
+8:31
+business it requires a lot of money to
+8:34
+build a facility that can make chemicals
+8:36
+and sell them at scale and a certain
+8:38
+type of founder that had this idea would
+8:41
+then make a pitch deck and go around
+8:43
+telling investors I need 10 million
+8:45
+dollars I need 20 million dollars to
+8:47
+build the menu manufacturing plant to
+8:49
+make these chemicals the solution folks
+8:51
+chose a different path which is first
+8:53
+they built a tiny version of their
+8:55
+reactor that fit on a desk but it worked
+8:57
+next they built a slightly larger
+9:00
+version of that that could actually make
+9:01
+enough hydrogen peroxide to sell and
+9:04
+they took that to YC when they applied
+9:06
+for the winter 17 batch and during the
+9:09
+batch they started making enough
+9:10
+hydrogen peroxide using this slightly
+9:12
+larger version of the machine that they
+9:15
+could go and sell it to First customers
+9:17
+turned out that hot tub supply stores
+9:21
+needed hydrogen peroxide to sell the
+9:24
+people that add hot tubs and so they
+9:26
+were making ten thousand dollars a month
+9:28
+selling hydrogen peroxide to hot tub
+9:30
+supply stores not a ton of money but
+9:32
+let's step back for a second if you were
+9:34
+an investor and you were trying to
+9:36
+invest in a chemical Manufacturing
+9:38
+Company who would you back the person
+9:40
+with the pitch deck asking for 20
+9:42
+million dollars or the people that have
+9:44
+built a first version of this even if
+9:46
+it's small and making small amounts of
+9:48
+the product and selling it to hot tub
+9:51
+supply stores which is hardly a huge
+9:53
+business but it's something
+9:55
+well investors clearly want the second
+9:57
+Solid Gym is able to raise four million
+9:59
+dollars for to get started on their
+10:01
+company because they'd already made some
+10:03
+progress and today they've since raised
+10:05
+400 million dollars and they've scaled
+10:08
+this up to having a full manufacturing
+My startup need to be impressive to raise money
+10:10
+plant let's talk about our next myth
+10:12
+this idea that my startup needs to be
+10:14
+impressive to raise money I've got to
+10:16
+impress people with my startup but my
+10:19
+startups startup is not very impressive
+10:20
+so how can I ever do this well the
+10:23
+reality is you don't need to impress
+10:24
+investors you need to convince them and
+10:28
+that's a slightly different thing see
+10:29
+most startups seem terrible at first and
+10:32
+in fact the best startups seem the most
+10:34
+terrible at first so let's take Airbnb
+10:38
+what was it it was a Marketplace for
+10:40
+renting an air mattress on someone's
+10:42
+floor
+10:43
+terrible idea doordash
+10:45
+food delivery for the suburbs where it
+10:48
+takes longer to get everywhere and no
+10:50
+one's ever started a delivery company
+10:51
+before
+10:52
+terrible idea open c a Marketplace for
+10:56
+selling Collectibles that only exist on
+10:58
+your computer and can only be paid for
+11:01
+with magical internet money what but
+11:04
+investors get this they know that your
+11:07
+startup is going to sound unimpressive
+11:08
+early on investors are pretty smart they
+11:10
+get it and in fact they get bored when
+11:12
+founders try to impress them okay really
+11:15
+try to win them over and sell to them it
+11:16
+bores them about 11 years ago and I did
+11:18
+YC I had a chance to have a five minute
+11:21
+meeting with Michael Moritz who at the
+11:23
+time and it was a partner at Sequoia
+11:25
+capital is legendary VC and I was so
+11:28
+excited for this meeting I made a fancy
+11:31
+deck I practiced all these lines I was
+11:33
+going to use on him to impress him and
+11:35
+conv and get him to invest in my startup
+11:37
+and I sat down with him and I opened my
+11:39
+laptop to get the slides out and he
+11:42
+stopped me and just said I prefer to
+11:44
+just talk about the business you're
+11:45
+building and I was completely disarmed
+11:47
+because I wasn't ready for that I was
+11:49
+ready to impress him not to try to just
+11:52
+talk about the business that I was
+11:53
+building and we see this similar
+11:55
+thinking with a lot of Founders at YC
+11:57
+where they come to us they don't
+11:59
+explicitly ask us this but they more or
+12:00
+less say Brad what are the magic words I
+12:03
+need to say to make investors want to
+12:05
+invest in my startup and the reality is
+12:07
+that it's not about magic words it's
+12:09
+about making something people want right
+12:11
+that YC Credo
+12:13
+it's about making a product getting it
+12:16
+into users hands and creating some value
+12:18
+for them and then just explaining how
+12:21
+there's a one percent chance even just a
+12:23
+one percent chance that it can get huge
+12:25
+and using plain simple language to do it
+12:28
+that's how you convince investors okay
+12:30
+if investors aren't investing it's not
+12:33
+because you didn't say the magic words
+12:34
+it's because your startup isn't good
+12:36
+enough and you need to make your startup
+12:38
+better and so have these conversate you
+12:40
+make your startup better and you just
+12:41
+explain it to people and talk about it
+12:43
+like a human and do it over and over and
+12:45
+over again because again startup
+12:48
+fundraising is a grind here's an example
+12:49
+of a company that did a great job
+12:51
+convincing investors when they met with
+12:53
+them this is retool and retool makes
+12:55
+software for building internal tools
+12:57
+it's a great company they raise their
+12:59
+seed round you see the founder David and
+13:01
+one of the CEO and co-founder by just
+13:03
+meeting a bunch of investors in coffee
+13:04
+shops in San Francisco I was lucky
+13:07
+enough to meet with David and he had no
+13:08
+DAC instead he just opened his laptop
+13:11
+and showed me the software on his
+13:13
+computer and he used that early kind of
+13:15
+crude version of retool to make a crude
+13:18
+but simple internal tool a little web
+13:21
+app in minutes
+13:22
+and then he talked about why his early
+13:24
+customers really liked it and we're
+13:26
+getting some value from it and just
+13:28
+seeing this seeing him show me the
+13:29
+product and talk about what his
+13:31
+customers were making of it put in my
+13:34
+head this idea that a lot of companies
+13:35
+probably are going to need this I was
+13:37
+convinced he didn't impress me he didn't
+13:39
+try to wow me he just showed me and
+13:42
+talked in a reasonable way about what he
+13:43
+was doing and that convinced me I wrote
+13:45
+a check and today that company is at a
+13:47
+four billion dollar valuation wasn't
+13:49
+about doing a fancy pitch but it wasn't
+13:51
+about magic words it was just about
+13:53
+making something and then talking about
+13:55
+it with me the next myth I want to talk
+Raising money is complicated, slow, and expensive.
+13:57
+about is that raising money is
+13:59
+complicated slow and expensive if you
+14:02
+read a lot about fundraising in the
+14:04
+Press
+14:04
+you might think that it involves raising
+14:08
+giant rounds from big name VCS why is
+14:11
+that well let's take a look at
+14:13
+yesterday's TechCrunch headlines about
+14:15
+fundraising we've got a story about
+14:17
+Shopify Mark Vision locket Sprague what
+14:20
+do we see folks what's the common uh
+14:22
+denominator here gigantic numbers and so
+14:26
+you're reading this at home and you're
+14:27
+just trying to think how can I raise
+14:29
+twenty five thousand dollars to quit my
+14:31
+job or spend more time on this or get a
+14:35
+Hosting account for the website that I
+14:36
+want to build you're not thinking about
+14:38
+a hundred million dollars gosh maybe
+14:40
+this isn't for you well the reality is
+14:42
+is that all the rounds you read about in
+14:43
+the news are series A's and growth
+14:45
+rounds you don't read much about the
+14:47
+actual you don't read anything about the
+14:48
+actual first rounds of funding that
+14:50
+companies raise why because it's boring
+14:52
+okay it's really boring we already
+14:55
+established that there's no glamor in
+14:57
+the actual early fundraising that
+14:58
+startups do so it never makes the press
+15:00
+these typical A and B rounds are huge
+15:02
+right you raise 10 to 50 million dollars
+15:04
+they take months to close and you pay
+15:07
+hundreds of thousands of dollars to
+15:08
+lawyers and legal fees to get these
+15:10
+rounds done the good news is like I said
+15:12
+that's not what a lot of these rounds
+15:13
+look like your typical seed round is
+15:16
+actually much smaller 500 000 maybe a
+15:19
+couple million dollars you can close it
+15:20
+in weeks if not days and there's no
+15:23
+legal fees and this is the same for if
+15:25
+you're trying to raise a precede or just
+15:27
+trying to raise fifty thousand dollars
+15:28
+from friends and family you can do that
+15:30
+quickly and there's no need to get
+15:32
+lawyers involved why is that well in
+15:35
+2013 YC created a new standard
+15:38
+fundraising document
+15:40
+called the safe the simple agreement for
+15:43
+Equity so initially this was made by YC
+15:46
+to be the new standard document that all
+15:50
+YC companies would use and it turned out
+15:52
+for fundraising and it turned out to be
+15:54
+so great that now every startup uses
+15:56
+this to raise their money the safes are
+15:58
+awesome first off it's easy to
+16:00
+understand it's only five pages long
+16:03
+uh it's really fast to close an
+16:05
+investment using a safe there's only a
+16:07
+couple terms to discuss the amount of
+16:09
+the investment the valuation cap of the
+16:11
+investment and then the discount and
+16:13
+guess what nobody does discounts so
+16:15
+there's only two terms that you really
+16:17
+need to discuss when closing a safe and
+16:19
+finally they're cheap you don't need
+16:21
+lawyers to send them also the safe is
+16:23
+just on the YC website if you Google why
+16:25
+combinator safe you can find the
+16:27
+document download it to your computer
+16:29
+and use it this afternoon to close an
+16:31
+investment in your startup how cool is
+16:33
+that safes are so simple that there's
+16:35
+even a website called clerky it's a YC
+16:37
+company from my batch summer 11 that
+16:39
+lets you send and sign them in just a
+16:41
+few clicks safes give Founders
+16:43
+fundraising superpowers and you don't
+16:46
+have to wait months for investors to get
+16:49
+organized and for lawyers to review
+16:51
+stuff founders today just take all the
+16:53
+meetings they sign a bunch of safe and
+16:55
+they raise Millions for their startup in
+16:57
+just a few clicks and this quick and
+16:59
+cheap fundraising gives them more
+17:01
+leverage than ever
+17:03
+when they're talking to investors here's
+17:05
+an example you could build your company
+17:06
+like Azure bio so this is a biotech
+17:09
+startup from the summer 19 match that's
+17:11
+developing cancer therapies again
+17:14
+Capital intensive business and the
+17:16
+typical first rounds of funding are tens
+17:18
+of millions of dollars for companies
+17:19
+like this and so Founders go they make a
+17:22
+pitch deck and they've got to go get
+17:23
+this money before they can start working
+17:25
+on the on the startup the founders of
+17:26
+Astra came into YC with just the idea
+17:28
+and they were able to raise the first
+17:31
+round of funding using safes quickly
+17:33
+from Angels this is pretty novel for a
+17:35
+biotech company and using that first
+17:37
+million or so that they raised they
+17:39
+could accelerate their progress they
+17:41
+could make more progress in the lab and
+17:43
+when they were ready to start talking to
+17:45
+larger investors in the Pharma space
+17:47
+about a proper round they've made a lot
+17:49
+more progress and they had more leverage
+17:51
+in talking to those investors they've
+17:53
+since raised over 150 million dollars
+17:55
+but that first million that they raised
+17:58
+in safes totally changed the power
+18:00
+dynamics for them when talking to
+18:01
+investors the safety change the game for
+I am going to lose control of my company
+18:04
+them related
+18:06
+myth is this idea and I hear this a lot
+18:08
+hey if I raise money I'm going to lose
+18:10
+control of my company
+18:12
+well the reality is that seed rounds
+18:15
+today give Founders more control than
+18:18
+ever okay Founders have had more can
+18:21
+have more control over their companies
+18:22
+today than ever in the history of
+18:25
+startups and why is this it's because
+18:27
+when you raise the safes you don't give
+18:28
+up any board seats all right there's
+18:30
+there's no board seat nonsense in safes
+18:32
+after you close the investment it's
+18:34
+still just you and your co-founders
+18:35
+calling the shots there's no
+18:37
+shareholders after you close money with
+18:39
+safes the investors on safes gets shares
+18:42
+in the next round okay so no Shares are
+18:45
+actually changing hands and there's no
+18:47
+information rights granted in safes so
+18:49
+there's nobody like requesting to look
+18:51
+into your books looking over your
+18:52
+shoulder you get to choose how and when
+18:55
+to update your investors when you raise
+18:56
+money with safes so again Founders
+18:58
+raising millions of dollars they're only
+19:00
+selling 10 to 20 percent of their
+19:01
+company and they're keeping total
+19:03
+control of the companies and when you do
+19:06
+that you can build the company the way
+19:08
+you want and Answer to No One except
+19:11
+your customers well pretty important but
+19:13
+instead of answering new investors you
+19:14
+answer to your customers when you raise
+19:16
+seed rounds today here's a great example
+19:18
+you could build your startup by zapier
+19:20
+they describe themselves as three dudes
+19:21
+from Missouri and zapier is software
+19:24
+that help you set up Integrations if
+19:27
+you've got one app that you use in
+19:28
+another app and you want them to talk to
+19:29
+each other you can use zapier to set
+19:31
+that up it's awesome they did the YC
+19:33
+summer 12 batch and they applied with an
+19:35
+early version of their software they had
+19:37
+a few customers and they raised over a
+19:39
+million dollars from angels and small
+19:40
+funds at demo day and because they did
+19:42
+that because they raised on safes and
+19:45
+they just raised a bunch of checks they
+19:47
+were able to run their company the way
+19:48
+they wanted and for them 10 years ago
+19:50
+that meant going fully remote 10 years
+19:53
+ago a decade before it was cool for
+19:55
+startups to do that it was pretty weird
+19:56
+at the time and they ran their company
+19:58
+the way they wanted to they spent the
+20:00
+next decade just delighting thousands
+20:02
+and thousands of customers and they also
+20:04
+made the decision to never raise money
+20:06
+again they never needed to so folks
+20:08
+thinking gosh if I raise money I'm
+20:10
+always going to be indebted to investors
+20:11
+yada yada no maybe later if you raise
+20:14
+these crazy priced rounds but for the
+20:16
+early money that you raised on safes you
+20:19
+have total control and you can be like
+20:21
+the zap your Founders and never raise
+20:23
+money again and today that's 100 million
+20:26
+dollar Revenue business and they only
+20:28
+raised money that one time now what
+20:30
+about bootstrapping you might be
+20:31
+thinking I should bootstrap my company
+20:33
+well everybody bootstraps it first
+20:34
+that's true but I want to tell you that
+20:36
+bootstrapping your company forever sucks
+20:39
+and here's why so first off when you
+20:41
+bootstrap forever and what I mean by
+20:43
+bootstrapping I mean
+20:45
+um funding the company out of the
+20:46
+revenue that you make from customers
+20:48
+it's scary all right you're always about
+20:51
+to shut down you're always about to run
+20:52
+out of money it's miserable because you
+20:54
+don't have any money to pay yourselves a
+20:56
+decent salary to live on it's
+20:58
+distracting you have to go into
+20:59
+Consulting in order to make the money
+21:02
+you need to keep working on your
+21:03
+products sometimes you have all these
+21:05
+detours when you're bootstrapping and
+21:07
+then finally the odds just aren't great
+21:08
+there are very few examples of 100
+21:11
+gigantic bootstrapped companies and I
+21:14
+think if it was the way to go there'd be
+21:16
+a lot more of those I actually want to
+21:17
+propose the definition of bootstrapping
+21:19
+so bootstrapping is taking the pain of
+21:22
+fundraising and stretching it out across
+21:25
+the entire life of your company why
+21:27
+would you want to do that I propose to
+21:29
+you that you should rip off the Band-Aid
+21:31
+and take the pain up front
+21:34
+and raise money for your company and
+21:36
+then you never have to raise money again
+21:38
+if you don't want to you can be like the
+21:40
+zap your Founders and besides at the end
+21:42
+of the day who's more in control of
+21:44
+their startup in the end is it the
+21:46
+bootstrapped founder who's always
+21:48
+worried about running out of money or
+21:50
+the founders that raise enough money to
+21:52
+get the company going after they've
+21:53
+built a product and gotten some users
+21:55
+and they can just make their customers
+21:57
+happy and they never have to raise again
+I need a fancy network to raise money
+21:58
+the next myth I want to talk about is
+22:00
+this idea that I need a fancy Network to
+22:02
+raise money the reality is that if you
+22:04
+are making something people want
+22:06
+investors don't care about where you
+22:08
+went to school where you worked who
+22:10
+you're friends with how old you are even
+22:12
+investors are human and sure they notice
+22:14
+pedigree but guess what folks investors
+22:17
+are coin operated lizard people and they
+22:21
+care a lot more about making money you
+22:24
+can build your company like Podium
+22:25
+Podium is a company that started off
+22:28
+making customer review management
+22:30
+software for tire shops all right if
+22:33
+you're a tire shop and you're worried
+22:35
+about what people are saying about you
+22:36
+on Yelp you might use Podium to keep
+22:38
+track of that the co-founders were two
+22:40
+guys from Utah they had no Silicon
+22:42
+Valley Network however they were really
+22:44
+good at sales and they came into YC they
+22:47
+were already making money and by the end
+22:49
+of the batch they were making tens of
+22:51
+thousands of dollars a month I actually
+22:52
+randomly bumped into them at an alumni
+22:55
+event during their batch and I was
+22:57
+stunned that there was a company selling
+22:58
+software to tire shops in y combinator
+23:01
+and even more stunned when I found out
+23:02
+how much money they were making
+23:03
+investors noticed that too that they'd
+23:05
+made something people want and they were
+23:07
+able to raise and now today that company
+23:09
+makes a hundred million dollars a year
+23:11
+and has raised more than 200 million
+23:13
+dollars these folks had no network these
+23:15
+are not fancy Founders they just made
+23:17
+something people want slight tangent
+23:18
+while we're on this topic
+23:20
+you'll probably run into people if
+23:22
+you're thinking about fundraising who
+23:24
+are going to offer to raise money for
+23:25
+you
+23:26
+I have the network I know investors let
+23:29
+me go in there and Pitch your company it
+23:30
+is not a good idea it's always best for
+23:33
+the founders to talk to investors
+23:34
+themselves it's an important
+23:36
+relationship and you want to own it so
+23:37
+if someone makes you that offer you
+23:39
+should get them to make an introduction
+23:40
+instead and then you can go take the
+23:42
+meeting all right the last myth I'm
+If investors reject my startup its a bad startup
+23:44
+going to talk about today is the myth
+23:46
+that if investors reject my startup that
+23:48
+means it's a bad startup the reality is
+23:50
+that no matter how great your product is
+23:52
+how much traction you have investors are
+23:55
+going to reject you and that's okay in
+23:58
+fact it puts you in great company right
+24:00
+here's a great example Envision so
+24:02
+Envision is a medical device startup for
+24:04
+cancer detection and it was started by
+24:07
+serbisarna who's a YC group partner
+24:09
+today when Serbia started building
+24:10
+Envision she had a devil of a Time
+24:13
+raising her first check she was rejected
+24:16
+more than 50 times by investors to just
+24:18
+get the first money for the company and
+24:20
+the way that she was able to convince
+24:22
+someone to write that first check and to
+24:24
+help her get this company started was
+24:26
+she she told them she was going to bet
+24:27
+on herself and take no salary for the
+24:30
+first two years if the investor was
+24:32
+willing to bet on them and that was for
+24:34
+a 25 000 check her first round of
+24:37
+funding for the company was only five
+24:38
+hundred thousand dollars but she got it
+24:40
+done and she got even though she got
+24:41
+rejected over and over again and since
+24:43
+then the company was acquired for 275
+24:46
+million dollars so here's this awesome
+24:48
+medical device company that sold for
+24:51
+hundreds of millions of dollars and yet
+24:53
+rejection after rejection after
+24:55
+rejection if you want to read more about
+24:57
+serbi's story she actually has an
+24:58
+awesome book coming out in the spring
+25:00
+and it's on Amazon right now and we'll
+25:02
+share the link with you in the chat if
+25:04
+you want to check it out and pre-order
+25:05
+it Serbia is awesome it's a privilege to
+25:07
+get to work with her and the book is
+25:09
+terrific one other example of this is
+25:12
+what not it's a Marketplace for
+25:14
+Collectibles they were in the winter 20
+25:16
+batch and they came in with a beta
+25:18
+product but no users they hadn't
+25:19
+launched yet and during the batch they
+25:21
+got started and it was just initially a
+25:24
+Marketplace for selling funko pop toys
+25:26
+toys with the big heads during the batch
+25:28
+they got some early traction they
+25:31
+started making some money they got in
+25:32
+some buyers they got in some sellers
+25:34
+Revenue was going up sales were going up
+25:36
+things were looking good right but
+25:38
+investors hated it and they only raised
+25:42
+a fraction of the amount of money that
+25:44
+they were hoping to raise for their seed
+25:46
+round and the amazing thing is is that
+25:48
+today what not just two and a half years
+25:50
+later is worth 3.7 billion dollars and
+25:54
+they've raised over 400 million dollars
+25:56
+and just two and a half years ago they
+25:58
+couldn't pay people to invest in their
+26:00
+company at a fraction of that valuation
+26:02
+everyone gets rejected it's just part of
+26:04
+it even if you're building a four
+26:06
+billion dollar company people are
+26:08
+getting rejected and the thing is the
+26:10
+founders were not really that bummed out
+26:11
+about it because they had already done
+26:13
+that work of convincing themselves that
+26:15
+what they were building was working and
+26:17
+was going to work investors just weren't
+26:19
+seeing it yet some did enough did but
+26:22
+they still faced a ton of rejection you
+26:24
+don't need every investor to like what
+26:25
+you're building you just need a few of
+26:28
+them to believe and the good news is
+26:30
+that today there's more investors than
+26:32
+ever with more money than ever looking
+26:34
+to invest in startups all right let's
+Wrap up - This isn't for you
+26:36
+step back for a second and wrap this up
+26:38
+there's a common theme to these myths
+26:40
+that we talked about the idea that
+26:42
+organizes all of these is the big myth
+26:45
+which is this
+26:46
+this isn't for you these ideas that are
+26:49
+out there these misconceptions the
+26:50
+founders have they add up to people
+26:52
+thinking gosh maybe this isn't for me
+26:54
+maybe I shouldn't start my startup
+26:56
+because I don't know how to do this
+26:58
+stuff I don't have a fancy Network I I
+27:00
+don't know all these people I don't know
+27:01
+how to pitch I don't know how to impress
+27:03
+people but the reality is you can do
+27:05
+this fundraising is just a bunch of
+27:07
+coffee chats and zoom calls you
+27:10
+you don't need to raise money to get
+27:12
+started you can just start working on
+27:13
+your startup you don't need permission
+27:14
+from investors you don't need an
+27:16
+intricate pitch you just need to make
+27:18
+something people want and be able to
+27:20
+talk about it like a normal human you do
+27:22
+that every day with your friends and
+27:23
+family using safes it's easier than ever
+27:25
+for you to go raise the money that you
+27:27
+need without lawyers and quickly and the
+27:29
+terms you're going to get today mean
+27:31
+that you can run your company exactly
+27:33
+how you want there's not some secret
+27:35
+special way that you have to run your
+27:36
+startup you can call the shots you don't
+27:39
+need a big Network and fancy connections
+27:40
+to raise money and finally the rejection
+27:43
+that you're going to experience doesn't
+27:45
+mean anything it's just part of the
+27:47
+process it turns out there's never been
+27:49
+a better time in the history of the
+27:51
+world to raise money than now so if
+27:53
+you're thinking of doing a startup
+27:55
+get building you can do this you can do
+27:58
+all of this you can do this
+28:01
+[Music]

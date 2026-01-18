@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Korean Homepage -->
+  <url>
+    <loc>https://foundersbrain.ai/ko</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://foundersbrain.ai/ko"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foundersbrain.ai/en"/>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- English Homepage -->
+  <url>
+    <loc>https://foundersbrain.ai/en</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://foundersbrain.ai/ko"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foundersbrain.ai/en"/>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Page (Korean) -->
+  <url>
+    <loc>https://foundersbrain.ai/ko/about</loc>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- About Page (English) -->
+  <url>
+    <loc>https://foundersbrain.ai/en/about</loc>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

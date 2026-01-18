@@ -1,0 +1,905 @@
+---
+How to Build An MVP  Startup School
+
+Y Combinator Group Partner, Michael Seibel, explains how to build a minimum viable product (MVP) for your startup idea. Using examples from real YC companies, Michael walks through how to determine your MVP feature set, build prototypes and demos for user testing, and present your MVP to early customers or investors.
+---
+How to Build an Minimum Viable Product (MVP)?
+0:01
+[Music]
+0:08
+all right uh today I'd like to talk to
+0:11
+you about how to build an MVP or a
+0:15
+minimum viable product so if you haven't
+0:18
+seen this before this is a meme that we
+0:21
+love to talk about when trying to help
+0:24
+founders with their MVP it's called the
+0:26
+midwit meme the person who is the Jedi
+0:29
+these super intelligent the founder
+0:32
+who's doing all the best things and
+0:33
+knows all the best things and the idiot
+0:35
+the first time founder the founder who
+0:38
+has no idea what's going on many times
+0:40
+these two Founders will actually come to
+0:43
+the right decision before the founder
+0:46
+who is really smart and is trying to
+0:48
+work really hard and do everything right
+0:50
+and so in this situation with the MVP
+0:53
+the best advice is to actually
+0:57
+launch something quickly
+0:59
+and iterate get a product into the hands
+1:02
+of your customers
+1:03
+and then learn whether it helps them or
+1:05
+doesn't and then iterate it improve it
+1:07
+over time the wrong answer is to do 100
+1:11
+surveys and 600 user interviews and
+1:14
+contact every single one of the
+1:16
+competitors and spend you know a year
+1:18
+fundraising and hire 100 people and you
+1:22
+know all these other things that you can
+1:24
+distract yourself with that it might
+1:27
+appear like other smart things
+1:28
+but in reality they really don't
+1:32
+highlight the most important point about
+1:34
+an MVP which is you'd only really start
+1:37
+learning about your user when you put a
+1:39
+product in front of it that doesn't mean
+1:40
+that the thing you build in RVP is going
+1:42
+to work right it's probably not going to
+1:44
+work it's just the best way to start the
+1:46
+conversation with the user and how you
+1:48
+can solve their problems so to summarize
+Pre-launch Startup Goals
+1:50
+that point
+1:51
+the goal that you should have as an
+1:54
+early stage founder is you should be
+1:55
+getting a product out into the world
+1:57
+quickly minimum viable product second
+2:00
+you should be talking to some initial
+2:03
+customers and trying to figure out what
+2:05
+you can do to make that product useful
+2:07
+for them you should care
+2:10
+about how to help them accomplish their
+2:12
+goals and you should try to figure out
+2:14
+how can I change and iterate my product
+2:17
+so that it actually helps them
+2:18
+accomplish those goals and then rinse
+2:21
+and repeat talk to more users iterate
+2:24
+your product talk to more users iterate
+2:26
+your product more often than not after
+2:28
+three four five six iterations your VP
+2:31
+is going to be very different you have
+2:33
+learned so much but by having that
+2:36
+conversation with users and by letting
+2:38
+them see your product evolve you can
+2:40
+actually make them more excited more
+2:42
+likely to use your product more likely
+2:43
+to pay for your product and you can
+2:46
+learn 10 times more than just talking
+2:48
+your co-founders or thinking about in
+2:51
+your head so the challenge today is that
+2:54
+a lot of people are knocking MVPs a lot
+2:57
+of people are talking about minimum
+2:59
+lovable products or minimum useful
+3:02
+products and honestly a lot of Founders
+3:04
+actually just want to build you know God
+3:07
+level products you know the Steve Jobs
+3:09
+level make the iPhone and change the
+3:12
+world there's this misconception that
+3:15
+starting with something small that might
+3:17
+not work very well is a bad idea there
+3:20
+are a lot of people who worry that if
+3:22
+you start with something small and you
+3:24
+give it to a customer and the customer
+3:25
+doesn't like the product you'll never be
+3:27
+able to talk to them again what I will
+3:28
+tell you is this in most cases the
+3:31
+people who are interested in talking to
+3:32
+a startup are early adopters they're
+3:35
+used to using products that don't work
+3:38
+very well
+3:39
+and the reason why they're talking to
+3:41
+you is not because they think your
+3:42
+product's going to work great it's
+3:44
+because they have a real problem and
+3:46
+they're open to using new software so
+3:49
+you don't have to worry about losing
+3:52
+these people these are the kind of
+3:53
+people who try new products all the time
+3:55
+these are the kinds of people if you
+3:57
+tell them hey look I can't promise it's
+3:58
+going to work perfectly from day one but
+4:02
+if you keep working with me we'll make
+4:03
+it better and make it better and I'll
+4:04
+make sure it works for you over time
+4:06
+these are the kinds people respond to
+4:08
+that pitch it turns out the people who
+4:10
+will run away after seeing your product
+4:12
+break and never use you again they're
+4:14
+never going to try your product in the
+4:15
+first place they're not early adopters
+4:17
+they don't use new software so you don't
+4:20
+have to worry about losing those people
+4:22
+because you never had them you're not
+4:24
+going to get them to get started now one
+Founders Biggest Fear
+4:27
+of the things we have to work on at YC a
+4:29
+lot is fear and this is the biggest fear
+4:33
+that Founders have it's a non-specific
+4:35
+fear of oh my God if I give people my
+4:38
+product and they don't like it boom my
+4:41
+company dies and it's always like
+4:42
+hilarious because when we think about
+4:44
+this it's like well your company doesn't
+4:46
+actually die right like it doesn't die
+4:48
+tomorrow it's not like game over you
+4:50
+haven't run out of money all your
+4:51
+co-founders are gonna quit whenever we
+4:53
+encounter these Fierce scenarios we like
+4:56
+to dig in and kind of ask like well what
+4:58
+would actually happen like imagine the
+5:00
+worst case scenario you do talk to a
+5:01
+customer you do demo your product it
+5:03
+doesn't work they don't want to use it
+5:06
+you wake up the next day is anything
+5:09
+that different can't you reach out to
+5:10
+someone else can't you reach back out to
+5:13
+that customer who you demo to a week
+5:14
+later when you've made the product
+5:15
+better is your startup actually dead
+5:18
+more often than not when you have this
+5:21
+fear what you should be doing is kind of
+5:23
+leaning into it and asking yourself is
+5:24
+this fear real is my company actually
+5:26
+going to die if this scary thing happens
+5:28
+and it's not bad to feel the fear but it
+5:32
+is bad to act on it it is bad to spend
+5:34
+one year building your MVP because
+5:36
+you're afraid the first customer might
+5:38
+not like it now there's another group of
+5:40
+folks who thinks
+5:42
+I know what the perfect product is and I
+5:45
+know it's going to take a year to build
+5:46
+why would I build shitty versions of it
+5:49
+I like to call these folks fake Steve
+5:52
+Jobs and it's really a massive
+5:55
+misconception of what great product
+5:57
+people do a lot of people thought of
+6:00
+Steve Jobs as the kind of person who
+6:01
+could just imagine great products in his
+6:03
+mind and then bring them out into the
+6:05
+world but what's funny is that most of
+6:08
+the time when people think about the
+6:10
+products that Steve Jobs is most known
+6:12
+for let's say the iPod and let's say the
+6:15
+iPhone people don't take enough time to
+6:17
+look
+6:18
+at all of the different iterations of
+6:20
+those products over time often when
+6:22
+someone tells me like oh well you know
+6:23
+Steve Jobs released an amazing phone
+6:25
+first time I say well do you remember
+6:27
+that the iPhone started without an app
+6:28
+store do you remember you couldn't take
+6:30
+video with the first iPhone do you
+6:32
+remember the first iPhone only had 2G
+6:34
+and not 3G so it really really really
+6:37
+bad internet like most people don't
+6:39
+remember that most people the iPhone
+6:41
+that they actually think of as an iPhone
+6:43
+was like the third or fourth iteration
+6:46
+of the iPhone the first version of the
+6:47
+iPod had like an actual physical
+6:49
+scrolling device where like Sam would
+6:51
+get stuck into it and it would break all
+6:53
+the time even the great Steve Jobs
+6:56
+iterated his products over time so if
+7:00
+you find yourself being a fake Steve
+7:02
+Jobs thinking I know exactly what the
+7:04
+customer needs I just needs to raise 10
+7:07
+million dollars and spend a year
+7:08
+building it and then launch it think
+7:09
+again right like if Steve Jobs needed
+7:12
+multiple tries to get his products right
+7:15
+maybe you need to as well next let's
+Examples - Software MVP
+7:17
+look at some examples and in all these
+7:19
+examples you're going to see three
+7:21
+pretty simple points first
+7:24
+all of these products were fast to build
+7:27
+they could get out of the market quickly
+7:29
+second they all had very limited
+7:32
+functionality the third and
+7:34
+interestingly enough all these products
+7:36
+appealed to a small set of users these
+7:39
+Founders realized that just making
+7:40
+something that is smog for people's
+7:42
+loved was far more important than making
+7:44
+something that could address all the
+7:45
+needs of all potential customers from
+7:47
+day one so here's what the first version
+Airbnb
+7:49
+of Airbnb looked like and if you were a
+7:52
+user when Airbnb first launched here are
+7:55
+some of the fun things that you didn't
+7:58
+get to experience
+7:59
+there were no payments if you found a
+8:01
+place on Airbnb you couldn't pay for it
+8:04
+there you had to arrange for payment
+8:05
+some other way
+8:07
+there was no map view so there was no
+8:10
+way for you to actually see where the
+8:12
+places were in the city that's a pretty
+8:14
+basic one
+8:15
+three even more funny you had to stay on
+8:19
+an air bed like you couldn't rent out
+8:20
+your whole house you couldn't rent out a
+8:22
+room in your house then fourth the first
+8:24
+version of Airbnb only worked for
+8:26
+conferences they would literally spin it
+8:28
+up in a city when there was a conference
+8:30
+when the conference was over they'd spin
+8:32
+it down that was Airbnb to start that
+8:35
+was the MVP here's a second example this
+Twitch
+8:37
+one's my company twitch twitch started
+8:40
+as a site named Justin TV where my
+8:42
+co-founder Justin had a camera on his
+8:44
+head the broadcast 24 7. in the first
+8:47
+version of twitch there was only one
+8:49
+page the page that you're seeing here
+8:52
+there's only one streamer
+8:54
+his name is Justin there's no video
+8:57
+games except for like we randomly would
+8:59
+play video games sometimes like uh
+9:01
+Guitar Hero or something like that
+9:03
+and streaming was ridiculously expensive
+9:06
+we were paying a CDN we hadn't built our
+9:08
+video system yet but this was the first
+9:10
+version of our product now when you go
+9:12
+to Twitch it's completely different but
+9:14
+this is where it started finally we have
+Stripe
+9:16
+stripe this was the first version of
+9:18
+stripe back then it didn't even have the
+9:20
+name stripe it was called slash depth
+9:22
+payments back then they had no fancy
+9:24
+Bank deal they were working with a tiny
+9:26
+Bank there was literally no direct apis
+9:30
+with that bank for setting up accounts
+9:32
+so they'd have to call the bank and
+9:34
+every night file manual paperwork for
+9:36
+you to get your account set up
+9:38
+and there are almost no features in
+9:40
+their API
+9:42
+the first version of stripe was so basic
+9:44
+that even us back in the day at twitch
+9:47
+couldn't use it because didn't have
+9:49
+enough features but the folks who could
+9:51
+use it were early stage YC startups who
+9:54
+all they wanted to do was accept simple
+9:56
+credit card payments from their
+9:57
+customers that's all stripe did in the
+9:59
+beginning and that was more than enough
+10:01
+to get started so you might ask yourself
+10:03
+who are these people who actually want
+10:06
+to use crappy MVPs you're telling us
+10:09
+that they're going to be built fast
+10:11
+they're going to probably not work that
+10:12
+well and we're gonna have to iterate the
+10:14
+hell out of them in order to actually
+10:15
+make them good who are these early
+10:18
+adopters who'd want to go through that
+10:19
+experience there's this fun analogy that
+10:22
+I was told as an early stage founder it
+10:24
+was you want to build your first version
+10:26
+for customers who have their hair on
+10:28
+fire and it never quite understood what
+10:30
+that meant I mean like it makes sense I
+10:32
+guess but I always find it more useful
+10:34
+when I attached a story to it so imagine
+Solving Hair On Fire Problem
+10:37
+that you are a person
+10:39
+and your hair is on fire right now as
+10:43
+you're watching this now imagine if I
+10:44
+was sitting in the room next to you what
+10:46
+is the thing that you wish I could sell
+10:49
+you to solve this problem your hair is
+10:52
+currently on fire probably most of you
+10:54
+will think some version of a bucket of
+10:56
+water
+10:57
+hose some kind of water thing now that
+11:01
+is a great product that's like the
+11:03
+iPhone today that would solve your
+11:04
+product immediately I don't have that
+11:07
+I'm a Founder I've got an MVP what I'm
+11:10
+selling is a brick now what would you do
+11:13
+if I was selling you a brick now some of
+11:16
+you are like well I would you know I
+11:18
+would leave the room like I couldn't use
+11:19
+a brick your hair's on fire you
+11:23
+would buy that brick and you would
+11:25
+hit yourself on the head with the brick
+11:27
+to smother the fire that's an MVP it's
+11:32
+not the perfect solution but you are in
+11:35
+so much pain as a customer you will use
+11:37
+a non-perfect solution to solve your
+11:40
+problem that's the customer you should
+11:42
+be going after for customers who are not
+11:44
+desperate you can wait you don't have to
+11:47
+go after them now
+11:48
+just go after the desperate ones first
+11:50
+don't make your life a lot easier now I
+11:52
+know some of you
+11:54
+um especially those who've gone to
+11:55
+business school I know a lot of you have
+11:57
+said I can skip this step
+11:59
+instead of building an MVP iterating
+12:03
+iterating why don't I just survey my
+12:06
+users why don't I just talk to 100 users
+12:09
+and they'll tell me what to build I wish
+12:11
+this was the case I wish that users
+12:14
+could just tell you what to build and
+12:17
+then if you built those things you'd win
+12:19
+in fact I think every business wished
+12:21
+that was the case here's the problem
+12:23
+your customers are experts in their
+12:26
+problem but they actually don't have all
+12:29
+of the answers at how to solve their
+12:31
+problem
+12:32
+that's your job that's the job of the
+12:34
+person who's building a new product
+12:35
+surveys might help you understand the
+12:39
+pain that your customer is going through
+12:40
+but they will never help you figure out
+12:43
+how to solve that pain the only time
+12:46
+that you start having that conversation
+12:48
+with the customer is when you can put a
+12:50
+product in front of them
+12:52
+preferably a crappy MVP and start saying
+12:55
+does this solve your problem I haven't
+12:58
+really seen a shortcut to this step I
+13:02
+haven't seen a shortcut of building
+13:03
+something
+13:04
+pretty fast that's pretty crappy to get
+13:08
+started and even for larger companies
+13:10
+even for enterprise software companies
+13:12
+if you go back in time the first
+13:14
+versions of their product they were not
+13:16
+perfect they were far from it they were
+13:19
+the minimum that those customers were
+13:21
+willing to use so across the entire
+13:24
+board you gotta start with the minimum
+13:26
+viable product I think one of the most
+13:28
+important points that I want to leave
+13:30
+you with is that you don't start your
+13:33
+startup with all the answers
+13:35
+building a startup especially the first
+13:38
+phase of building a startup pre-product
+13:39
+Market fit is all about learning it's
+13:43
+all about taking some of the insights
+13:44
+that you start with bringing them to the
+13:47
+market and learning most of the
+13:50
+solutions most of the best parts of
+13:53
+product to use today were discovered
+13:55
+after those products were launched when
+13:57
+those Founders were learning from their
+13:59
+users and building and launching MVP is
+14:02
+the fastest way to start the process of
+14:04
+learning
+14:05
+and the faster you learn the more likely
+14:08
+you are to build something that people
+14:09
+love before anyone else
+Build an MVP Quickly
+14:12
+so let's say I've convinced you that now
+14:15
+you actually want to build an MVP
+14:17
+how do you make sure you do it quickly
+14:19
+here are some tricks one
+14:22
+give yourself a very specific deadline
+14:26
+it's a lot easier to make sure that
+14:29
+you're building something that's the
+14:30
+minimum viable product if you give
+14:31
+yourself two weeks or a month or a month
+14:34
+and a half to complete it versus if you
+14:37
+don't give yourself a deadline second
+14:40
+write down your spec if you think that
+14:43
+there are five or ten features required
+14:46
+in order to launch an MVP write them all
+14:50
+down
+14:51
+don't put yourself in the position we
+14:54
+are constantly trying to figure out
+14:56
+should we have that feature should we
+14:57
+not have that feature I don't remember
+14:59
+the feature we talked about the other
+15:00
+day how should it look how should it
+15:03
+work if you write it down then you can
+15:05
+just focus on building instead of
+15:07
+continuously debating what should be
+15:08
+built number three cut that's back after
+15:11
+you write all that stuff down go through
+15:13
+each one of those items and ask yourself
+15:15
+there's a truly desperate customer need
+15:17
+that feature to start
+15:19
+you're probably surprised at how many
+15:21
+features you can leave off for the
+15:22
+second third or fourth version of your
+15:24
+product
+15:25
+and just get the basic stuff out first
+15:27
+and then number four and most important
+15:31
+don't fall in love with your MVP
+15:34
+It's Gonna Change you're going to
+15:36
+iterate it it's going to get very very
+15:38
+very different over time you want to do
+15:41
+it fast and you don't want to fall in
+15:42
+love with it you want to fall in love
+15:44
+with your customer with your user not in
+15:46
+love with the crappy initial product
+15:48
+that you're building to start learning
+15:50
+from that user all right so hopefully
+Outro
+15:53
+you don't need any more convincing you
+15:56
+understand that the simplest and easiest
+15:58
+path
+15:59
+and the smartest and most Jedi path is
+16:02
+to build and launch your product and
+16:04
+then iterate it and so I wish you all a
+16:07
+lot of good luck and while you're
+16:09
+building remember one thing it's far
+16:11
+better to have a hundred people love
+16:13
+your product
+16:15
+than a hundred thousand who kind of like
+16:17
+it so when you're releasing that mvp
+16:20
+it's totally okay to do things that
+16:22
+don't scale and recruit those initial
+16:24
+customers one at a time
+16:27
+if you care about those customers I
+16:29
+promise you they will talk to you that
+16:32
+you can work with them and you can help
+16:34
+them figure out how to solve their
+16:35
+problems and as a result help figure out
+16:38
+how to build a great product for them
+16:39
+thank you very much and good luck
+16:42
+foreign
+16:44
+[Music]

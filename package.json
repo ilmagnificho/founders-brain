@@ -1,0 +1,36 @@
+{
+  "name": "founders-brain",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "ingest": "tsx scripts/ingest_yc.ts",
+    "ingest:test": "tsx scripts/ingest_yc.ts --test",
+    "ingest:files": "tsx scripts/ingest_files.ts",
+    "convert": "tsx scripts/convert_txt.ts"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@supabase/supabase-js": "^2.47.0",
+    "next": "14.2.21",
+    "next-intl": "^3.25.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "dotenv": "^16.4.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.21",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

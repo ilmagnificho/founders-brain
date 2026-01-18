@@ -1,0 +1,1133 @@
+---
+video_id: Fk9BCr5pLTU
+
+How To Find A Co-Founder  Startup School
+
+Building a startup and trying to break into an established market is very difficult, especially if you’re trying to do it alone! That’s why it’s critical to find the right co-founder for the journey. In this episode of Startup School, YC Group Partner Harj Taggar explains why you need a co-founder, when to bring them on, where you can find one and how to maintain the relationship.
+---
+Intro
+0:01
+[Music]
+0:09
+hey everyone I'm Harge tagger I'm one of
+0:11
+the group Partners here at y Comin and
+0:13
+today I'm going to talk about
+0:14
+co-founders uh we're going to cover why
+0:18
+do you even need a co-founder um when's
+0:20
+the right time to bring on a co-founder
+0:23
+and where can you find them let's start
+0:25
+with talking about why should you have a
+0:26
+co-founder at all I think there are
+0:28
+three reasons the first building a
+0:31
+successful startup is an incredibly hard
+0:33
+thing to do and there is a huge amount
+0:35
+of work to be done right like you're
+0:37
+trying to take your idea make it a
+0:39
+reality and compete with companies that
+0:42
+have hundreds of employees and have been
+0:43
+around for many many years and you
+0:47
+really can't do that alone like you need
+0:49
+someone else there who at a basic level
+0:53
+can just get more work done with you
+0:55
+right two people is more working hours
+0:57
+per day than one but also having a good
+1:00
+co-founder improves the quality of your
+1:02
+work so if you have a co-founder with
+1:04
+complimentary skill sets they can do
+1:06
+things that you can't right if you have
+1:08
+a co-founder um who's smart they can
+1:11
+challenge your ideas they can talk you
+1:13
+out of bad ones and help you find good
+1:15
+ones that's why it's really important to
+1:17
+have a a co-founder just so that you can
+1:20
+get good high quality work done at the
+1:23
+rate you need to be successful the
+1:24
+second reason startups are a real
+1:26
+emotional roller coaster you have
+1:28
+moments where you think you're going to
+1:29
+take over the world and moments where
+1:31
+you're convinced you're about to die and
+1:33
+having a great co-founding relationship
+1:35
+can be a huge source of support in a way
+1:38
+that no one else can right because your
+1:41
+co-founder ideally should be someone
+1:43
+who's all in on the startup in the same
+1:45
+way that you are and when you're having
+1:46
+bad moments they can bring you up and
+1:48
+you can do the same for them and that's
+1:50
+an important reason why you can't just
+1:52
+of hire people or have people join your
+1:54
+startup once it's already successful to
+1:56
+get the the true benefits of co-founders
+2:00
+you need someone who's all in and
+2:01
+invested in the same way you are and the
+2:03
+final reason is simply patent matching
+2:06
+if you look at the most successful
+2:07
+startups in history they all had
+2:09
+co-founding teams and we don't always
+2:12
+realize this because once a startup
+2:13
+becomes successful it's common for some
+2:16
+Founders to leave and one founder
+2:18
+especially the CEO to become well-known
+2:21
+uh famous and associate with the startup
+2:23
+right if we go through some examples
+2:26
+Facebook one of the biggest companies in
+2:27
+the world is really now known as Mark
+2:29
+Zuckerberg's company but he actually
+2:31
+co-founded it with Dustin moskovitz if
+2:33
+you think of Apple it's of course known
+2:35
+as Steve Jobs company and very rightly
+2:37
+so but Steve Jobs literally couldn't
+2:40
+have built the first Apple computer if
+2:42
+he didn't have Steve wnc as his
+2:44
+co-founder so hopefully I've convinced
+2:45
+you that you really want a co-founder to
+2:47
+improve your odds of success if you want
+2:49
+to start a startup but let's say you
+2:53
+feel ready to go now uh and you really
+Should you start a company without a co-founder?
+2:55
+want to start the company but you don't
+2:57
+have a great co-founder in mind yet
+2:59
+should you start the company anyway or
+3:01
+should you wait until you have a
+3:02
+co-founder I think again in 90% of the
+3:05
+cases you should really spend all of
+3:07
+your efforts and trying to find a great
+3:08
+co-founder to start a company with but I
+3:11
+do think in 10% of the cases there's
+3:13
+some exceptions I think the biggest
+3:14
+exception is if you meet two conditions
+3:17
+one you have a very specific idea you
+3:19
+want to work on that you're very
+3:21
+passionate about and you have some
+3:23
+domain experience that makes you really
+3:26
+uniquely qualified to work on that idea
+3:28
+set another way if you have an idea that
+3:31
+you have really high conviction about
+3:33
+that solving a real problem because
+3:35
+you've got some experience that makes
+3:38
+you an expert on the problem and you're
+3:42
+an engineer and you can start building
+3:43
+it you can make progress without
+3:45
+requiring a technal co-founder then I
+3:48
+think it's fair for you to get going
+3:50
+start the company build the first
+3:51
+version of the product and bring a
+3:54
+co-founder on as you start making some
+3:56
+progress and traction if you're not an
+3:58
+engineer I don't think you can do this
+4:00
+and I think you should really focus your
+4:01
+time on trying to find a great technical
+4:04
+co-founder um to start the company with
+4:07
+okay so let me give you an example of
+4:09
+when YC combinator funded a single
+4:11
+founder that worked out really well it
+4:12
+was Drew hon the founder of Dropbox so
+4:15
+Drew applied to YC as a single founder
+4:18
+and he was actually initially rejected
+4:19
+and told to go get a co-founder so he
+4:23
+did bring on a co-founder a great
+4:24
+co-founder a rash but Drew kept making
+4:27
+progress on Dropbox anyway he would both
+4:29
+both build the product again make
+4:32
+progress on the MVP while also looking
+4:34
+in the background for a co-founder and
+4:36
+he found a great one so let's talk about
+4:38
+what should you look for in a potential
+What should you look for in a potential co-founder?
+4:40
+co-founder I'm going to start by giving
+4:41
+you a bit of meta advice here the thing
+4:43
+that's most important about your
+4:46
+co-founder is that they can handle
+4:48
+stress well because there's going to be
+4:50
+lots of stress as you start and work on
+4:52
+your startup journey and even if they
+4:54
+have the perfect set of complimentary
+4:56
+skills if they don't handle stress well
+4:59
+or don't help each other handle stress
+5:01
+well it's very unlikely your
+5:03
+relationship is going to last the stress
+5:05
+and rigors of founding a company and
+5:08
+this is why failed co-founder
+5:09
+relationships is really the number one
+5:11
+reason we see startups fail here at wcom
+5:15
+so how do you know if someone can handle
+5:16
+stress well or not well the best way is
+5:19
+to have worked with them under stress
+5:21
+previously right counterintuitively this
+5:24
+is one reason why often starting a
+5:26
+company with a friend or a former work
+5:30
+isn't always guaranteed to work out
+5:32
+because maybe you never worked under
+5:35
+real stress with your former colleague
+5:36
+because you were both working at Google
+5:38
+or a big company where there just wasn't
+5:40
+like the same amount of stress as you
+5:42
+have under under startup conditions or
+5:44
+maybe you and your friends really enjoy
+5:46
+hanging out socially and you have a
+5:48
+great time together but you've never
+5:49
+been in any intense stressful situations
+5:51
+so if you've not been in a stressful
+5:53
+situation with someone before you can
+5:54
+never know for sure how they'll handle
+5:57
+stress which means no co-founder
+5:59
+relation relationship is a Surefire bet
+6:02
+but you are definitely more likely um to
+6:05
+survive and do well with someone you've
+6:07
+already worked with and that you already
+6:08
+know in some capacity than a total
+6:10
+stranger the second thing when you're
+6:12
+looking for a co-founder is make sure
+6:15
+that they have the same high level goals
+6:17
+in starting a company as you do right
+6:20
+people have different motivations for
+6:22
+wanting to start startups and the type
+6:25
+of startup they want to start so let me
+6:27
+give you an example if you really want
+6:30
+to found a high press fast growing
+6:34
+startup that raises multiple rounds of
+6:36
+funding and can one day go public then
+6:40
+you will not be a good co-founder fit
+6:42
+for somebody who wants to grow slow and
+6:44
+steady and build a lifestyle business
+6:46
+that makes good amounts of Revenue and
+6:49
+pays good salaries but doesn't come with
+6:51
+a ton of pressure and expectations right
+6:53
+that's just one example but there's all
+6:55
+kinds of other ways we see co-founders
+6:58
+who are indiv ually very skilled and
+7:01
+have great complimentary skill sets
+7:03
+still not work out which is they just
+7:05
+had different reasons for starting a
+7:07
+company and that eventually causes
+7:09
+enough friction to really fracture that
+7:12
+relationship so my advice would be
+7:14
+before you start a company with someone
+7:16
+talk about this stuff like ask them why
+7:18
+they want to start a company ask them
+7:20
+what success looks like for them um and
+7:23
+try and get a good read on are you both
+7:24
+aligned on why you're starting this
+7:26
+company and what you want out of it my
+7:28
+final advice would be don't overly focus
+7:31
+on the specific set of skills your
+7:33
+co-founder has today of course ideally
+7:36
+you want a co-founder that has
+7:37
+complimentary skills in particular if
+7:40
+you're building a software or technology
+7:42
+company there really should be at least
+7:44
+one co-founder who's Technical and can
+7:46
+program but let's say you have that
+7:49
+don't overly fixate on which specific
+7:51
+technical skills does that co-founder
+7:53
+have it doesn't matter if they can only
+7:55
+program in a certain language or if
+7:56
+they've only got experience building
+7:58
+iPhone app applications versus web
+8:01
+applications Again The Meta skill you
+8:03
+care about is is your co-founder smart
+8:06
+and are they willing to learn new things
+8:07
+and willing to adapt as your startup
+8:09
+grows and changes um which means you
+8:12
+care a lot more about their trajectory
+8:14
+like how can they grow as your startup
+8:16
+grows and can they acquire the skills
+8:18
+they'll need more so than do they have a
+8:21
+specific set of skills today so next
+8:24
+let's talk about where can you find
+8:26
+co-founders again my meta advice is you
+8:29
+should ideally have a set of potential
+Where can you find co-founders?
+8:32
+co-founders long before you actually
+8:35
+plan on starting a startup and the way
+8:37
+you do that is in the course of your
+8:40
+life like when you're studying or when
+8:42
+you're working is to kind of always be
+8:44
+trying to find people to work on
+8:45
+projects with together because working
+8:48
+on projects whether they're weekend
+8:49
+projects side projects just stuff purely
+8:51
+for fun gives you a chance to get to
+8:53
+know what someone's really like to work
+8:55
+with are they motivated do they like are
+8:57
+they good at the things that they say
+8:58
+they're good at in an environment that's
+9:00
+a little bit less pressurized than a
+9:01
+startup right um I think one of maybe
+9:04
+the edgiest pieces of advice I've heard
+9:06
+on
+9:06
+this uh at a Yom talk was from a Founder
+9:10
+who said that in the sort of decade
+9:12
+before they started their company they
+9:14
+really used to think a lot about who are
+9:16
+their friends who are the people they
+9:17
+were closest to and spending the most
+9:18
+time with and how many of those people
+9:21
+would they start a company with Someday
+9:23
+I'm not saying this is a right advice
+9:25
+for everybody but just to give you one
+9:28
+uh extreme end of the Spectrum it would
+9:30
+be to like always be scanning for people
+9:32
+you might start a company with someday
+9:34
+and making sure you're spending time
+9:35
+with them now let's say you want to
+9:37
+start a company now like you you are
+9:38
+ready um how do you do that where do you
+9:41
+find potential co-founders again the
+9:43
+advice is obvious it's people you
+9:45
+already know but the number one blocker
+9:47
+I see to why people say they're having a
+9:50
+hard time finding a co-founder is that
+9:52
+they already assume that everybody they
+9:55
+know is not available like a common
+9:57
+excuse I hear is oh yeah like I know
+9:59
+know lots of people who would be a great
+10:01
+potential co-founder but they're not
+10:03
+ready to start a startup right now or
+10:05
+they just got a job at Google or
+10:07
+Facebook and they will never leave and
+10:10
+my number one bit of advice to them is
+10:12
+you can never make any assumptions about
+10:14
+who's available you have to always make
+10:16
+the ask and you have to get in the habit
+10:18
+of asking people hey like I want to
+10:21
+start a company would you join me I
+10:23
+think you'd make a great co-founder I
+10:24
+think we'd make a great co-founding team
+10:26
+here's one uh tactic I also give people
+10:30
+which is once you made the ask if that
+10:32
+person really says that they're not
+10:34
+available is ask them who would they
+10:36
+pick to be their co-founder if they were
+10:38
+starting a company and ask for an
+10:40
+introduction to that person right so go
+10:43
+and meet that person and get to know
+10:44
+them but this sort of like branching out
+10:46
+of your network is a good algorithm for
+10:48
+finding more potential co-founders who
+10:51
+aren't in your immediate Network another
+10:53
+way to find more co-founders if you need
+10:55
+to grow your surface area um is to just
+10:58
+start doing things like in particular uh
+11:02
+if you're a technical or if you're an
+11:03
+engineer work on some open source
+11:05
+projects attend hackathons attend
+11:08
+developer meetups in your area those are
+11:10
+great sources of finding other people
+11:12
+who like doing and Building Things who
+11:15
+might be open to quitting their job or
+11:18
+dropping out of grad school to work on a
+11:20
+startup with you another specific place
+11:21
+to find potential co-founders is the YC
+11:24
+co-founder matching platform so we've
+11:26
+made it easy for people who are trying
+11:28
+to find co-founders to upload their
+11:30
+profiles and find other people that
+11:32
+might want to start a company with them
+11:34
+now I'm me give you my honest take we
+11:36
+started the YC co-founder matching
+11:38
+platform because we want to increase the
+11:40
+number of startups that exist in the
+11:42
+world and part of that is helping more
+11:44
+people find great co-founders but there
+11:47
+is a particular formula that works well
+11:50
+for finding somebody on a co-founder
+11:52
+matching platform even why combinators
+11:55
+and that is to try and find people who
+11:57
+you have things in common with who are
+11:59
+the kinds of people that there's a good
+12:02
+chance you would have ended up meeting
+12:04
+at some point anyway okay so let me give
+12:06
+you some of a couple of examples to give
+12:09
+you a sense of what I I really mean by
+12:11
+that a good example of teams we see from
+12:15
+the YC co-founder matching platform are
+12:18
+teams that we could describe as two
+12:20
+co-founders who would probably have
+12:22
+eventually met each other anyway it just
+12:25
+happened to be on the co-founder
+12:26
+matching platform and that's teams where
+12:29
+you know it's people who both studied
+12:30
+computer science um roughly the same age
+12:34
+like they work on projects and seem to
+12:36
+have like similar flavors to them their
+12:38
+interests overlap like that's the kind
+12:40
+of team we feel like ah like that's
+12:42
+probably the kind of team that would
+12:43
+have eventually found each other anyway
+12:45
+the kinds of teams we don't get so
+12:48
+excited about are where the co-founders
+12:50
+would never have met each other in sort
+12:52
+of any conceivable Universe it's where
+12:55
+there's a huge age difference or they
+12:56
+don't have any sort of mutual interest
+12:58
+or they just doesn't seem like those are
+13:00
+the types of Founders that would have
+13:02
+anything in common if they hadn't found
+13:04
+each other on a co-founder matching
+13:06
+platform so once you found a potential
+13:08
+co-founder how do you go about getting
+13:10
+started working together well if you
+13:13
+already know each other well you're
+13:14
+already friends former colleagues then I
+How do you get started working together?
+13:16
+think you just get going like you decide
+13:19
+what to work on um you start building a
+13:21
+prototype you can apply to Y comor
+13:23
+there's lots of great advice out there
+13:25
+for how do you get a startup going once
+13:27
+you have your co-founder if you don't
+13:28
+know know your co-founder very well
+13:31
+already which again is not optimal um
+13:34
+but my advice would be to just test it
+13:35
+out for a bit like can you spend some
+13:38
+evenings and weekends working together
+13:40
+and trying out small projects like
+13:42
+really this is not that different from
+13:44
+deciding who to marry you want to have
+13:45
+like a little bit of a daing period
+13:47
+where you kind of just get to know each
+13:48
+other and have conversations of the type
+13:51
+I mentioned before about you know why do
+13:53
+you want to start a company what are
+13:55
+your goals from this um and have a
+13:57
+period of trying that out before you
+14:00
+really Jump and Go Allin uh on being
+14:02
+co-founders okay so once you've decided
+14:04
+to go Allin and start a company with
+14:06
+somebody you'll go through some
+14:07
+logistical steps like you're
+14:08
+incorporating the company and you
+14:09
+initial each other shares you will have
+14:12
+to decide on what the equity split will
+14:14
+be and my default advice here would be
+14:19
+you should split the equity equally
+14:21
+between yourselves and the reason is if
+14:23
+this startup is successful you will end
+14:25
+up working on it for the next 10 years
+14:27
+or more and so even if someone's been
+14:30
+thinking about the idea for a little bit
+14:31
+longer now or done a little bit more
+14:33
+work that will really be quite
+14:35
+insignificant over the long term of the
+14:38
+startups life and so it's better that
+14:41
+you both start from a equal co-founding
+14:44
+Equity split so you're both equally
+14:46
+invested and you both feel like you have
+14:48
+real equal ownership over the company
+14:50
+and want to give it your role so while
+14:52
+everyone does their best to make sure
+14:53
+their co-founding relationship works
+14:56
+unfortunately they don't always and as I
+14:58
+mentioned before for the number one
+15:00
+reason startups fail at y com is the
+15:03
+co-founders break up so what are some of
+15:05
+the most common reasons for that
+15:06
+happening I would say like the number
+15:09
+one core reason is the co-founders
+Common reasons for co-founder breakups
+15:11
+didn't respect each other or they grew
+15:13
+to not respect each other and
+15:15
+specifically what I've seen is it's very
+15:18
+common for co-founders to have different
+15:20
+roles and responsibilities a common
+15:22
+split is one co-founder is responsible
+15:23
+for sales and getting customers and the
+15:26
+other co-founder is responsible for
+15:27
+product and building the technology and
+15:29
+that's a very clear uh delineation of
+15:32
+responsibilities which is great but
+15:34
+problems will creep in if the sales
+15:37
+co-founder feels that the technical
+15:38
+co-founder is not building the product
+15:40
+quickly or well enough and or the
+15:43
+technical co-founder feels the sales
+15:45
+co-founder is not selling the product
+15:47
+well enough if that respect breaks down
+15:50
+and one co-founder feels they could do
+15:51
+the other co-founder's job better than
+15:53
+them uh it's very hard to recover from
+15:55
+that and that's usually the single most
+15:58
+common reason we see startups break up
+16:01
+the second reason which is similar but
+16:04
+subtly different is when both or all
+16:07
+co-founders want to be the CEO the
+16:09
+actual titles you give yourselves at the
+16:11
+early stages of a startup don't really
+16:14
+matter that much because they don't
+16:15
+really change the work that you do on a
+16:17
+day-to-day basis but there is something
+16:20
+symbolic about the CEO title and what it
+16:23
+says is that this is the person that's
+16:26
+trusted to make have the final call on
+16:28
+really hard decisions and even if people
+16:31
+don't agree with them in the moment
+16:33
+everybody agrees to disagree and rally
+16:36
+behind the CEO like the CEO is really
+16:37
+the sort of true leader of the startup
+16:40
+it's bad when there are multiple people
+16:42
+who want to be the CEO because it's
+16:44
+basically saying I'm the person that
+16:47
+should really be in charge of this place
+16:49
+and I don't trust and respect the other
+16:51
+co-founders to have that the third
+16:54
+reason that co-founder relationships
+16:56
+often break up it's really kind of maybe
+16:59
+arguably similar to not having shared
+17:00
+goals or values but a specific instance
+17:03
+of it which is having very different
+17:05
+work ethic expectations startups are
+17:08
+very hard and all consuming um there's
+17:11
+no one to tell you which hours you
+17:12
+should work or how much you should get
+17:14
+done in a day it's all up to you to
+17:17
+Define how much you're working what
+17:19
+you're working on how you build the
+17:21
+company and if you and your co-founder
+17:23
+have very different work ethic
+17:25
+expectations one of you wants to be
+17:27
+working all the time like eat work sleep
+17:30
+but you know the other co-founder wants
+17:32
+to have more work life balance or just
+17:34
+feels differently about how they should
+17:36
+be judged um and what their expectations
+17:38
+are those relationships get very very
+17:41
+strained under the stress and pressure
+17:43
+of a startup and we don't see those
+17:45
+typically work out so well so again have
+17:49
+these conversations early on and set
+17:50
+expectations up front to be sure that
+17:52
+your co-founder is on the same page as
+17:54
+you are so how do you avoid getting into
+17:57
+a co-founder breakup well to some extent
+How do you avoid getting into a co-founder breakup?
+18:00
+it's unavoidable this happens and the
+18:02
+best lesson you can take is learn from
+18:04
+the experience and move on and don't
+18:06
+repeat the same mistake with your next
+18:07
+startup but having dealt with hundreds
+18:10
+of co-founder relationships and breakups
+18:12
+over the years one piece of advice I do
+18:14
+give is don't avoid disagreements like
+18:19
+anytime you disagree about
+18:21
+something have the conversation don't
+18:23
+delay hard conversations like it's very
+18:26
+easy for co-founders or people to just
+18:28
+shortterm about this and what I mean is
+18:30
+you feel like oh like okay we're
+18:32
+disagreeing or I'm upset about something
+18:34
+but I don't want to rock the boat like
+18:36
+we've got so much work to do I don't
+18:38
+want to bring this up right now I'll
+18:40
+bring it up next week or I'll bring it
+18:42
+up next month or you always
+18:44
+procrastinate and you delay on having a
+18:46
+hard conversation and really I think
+18:48
+what that does it's like death by a
+18:50
+Thousand Cuts like it just means that
+18:52
+pressure just builds up and it builds up
+18:53
+and it builds up and then when you do
+18:56
+eventually spill over and say something
+18:58
+you're now so heated that it's it's not
+19:01
+possible to have a calm conversation
+19:03
+where you work things out it becomes
+19:04
+very emotional um and confrontational
+19:07
+and that really damages the relationship
+19:09
+and so my tactical advice on this would
+19:12
+be set up regular one-on ones with your
+19:15
+co-founder and that may sound a little
+19:17
+formal but something I did with my
+19:19
+startups is I would just put time on the
+19:21
+calendar at the end of every month where
+19:24
+we would just go for a drink or a meal
+19:27
+and just talk about how we would doing
+19:29
+like we were just check in and like do
+19:30
+we think things are going well are we
+19:32
+excited like how are like the two of us
+19:35
+uh working together and if you put that
+19:37
+on the calendar and commit to it it
+19:39
+gives you a opportunity to regularly
+19:42
+release some of the pressure that every
+19:44
+startup co-founder relationship has
+19:46
+slowly over time rather than having it
+19:48
+all build up and come out in one big
+19:50
+burst so I hopefully I've convinced you
+19:51
+of a few things one that you really
+19:53
+should get a co-founder if you want to
+19:55
+start a company because it's just
+Summary
+19:57
+incredibly hard to be successful with
+19:59
+that one two that you should ideally
+20:02
+start a company with somebody you
+20:03
+already know like somebody you have a
+20:05
+sense of what their skills are and how
+20:08
+they cope with stress and three even if
+20:11
+you have a great co-founder relationship
+20:12
+you will still have to work hard to
+20:14
+maintain that relationship um and avoid
+20:17
+it getting stressed and fractured over
+20:18
+time by having difficult conversations
+20:21
+regularly I really hope you find a great
+20:23
+co-founder best of luck with the search
+20:25
+and I hope to see you at yon someday
+20:29
+[Music]
+20:32
+n
+20:37
+[Music]

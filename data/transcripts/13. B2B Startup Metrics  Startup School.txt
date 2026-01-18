@@ -1,0 +1,1307 @@
+---
+B2B Startup Metrics  Startup School
+
+In this episode of Startup School, YC Group Partner Tom Blomfield discusses one of the most important elements of running any startup: metrics! Tom shares what key metrics to track and how to use them to make the best decisions for your company.
+---
+Intro
+0:01
+[Music]
+0:09
+hi there my name is Tom blumfield I'm a
+0:12
+group partner at Y combinator and today
+0:14
+we're going to be talking about one of
+0:15
+my favorite topics metrics and why
+0:18
+they're so useful for startups so why
+Importance of Metrics
+0:21
+are metrics important first of all it's
+0:23
+pretty obvious that with better metrics
+0:25
+you'll make better decisions it's like
+0:28
+flying an airplane with no instrument
+0:30
+you're Flying Blind you don't know
+0:32
+what's happening to the aircraft and
+0:33
+you're not in control having great
+0:35
+metrics is like having great instruments
+0:37
+in an aircraft it lets you tweak and
+0:38
+iterate and make sure you're really in
+0:40
+control of your startup we often see and
+0:43
+I've seen in even in the last two or
+0:45
+three weeks Founders who've had these
+0:47
+great launches they've launched on
+0:49
+Hacker News on product hunt and they've
+0:52
+had hundreds of people come and use
+0:54
+their service day after day but they
+0:56
+have no idea how many of those news
+0:58
+users are new users or returning users
+1:00
+they don't know if they're daily active
+1:01
+or weekly active they could be churning
+1:03
+off all of their users instantly and
+1:05
+they don't know at all so the first
+1:07
+thing they do after launching blind is
+1:10
+to go back and build metrics in we would
+1:13
+advise you don't do that you should
+1:14
+build basic metrics into a product
+Pre-launch Metrics
+1:16
+before you launch and as an investor
+1:19
+it's really easy to tell Founders who
+1:22
+are in command of their metrics versus
+1:24
+Founders who aren't and it's really
+1:26
+impressive when founders can talk about
+1:29
+what percentage best signups are da or W
+1:32
+or what the annual revenue per user is
+1:35
+and we'll go into some of these in
+1:37
+detail but it's a big differentiator
+1:39
+when a Founder can talk so fluently
+1:40
+about these metrics before we dive in I
+1:43
+want to give a couple of warnings The
+1:46
+Other Extreme is also bad so it's a
+1:49
+Founder who even before they launched
+1:51
+has a dashboard with perhaps 500 metrics
+1:54
+maybe they've been a product manager at
+1:56
+a big tech company or they've just
+1:57
+watched too many YouTube videos but they
+1:59
+want to make every decision in their
+2:01
+startup with metrics and when you have
+2:03
+only have a few hundred or a few
+2:05
+thousand users that's basically
+2:07
+impossible you know they want to split
+2:08
+test everything should this button be
+2:10
+blue or green and frankly it doesn't
+2:13
+matter and you don't have the volume of
+2:15
+users or data to make those kind of
+2:17
+split tests sensibly so what you should
+2:20
+do is certainly split test the really
+2:22
+important decisions you know should the
+Metric Overload Caution
+2:23
+cost per user be $80 per year or $200
+2:27
+per year that's a really good experiment
+2:29
+to split test but you know making
+2:31
+buttons red or green that's not really
+2:33
+something you have the scale to split
+2:34
+test until you're really at the the size
+2:36
+of Google or Facebook a final warning
+2:39
+don't hide behind your metrics you've
+2:41
+still got to get out of the building and
+2:43
+talk to customers Brian from Airbnb
+2:46
+still hosts Airbnb users in his home
+2:49
+it's an obsession with staying close to
+2:51
+customers so you can't let metrics get
+2:53
+in the way of that so let's get started
+2:56
+you're planning a product launch in
+2:58
+perhaps a week or two and maybe maybe
+2:59
+you've not got any metrics in place yet
+3:01
+what do you do the first thing is to
+3:03
+pick four or five key metrics to track
+3:06
+accurately not 30 or 50 four or five is
+3:10
+fine this number will grow over time
+3:12
+we'll talk about what those key metrics
+3:13
+should be in eight a little bit you
+3:15
+should pick the most straightforward
+Key Metrics Selection
+3:17
+analytics solution you can operate it
+3:19
+might just be uh your SQL database
+3:21
+making simple SQL queries to count to
+3:23
+the number of signups post hog from
+3:26
+Winter 2020 has a great SQL Analytics
+3:29
+tool you can use on top of pretty much
+3:31
+any SQL database so you should check
+3:33
+that out you should also agree the
+3:34
+definitions of these four or five key
+3:36
+metrics and stick with them so it might
+3:39
+not be the absolute perfect definition
+3:41
+of an active user but constant arguments
+3:44
+about what your key metrics are are even
+3:46
+worse than having no metrics at all so
+3:48
+your whole team has to come together and
+3:50
+agree that an active user is someone who
+3:53
+uses the product every day or at least
+3:55
+once a week or at least five times a
+3:57
+week it honestly matters matters less
+4:00
+the precise definition than you actually
+4:02
+all agree with it I've remember so many
+4:06
+disagreements where the marketing team
+4:08
+said you know we've sent you 2,500 New
+4:11
+Leads this month and the sales team says
+4:13
+no no no they weren't qualified leads
+4:15
+they don't meet our definitions and this
+4:16
+disagreement internally just destroys
+4:19
+the productivity of meetings where
+4:21
+metrics are involved so you really have
+4:22
+to have centralized definitions of
+4:24
+metrics that are written down and
+4:26
+everyone agrees on so say you launched
+4:28
+and perhaps the metrics aren't quite
+4:30
+what you hoped the weekly active users
+4:32
+aren't quite as high as you you
+4:34
+originally wanted in that situation
+4:35
+Founders are often tempted to pick a
+4:38
+different metric or change the
+4:40
+definition of those metrics so instead
+4:41
+of a weekly active let's go for a
+4:42
+monthly active the number looks a bit
+4:44
+better honestly you're only fooling
+4:45
+yourself in this situation it's really
+4:48
+really important that you keep the
+4:50
+definition of your metric consistent
+4:51
+over time to see if you're improving or
+Consistency in Metrics
+4:54
+not that's why it's so hard to compare
+4:56
+metrics between different companies
+4:59
+definition just vary so a weekly active
+5:01
+user at my company monzo was someone who
+5:05
+transacted who made a financial
+5:06
+transaction at least once a week an
+5:09
+active user at some of our competitors
+5:11
+used different definitions maybe it was
+5:12
+every two weeks or eight weeks and so
+5:14
+this active us account between companies
+5:16
+just became totally meaningless just
+5:18
+important that you keep it internally
+5:20
+consistent so you're keeping a good
+5:21
+track of it so now let's talk about what
+5:24
+those key metrics are those four or five
+5:27
+you should really start tracking from
+5:29
+early on it will vary from every company
+5:31
+back in the early days of the internet
+5:33
+companies like to use metrics like page
+5:35
+views or unique visitors or something
+5:38
+like that because they're really really
+5:39
+big numbers and startup Founders love to
+5:41
+report really big numbers you've
+5:43
+probably heard the term vanity metrics
+5:46
+these are numbers that seem really
+5:47
+really big and perhaps they keep
+5:48
+increasing they're not actually tied to
+5:51
+the success of your company more
+5:52
+recently common vanity metrics are
+5:54
+things like gmv or gross merchandise
+5:57
+value that's the total dollar value of
+6:00
+goods that are sold on eBay rather than
+6:02
+eBay's Revenue itself or gross
+6:03
+transaction value for a fintech like
+6:05
+monzo you could report we're transacting
+6:07
+$50 billion do a year it sounds like a
+6:09
+really really big number but the revenue
+6:12
+that the company makes can be very very
+6:13
+different and so almost always
+6:16
+especially for B2B companies your key
+6:18
+metric should be Revenue if you pick
+6:22
+another number take gross transaction
+6:24
+value you'll find that your employees
+6:28
+and eventually you might might start
+6:29
+optimizing for that number I worked with
+6:31
+a Neo Bank a couple of batches ago in
+6:33
+the Middle East and they were reporting
+6:35
+gross transaction value and they're very
+6:36
+very happy they came to every group
+6:38
+office hours and their gross transaction
+6:39
+value was growing 50% every two weeks it
+6:43
+looked really great and we scratched
+6:44
+beneath the surface a little bit and it
+6:46
+turned out that they were signing up
+6:48
+much much bigger customers who had
+6:50
+higher transaction value but giving them
+6:52
+massive cash back massive rebates to
+6:54
+transact on the platform so whilst gross
+6:57
+transaction value was Rising every two
+6:59
+week weeks Revenue actually was pretty
+7:01
+flat for about the last two months the
+7:04
+founders were tricking themselves they
+7:05
+were fooling themselves into thinking
+7:07
+their company was succeeding when in
+7:09
+fact it was pretty flat in Revenue terms
+7:11
+so revenue is the key metric I would
+Investor Update Metrics
+7:13
+suggest for most B2B companies and don't
+7:16
+hide if your Revenue isn't good one of
+7:18
+the most impressive Founders I've ever
+7:20
+worked with sent 10 successive monthly
+7:23
+investor update emails with zero with a
+7:26
+big zero as the main metric at the top
+7:29
+of the emailed she kept herself honest
+7:31
+she was honest with investors and it
+7:33
+became clear what they needed to focus
+7:35
+on to fix the company so if you ashamed
+7:37
+of this number you hide it away it's
+7:39
+easy to kid yourself but I think if you
+7:41
+put it up front and Central and pay
+7:43
+attention to it it's the right thing to
+7:45
+focus on so two other key metrics
+7:47
+especially for investor updates
+7:48
+alongside your Revenue please include
+7:51
+burn rate that should be net what that
+7:54
+means is monthly costs minus your
+7:57
+revenues if you're loss making which
+7:59
+most early startups are it's the amount
+8:01
+by which your bank balance decreases
+8:04
+every month that is your burn rate and
+8:06
+your Runway is a function of that so say
+8:08
+you have a million dollar in the bank
+8:10
+and your burn rate is $100,000 a month
+8:13
+that means you have 10 months Runway
+8:15
+that means in 10 months you're going to
+8:17
+run out of money and the the startup
+8:18
+will be bankrupt those three numbers
+8:21
+Revenue burn rate and Runway are
+8:23
+absolutely crucial to include and if
+8:26
+they're not at the top of your investor
+8:27
+updates honestly I always uh assume this
+8:30
+founder has something to hide for
+8:32
+Consumer companies we have a separate
+8:34
+video diving deep into the metrics that
+8:37
+are important for those kind of startups
+8:39
+and often revenue is very important but
+8:41
+for the earliest days of consumer
+8:43
+companies often you're trying to get
+8:45
+some kind of critical mass or network
+8:46
+effect and so growing the active user
+8:49
+base in the early days for a consumer
+8:51
+company might in some cases be more
+8:54
+important than Revenue so we've talked
+8:55
+about the main three metrics that should
+8:58
+be at the top of every investor update
+9:00
+that's Revenue burn rate and Runway now
+9:02
+we're going to dive a little bit deeper
+9:04
+one of the most important metrics for
+9:06
+all startups really is retention this is
+9:09
+the idea that if you sign up a 100
+9:12
+paying customers say you sign them up in
+9:14
+January how many are still paying you in
+Retention's Significance
+9:17
+February March and April two months 3
+9:19
+months four months later that's your
+9:21
+retention rate so it might be 80% or 70%
+9:26
+it's a sign that people love your
+9:27
+product they keep coming back and they
+9:29
+keep paying for it so you can measure it
+9:31
+for all customers who signed up in
+9:33
+January and the subsequent months and
+9:34
+that's your January cohort and then you
+9:37
+measure the same for all of the
+9:38
+customers who signed up in February
+9:40
+that's your February cohort and you can
+9:41
+stack these cohorts on top of each other
+9:44
+and there are a number of different ways
+9:45
+of graphing this you might have a heat
+9:47
+map and some analytics tools do this
+9:49
+really nicely you might have a curve
+9:51
+that sort of decays over time those are
+9:53
+two pretty common ways of graphing it
+9:55
+and we'll show some examples but I'd
+9:57
+like to suggest a third way this is is
+9:59
+when it really clicked for me I'd heard
+10:01
+everyone tell me that Revenue was really
+10:03
+really important but it only really
+10:05
+clicked for me after I worked at a
+10:08
+dating startup that actually had very
+10:09
+bad retention and ultimately failed
+10:11
+sadly but it clicked when I stacked
+10:13
+these cohorts on top of each other so
+10:15
+you see the January cohort at the bottom
+10:17
+and then the February cohort and then
+10:18
+the March cohort and the April cohort
+10:20
+and what happens if you have sticky
+10:23
+cohorts if your retention is really high
+10:24
+you know 80 90 100% is you cohorts stay
+10:28
+really fat over time and you build up
+10:30
+this layer cake so you can imagine what
+10:32
+happens two or three years later if you
+10:35
+have dozens of these monthly cohorts
+10:37
+stacked on top of each other they're all
+10:40
+paying you money they're all
+10:41
+contributing to your Revenue every
+10:42
+single month even three years later and
+10:44
+if you're in a low churn business it
+10:46
+adds up to a layer cake that looks
+10:48
+something like this so this is an
+10:50
+18month graph of monthly cohorts each
+10:53
+month you're adding a new layer on and
+10:55
+after 18 months you've got 18 cohorts
+10:58
+still paying you this was like my first
+11:00
+company go cardless it was a a recurring
+11:03
+payments company very similar to stripe
+11:05
+and with those kind of companies people
+11:07
+Implement a payment solution once they
+11:09
+don't really like to change it every
+11:10
+month there's a lot of effort so the
+11:12
+customers are very very sticky and you
+11:14
+can imagine the team at go cardless goes
+11:17
+on holiday you know for a month after 18
+11:19
+months and the revenue stays pretty
+11:22
+consistent the beauty is actually
+11:24
+expanding Revenue so if those customers
+11:27
+you signed up in January launch grow
+11:30
+with the company they're using goard or
+11:32
+stripe as a payment processor they're
+11:34
+transacting more volume in year two and
+11:37
+year three they're growing their
+11:38
+business the revenue for for strip or go
+11:41
+carders actually increases as well so
+11:43
+the team perhaps goes on holiday or
+11:45
+signs up no new customers the business
+11:47
+still grows Revenue that's the beauty of
+11:50
+this this High retention business it's
+11:52
+sort of growing constantly underneath
+11:54
+you you're adding these layers and
+11:56
+layers and layers of Revenue and
+11:57
+eventually become Unstoppable but that
+11:59
+only happens if your retention flattens
+12:01
+out at some point if these Decay curves
+12:04
+flatten at some point and it almost
+12:06
+matters that they flatten out at any
+12:07
+point as opposed to a high point you
+12:09
+know I I take a 20% retention that
+12:11
+flattens out over a higher retention
+12:14
+initially that goes to zero because if
+12:15
+you sign up 100 people in January and by
+12:17
+month three or month six they've all
+12:19
+churn off they've all stopped paying you
+12:22
+get a very different layer cake that
+12:24
+lovely flat layer cake that builds up
+12:26
+and up over time if your customers all
+12:28
+churn out looks like this so you can see
+12:30
+customers you sign up in month one by
+12:32
+month three have more or less gone and
+12:33
+let's fast forward to month six they've
+12:36
+all gone by month 9 or month 10 and so
+12:39
+rather than building up secure and
+12:41
+steadfast layers month after month
+12:43
+you're actually scrambling to fill up a
+12:45
+leaky bucket you're pouring water into
+12:48
+the top of the bucket and it's leaking
+12:50
+out of the bucket just as fast as you
+12:52
+can fill it up you can imagine this is
+12:53
+an impossible task and so if your
+12:56
+business has customers that that don't
+12:58
+retain where retention goes to zero
+13:00
+you'll reach some natural Plateau where
+13:03
+you're working as hard as you can to
+13:05
+fill up the customers who simply churned
+13:07
+out last month and it's very very hard
+13:09
+to build a big business like that it's a
+13:11
+futile Endeavor so we talked about
+B2B SaaS: Net Dollar Retention
+13:13
+overall retention number of customers
+13:16
+for B2B startups people often talk about
+13:19
+net dollar retention this is just a
+13:21
+fancy way of calculating retention
+13:23
+mostly used in B2B SAS companies so
+13:25
+let's take an example we've started an
+13:27
+AI customer service chatbot very uh
+13:30
+invogue at the moment and say we we sign
+13:32
+up 10 paying customers in January in the
+13:35
+first month and they're each paying
+13:38
+$10,000 a month so 10K Mr each you're at
+13:42
+100K of monthly recurring Revenue feels
+13:45
+pretty good right let's fast forward a
+13:47
+year and in each of those subsequent
+13:48
+months you'll have signed up more
+13:49
+customers let's let's ignore them for
+13:51
+now focus on those 10 initial customers
+13:53
+you signed up in January but fast
+13:55
+forward 12 months perhaps two of those
+13:57
+customers have canceled their contracts
+13:59
+at some point in the year so we're down
+14:00
+to
+14:02
+$80,000 of monthly revenue from that
+14:04
+cohort but you've also upsold three
+14:07
+customers perhaps you've introduced some
+14:08
+new functionality or they've they're
+14:10
+using it more and instead of paying
+14:12
+10,000 they're each paying 20,000
+14:15
+perhaps you do phone chat as well as
+14:17
+text chat so that's $30,000 of
+14:20
+additional Revenue so we've lost 20 but
+14:22
+gained 30 so that's net 10K plus so
+14:27
+$110,000 of monthly revenue from that
+14:29
+January cohort that's why it's called
+14:30
+net dollar retention it's the amount
+14:32
+you've gained that's netted off against
+14:34
+the amount you've lost so that cohort
+14:36
+that was making $100,000 at the start in
+14:39
+January of year one a year later January
+14:42
+of year two is making a
+14:44
+$110,000 that's equivalent to 110% net
+14:48
+dollar retention so a net dollar
+14:50
+retention above 100% means your cohorts
+14:53
+are growing over time if your net dollar
+14:55
+attention is below 100% they're
+14:57
+shrinking over time youve got to pour
+14:59
+more water into the funnel to fill up
+15:00
+the the Leaky buckets we talked about
+15:02
+and that's what gives very sticky
+15:04
+businesses like stripe like go carders
+15:06
+like PayPal this exponential growth it's
+15:10
+adding new customers every month but
+15:11
+having existing customers grow
+15:13
+underneath them as well and that gives
+15:15
+you this exponential growth curve that's
+15:17
+very very impressive the final thing as
+15:19
+a benchmark any early stage B2B SAS
+15:23
+company should be looking at net dollar
+15:25
+retention well above 100% this is for
+15:28
+several reasons first of all you've
+15:30
+probably underpriced your product with
+15:32
+your first launch so you might charge
+15:35
+$10,000 a month for your initial
+15:37
+customers you realize pretty quickly uh
+15:39
+that the product could be sold for 20 or
+15:41
+$30,000 secondly you're adding features
+15:44
+the whole time presumably you're
+15:45
+improving your product and so that makes
+15:47
+it more appealing and customers are
+15:49
+willing to pay more money thirdly you
+15:52
+should be getting it better at sales and
+15:53
+upselling over time as well it' be weird
+15:56
+if you weren't getting better at that
+15:57
+and so those three reasons net dollar
+16:00
+retention for early stage B2B startup
+16:02
+should be 125% 150% would be great even
+16:06
+higher than that for mature companies uh
+16:09
+in the same range 110% 120% is pretty
+16:11
+good net dollar attention if your net
+16:14
+dollar attention is below 100%
+16:17
+especially for Enterprise B2B SAS
+16:19
+something is wrong you are churning off
+16:21
+customers they don't love the product
+16:23
+and I would invest in fixing that
+16:25
+talking to customers and figuring out
+16:27
+why they're turning off rather than
+16:29
+trying to to shove more customers in the
+16:31
+top of the funnel by investing in sales
+16:33
+and marketing for example net dollar
+16:35
+retention is absolutely crucial for B2B
+16:37
+SAS companies okay the second Deep dive
+16:40
+we're going to do on B2B metrics and
+16:42
+this is applicable to Consumer companies
+16:44
+as well is gross margin gross margin is
+16:48
+your Revenue the money you get from
+Cruciality of Gross Margin
+16:50
+customers minus the cost of goods sold
+16:53
+so you can imagine that if you're a
+16:55
+grocery store that's most obvious you're
+16:56
+selling you're selling sandwiches for
+16:58
+example the cost of good sold is the
+17:00
+cost of the bread and the cost of the
+17:01
+butter and the the filling that goes in
+17:03
+the sandwich that's cost of good sold
+17:05
+for a software company it's any cost
+17:09
+that varies per customer or for each
+17:12
+incremental customer you incur more cost
+17:15
+so let's go back to example we had
+17:16
+earlier we were running a an AI customer
+17:19
+service bot and you're probably using
+17:21
+something like open AI or anthropic to
+17:23
+power the core model behind that and so
+17:26
+the cost the credits that you pay to
+17:28
+open AI or anthropic or someone else is
+17:31
+your cost of goods sold we didn't used
+17:33
+to talk about this very much for B2B SAS
+17:34
+companies because the cost of goods was
+17:36
+very very minimal for Pure software it
+17:38
+might have been your AWS bill or your
+17:40
+bandwidth bill or something like that
+17:41
+it's minimal and so pure B2B SAS
+17:44
+companies in the past might have had
+17:45
+gross margins of 95% you know you sell
+17:48
+$100 worth of software and it's only $5
+17:51
+of cost and so people just assume it's
+17:53
+very very high margin but these days as
+17:56
+software sort of taking over more and
+17:58
+more Industries gross margin has become
+18:01
+more and more important so for AI
+18:02
+companies today the gross margin the
+18:04
+amount they pay to open AI or anthropic
+18:07
+or others for the foundation model is a
+18:09
+really important cost and by the way
+18:11
+just because you're getting free credits
+18:13
+doesn't mean that that's a cost that
+18:15
+doesn't exist it just means you're
+18:16
+hiding it for the moment so companies
+18:18
+that hide behind open AI credits and
+18:19
+claim that they've got these huge huge
+18:21
+gross margins have a nasty shock coming
+18:24
+when those credits run out it's also why
+18:27
+heavily operational businesses are so
+18:30
+tricky and when a company joins YC with
+18:33
+a with something like a grocery delivery
+18:35
+business or really any kind of business
+18:38
+where a lot of humans involved a lot of
+18:39
+operational processes going along you
+18:41
+maybe you paint houses or install heat
+18:44
+pumps or something you have to pay a lot
+18:45
+more attention to the gross margin
+18:47
+because it's very rare that it's as high
+18:48
+as 95% you might be down at 5 10 15%
+18:52
+gross margins which means you have to do
+18:54
+a lot more work you have to get a lot
+18:56
+more customers a lot more Revenue to
+18:58
+generate the same gross margin and that
+19:00
+gross margin is the thing that can then
+19:02
+pay your head office rent your
+19:04
+engineering salaries all of those
+19:06
+remaining costs that don't vary per
+19:08
+customer but still have to be deducted
+19:10
+before you get to profitability and so
+19:12
+for operationally intensive businesses
+19:14
+we often try to work with Founders to
+19:16
+see if there's a software only version
+19:19
+of their business that they can run at a
+19:21
+much higher margin so for example
+19:23
+instead of running a delivery company
+19:26
+where you have Vans and bikes and
+19:28
+and delivery people instead can you take
+19:31
+the software that powers all of that and
+19:34
+sell it to other delivery companies
+19:36
+you're going to have a probably a much
+19:38
+easier life certainly you're going to
+19:39
+have much higher gross margins if you do
+19:41
+that so in the zero interest rate
+19:44
+environment sort of 2010 to 2021 period
+19:50
+companies were scaling negative margin
+19:53
+businesses because Capital was so cheap
+19:56
+famously Uber did this they used capital
+19:58
+as a weapon so they took these
+20:00
+businesses that were initially negative
+20:02
+gross margin that means they're
+20:04
+effectively selling $10 worth of service
+20:06
+but only charging $9 so losing money on
+20:09
+every single order but trying to get to
+20:11
+a sort of a network effect or a Tipping
+20:13
+Point um for Uber famously it was a
+20:16
+certain number of drivers certain
+20:17
+density of drivers and riders in a
+20:19
+certain city that gets the flywheel
+20:21
+going but when they launched in a new
+20:22
+city they didn't have that density and
+20:24
+so they had to subsidize drivers and
+20:26
+subsidize Riders which made it a
+20:28
+negative gross margin business and so
+20:30
+they raised enormous amounts of capital
+20:32
+to expand across the globe before
+20:34
+competitors could catch up but burnt
+20:36
+tens of billions of dollars of invested
+20:38
+money in doing so and that Blitz scaling
+20:41
+approach that that scaling of negative
+20:43
+margin got popular with Founders and so
+20:46
+we saw it in ride sharing then we saw it
+20:48
+in 10-minute grocery delivery we saw it
+20:50
+with electric scooters and honestly
+20:52
+there's like a a whole Wasteland of
+20:55
+startups that tried to do that and then
+20:58
+realize they couldn't continue to raise
+21:00
+money as investors just didn't want to
+21:01
+keep subsidizing these businesses and
+21:04
+certainly now with much higher interest
+21:06
+rates Capital has become much more
+21:08
+expensive investors are really really
+Challenges of Negative Margin Scaling
+21:10
+loed to invest in negative margin
+21:13
+businesses and it's much much harder to
+21:15
+scale those those negative margins we
+21:17
+did this at monzo so monzo was an online
+21:20
+bank in the UK and for our first half
+21:22
+million customers or so we were losing
+21:24
+money on every customer 30 or 40 per
+21:27
+customer customer we scale to more than
+21:29
+half a million of those customers it
+21:31
+costs a lot but we had a plan to turn it
+21:33
+around so we brought technology in house
+21:36
+we didn't rely so much on external
+21:38
+vendors we introduced charges for
+21:40
+certain things we introduced new
+21:42
+products that customers were happy to
+21:43
+pay for and over time we flipped those
+21:46
+negative unit economics so rather than
+21:48
+losing 30 or 40 pounds per customer we
+21:51
+ended up when I was there making 30 or
+21:53
+40 pound per customer and now three or
+21:55
+four years later monzo is profitable so
+21:57
+if if you start with negative unit
+21:59
+economics you really really have to have
+22:02
+a plan to fix them and I would really
+22:04
+advise you don't scale your customer
+22:06
+base you don't try and grow as quickly
+22:08
+as possible whilst you have negative
+22:10
+unit economics you fix them first and
+22:13
+then you scale pH we covered a lot of
+22:16
+stuff today so as a recap we talked
+Metrics Recap
+22:19
+about revenue and why it's the best core
+22:22
+metric for most B2B companies then we
+22:25
+talked about retention and it's fancy
+22:27
+cousin net dollar retention and why
+22:29
+having a net dollar retention above 100%
+22:32
+is so important for B2B startups and we
+22:35
+finish with gross margin and why it's so
+22:37
+important not to scale businesses with
+22:40
+negative gross margins I wrap up with
+Final Thoughts
+22:42
+some final thoughts make sure you're
+22:45
+tracking your four or five key metrics
+22:47
+before you launch don't launch without
+22:49
+metrics in place it's like Flying Blind
+22:51
+be rigorous in what you track track the
+22:54
+right metrics don't fall for vanity
+22:55
+metrics like gross merchandise value
+22:58
+your impressions or unique users have a
+23:01
+clear definition of each of your metrics
+23:03
+and a central way of measuring them in
+23:05
+your company to avoid those pointless
+23:07
+arguments that derails meetings don't
+23:10
+hide behind your metrics you can't split
+23:12
+everything especially as a small startup
+23:14
+so a lot of these decisions just have to
+23:16
+be made by talking to your users and
+23:18
+using your product intuition you still
+23:20
+have to get out of the building and talk
+23:21
+to customers that's so important so I
+Outro
+23:25
+hope that helps run your startup with
+23:27
+the right blend of metrics talking to
+23:30
+customers and product intuition those
+23:33
+three are a vital blend thanks for
+23:35
+watching
+23:37
+[Music]
+23:45
+today

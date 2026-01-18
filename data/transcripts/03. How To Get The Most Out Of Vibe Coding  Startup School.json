@@ -1,0 +1,1820 @@
+{
+  "video_id": "BJjsfNO5JTo",
+  "title": "03. How To Get The Most Out Of Vibe Coding  Startup School",
+  "url": "https://www.youtube.com/watch?v=BJjsfNO5JTo",
+  "source_origin": "yc_startup_school",
+  "segments": [
+    {
+      "time": "0:01",
+      "text": "[Music]"
+    },
+    {
+      "time": "0:09",
+      "text": "Hi, I'm Tom and I'm a partner here at"
+    },
+    {
+      "time": "0:11",
+      "text": "YC. For the last month, I've been"
+    },
+    {
+      "time": "0:14",
+      "text": "experimenting vibe coding, a couple of"
+    },
+    {
+      "time": "0:16",
+      "text": "side projects and I found not only is it"
+    },
+    {
+      "time": "0:19",
+      "text": "remarkably good, but it's also a"
+    },
+    {
+      "time": "0:21",
+      "text": "practice you can get measurably better"
+    },
+    {
+      "time": "0:23",
+      "text": "at if you're open to tinkering and"
+    },
+    {
+      "time": "0:25",
+      "text": "picking up best practices. In this"
+    },
+    {
+      "time": "0:27",
+      "text": "video, I want to share some ways you can"
+    },
+    {
+      "time": "0:29",
+      "text": "get great results when vibe coding. It's"
+    },
+    {
+      "time": "0:31",
+      "text": "kind of like uh prompt engineering from"
+    },
+    {
+      "time": "0:34",
+      "text": "a year or two ago. People were"
+    },
+    {
+      "time": "0:35",
+      "text": "discovering new stuff every week and"
+    },
+    {
+      "time": "0:37",
+      "text": "posting about it on social media. The"
+    },
+    {
+      "time": "0:40",
+      "text": "best techniques are the same techniques"
+    },
+    {
+      "time": "0:42",
+      "text": "that a professional software engineer"
+    },
+    {
+      "time": "0:44",
+      "text": "might use. And some people like, well,"
+    },
+    {
+      "time": "0:46",
+      "text": "that's not vibe coding, is it? You're"
+    },
+    {
+      "time": "0:48",
+      "text": "now just software engineering. I I I"
+    },
+    {
+      "time": "0:50",
+      "text": "kind of think that's beside the point."
+    },
+    {
+      "time": "0:51",
+      "text": "We're trying to use these tools to get"
+    },
+    {
+      "time": "0:53",
+      "text": "the best results. And the YC Spring"
+    },
+    {
+      "time": "0:55",
+      "text": "Batch just kicked off a couple of weeks"
+    },
+    {
+      "time": "0:57",
+      "text": "ago. And before I give you my advice for"
+    },
+    {
+      "time": "0:59",
+      "text": "Vibe Coding, let's hear from the"
+    },
+    {
+      "time": "1:01",
+      "text": "founders on the tips they're using to"
+    },
+    {
+      "time": "1:03",
+      "text": "get the best out of the AI tools today."
+    },
+    {
+      "time": "1:05",
+      "text": "If you get stuck in a place where the AI"
+    },
+    {
+      "time": "1:06",
+      "text": "ID can't implement or can't debug"
+    },
+    {
+      "time": "1:08",
+      "text": "something and it's just stuck in a loop,"
+    },
+    {
+      "time": "1:10",
+      "text": "sometimes going to the LLM's website,"
+    },
+    {
+      "time": "1:13",
+      "text": "like literally to the UI and just"
+    },
+    {
+      "time": "1:14",
+      "text": "pasting in your code and asking the same"
+    },
+    {
+      "time": "1:16",
+      "text": "question can get you a result that for"
+    },
+    {
+      "time": "1:18",
+      "text": "whatever reason the ID like couldn't get"
+    },
+    {
+      "time": "1:19",
+      "text": "to and you can solve your problem that"
+    },
+    {
+      "time": "1:21",
+      "text": "way. So I'd say like just load up both"
+    },
+    {
+      "time": "1:23",
+      "text": "cursor and windsurf on the same project."
+    },
+    {
+      "time": "1:25",
+      "text": "Um cursor it's a bit faster so you can"
+    },
+    {
+      "time": "1:28",
+      "text": "do a lot of like the front end like a"
+    },
+    {
+      "time": "1:30",
+      "text": "little more like full stacky like link"
+    },
+    {
+      "time": "1:31",
+      "text": "the front end to the back end. Windsurf"
+    },
+    {
+      "time": "1:33",
+      "text": "thinks for a bit longer. I used to just"
+    },
+    {
+      "time": "1:35",
+      "text": "be like scrolling on my phone while I"
+    },
+    {
+      "time": "1:36",
+      "text": "type build this agent or like you know"
+    },
+    {
+      "time": "1:38",
+      "text": "like like modify this prompt and I'll"
+    },
+    {
+      "time": "1:40",
+      "text": "just like scroll fix scroll or like you"
+    },
+    {
+      "time": "1:42",
+      "text": "know paste an error. Now while I'm"
+    },
+    {
+      "time": "1:44",
+      "text": "waiting for uh winds surf to think I can"
+    },
+    {
+      "time": "1:46",
+      "text": "go on cursor and like you know start"
+    },
+    {
+      "time": "1:48",
+      "text": "updating the front end. Uh, sometimes"
+    },
+    {
+      "time": "1:49",
+      "text": "I'll load up both at the same time and"
+    },
+    {
+      "time": "1:51",
+      "text": "like have like the same context. Maybe"
+    },
+    {
+      "time": "1:53",
+      "text": "if I'm trying to update the front end,"
+    },
+    {
+      "time": "1:54",
+      "text": "I'll give it like style it in like the"
+    },
+    {
+      "time": "1:56",
+      "text": "style of that file and then I'll just"
+    },
+    {
+      "time": "1:58",
+      "text": "press enter for both and then they'll"
+    },
+    {
+      "time": "2:00",
+      "text": "both basically give me like slightly"
+    },
+    {
+      "time": "2:02",
+      "text": "different iterations of the same front"
+    },
+    {
+      "time": "2:04",
+      "text": "end and I'll just pick which one I like"
+    },
+    {
+      "time": "2:05",
+      "text": "better. My advice would be to uh think"
+    },
+    {
+      "time": "2:07",
+      "text": "of the AI as a different kind of"
+    },
+    {
+      "time": "2:09",
+      "text": "programming language and vibe coding as"
+    },
+    {
+      "time": "2:11",
+      "text": "being a different um a new type of"
+    },
+    {
+      "time": "2:13",
+      "text": "programming language. And so instead of"
+    },
+    {
+      "time": "2:15",
+      "text": "programming with code, you're"
+    },
+    {
+      "time": "2:16",
+      "text": "programming with language. And uh"
+    },
+    {
+      "time": "2:19",
+      "text": "because of that you kind of have to"
+    },
+    {
+      "time": "2:21",
+      "text": "provide a lot of the necessary context"
+    },
+    {
+      "time": "2:23",
+      "text": "and uh information in a very detailed"
+    },
+    {
+      "time": "2:26",
+      "text": "way if you want to get good results. I"
+    },
+    {
+      "time": "2:28",
+      "text": "usually start wipe coding in the reverse"
+    },
+    {
+      "time": "2:30",
+      "text": "direction that is first starting from"
+    },
+    {
+      "time": "2:31",
+      "text": "the test cases. I handcraft my test"
+    },
+    {
+      "time": "2:34",
+      "text": "cases. I don't use any LLMs to write my"
+    },
+    {
+      "time": "2:36",
+      "text": "test cases and once it is done I have"
+    },
+    {
+      "time": "2:39",
+      "text": "strong guard rules that my LLMs can uh"
+    },
+    {
+      "time": "2:42",
+      "text": "can follow for generating the code."
+    },
+    {
+      "time": "2:44",
+      "text": "Right? and then they can freely generate"
+    },
+    {
+      "time": "2:45",
+      "text": "the code that they want to generate. And"
+    },
+    {
+      "time": "2:47",
+      "text": "once I see those green flags on my test"
+    },
+    {
+      "time": "2:49",
+      "text": "cases, the job is done. I don't need to"
+    },
+    {
+      "time": "2:51",
+      "text": "micromanage my code bases. I just I just"
+    },
+    {
+      "time": "2:53",
+      "text": "uh take overview about the modularity of"
+    },
+    {
+      "time": "2:55",
+      "text": "the code. Other than that, it's fine."
+    },
+    {
+      "time": "2:57",
+      "text": "Yeah, I think it's very important to"
+    },
+    {
+      "time": "2:59",
+      "text": "first spend like unreasonable amount of"
+    },
+    {
+      "time": "3:01",
+      "text": "time uh in like a pure LLM to build out"
+    },
+    {
+      "time": "3:04",
+      "text": "like the scope and the actual"
+    },
+    {
+      "time": "3:06",
+      "text": "architecture of what you're trying to"
+    },
+    {
+      "time": "3:08",
+      "text": "build before offloading that to cursor"
+    },
+    {
+      "time": "3:10",
+      "text": "or any other kind of coding tool uh and"
+    },
+    {
+      "time": "3:12",
+      "text": "let it just like free run in the"
+    },
+    {
+      "time": "3:14",
+      "text": "codebase just random making up stuff"
+    },
+    {
+      "time": "3:16",
+      "text": "that doesn't really work. Um so make"
+    },
+    {
+      "time": "3:18",
+      "text": "sure you understand what the actual goal"
+    },
+    {
+      "time": "3:19",
+      "text": "of what you're building is. My advice"
+    },
+    {
+      "time": "3:21",
+      "text": "would be to really monitor whether the"
+    },
+    {
+      "time": "3:24",
+      "text": "LLM is falling into a rabbit hole when"
+    },
+    {
+      "time": "3:26",
+      "text": "it's answering your question. And if you"
+    },
+    {
+      "time": "3:28",
+      "text": "notice that it just keeps regenerating"
+    },
+    {
+      "time": "3:30",
+      "text": "code and it looks kind of funky. It's"
+    },
+    {
+      "time": "3:33",
+      "text": "not really able to figure it out. If"
+    },
+    {
+      "time": "3:34",
+      "text": "you're having to find yourself copy and"
+    },
+    {
+      "time": "3:36",
+      "text": "pasting error messages all the time, it"
+    },
+    {
+      "time": "3:38",
+      "text": "probably means something's gone uh ary"
+    },
+    {
+      "time": "3:41",
+      "text": "and you should take a step back, even"
+    },
+    {
+      "time": "3:42",
+      "text": "prompt the LLM and say, \"Hey, you know,"
+    },
+    {
+      "time": "3:45",
+      "text": "let's take a step back and try to"
+    },
+    {
+      "time": "3:46",
+      "text": "examine basically why it's failing. Is"
+    },
+    {
+      "time": "3:49",
+      "text": "it a, you know, is it because you"
+    },
+    {
+      "time": "3:51",
+      "text": "haven't provided enough context for the"
+    },
+    {
+      "time": "3:53",
+      "text": "LM to be able to figure it out or have"
+    },
+    {
+      "time": "3:55",
+      "text": "you just gotten unlucky and it's unable"
+    },
+    {
+      "time": "3:57",
+      "text": "to do your request? The overarching"
+    },
+    {
+      "time": "4:00",
+      "text": "theme here is to make the LLM follow the"
+    },
+    {
+      "time": "4:03",
+      "text": "processes that a good professional"
+    },
+    {
+      "time": "4:05",
+      "text": "software developer would use. So, let's"
+    },
+    {
+      "time": "4:07",
+      "text": "dive in and explore some of the best"
+    },
+    {
+      "time": "4:09",
+      "text": "vibe coding advice I've seen. First,"
+    },
+    {
+      "time": "4:12",
+      "text": "where to start. If you've never written"
+    },
+    {
+      "time": "4:14",
+      "text": "any code before, I would probably go for"
+    },
+    {
+      "time": "4:17",
+      "text": "a tool like Replet or Lovable. They give"
+    },
+    {
+      "time": "4:19",
+      "text": "you an easy to use visual interface and"
+    },
+    {
+      "time": "4:22",
+      "text": "it's a great way to try out new UIs"
+    },
+    {
+      "time": "4:25",
+      "text": "directly in code. Many product managers"
+    },
+    {
+      "time": "4:28",
+      "text": "and designers are actually going"
+    },
+    {
+      "time": "4:29",
+      "text": "straight to implementation of a new idea"
+    },
+    {
+      "time": "4:32",
+      "text": "in code rather than designing mock-ups"
+    },
+    {
+      "time": "4:34",
+      "text": "in something like Figma just because"
+    },
+    {
+      "time": "4:35",
+      "text": "it's so quick. But when I tried this, I"
+    },
+    {
+      "time": "4:38",
+      "text": "was impressed with the UIs. But tools"
+    },
+    {
+      "time": "4:40",
+      "text": "like Lovable started to struggle when I"
+    },
+    {
+      "time": "4:43",
+      "text": "wanted to more precisely modify backend"
+    },
+    {
+      "time": "4:46",
+      "text": "logic rather than just pure UI changes."
+    },
+    {
+      "time": "4:48",
+      "text": "I'd change a button over here and the"
+    },
+    {
+      "time": "4:50",
+      "text": "backend logic would bizarrely change. So"
+    },
+    {
+      "time": "4:53",
+      "text": "if you've written code before, even if"
+    },
+    {
+      "time": "4:55",
+      "text": "you're a little bit rusty like me, you"
+    },
+    {
+      "time": "4:57",
+      "text": "can probably leap straight to tools like"
+    },
+    {
+      "time": "4:59",
+      "text": "Windsurf Cursor or Claude Code. Once"
+    },
+    {
+      "time": "5:02",
+      "text": "you've picked the tool you want to use,"
+    },
+    {
+      "time": "5:04",
+      "text": "the first step is not to dive in and"
+    },
+    {
+      "time": "5:06",
+      "text": "write code. Instead, I would work with"
+    },
+    {
+      "time": "5:08",
+      "text": "the LLM to write a comprehensive plan."
+    },
+    {
+      "time": "5:12",
+      "text": "Put that in a markdown file inside your"
+    },
+    {
+      "time": "5:14",
+      "text": "project folder and keep referring back"
+    },
+    {
+      "time": "5:16",
+      "text": "to it. This is a plan that you develop"
+    },
+    {
+      "time": "5:18",
+      "text": "with the AI and you sort of step through"
+    },
+    {
+      "time": "5:20",
+      "text": "while you're implementing the project"
+    },
+    {
+      "time": "5:22",
+      "text": "rather than trying to oneshot the whole"
+    },
+    {
+      "time": "5:23",
+      "text": "thing. And so what I'd do after you've"
+    },
+    {
+      "time": "5:26",
+      "text": "created the first draft of this plan, go"
+    },
+    {
+      "time": "5:28",
+      "text": "through it, delete or remove things that"
+    },
+    {
+      "time": "5:30",
+      "text": "you don't like. You might mark certain"
+    },
+    {
+      "time": "5:32",
+      "text": "features explicitly as won't do too"
+    },
+    {
+      "time": "5:34",
+      "text": "complicated. And you might also like to"
+    },
+    {
+      "time": "5:36",
+      "text": "keep a section of ideas for later. You"
+    },
+    {
+      "time": "5:39",
+      "text": "know, to tell the LLM, look, I consider"
+    },
+    {
+      "time": "5:41",
+      "text": "this, but it's out of scope for now."
+    },
+    {
+      "time": "5:43",
+      "text": "Once you've got that plan, work with the"
+    },
+    {
+      "time": "5:45",
+      "text": "LLM to implement it section by section"
+    },
+    {
+      "time": "5:48",
+      "text": "and explicitly say, let's just do"
+    },
+    {
+      "time": "5:50",
+      "text": "section two right now. Then you check"
+    },
+    {
+      "time": "5:52",
+      "text": "that it works. You run your tests and"
+    },
+    {
+      "time": "5:54",
+      "text": "you get commit. Then have the AI go back"
+    },
+    {
+      "time": "5:56",
+      "text": "to your plan and mark section two as"
+    },
+    {
+      "time": "5:58",
+      "text": "complete. I probably wouldn't expect the"
+    },
+    {
+      "time": "6:00",
+      "text": "models to oneshot entire products yet,"
+    },
+    {
+      "time": "6:04",
+      "text": "especially if they're complicated. I"
+    },
+    {
+      "time": "6:06",
+      "text": "prefer to do this piece by piece and"
+    },
+    {
+      "time": "6:08",
+      "text": "make sure I have a working"
+    },
+    {
+      "time": "6:09",
+      "text": "implementation of each step and"
+    },
+    {
+      "time": "6:10",
+      "text": "crucially commit it to Git so that you"
+    },
+    {
+      "time": "6:12",
+      "text": "can revert if if things go wrong on the"
+    },
+    {
+      "time": "6:14",
+      "text": "the next step. But honestly, this advice"
+    },
+    {
+      "time": "6:17",
+      "text": "might change in the next 2 or 3 months."
+    },
+    {
+      "time": "6:19",
+      "text": "The models are getting better so quickly"
+    },
+    {
+      "time": "6:22",
+      "text": "that it's hard to say where we're going"
+    },
+    {
+      "time": "6:23",
+      "text": "to be in the near future. My next tip is"
+    },
+    {
+      "time": "6:26",
+      "text": "to use version control. Version control"
+    },
+    {
+      "time": "6:28",
+      "text": "is your friend. Use Git religiously. I"
+    },
+    {
+      "time": "6:32",
+      "text": "know the tools have these kind of revert"
+    },
+    {
+      "time": "6:34",
+      "text": "sort of functionality. I don't trust"
+    },
+    {
+      "time": "6:36",
+      "text": "them yet. So, I always make sure I'm"
+    },
+    {
+      "time": "6:38",
+      "text": "starting with a kind of a clean git"
+    },
+    {
+      "time": "6:39",
+      "text": "slate before I start a new feature so"
+    },
+    {
+      "time": "6:41",
+      "text": "that I can revert to a known working"
+    },
+    {
+      "time": "6:44",
+      "text": "version if the AI goes off on a vision"
+    },
+    {
+      "time": "6:46",
+      "text": "quest. So, don't be afraid to get reset"
+    },
+    {
+      "time": "6:49",
+      "text": "head hard if it's not working and just"
+    },
+    {
+      "time": "6:51",
+      "text": "roll the dice again. I found I had bad"
+    },
+    {
+      "time": "6:54",
+      "text": "results if I'm like prompting the AI"
+    },
+    {
+      "time": "6:57",
+      "text": "multiple times to try to get something"
+    },
+    {
+      "time": "6:58",
+      "text": "working. It tends to accumulate layers"
+    },
+    {
+      "time": "7:01",
+      "text": "and layers and layers of bad code rather"
+    },
+    {
+      "time": "7:04",
+      "text": "than like really understanding the root"
+    },
+    {
+      "time": "7:06",
+      "text": "cause. You might go and and try four,"
+    },
+    {
+      "time": "7:09",
+      "text": "five, six different prompts and you"
+    },
+    {
+      "time": "7:11",
+      "text": "finally get the solution. I'd actually"
+    },
+    {
+      "time": "7:12",
+      "text": "just take that solution, get reset, and"
+    },
+    {
+      "time": "7:15",
+      "text": "then feed that solution into the AI on a"
+    },
+    {
+      "time": "7:17",
+      "text": "clean codebase so you can implement that"
+    },
+    {
+      "time": "7:19",
+      "text": "clean solution without layers and layers"
+    },
+    {
+      "time": "7:21",
+      "text": "of of craft. The next thing you should"
+    },
+    {
+      "time": "7:23",
+      "text": "do is write tests or get your LLM to"
+    },
+    {
+      "time": "7:26",
+      "text": "write tests for you. They're pretty good"
+    },
+    {
+      "time": "7:28",
+      "text": "at this. Although they often default to"
+    },
+    {
+      "time": "7:30",
+      "text": "writing very low-level like unit tests,"
+    },
+    {
+      "time": "7:33",
+      "text": "I prefer to keep these tests super high"
+    },
+    {
+      "time": "7:35",
+      "text": "level. uh basically you want to simulate"
+    },
+    {
+      "time": "7:38",
+      "text": "someone clicking through the the site or"
+    },
+    {
+      "time": "7:40",
+      "text": "the app and ensure that the features are"
+    },
+    {
+      "time": "7:43",
+      "text": "working end to end rather than testing"
+    },
+    {
+      "time": "7:45",
+      "text": "uh functions on a kind of unit basis and"
+    },
+    {
+      "time": "7:48",
+      "text": "so make sure you write highlevel"
+    },
+    {
+      "time": "7:50",
+      "text": "integration tests before you move on to"
+    },
+    {
+      "time": "7:52",
+      "text": "the next feature. LLMs have a bad habit"
+    },
+    {
+      "time": "7:55",
+      "text": "of making unnecessary changes to"
+    },
+    {
+      "time": "7:57",
+      "text": "unrelated logic. So you tell it to fix"
+    },
+    {
+      "time": "7:59",
+      "text": "this thing over there and it just"
+    },
+    {
+      "time": "8:01",
+      "text": "changes some logic over here for really"
+    },
+    {
+      "time": "8:02",
+      "text": "no reason at all. And so having these"
+    },
+    {
+      "time": "8:04",
+      "text": "test suites in place catch these"
+    },
+    {
+      "time": "8:06",
+      "text": "regressions early will identify when the"
+    },
+    {
+      "time": "8:09",
+      "text": "LLM has has gone off and made"
+    },
+    {
+      "time": "8:10",
+      "text": "unnecessary changes so that you can get"
+    },
+    {
+      "time": "8:13",
+      "text": "reset and start again. Keep in mind LLMs"
+    },
+    {
+      "time": "8:16",
+      "text": "aren't just for coding. I use them for a"
+    },
+    {
+      "time": "8:18",
+      "text": "lot of non-coding work when I'm building"
+    },
+    {
+      "time": "8:20",
+      "text": "these kind of side projects. For"
+    },
+    {
+      "time": "8:21",
+      "text": "example, I had uh Claude Sonet 3.7"
+    },
+    {
+      "time": "8:25",
+      "text": "configure my DNS servers which is always"
+    },
+    {
+      "time": "8:27",
+      "text": "a task I hated and set up Heroku hosting"
+    },
+    {
+      "time": "8:30",
+      "text": "via a command line tool. It was a DevOps"
+    },
+    {
+      "time": "8:32",
+      "text": "engineer for me and accelerated my"
+    },
+    {
+      "time": "8:34",
+      "text": "progress like 10x. I also used chat GPT"
+    },
+    {
+      "time": "8:37",
+      "text": "to create a um an image for my site's"
+    },
+    {
+      "time": "8:40",
+      "text": "favicon, that little icon that appears"
+    },
+    {
+      "time": "8:41",
+      "text": "at the top of the the browser window."
+    },
+    {
+      "time": "8:44",
+      "text": "And then Claude took that image and"
+    },
+    {
+      "time": "8:46",
+      "text": "wrote a quick throwaway script to resize"
+    },
+    {
+      "time": "8:48",
+      "text": "it into the six different sizes and"
+    },
+    {
+      "time": "8:50",
+      "text": "formats I needed for favicons across all"
+    },
+    {
+      "time": "8:53",
+      "text": "different platforms. So the AI is now my"
+    },
+    {
+      "time": "8:55",
+      "text": "designer as well. Okay, so now let's"
+    },
+    {
+      "time": "8:57",
+      "text": "look at bug fixes. The first thing I do"
+    },
+    {
+      "time": "9:00",
+      "text": "when I encounter any bug is just copy"
+    },
+    {
+      "time": "9:03",
+      "text": "paste the error message straight back"
+    },
+    {
+      "time": "9:05",
+      "text": "into the LLM. It might be from your"
+    },
+    {
+      "time": "9:07",
+      "text": "server log files or the JavaScript"
+    },
+    {
+      "time": "9:10",
+      "text": "console in the browser. Often this error"
+    },
+    {
+      "time": "9:13",
+      "text": "message is enough for the AI to identify"
+    },
+    {
+      "time": "9:15",
+      "text": "and fix a problem. You don't even need"
+    },
+    {
+      "time": "9:17",
+      "text": "to explain what's going wrong or what"
+    },
+    {
+      "time": "9:18",
+      "text": "you think's going wrong. Simply the"
+    },
+    {
+      "time": "9:20",
+      "text": "error message is enough. It's so"
+    },
+    {
+      "time": "9:22",
+      "text": "powerful that pretty soon I actually"
+    },
+    {
+      "time": "9:24",
+      "text": "expect all the major coding tools to be"
+    },
+    {
+      "time": "9:26",
+      "text": "able to ingest these errors without"
+    },
+    {
+      "time": "9:29",
+      "text": "humans having to copy paste. If you"
+    },
+    {
+      "time": "9:30",
+      "text": "think about it, our value being the"
+    },
+    {
+      "time": "9:32",
+      "text": "copypaste machine is is uh kind of"
+    },
+    {
+      "time": "9:35",
+      "text": "weird, right? We're like we're we're"
+    },
+    {
+      "time": "9:36",
+      "text": "leaving the thinking to LLM. But I think"
+    },
+    {
+      "time": "9:38",
+      "text": "that copyping is going to go out the"
+    },
+    {
+      "time": "9:39",
+      "text": "window and these LLM tools are going to"
+    },
+    {
+      "time": "9:41",
+      "text": "be able to tail logs or you know um spin"
+    },
+    {
+      "time": "9:44",
+      "text": "up a headless browser and inspect the"
+    },
+    {
+      "time": "9:46",
+      "text": "the kind of JavaScript errors. With more"
+    },
+    {
+      "time": "9:48",
+      "text": "complex bugs, you can ask the LLM to"
+    },
+    {
+      "time": "9:51",
+      "text": "think through three or four possible"
+    },
+    {
+      "time": "9:52",
+      "text": "causes before writing any code. After"
+    },
+    {
+      "time": "9:55",
+      "text": "each failed attempt at fixing the bug, I"
+    },
+    {
+      "time": "9:58",
+      "text": "would get reset and start again again so"
+    },
+    {
+      "time": "10:00",
+      "text": "you're not accumulating layers and"
+    },
+    {
+      "time": "10:01",
+      "text": "layers of crust. Don't make multiple"
+    },
+    {
+      "time": "10:03",
+      "text": "attempts at bug fixes without resetting"
+    },
+    {
+      "time": "10:06",
+      "text": "because the LLM just adds more layers of"
+    },
+    {
+      "time": "10:08",
+      "text": "crap. Get reset, start again, and add"
+    },
+    {
+      "time": "10:10",
+      "text": "logging. Logging is your friend. If in"
+    },
+    {
+      "time": "10:13",
+      "text": "doubt, if it's not working, switch"
+    },
+    {
+      "time": "10:15",
+      "text": "models. Maybe it's Claude um Sonic 3.7,"
+    },
+    {
+      "time": "10:18",
+      "text": "maybe it's one of the OpenAI models,"
+    },
+    {
+      "time": "10:20",
+      "text": "maybe it's Gemini. I often find that um"
+    },
+    {
+      "time": "10:23",
+      "text": "different models succeed where the"
+    },
+    {
+      "time": "10:25",
+      "text": "others fail. And if you do eventually"
+    },
+    {
+      "time": "10:27",
+      "text": "find the source of a gnarly bug, I would"
+    },
+    {
+      "time": "10:29",
+      "text": "just reset all of the changes and then"
+    },
+    {
+      "time": "10:32",
+      "text": "um give the LLM very specific"
+    },
+    {
+      "time": "10:34",
+      "text": "instructions on how to fix that precise"
+    },
+    {
+      "time": "10:36",
+      "text": "bug on a clean code base to avoid this"
+    },
+    {
+      "time": "10:39",
+      "text": "like layers and layers of of junk code"
+    },
+    {
+      "time": "10:41",
+      "text": "accumulating. Next tip is to write"
+    },
+    {
+      "time": "10:44",
+      "text": "instructions for the LLM. Put these"
+    },
+    {
+      "time": "10:46",
+      "text": "instructions in whether it's cursor"
+    },
+    {
+      "time": "10:48",
+      "text": "rules, windsurf rules, claw markdown"
+    },
+    {
+      "time": "10:51",
+      "text": "file. Each tool has a slightly different"
+    },
+    {
+      "time": "10:53",
+      "text": "naming convention. But I know founders"
+    },
+    {
+      "time": "10:55",
+      "text": "who've written hundreds of lines of"
+    },
+    {
+      "time": "10:57",
+      "text": "instructions for uh their AI coding"
+    },
+    {
+      "time": "11:00",
+      "text": "agent and it makes them way way way more"
+    },
+    {
+      "time": "11:02",
+      "text": "effective. There's tons of advice online"
+    },
+    {
+      "time": "11:04",
+      "text": "about what to put in these instruction"
+    },
+    {
+      "time": "11:06",
+      "text": "files. I'll let you go and find that on"
+    },
+    {
+      "time": "11:07",
+      "text": "your own. Okay, let's talk about"
+    },
+    {
+      "time": "11:09",
+      "text": "documentation. I still find that"
+    },
+    {
+      "time": "11:12",
+      "text": "pointing these agents at online web"
+    },
+    {
+      "time": "11:14",
+      "text": "documentation is a little bit patchy"
+    },
+    {
+      "time": "11:17",
+      "text": "still. I mean, some people are"
+    },
+    {
+      "time": "11:18",
+      "text": "suggesting uh using an MCP server to"
+    },
+    {
+      "time": "11:21",
+      "text": "access this"
+    },
+    {
+      "time": "11:22",
+      "text": "documentation, which works for some"
+    },
+    {
+      "time": "11:24",
+      "text": "people. Uh seems like overkill to me."
+    },
+    {
+      "time": "11:26",
+      "text": "So, I'll often just download all of the"
+    },
+    {
+      "time": "11:28",
+      "text": "documentation for a given set of APIs"
+    },
+    {
+      "time": "11:31",
+      "text": "and put them in a subdirectory of my"
+    },
+    {
+      "time": "11:33",
+      "text": "working folder so the LLM can access"
+    },
+    {
+      "time": "11:35",
+      "text": "them locally. And then in my"
+    },
+    {
+      "time": "11:37",
+      "text": "instructions, I'll say go and read the"
+    },
+    {
+      "time": "11:38",
+      "text": "docs before you implement this thing."
+    },
+    {
+      "time": "11:40",
+      "text": "And it's often much more accurate. A"
+    },
+    {
+      "time": "11:42",
+      "text": "side note to remember, you can use the"
+    },
+    {
+      "time": "11:44",
+      "text": "LLM as a teacher, especially for people"
+    },
+    {
+      "time": "11:47",
+      "text": "who are less familiar with the coding"
+    },
+    {
+      "time": "11:48",
+      "text": "language. You might implement something"
+    },
+    {
+      "time": "11:50",
+      "text": "and then get the AI to walk through that"
+    },
+    {
+      "time": "11:52",
+      "text": "implementation line by line and explain"
+    },
+    {
+      "time": "11:54",
+      "text": "it to you. It's a great way to learn new"
+    },
+    {
+      "time": "11:57",
+      "text": "technologies. It's much better than"
+    },
+    {
+      "time": "11:59",
+      "text": "scrolling Stack Overflow like uh we all"
+    },
+    {
+      "time": "12:02",
+      "text": "used to do. Now, let's look at more"
+    },
+    {
+      "time": "12:04",
+      "text": "complex functionality. If you're working"
+    },
+    {
+      "time": "12:06",
+      "text": "on a a new piece of functionality, a new"
+    },
+    {
+      "time": "12:08",
+      "text": "feature that's more complex than you'd"
+    },
+    {
+      "time": "12:10",
+      "text": "normally trust the AI to implement, I"
+    },
+    {
+      "time": "12:13",
+      "text": "would do it as a standalone project in a"
+    },
+    {
+      "time": "12:15",
+      "text": "totally clean codebase. Get a small"
+    },
+    {
+      "time": "12:19",
+      "text": "reference implementation working without"
+    },
+    {
+      "time": "12:21",
+      "text": "the the complication of your existing"
+    },
+    {
+      "time": "12:22",
+      "text": "project or even download a reference"
+    },
+    {
+      "time": "12:25",
+      "text": "implementation if someone's written one"
+    },
+    {
+      "time": "12:26",
+      "text": "and posted on GitHub. Then you point to"
+    },
+    {
+      "time": "12:29",
+      "text": "your LLM at the implementation and tell"
+    },
+    {
+      "time": "12:32",
+      "text": "it to follow that while reimplementing"
+    },
+    {
+      "time": "12:34",
+      "text": "it inside your larger codebase. It"
+    },
+    {
+      "time": "12:37",
+      "text": "actually works surprisingly well."
+    },
+    {
+      "time": "12:39",
+      "text": "Remember, small files and modularity are"
+    },
+    {
+      "time": "12:42",
+      "text": "your friend. This is true for human"
+    },
+    {
+      "time": "12:44",
+      "text": "coders as well. I think we might see a"
+    },
+    {
+      "time": "12:46",
+      "text": "shift towards more modular or"
+    },
+    {
+      "time": "12:48",
+      "text": "service-based architecture where the LLM"
+    },
+    {
+      "time": "12:51",
+      "text": "has clear API boundaries that it can"
+    },
+    {
+      "time": "12:53",
+      "text": "work within while maintaining a"
+    },
+    {
+      "time": "12:55",
+      "text": "consistent external interface rather"
+    },
+    {
+      "time": "12:58",
+      "text": "than these huge uh monor repos with"
+    },
+    {
+      "time": "13:00",
+      "text": "massive interdependencies. These are"
+    },
+    {
+      "time": "13:02",
+      "text": "hard for both humans and LLMs. It's just"
+    },
+    {
+      "time": "13:05",
+      "text": "not clear if a change in one place is"
+    },
+    {
+      "time": "13:07",
+      "text": "going to impact another part part of the"
+    },
+    {
+      "time": "13:09",
+      "text": "codebase. And so having this this modern"
+    },
+    {
+      "time": "13:11",
+      "text": "architecture with a consistent external"
+    },
+    {
+      "time": "13:13",
+      "text": "API means you can change the internals"
+    },
+    {
+      "time": "13:16",
+      "text": "as long as the external interface in the"
+    },
+    {
+      "time": "13:18",
+      "text": "test still pass you're probably good."
+    },
+    {
+      "time": "13:19",
+      "text": "Now a note on choosing the right text"
+    },
+    {
+      "time": "13:21",
+      "text": "stack. I chose to build my project"
+    },
+    {
+      "time": "13:24",
+      "text": "partially in Ruby on Rails mostly"
+    },
+    {
+      "time": "13:26",
+      "text": "because I was familiar with it from when"
+    },
+    {
+      "time": "13:28",
+      "text": "I used to um be a professional"
+    },
+    {
+      "time": "13:30",
+      "text": "developer. But I was blown away by the"
+    },
+    {
+      "time": "13:32",
+      "text": "AI's performance especially when it was"
+    },
+    {
+      "time": "13:34",
+      "text": "writing uh Rubon Rails code. And I think"
+    },
+    {
+      "time": "13:37",
+      "text": "this is because Rails is a 20-year-old"
+    },
+    {
+      "time": "13:40",
+      "text": "framework with a ton of wellestablished"
+    },
+    {
+      "time": "13:42",
+      "text": "conventions. A lot of Rails code bases"
+    },
+    {
+      "time": "13:45",
+      "text": "look very, very similar and it's obvious"
+    },
+    {
+      "time": "13:47",
+      "text": "to an experienced Ruby on Rails"
+    },
+    {
+      "time": "13:49",
+      "text": "developer where a specific piece of"
+    },
+    {
+      "time": "13:50",
+      "text": "functionality should live or the right"
+    },
+    {
+      "time": "13:53",
+      "text": "Rails way of achieving a certain"
+    },
+    {
+      "time": "13:55",
+      "text": "outcome. That means there's a ton of"
+    },
+    {
+      "time": "13:57",
+      "text": "pretty consistent highquality training"
+    },
+    {
+      "time": "14:00",
+      "text": "data for Rails code bases online. I've"
+    },
+    {
+      "time": "14:03",
+      "text": "had other friends have less success with"
+    },
+    {
+      "time": "14:05",
+      "text": "languages like Rust or Elixir where"
+    },
+    {
+      "time": "14:07",
+      "text": "there's just not as much training data"
+    },
+    {
+      "time": "14:09",
+      "text": "online, but who knows that might change"
+    },
+    {
+      "time": "14:11",
+      "text": "very soon. Okay, next bit of advice, use"
+    },
+    {
+      "time": "14:15",
+      "text": "screenshots. You can copy and paste"
+    },
+    {
+      "time": "14:18",
+      "text": "screenshots into most coding agents"
+    },
+    {
+      "time": "14:19",
+      "text": "these days and it's very useful either"
+    },
+    {
+      "time": "14:22",
+      "text": "to demonstrate a bug in the UI"
+    },
+    {
+      "time": "14:24",
+      "text": "implementation that you can see or to"
+    },
+    {
+      "time": "14:26",
+      "text": "pull in design uh inspiration from"
+    },
+    {
+      "time": "14:30",
+      "text": "another site that you might want to use"
+    },
+    {
+      "time": "14:31",
+      "text": "in your project. Voice is another really"
+    },
+    {
+      "time": "14:35",
+      "text": "cool way to interact with these tools. I"
+    },
+    {
+      "time": "14:37",
+      "text": "use Aqua, a YC company, and basically I"
+    },
+    {
+      "time": "14:40",
+      "text": "can just talk at my computer and Aqua"
+    },
+    {
+      "time": "14:43",
+      "text": "transcribes whatever I'm saying into the"
+    },
+    {
+      "time": "14:46",
+      "text": "tool I'm using. I'm switching a lot"
+    },
+    {
+      "time": "14:48",
+      "text": "between Windinsurf and Clawude Code at"
+    },
+    {
+      "time": "14:49",
+      "text": "the moment, but with Aqua, I can"
+    },
+    {
+      "time": "14:52",
+      "text": "effectively input instructions at 140"
+    },
+    {
+      "time": "14:54",
+      "text": "words per minute, which is about double"
+    },
+    {
+      "time": "14:56",
+      "text": "what I can type. And the AI is so"
+    },
+    {
+      "time": "14:58",
+      "text": "tolerant of minor grammar and"
+    },
+    {
+      "time": "15:00",
+      "text": "punctuation mistakes that it honestly"
+    },
+    {
+      "time": "15:02",
+      "text": "doesn't matter if the transcription's"
+    },
+    {
+      "time": "15:04",
+      "text": "not perfect. I actually wrote this"
+    },
+    {
+      "time": "15:06",
+      "text": "entire talk with Aqua. Next, make sure"
+    },
+    {
+      "time": "15:09",
+      "text": "to refactor frequently. When you've got"
+    },
+    {
+      "time": "15:11",
+      "text": "the code working and crucially the tests"
+    },
+    {
+      "time": "15:13",
+      "text": "implemented, you can refactor at will,"
+    },
+    {
+      "time": "15:16",
+      "text": "knowing that your tests are going to"
+    },
+    {
+      "time": "15:17",
+      "text": "catch any regressions. You can even ask"
+    },
+    {
+      "time": "15:19",
+      "text": "the LLM to identify parts of your"
+    },
+    {
+      "time": "15:21",
+      "text": "codebase that seem repetitive or might"
+    },
+    {
+      "time": "15:23",
+      "text": "be good candidates for refactoring. And"
+    },
+    {
+      "time": "15:25",
+      "text": "again, this is just a tip that any"
+    },
+    {
+      "time": "15:27",
+      "text": "professional software developer would"
+    },
+    {
+      "time": "15:29",
+      "text": "follow. You don't have um files that are"
+    },
+    {
+      "time": "15:32",
+      "text": "thousands of lines long. You keep them"
+    },
+    {
+      "time": "15:34",
+      "text": "small and modular. It makes it much"
+    },
+    {
+      "time": "15:35",
+      "text": "easier for both humans and LLMs to"
+    },
+    {
+      "time": "15:37",
+      "text": "understand what's going on. Finally,"
+    },
+    {
+      "time": "15:39",
+      "text": "keep experimenting. It seems like the"
+    },
+    {
+      "time": "15:42",
+      "text": "state-of-the-art of this stuff changes"
+    },
+    {
+      "time": "15:44",
+      "text": "week by week. I try every new model"
+    },
+    {
+      "time": "15:46",
+      "text": "release to see which performs better in"
+    },
+    {
+      "time": "15:48",
+      "text": "each different scenario. Some are better"
+    },
+    {
+      "time": "15:50",
+      "text": "at debugging or long-term planning or"
+    },
+    {
+      "time": "15:53",
+      "text": "implementing features or refactoring."
+    },
+    {
+      "time": "15:54",
+      "text": "For example, at the moment, Gemini seems"
+    },
+    {
+      "time": "15:57",
+      "text": "best for whole codebase indexing and"
+    },
+    {
+      "time": "15:59",
+      "text": "coming up with implementation plans,"
+    },
+    {
+      "time": "16:01",
+      "text": "while Sonet 3.7, to me at least, seems"
+    },
+    {
+      "time": "16:03",
+      "text": "like the leading contender to actually"
+    },
+    {
+      "time": "16:05",
+      "text": "implement the code changes. I tried GPT"
+    },
+    {
+      "time": "16:08",
+      "text": "4.1 just a couple of days ago, and"
+    },
+    {
+      "time": "16:10",
+      "text": "honestly, I I wasn't yet as impressed."
+    },
+    {
+      "time": "16:11",
+      "text": "It just came back with me with too many"
+    },
+    {
+      "time": "16:13",
+      "text": "questions and actually got the"
+    },
+    {
+      "time": "16:15",
+      "text": "implementation wrong too many times. But"
+    },
+    {
+      "time": "16:17",
+      "text": "I'll try it again next week and I'm sure"
+    },
+    {
+      "time": "16:19",
+      "text": "things will have changed again. Thanks"
+    },
+    {
+      "time": "16:21",
+      "text": "for watching and I'd love it if you have"
+    },
+    {
+      "time": "16:24",
+      "text": "tips or tricks for getting the most out"
+    },
+    {
+      "time": "16:26",
+      "text": "of these models. Please share them in"
+    },
+    {
+      "time": "16:27",
+      "text": "the comments below."
+    },
+    {
+      "time": "16:31",
+      "text": "[Music]"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "common": {
+        "appName": "FoundersBrain",
+        "tagline": "AI-powered answers from YC Startup School",
+        "loading": "Loading...",
+        "error": "Something went wrong"
+    },
+    "chat": {
+        "title": "🧠 FoundersBrain",
+        "subtitle": "Answers based on YC Startup School content",
+        "placeholder": "Ask anything about startups...",
+        "send": "Send",
+        "empty": "Type a question or click an example below",
+        "thinking": "Generating answer...",
+        "error": "Sorry, an error occurred. Please try again.",
+        "sourcesLabel": "Sources",
+        "watchAt": "Watch at"
+    },
+    "home": {
+        "title": "Your AI Startup Advisor",
+        "subtitle": "Get instant answers from 25+ hours of YC Startup School content",
+        "cta": "Start Asking"
+    },
+    "limits": {
+        "freeQueries": "Free questions today",
+        "upgradePrompt": "Upgrade to Pro for unlimited questions"
+    }
+}

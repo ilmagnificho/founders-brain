@@ -1,0 +1,2080 @@
+{
+  "video_id": "DH7REvnQ1y4",
+  "title": "02. The Sales Playbook For Founders  Startup School",
+  "url": "https://www.youtube.com/watch?v=DH7REvnQ1y4",
+  "source_origin": "yc_startup_school",
+  "segments": [
+    {
+      "time": "0:00",
+      "text": "[Music]"
+    },
+    {
+      "time": "0:08",
+      "text": "At YC, we work with a ton of founders"
+    },
+    {
+      "time": "0:10",
+      "text": "who are navigating the B2B sales process"
+    },
+    {
+      "time": "0:13",
+      "text": "for the very first time. And I often"
+    },
+    {
+      "time": "0:16",
+      "text": "notice some very common and easily"
+    },
+    {
+      "time": "0:18",
+      "text": "avoidable mistakes that I want to talk"
+    },
+    {
+      "time": "0:20",
+      "text": "about today. So, I'm going to describe"
+    },
+    {
+      "time": "0:22",
+      "text": "the typical progression that a B2B"
+    },
+    {
+      "time": "0:24",
+      "text": "founder goes through. normally starting"
+    },
+    {
+      "time": "0:26",
+      "text": "with something like a a really poorly"
+    },
+    {
+      "time": "0:28",
+      "text": "defined and overly long unpaid design"
+    },
+    {
+      "time": "0:32",
+      "text": "partnership uh all the way through to"
+    },
+    {
+      "time": "0:35",
+      "text": "the like the pro move which is a rapid"
+    },
+    {
+      "time": "0:37",
+      "text": "well-defined tightlyun sales process"
+    },
+    {
+      "time": "0:39",
+      "text": "that results in contractually recurring"
+    },
+    {
+      "time": "0:41",
+      "text": "revenue straight off the bat. In other"
+    },
+    {
+      "time": "0:43",
+      "text": "words, I'm going to talk about how to"
+    },
+    {
+      "time": "0:45",
+      "text": "close your first B2B contracts. So in"
+    },
+    {
+      "time": "0:48",
+      "text": "general, the goal for most early stage"
+    },
+    {
+      "time": "0:51",
+      "text": "companies is to progress through this"
+    },
+    {
+      "time": "0:53",
+      "text": "sequence as rapidly as possible so that"
+    },
+    {
+      "time": "0:56",
+      "text": "you're able to close new ARR every week"
+    },
+    {
+      "time": "0:58",
+      "text": "and grow your company. And really 90% of"
+    },
+    {
+      "time": "1:01",
+      "text": "the time, the vast vast majority of the"
+    },
+    {
+      "time": "1:03",
+      "text": "time, founders get stuck in the very"
+    },
+    {
+      "time": "1:05",
+      "text": "early stages. It's the the very long"
+    },
+    {
+      "time": "1:07",
+      "text": "unpaid design partnerships. And my job"
+    },
+    {
+      "time": "1:10",
+      "text": "is encouraging them to advance to the"
+    },
+    {
+      "time": "1:12",
+      "text": "next level as quickly as possible."
+    },
+    {
+      "time": "1:14",
+      "text": "Occasionally though, really only 5% or"
+    },
+    {
+      "time": "1:17",
+      "text": "10% of the time, founders will try and"
+    },
+    {
+      "time": "1:19",
+      "text": "speedrun the entire process and leap"
+    },
+    {
+      "time": "1:21",
+      "text": "right to the end before their product is"
+    },
+    {
+      "time": "1:23",
+      "text": "mature enough or without enough social"
+    },
+    {
+      "time": "1:25",
+      "text": "proof, i.e. other happy customers who"
+    },
+    {
+      "time": "1:27",
+      "text": "will vouch for you. That's pretty rare"
+    },
+    {
+      "time": "1:29",
+      "text": "though. Honestly, most founders are too"
+    },
+    {
+      "time": "1:32",
+      "text": "slow to progress through these stages."
+    },
+    {
+      "time": "1:35",
+      "text": "So, let's try to lay out the different"
+    },
+    {
+      "time": "1:37",
+      "text": "stages and talk through them. The first"
+    },
+    {
+      "time": "1:39",
+      "text": "is the design partnership we've talked"
+    },
+    {
+      "time": "1:41",
+      "text": "about. Maybe you're very early in your"
+    },
+    {
+      "time": "1:43",
+      "text": "company journey. Perhaps you've got some"
+    },
+    {
+      "time": "1:45",
+      "text": "Figma mock-ups or really just an idea,"
+    },
+    {
+      "time": "1:48",
+      "text": "barely any code written at all. Or"
+    },
+    {
+      "time": "1:50",
+      "text": "perhaps you're selling into an industry"
+    },
+    {
+      "time": "1:52",
+      "text": "like law or accounting where there's a"
+    },
+    {
+      "time": "1:54",
+      "text": "ton of domain knowledge and maybe you"
+    },
+    {
+      "time": "1:56",
+      "text": "don't have that knowledge yet. And so"
+    },
+    {
+      "time": "1:58",
+      "text": "founders at this stage will often pitch"
+    },
+    {
+      "time": "2:00",
+      "text": "uh what's sometimes called a design"
+    },
+    {
+      "time": "2:02",
+      "text": "partnership. They'll spend a bunch of"
+    },
+    {
+      "time": "2:04",
+      "text": "time with a customer, often a customer"
+    },
+    {
+      "time": "2:07",
+      "text": "with a big fancy logo in their office"
+    },
+    {
+      "time": "2:09",
+      "text": "observing how they work and kind of"
+    },
+    {
+      "time": "2:12",
+      "text": "co-designing this product alongside the"
+    },
+    {
+      "time": "2:14",
+      "text": "customer to meet their needs. It sounds"
+    },
+    {
+      "time": "2:17",
+      "text": "really good in theory. The issue is that"
+    },
+    {
+      "time": "2:19",
+      "text": "these design partnerships are often way"
+    },
+    {
+      "time": "2:22",
+      "text": "too long, 3 months, 6 months, and"
+    },
+    {
+      "time": "2:24",
+      "text": "they're poorly defined in scope and"
+    },
+    {
+      "time": "2:27",
+      "text": "suffer from really low engagement from"
+    },
+    {
+      "time": "2:29",
+      "text": "the customer as a result. Since the"
+    },
+    {
+      "time": "2:31",
+      "text": "customer isn't paying for your time and"
+    },
+    {
+      "time": "2:34",
+      "text": "frankly, they've got their own business"
+    },
+    {
+      "time": "2:35",
+      "text": "to run, they just don't spend that much"
+    },
+    {
+      "time": "2:37",
+      "text": "time with you co-designing the product."
+    },
+    {
+      "time": "2:39",
+      "text": "The entire engagement is all kind of, I"
+    },
+    {
+      "time": "2:41",
+      "text": "don't know, like vague and meandering."
+    },
+    {
+      "time": "2:44",
+      "text": "You've got this fancy logo on your"
+    },
+    {
+      "time": "2:46",
+      "text": "website as a design partner, which feels"
+    },
+    {
+      "time": "2:48",
+      "text": "like progress to you and you're pretty"
+    },
+    {
+      "time": "2:49",
+      "text": "proud of it. And so, you don't want to"
+    },
+    {
+      "time": "2:51",
+      "text": "remove it from your website, but really,"
+    },
+    {
+      "time": "2:53",
+      "text": "you're not getting any closer to real"
+    },
+    {
+      "time": "2:55",
+      "text": "revenue with this customer. It is"
+    },
+    {
+      "time": "2:57",
+      "text": "extremely valuable to be able to sit"
+    },
+    {
+      "time": "2:59",
+      "text": "next to a customer in their office and"
+    },
+    {
+      "time": "3:00",
+      "text": "and observe their work, you know, sit"
+    },
+    {
+      "time": "3:02",
+      "text": "next to their keyboard and see what"
+    },
+    {
+      "time": "3:04",
+      "text": "they're doing uh for a few days. When"
+    },
+    {
+      "time": "3:07",
+      "text": "doing so, I generally suggest founders"
+    },
+    {
+      "time": "3:09",
+      "text": "try to identify like narrow pieces of"
+    },
+    {
+      "time": "3:11",
+      "text": "work that they can automate. Maybe you"
+    },
+    {
+      "time": "3:14",
+      "text": "ask a customer something like, uh,"
+    },
+    {
+      "time": "3:16",
+      "text": "what's the part of your job you hate the"
+    },
+    {
+      "time": "3:18",
+      "text": "most? Or if you could wave a magic wand,"
+    },
+    {
+      "time": "3:20",
+      "text": "what part of your work would you get rid"
+    },
+    {
+      "time": "3:22",
+      "text": "of? You can even offer to do the work"
+    },
+    {
+      "time": "3:24",
+      "text": "yourself manually for the customer so"
+    },
+    {
+      "time": "3:26",
+      "text": "that you really understand what's"
+    },
+    {
+      "time": "3:28",
+      "text": "involved. We've seen some of the best"
+    },
+    {
+      "time": "3:30",
+      "text": "founders even go undercover and get"
+    },
+    {
+      "time": "3:33",
+      "text": "qualified to work as an auditor or a"
+    },
+    {
+      "time": "3:35",
+      "text": "real estate agent or an accountant and"
+    },
+    {
+      "time": "3:37",
+      "text": "actually go and do the work like get a"
+    },
+    {
+      "time": "3:39",
+      "text": "job for a couple of months so they"
+    },
+    {
+      "time": "3:41",
+      "text": "deeply understand the problem in the"
+    },
+    {
+      "time": "3:43",
+      "text": "domain space. Really, the goal of all of"
+    },
+    {
+      "time": "3:45",
+      "text": "this is to identify a really narrow"
+    },
+    {
+      "time": "3:48",
+      "text": "burning problem, and you'd be able to go"
+    },
+    {
+      "time": "3:51",
+      "text": "away and build a narrow wedge product in"
+    },
+    {
+      "time": "3:53",
+      "text": "as little as 48 hours and bring it back"
+    },
+    {
+      "time": "3:55",
+      "text": "to the customer and ask them to try it,"
+    },
+    {
+      "time": "3:57",
+      "text": "see if it solves their problem. And I'd"
+    },
+    {
+      "time": "3:59",
+      "text": "keep iterating over different like"
+    },
+    {
+      "time": "4:01",
+      "text": "problem and solution sets until you find"
+    },
+    {
+      "time": "4:04",
+      "text": "an initial wedge product that they"
+    },
+    {
+      "time": "4:06",
+      "text": "absolutely love. So, if they are happy"
+    },
+    {
+      "time": "4:08",
+      "text": "to pay you and use your wed product, I"
+    },
+    {
+      "time": "4:10",
+      "text": "then actually wouldn't build more stuff."
+    },
+    {
+      "time": "4:12",
+      "text": "I try and take that wedge product and"
+    },
+    {
+      "time": "4:14",
+      "text": "try and sell it to another 10 similar"
+    },
+    {
+      "time": "4:17",
+      "text": "customers. What many founders do which"
+    },
+    {
+      "time": "4:19",
+      "text": "is a mistake is to try and overbuild a"
+    },
+    {
+      "time": "4:22",
+      "text": "really broad platform which is a mistake"
+    },
+    {
+      "time": "4:25",
+      "text": "at this stage of your company because"
+    },
+    {
+      "time": "4:26",
+      "text": "you just don't have the resources. You"
+    },
+    {
+      "time": "4:28",
+      "text": "can waste a lot of time without any real"
+    },
+    {
+      "time": "4:31",
+      "text": "signal that the customer wants what"
+    },
+    {
+      "time": "4:33",
+      "text": "you're building. And founders often"
+    },
+    {
+      "time": "4:35",
+      "text": "justify this as like trying to reach"
+    },
+    {
+      "time": "4:36",
+      "text": "feature par with the existing software"
+    },
+    {
+      "time": "4:39",
+      "text": "which because you're such a small"
+    },
+    {
+      "time": "4:40",
+      "text": "startup is very very difficult. instead"
+    },
+    {
+      "time": "4:42",
+      "text": "I just focus on doing one part of that"
+    },
+    {
+      "time": "4:44",
+      "text": "um of that solution really really well"
+    },
+    {
+      "time": "4:46",
+      "text": "like really focusing on a narrow wedge."
+    },
+    {
+      "time": "4:48",
+      "text": "The problem with building something very"
+    },
+    {
+      "time": "4:50",
+      "text": "broad is that rather than telling you"
+    },
+    {
+      "time": "4:53",
+      "text": "look this sucks I wouldn't use it the"
+    },
+    {
+      "time": "4:55",
+      "text": "design partner instead tries to be"
+    },
+    {
+      "time": "4:58",
+      "text": "helpful and maybe they imagine just one"
+    },
+    {
+      "time": "5:01",
+      "text": "more feature that they might want that"
+    },
+    {
+      "time": "5:03",
+      "text": "might make it valuable and really they"
+    },
+    {
+      "time": "5:05",
+      "text": "just don't want to hurt your feelings by"
+    },
+    {
+      "time": "5:06",
+      "text": "saying no this sucks. I've also seen"
+    },
+    {
+      "time": "5:09",
+      "text": "customers treat founders in a design"
+    },
+    {
+      "time": "5:11",
+      "text": "partnership as like an unpaid dev shop."
+    },
+    {
+      "time": "5:14",
+      "text": "The customer gives the founders an"
+    },
+    {
+      "time": "5:15",
+      "text": "extremely detailed list of software"
+    },
+    {
+      "time": "5:17",
+      "text": "requirements that's only really relevant"
+    },
+    {
+      "time": "5:19",
+      "text": "to their business and the list keeps"
+    },
+    {
+      "time": "5:21",
+      "text": "growing. The founders understandably"
+    },
+    {
+      "time": "5:24",
+      "text": "want to make their first customer"
+    },
+    {
+      "time": "5:25",
+      "text": "really, really happy, but they're too"
+    },
+    {
+      "time": "5:27",
+      "text": "meek to ask for money. So, they do all"
+    },
+    {
+      "time": "5:29",
+      "text": "this bespoke work for free and it ends"
+    },
+    {
+      "time": "5:32",
+      "text": "up kind of seeming like an abusive"
+    },
+    {
+      "time": "5:33",
+      "text": "relationship. I'm not saying that all"
+    },
+    {
+      "time": "5:35",
+      "text": "design partnerships are a waste of time,"
+    },
+    {
+      "time": "5:37",
+      "text": "just most of them. Generally speaking,"
+    },
+    {
+      "time": "5:41",
+      "text": "more and more features are not the"
+    },
+    {
+      "time": "5:42",
+      "text": "answer. Instead, try to pick an initial"
+    },
+    {
+      "time": "5:45",
+      "text": "wedge product and sell it aggressively"
+    },
+    {
+      "time": "5:47",
+      "text": "for a couple of weeks. And if it doesn't"
+    },
+    {
+      "time": "5:49",
+      "text": "work, pick a different wedge. So, bad"
+    },
+    {
+      "time": "5:52",
+      "text": "design partnerships is the most common"
+    },
+    {
+      "time": "5:54",
+      "text": "problem I see with B2B startups coming"
+    },
+    {
+      "time": "5:56",
+      "text": "into YC and and doing sales for the"
+    },
+    {
+      "time": "5:58",
+      "text": "first time. Founders cling to these"
+    },
+    {
+      "time": "6:00",
+      "text": "long, poorly defined design"
+    },
+    {
+      "time": "6:02",
+      "text": "partnerships. they're just going"
+    },
+    {
+      "time": "6:03",
+      "text": "nowhere. They get stuck in low bandwidth"
+    },
+    {
+      "time": "6:06",
+      "text": "communication with a disengaged partner"
+    },
+    {
+      "time": "6:08",
+      "text": "and can't figure out how to move"
+    },
+    {
+      "time": "6:10",
+      "text": "forwards. So once founders figure out"
+    },
+    {
+      "time": "6:12",
+      "text": "that design partnerships can be a waste"
+    },
+    {
+      "time": "6:14",
+      "text": "of time, then they move on to free"
+    },
+    {
+      "time": "6:18",
+      "text": "trials, pilots, or proof of concepts."
+    },
+    {
+      "time": "6:20",
+      "text": "These are really all the same kind of"
+    },
+    {
+      "time": "6:22",
+      "text": "thing, honestly. Maybe you have an"
+    },
+    {
+      "time": "6:24",
+      "text": "initial product built or at least an a"
+    },
+    {
+      "time": "6:26",
+      "text": "narrow wedge product that people can"
+    },
+    {
+      "time": "6:28",
+      "text": "use, but maybe you don't have the social"
+    },
+    {
+      "time": "6:30",
+      "text": "proof from other customers that this"
+    },
+    {
+      "time": "6:32",
+      "text": "thing really works yet. And so"
+    },
+    {
+      "time": "6:34",
+      "text": "naturally, uh, your early customers want"
+    },
+    {
+      "time": "6:36",
+      "text": "to try the thing out before they make a"
+    },
+    {
+      "time": "6:38",
+      "text": "financial commitment. These are normally"
+    },
+    {
+      "time": "6:40",
+      "text": "called pilots or proof of concepts. One"
+    },
+    {
+      "time": "6:42",
+      "text": "founder recently told me that a"
+    },
+    {
+      "time": "6:44",
+      "text": "customer, I think they were in France,"
+    },
+    {
+      "time": "6:46",
+      "text": "even asked them for a pre-proof concept,"
+    },
+    {
+      "time": "6:49",
+      "text": "which seems very low commitment. I I"
+    },
+    {
+      "time": "6:50",
+      "text": "really don't know what that is at all."
+    },
+    {
+      "time": "6:52",
+      "text": "The most common problem for these free"
+    },
+    {
+      "time": "6:54",
+      "text": "trials is again they're too long, maybe"
+    },
+    {
+      "time": "6:57",
+      "text": "two or three months, and they suffer"
+    },
+    {
+      "time": "7:00",
+      "text": "from the same low commitment problems as"
+    },
+    {
+      "time": "7:02",
+      "text": "a design partnership. There's no target"
+    },
+    {
+      "time": "7:04",
+      "text": "or end goal, and the customer isn't"
+    },
+    {
+      "time": "7:06",
+      "text": "really committed uh to engaging with the"
+    },
+    {
+      "time": "7:09",
+      "text": "product or the design process. So, if"
+    },
+    {
+      "time": "7:11",
+      "text": "you're doing a proof of concept, you"
+    },
+    {
+      "time": "7:13",
+      "text": "need to understand what are you trying"
+    },
+    {
+      "time": "7:15",
+      "text": "to prove? What are the agreed success"
+    },
+    {
+      "time": "7:17",
+      "text": "metrics you're aiming for? If you've"
+    },
+    {
+      "time": "7:19",
+      "text": "seen my B2B pricing video, I talk about"
+    },
+    {
+      "time": "7:21",
+      "text": "defining the value equation with the"
+    },
+    {
+      "time": "7:23",
+      "text": "customer. So, for example, that's uh"
+    },
+    {
+      "time": "7:26",
+      "text": "what percentage saving or revenue uplift"
+    },
+    {
+      "time": "7:29",
+      "text": "are you going to deliver that makes your"
+    },
+    {
+      "time": "7:31",
+      "text": "product a good return on investment? For"
+    },
+    {
+      "time": "7:33",
+      "text": "example, if you're selling a customer"
+    },
+    {
+      "time": "7:35",
+      "text": "service AI, you might claim your product"
+    },
+    {
+      "time": "7:38",
+      "text": "might solve 20% of inbound customer"
+    },
+    {
+      "time": "7:40",
+      "text": "queries. The customer will be able to"
+    },
+    {
+      "time": "7:43",
+      "text": "reduce their customer service team from"
+    },
+    {
+      "time": "7:44",
+      "text": "a 100 people to 80 people, saving"
+    },
+    {
+      "time": "7:47",
+      "text": "perhaps a million dollars in salaries"
+    },
+    {
+      "time": "7:49",
+      "text": "every year. That's the value you claim"
+    },
+    {
+      "time": "7:51",
+      "text": "to be delivering. And in return, you"
+    },
+    {
+      "time": "7:54",
+      "text": "might charge $200,000 for that software."
+    },
+    {
+      "time": "7:57",
+      "text": "And so, a well-designed pilot or proof"
+    },
+    {
+      "time": "8:00",
+      "text": "of concept is an ideal way to prove that"
+    },
+    {
+      "time": "8:03",
+      "text": "value. Maybe the customer doesn't really"
+    },
+    {
+      "time": "8:05",
+      "text": "believe you can actually solve 20% of"
+    },
+    {
+      "time": "8:07",
+      "text": "their queries. So you say give us a"
+    },
+    {
+      "time": "8:09",
+      "text": "sample of a thousand queries and let's"
+    },
+    {
+      "time": "8:11",
+      "text": "measure how many we can actually solve"
+    },
+    {
+      "time": "8:13",
+      "text": "for you. Is it really 20%, or is it 15"
+    },
+    {
+      "time": "8:16",
+      "text": "or is it 25% even? Once you've done"
+    },
+    {
+      "time": "8:19",
+      "text": "that, your internal champion can now"
+    },
+    {
+      "time": "8:21",
+      "text": "take the value equation that you've"
+    },
+    {
+      "time": "8:22",
+      "text": "defined with them and this proof that"
+    },
+    {
+      "time": "8:24",
+      "text": "you can actually deliver that value to"
+    },
+    {
+      "time": "8:27",
+      "text": "their CFO or the CEO and explain why"
+    },
+    {
+      "time": "8:29",
+      "text": "it's um a really good investment for"
+    },
+    {
+      "time": "8:32",
+      "text": "their firm. If they pay you $200,000,"
+    },
+    {
+      "time": "8:35",
+      "text": "they're going to get a million dollars"
+    },
+    {
+      "time": "8:36",
+      "text": "of benefit. It's a win-win. So, pilots"
+    },
+    {
+      "time": "8:38",
+      "text": "can be a way to convince cautious buyers"
+    },
+    {
+      "time": "8:41",
+      "text": "and overcome objections. Uh there are"
+    },
+    {
+      "time": "8:44",
+      "text": "different techniques. You might offer"
+    },
+    {
+      "time": "8:45",
+      "text": "back testing on historical data or even"
+    },
+    {
+      "time": "8:48",
+      "text": "sidebyside uh trials with their existing"
+    },
+    {
+      "time": "8:50",
+      "text": "process. So, for example, your customer"
+    },
+    {
+      "time": "8:53",
+      "text": "service product will be producing"
+    },
+    {
+      "time": "8:55",
+      "text": "answers alongside human agents and you"
+    },
+    {
+      "time": "8:58",
+      "text": "can compare the answers at the end. the"
+    },
+    {
+      "time": "9:00",
+      "text": "answers that your agent's providing"
+    },
+    {
+      "time": "9:02",
+      "text": "isn't really going to go to the"
+    },
+    {
+      "time": "9:04",
+      "text": "customers, but they're compared side by"
+    },
+    {
+      "time": "9:05",
+      "text": "side for a realistic um evaluation. Or"
+    },
+    {
+      "time": "9:09",
+      "text": "you might offer to take on just 1% of"
+    },
+    {
+      "time": "9:11",
+      "text": "their total customer service volume,"
+    },
+    {
+      "time": "9:13",
+      "text": "which is low risk. Or you could pick a a"
+    },
+    {
+      "time": "9:15",
+      "text": "smaller geography that they roll you out"
+    },
+    {
+      "time": "9:17",
+      "text": "in before rolling you out across larger"
+    },
+    {
+      "time": "9:19",
+      "text": "geographies. Again, this is a chance to"
+    },
+    {
+      "time": "9:22",
+      "text": "show that your product works in a lower"
+    },
+    {
+      "time": "9:23",
+      "text": "risk environment, so your champion is"
+    },
+    {
+      "time": "9:25",
+      "text": "not going to get fired if it all goes"
+    },
+    {
+      "time": "9:26",
+      "text": "wrong. But the problem with these free"
+    },
+    {
+      "time": "9:28",
+      "text": "pilots often is they still risk"
+    },
+    {
+      "time": "9:30",
+      "text": "suffering from low engagement from the"
+    },
+    {
+      "time": "9:32",
+      "text": "customers and founders are often very"
+    },
+    {
+      "time": "9:34",
+      "text": "afraid to have a willingness to pay"
+    },
+    {
+      "time": "9:36",
+      "text": "conversation. They feel like if they"
+    },
+    {
+      "time": "9:39",
+      "text": "bring a dollar amount up, it might scare"
+    },
+    {
+      "time": "9:41",
+      "text": "the customer off. But honestly, that's"
+    },
+    {
+      "time": "9:43",
+      "text": "almost always not true. It's so so"
+    },
+    {
+      "time": "9:45",
+      "text": "important to have the the conversation"
+    },
+    {
+      "time": "9:47",
+      "text": "with the customer. If I can solve this"
+    },
+    {
+      "time": "9:49",
+      "text": "problem for you and deliver these"
+    },
+    {
+      "time": "9:51",
+      "text": "metrics we've talked about, how much"
+    },
+    {
+      "time": "9:53",
+      "text": "would that be worth to you? you really"
+    },
+    {
+      "time": "9:55",
+      "text": "need to disqualify customers who just"
+    },
+    {
+      "time": "9:57",
+      "text": "aren't ready, able, or willing to buy"
+    },
+    {
+      "time": "10:00",
+      "text": "your product. So, after the free trial,"
+    },
+    {
+      "time": "10:03",
+      "text": "founders normally move to paid trials."
+    },
+    {
+      "time": "10:06",
+      "text": "We've talked about design partnerships"
+    },
+    {
+      "time": "10:08",
+      "text": "and and free trials that go on forever."
+    },
+    {
+      "time": "10:10",
+      "text": "When founders really get into the groove"
+    },
+    {
+      "time": "10:12",
+      "text": "and start ramping up their sales, they"
+    },
+    {
+      "time": "10:14",
+      "text": "figure out they need to make these"
+    },
+    {
+      "time": "10:15",
+      "text": "pilots much shorter and get a paid"
+    },
+    {
+      "time": "10:18",
+      "text": "commitment upfront. Getting a financial"
+    },
+    {
+      "time": "10:21",
+      "text": "commitment from the customer is going to"
+    },
+    {
+      "time": "10:22",
+      "text": "make them take your pilot much, much"
+    },
+    {
+      "time": "10:24",
+      "text": "more seriously. They're now paying for"
+    },
+    {
+      "time": "10:26",
+      "text": "your time and hopefully won't want to"
+    },
+    {
+      "time": "10:28",
+      "text": "waste their money. As well as the cost"
+    },
+    {
+      "time": "10:30",
+      "text": "of the pilot, I'd also ask upfront about"
+    },
+    {
+      "time": "10:33",
+      "text": "their willingness to pay for the full"
+    },
+    {
+      "time": "10:35",
+      "text": "product. You know, what's the annual fee"
+    },
+    {
+      "time": "10:37",
+      "text": "going to be and the price point. It's"
+    },
+    {
+      "time": "10:39",
+      "text": "better to know early if they just aren't"
+    },
+    {
+      "time": "10:42",
+      "text": "going to pay you any money whatsoever to"
+    },
+    {
+      "time": "10:44",
+      "text": "solve this problem. If it helps you"
+    },
+    {
+      "time": "10:45",
+      "text": "avoid going through a full procurement"
+    },
+    {
+      "time": "10:47",
+      "text": "process or having to talk to finance or"
+    },
+    {
+      "time": "10:49",
+      "text": "the CFO, you can ask your champion for"
+    },
+    {
+      "time": "10:51",
+      "text": "the amount that they can personally"
+    },
+    {
+      "time": "10:53",
+      "text": "approve. Maybe it's a $10,000 or $20,000"
+    },
+    {
+      "time": "10:56",
+      "text": "charge on their corporate credit card."
+    },
+    {
+      "time": "10:58",
+      "text": "I'd often take less money if it allows"
+    },
+    {
+      "time": "11:00",
+      "text": "you to shortcut a long long approval"
+    },
+    {
+      "time": "11:02",
+      "text": "process. You might also ask for other"
+    },
+    {
+      "time": "11:05",
+      "text": "kind of commitments from the customer to"
+    },
+    {
+      "time": "11:07",
+      "text": "ensure that the pilot is successful"
+    },
+    {
+      "time": "11:09",
+      "text": "beyond simply a financial commitment."
+    },
+    {
+      "time": "11:11",
+      "text": "Say you're doing work for an auditor or"
+    },
+    {
+      "time": "11:13",
+      "text": "an accountant. Perhaps you should wait"
+    },
+    {
+      "time": "11:16",
+      "text": "until there's a live project kicking off"
+    },
+    {
+      "time": "11:18",
+      "text": "that's suitable for you to test your"
+    },
+    {
+      "time": "11:20",
+      "text": "product on. So you say, \"Let's not start"
+    },
+    {
+      "time": "11:22",
+      "text": "this month. Let's wait until the first"
+    },
+    {
+      "time": "11:24",
+      "text": "of next month because I know you've got"
+    },
+    {
+      "time": "11:25",
+      "text": "this important new project with a new"
+    },
+    {
+      "time": "11:27",
+      "text": "client. That would be a perfect test"
+    },
+    {
+      "time": "11:28",
+      "text": "case for our software.\" You might insist"
+    },
+    {
+      "time": "11:30",
+      "text": "there's client data ready to go or a"
+    },
+    {
+      "time": "11:33",
+      "text": "person or even a whole team that's"
+    },
+    {
+      "time": "11:35",
+      "text": "dedicated on the client side to testing"
+    },
+    {
+      "time": "11:38",
+      "text": "your product. I'd strongly advise you"
+    },
+    {
+      "time": "11:40",
+      "text": "also schedule check-ins every couple of"
+    },
+    {
+      "time": "11:42",
+      "text": "days with these people. So, if they find"
+    },
+    {
+      "time": "11:44",
+      "text": "any bugs or niggles with your software,"
+    },
+    {
+      "time": "11:46",
+      "text": "you can fix it overnight and bring it"
+    },
+    {
+      "time": "11:48",
+      "text": "back to them, which will really impress"
+    },
+    {
+      "time": "11:49",
+      "text": "an enterprise customer. All of that"
+    },
+    {
+      "time": "11:51",
+      "text": "might mean you delay the pilot starting"
+    },
+    {
+      "time": "11:54",
+      "text": "by a few weeks until there's a suitable"
+    },
+    {
+      "time": "11:55",
+      "text": "project. But then from the start date,"
+    },
+    {
+      "time": "11:57",
+      "text": "you can insist on a really high"
+    },
+    {
+      "time": "11:59",
+      "text": "engagement from the customer. I'd also"
+    },
+    {
+      "time": "12:01",
+      "text": "keep the time frame as short as"
+    },
+    {
+      "time": "12:03",
+      "text": "possible. really just long enough that"
+    },
+    {
+      "time": "12:05",
+      "text": "they can use your software and"
+    },
+    {
+      "time": "12:07",
+      "text": "experience the full benefit. Maybe"
+    },
+    {
+      "time": "12:09",
+      "text": "that's seven or 14 days if you've got"
+    },
+    {
+      "time": "12:11",
+      "text": "the product dialed in uh really well."
+    },
+    {
+      "time": "12:13",
+      "text": "And remember, because your product is so"
+    },
+    {
+      "time": "12:15",
+      "text": "early, you're never really selling a"
+    },
+    {
+      "time": "12:17",
+      "text": "complete bug-free experience. You're"
+    },
+    {
+      "time": "12:20",
+      "text": "actually selling the founders and the"
+    },
+    {
+      "time": "12:21",
+      "text": "early team. You're selling the promise"
+    },
+    {
+      "time": "12:24",
+      "text": "that you personally are going to solve"
+    },
+    {
+      "time": "12:26",
+      "text": "this problem for them. You're promising"
+    },
+    {
+      "time": "12:28",
+      "text": "that if anything goes wrong, they have"
+    },
+    {
+      "time": "12:30",
+      "text": "your personal cell phone number and"
+    },
+    {
+      "time": "12:31",
+      "text": "you're going to respond 24/7 to get the"
+    },
+    {
+      "time": "12:34",
+      "text": "problem fixed. I'd track the time to"
+    },
+    {
+      "time": "12:36",
+      "text": "first value like a northstar metric,"
+    },
+    {
+      "time": "12:39",
+      "text": "reducing it from weeks to hours, is"
+    },
+    {
+      "time": "12:41",
+      "text": "often the biggest single lever for"
+    },
+    {
+      "time": "12:43",
+      "text": "higher pilot to paid conversion. What"
+    },
+    {
+      "time": "12:45",
+      "text": "this actually means is doing janky stuff"
+    },
+    {
+      "time": "12:48",
+      "text": "to get your product live as soon as"
+    },
+    {
+      "time": "12:50",
+      "text": "possible. For example, I would never do"
+    },
+    {
+      "time": "12:52",
+      "text": "a full API integration during a pilot if"
+    },
+    {
+      "time": "12:55",
+      "text": "it requires any engineering time from"
+    },
+    {
+      "time": "12:56",
+      "text": "the customer whatsoever because that's"
+    },
+    {
+      "time": "12:58",
+      "text": "just going to delay you by months. If"
+    },
+    {
+      "time": "13:00",
+      "text": "you can work from Excel imports and"
+    },
+    {
+      "time": "13:02",
+      "text": "exports, for example, that can work or"
+    },
+    {
+      "time": "13:04",
+      "text": "ask the customer to email you the data"
+    },
+    {
+      "time": "13:06",
+      "text": "you need and then email back the"
+    },
+    {
+      "time": "13:08",
+      "text": "completed work. So, you're really trying"
+    },
+    {
+      "time": "13:09",
+      "text": "to get to the point where they can"
+    },
+    {
+      "time": "13:11",
+      "text": "experience the value of your product as"
+    },
+    {
+      "time": "13:12",
+      "text": "quickly as possible. I'd also insist you"
+    },
+    {
+      "time": "13:14",
+      "text": "book a post-pilot meeting before the"
+    },
+    {
+      "time": "13:17",
+      "text": "pilot even starts. That's a meeting"
+    },
+    {
+      "time": "13:19",
+      "text": "where you can go through the metrics at"
+    },
+    {
+      "time": "13:21",
+      "text": "the end of the pilot and show hard ROI"
+    },
+    {
+      "time": "13:24",
+      "text": "numbers. It should be really crystal"
+    },
+    {
+      "time": "13:26",
+      "text": "clear to the customer at the end of this"
+    },
+    {
+      "time": "13:28",
+      "text": "process whether they want to keep using"
+    },
+    {
+      "time": "13:30",
+      "text": "your software. Now, this is all pretty"
+    },
+    {
+      "time": "13:32",
+      "text": "good, but the downside of a paid pilot"
+    },
+    {
+      "time": "13:35",
+      "text": "is you still need to go and negotiate"
+    },
+    {
+      "time": "13:37",
+      "text": "the full contract afterwards. It's like"
+    },
+    {
+      "time": "13:40",
+      "text": "a whole second sales process just when"
+    },
+    {
+      "time": "13:42",
+      "text": "you thought you had a customer who was"
+    },
+    {
+      "time": "13:44",
+      "text": "ready to buy. And this can be very, very"
+    },
+    {
+      "time": "13:46",
+      "text": "frustrating. So to get around this,"
+    },
+    {
+      "time": "13:48",
+      "text": "really sophisticated founders move on"
+    },
+    {
+      "time": "13:51",
+      "text": "from paid pilots to recurring revenue"
+    },
+    {
+      "time": "13:53",
+      "text": "contracts with an opt- out period. So"
+    },
+    {
+      "time": "13:56",
+      "text": "this is typically a monthly or annually"
+    },
+    {
+      "time": "13:58",
+      "text": "recurring contract with a 30 or 60-day"
+    },
+    {
+      "time": "14:01",
+      "text": "money back guarantee or opt- out period"
+    },
+    {
+      "time": "14:03",
+      "text": "at the very start. But by default, if"
+    },
+    {
+      "time": "14:05",
+      "text": "the customer does nothing and is happy"
+    },
+    {
+      "time": "14:07",
+      "text": "with your product, it's going to turn"
+    },
+    {
+      "time": "14:08",
+      "text": "into a full recurring contract after"
+    },
+    {
+      "time": "14:11",
+      "text": "that opt- out period with no additional"
+    },
+    {
+      "time": "14:13",
+      "text": "sales process needed. That's the pro"
+    },
+    {
+      "time": "14:15",
+      "text": "move. It's like magic. It's one sales"
+    },
+    {
+      "time": "14:18",
+      "text": "process that turns into a recurring"
+    },
+    {
+      "time": "14:20",
+      "text": "revenue contract. And it can be very"
+    },
+    {
+      "time": "14:22",
+      "text": "persuasive to be in a sales meeting and"
+    },
+    {
+      "time": "14:24",
+      "text": "confidently say, \"Well, this is how"
+    },
+    {
+      "time": "14:26",
+      "text": "customers buy our product. Typically, we"
+    },
+    {
+      "time": "14:28",
+      "text": "offer annual contracts with a 30-day"
+    },
+    {
+      "time": "14:30",
+      "text": "grace period or an opt- out and customer"
+    },
+    {
+      "time": "14:33",
+      "text": "X, Y, and Z all signed on these terms.\""
+    },
+    {
+      "time": "14:36",
+      "text": "It can be hard as a an early stage"
+    },
+    {
+      "time": "14:38",
+      "text": "founder to leap straight to this step"
+    },
+    {
+      "time": "14:40",
+      "text": "when you're just starting out. Maybe"
+    },
+    {
+      "time": "14:42",
+      "text": "your sales process isn't good enough."
+    },
+    {
+      "time": "14:44",
+      "text": "Maybe you don't have the social proof or"
+    },
+    {
+      "time": "14:46",
+      "text": "maybe simply your product isn't ready"
+    },
+    {
+      "time": "14:48",
+      "text": "yet. So starting with an earlier step,"
+    },
+    {
+      "time": "14:50",
+      "text": "perhaps a free pilot for the first one"
+    },
+    {
+      "time": "14:53",
+      "text": "or two customers and then moving onwards"
+    },
+    {
+      "time": "14:55",
+      "text": "can be an option. Of course, you can't"
+    },
+    {
+      "time": "14:58",
+      "text": "run before you can walk. But don't be"
+    },
+    {
+      "time": "15:00",
+      "text": "stuck crawling on all fours for too long"
+    },
+    {
+      "time": "15:02",
+      "text": "either. And for me, that's the overly"
+    },
+    {
+      "time": "15:04",
+      "text": "long design partnership with no"
+    },
+    {
+      "time": "15:06",
+      "text": "financial commitment. As a side note"
+    },
+    {
+      "time": "15:08",
+      "text": "here, be careful what you report to"
+    },
+    {
+      "time": "15:10",
+      "text": "investors as MR or ARR, especially if"
+    },
+    {
+      "time": "15:13",
+      "text": "customers are still in that opt- out"
+    },
+    {
+      "time": "15:15",
+      "text": "period. Just be super clear with"
+    },
+    {
+      "time": "15:16",
+      "text": "investors when you're reporting these"
+    },
+    {
+      "time": "15:18",
+      "text": "numbers where the customers sit. I think"
+    },
+    {
+      "time": "15:20",
+      "text": "the tactic is still absolutely spoton."
+    },
+    {
+      "time": "15:22",
+      "text": "This is just a communication point with"
+    },
+    {
+      "time": "15:24",
+      "text": "investors. So, when you've got early"
+    },
+    {
+      "time": "15:26",
+      "text": "sales really dialed in, you might be"
+    },
+    {
+      "time": "15:28",
+      "text": "closing one of these recurring revenue"
+    },
+    {
+      "time": "15:30",
+      "text": "contracts every week or two. After"
+    },
+    {
+      "time": "15:32",
+      "text": "you've signed these contracts, that"
+    },
+    {
+      "time": "15:33",
+      "text": "takes us to the next thing you should"
+    },
+    {
+      "time": "15:35",
+      "text": "focus on, which is customer success. So,"
+    },
+    {
+      "time": "15:38",
+      "text": "after you've signed these contracts, you"
+    },
+    {
+      "time": "15:39",
+      "text": "may often need to dedicate as much or"
+    },
+    {
+      "time": "15:41",
+      "text": "even more effort to actually onboarding"
+    },
+    {
+      "time": "15:44",
+      "text": "the customer and making sure they're"
+    },
+    {
+      "time": "15:45",
+      "text": "getting value out of your product. I"
+    },
+    {
+      "time": "15:47",
+      "text": "spoke to a company just this week that"
+    },
+    {
+      "time": "15:49",
+      "text": "had signed $4 million worth of"
+    },
+    {
+      "time": "15:51",
+      "text": "contracts, but they implemented less"
+    },
+    {
+      "time": "15:53",
+      "text": "than $2 million of those contracts."
+    },
+    {
+      "time": "15:56",
+      "text": "They're simply missing a customer"
+    },
+    {
+      "time": "15:57",
+      "text": "success function. Finally, I want to"
+    },
+    {
+      "time": "16:00",
+      "text": "finish up with some tips that I've"
+    },
+    {
+      "time": "16:01",
+      "text": "learned from YC companies over the last"
+    },
+    {
+      "time": "16:03",
+      "text": "years. First, get Sock 2 started as soon"
+    },
+    {
+      "time": "16:07",
+      "text": "as possible, as well as any other"
+    },
+    {
+      "time": "16:09",
+      "text": "security certifications. It might be"
+    },
+    {
+      "time": "16:11",
+      "text": "HIPPA, ISO 27,01."
+    },
+    {
+      "time": "16:14",
+      "text": "These security certifications can delay"
+    },
+    {
+      "time": "16:17",
+      "text": "you by months. And so, I'd get it"
+    },
+    {
+      "time": "16:19",
+      "text": "started today. There are plenty of YC"
+    },
+    {
+      "time": "16:21",
+      "text": "companies that can help you with this,"
+    },
+    {
+      "time": "16:22",
+      "text": "from Vant to to newer companies. I'd"
+    },
+    {
+      "time": "16:25",
+      "text": "figure out who your internal champion is"
+    },
+    {
+      "time": "16:28",
+      "text": "and treat them almost like a co-founder"
+    },
+    {
+      "time": "16:31",
+      "text": "inside the company. It's someone who"
+    },
+    {
+      "time": "16:33",
+      "text": "sells for you when you're not in the"
+    },
+    {
+      "time": "16:34",
+      "text": "room and fights budget battles on your"
+    },
+    {
+      "time": "16:37",
+      "text": "behalf. With this person, I'd try and"
+    },
+    {
+      "time": "16:39",
+      "text": "set and then work towards a defined"
+    },
+    {
+      "time": "16:41",
+      "text": "closing date. They're going to miss it"
+    },
+    {
+      "time": "16:43",
+      "text": "almost every time, but it can still help"
+    },
+    {
+      "time": "16:46",
+      "text": "create urgency within the customer. Ask"
+    },
+    {
+      "time": "16:48",
+      "text": "this person to tell you about their"
+    },
+    {
+      "time": "16:49",
+      "text": "sales process upfront. You might say,"
+    },
+    {
+      "time": "16:52",
+      "text": "\"Describe the last time you bought"
+    },
+    {
+      "time": "16:53",
+      "text": "software like this. Who internally had"
+    },
+    {
+      "time": "16:56",
+      "text": "to prove it? What was the process?\" You"
+    },
+    {
+      "time": "16:58",
+      "text": "can map the organization. You might have"
+    },
+    {
+      "time": "17:00",
+      "text": "the economic buyer, the technical"
+    },
+    {
+      "time": "17:02",
+      "text": "approver, the security gatekeeper, the"
+    },
+    {
+      "time": "17:05",
+      "text": "legal team, the day-to-day users, and"
+    },
+    {
+      "time": "17:07",
+      "text": "then devise a plan to win over each"
+    },
+    {
+      "time": "17:10",
+      "text": "stakeholder explicitly. Once you"
+    },
+    {
+      "time": "17:12",
+      "text": "understand that buying process, try to"
+    },
+    {
+      "time": "17:14",
+      "text": "drive it forward yourself. Don't leave a"
+    },
+    {
+      "time": "17:17",
+      "text": "meeting without the next touch point set"
+    },
+    {
+      "time": "17:19",
+      "text": "up. The next tip to move a contract"
+    },
+    {
+      "time": "17:21",
+      "text": "along is to get on a plane and"
+    },
+    {
+      "time": "17:23",
+      "text": "physically visit your customer in"
+    },
+    {
+      "time": "17:24",
+      "text": "person. It can work wonders. You might"
+    },
+    {
+      "time": "17:27",
+      "text": "email your your champion and say"
+    },
+    {
+      "time": "17:28",
+      "text": "something like, \"Hey, I'm going to be in"
+    },
+    {
+      "time": "17:30",
+      "text": "Houston next week. What do you say about"
+    },
+    {
+      "time": "17:32",
+      "text": "getting lunch?\" And if they say yes, you"
+    },
+    {
+      "time": "17:34",
+      "text": "book your flight to Houston. Don't get"
+    },
+    {
+      "time": "17:36",
+      "text": "caught up in multiple rounds of"
+    },
+    {
+      "time": "17:38",
+      "text": "reviewing contracts or NDAs. Customer"
+    },
+    {
+      "time": "17:41",
+      "text": "legal teams love to do this back and"
+    },
+    {
+      "time": "17:43",
+      "text": "forth. Their entire job is redlining"
+    },
+    {
+      "time": "17:45",
+      "text": "contracts, but it's going to slow you"
+    },
+    {
+      "time": "17:47",
+      "text": "down incredibly, and it doesn't really"
+    },
+    {
+      "time": "17:48",
+      "text": "prevent much risk. So, I'd be pretty"
+    },
+    {
+      "time": "17:50",
+      "text": "flexible on signing, frankly, whatever"
+    },
+    {
+      "time": "17:52",
+      "text": "your early customers want as long as"
+    },
+    {
+      "time": "17:54",
+      "text": "it's not going to expose you to like"
+    },
+    {
+      "time": "17:56",
+      "text": "unlimited liability or container clause"
+    },
+    {
+      "time": "17:58",
+      "text": "that's going to transfer all the IP in"
+    },
+    {
+      "time": "18:00",
+      "text": "your product to your customer or"
+    },
+    {
+      "time": "18:01",
+      "text": "something company ending like that. So,"
+    },
+    {
+      "time": "18:03",
+      "text": "I' I'd really ask yourself, is this"
+    },
+    {
+      "time": "18:05",
+      "text": "clause like company ending or just a"
+    },
+    {
+      "time": "18:07",
+      "text": "slight annoyance? And frankly, put up"
+    },
+    {
+      "time": "18:09",
+      "text": "with anything that that's not going to"
+    },
+    {
+      "time": "18:10",
+      "text": "be company ending. Using scarcity can"
+    },
+    {
+      "time": "18:13",
+      "text": "also work. You might say something like,"
+    },
+    {
+      "time": "18:14",
+      "text": "\"We're talking with seven or eight"
+    },
+    {
+      "time": "18:16",
+      "text": "potential customers, but we really only"
+    },
+    {
+      "time": "18:18",
+      "text": "have the capacity to work with two"
+    },
+    {
+      "time": "18:20",
+      "text": "enterprise customers this quarter. So,"
+    },
+    {
+      "time": "18:22",
+      "text": "if you're interested, we'd love to get a"
+    },
+    {
+      "time": "18:24",
+      "text": "commitment. Otherwise, let's talk again"
+    },
+    {
+      "time": "18:26",
+      "text": "in 6 months.\" So, this has been a pretty"
+    },
+    {
+      "time": "18:28",
+      "text": "exhaustive list. Hopefully, it helps you"
+    },
+    {
+      "time": "18:30",
+      "text": "to up your B2B sales game. But if you've"
+    },
+    {
+      "time": "18:32",
+      "text": "discovered other tips that work for you,"
+    },
+    {
+      "time": "18:34",
+      "text": "please do let us know in the comments"
+    },
+    {
+      "time": "18:36",
+      "text": "below. And as always, thanks for"
+    },
+    {
+      "time": "18:38",
+      "text": "watching."
+    }
+  ]
+}

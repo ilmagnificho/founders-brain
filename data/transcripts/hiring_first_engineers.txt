@@ -1,0 +1,875 @@
+Why your first hires matter
+0:00
+Today we're going to hear from David Paffenholse, co-founder and CEO of Juicebox about how to source great engineering and sales talent. Juicebox
+0:07
+is an AI sourcing platform backed by Sequoia and used by Ramp Cursor and Plexity to recruit the best talent in
+0:13
+the world. First, we'll hear his presentation and then we'll have a conversation to dig deeper into some of
+0:18
+his advice for recruiting.
+0:27
+Hey everyone, I'm David, co-founder of Juicebox. Today we're talking about how to source and hire your first few
+0:34
+engineers and AEES. Especially as a startup, you're probably thinking about a bunch of different things. Getting your next uh few thousand in MR, hiring
+0:41
+and shipping new product features. It can be easy to not focus on the specific people you're bringing on and really
+0:47
+prioritizing speed instead. Speed is really good, but at the same time, there's a lot of reasons your first few
+0:53
+hires matter a ton. You're going to be defining the culture, velocity, and future of your business. That talent in
+0:59
+the early days is shaping that for everyone who follows. Your future hires are going to be looking up to your
+1:05
+founding engineer, your founding AE. And perhaps even more importantly, you will be shaping them and they will be shaping
+1:11
+how you run your business, too. Now, making that even clear, the culture is defined by the first 10 people in the
+What great candidates actually want
+1:18
+company. and perhaps the next 40 people after that for the first 50 people total. Today, Juicebox is a team of 20.
+1:25
+We put a lot of thought into who the first 10 people were we hire and just as much thought into the next 10 as well.
+1:30
+At the same time, hiring is really hard and really competitive. We put a screenshot here uh from an engineer
+1:37
+where you can see the amount of outbound that they will receive. If you're an engineer yourself, you might have received the same LinkedIn DMs, emails,
+1:44
+and more. And so as you're thinking about you recruiting other talent, keep in mind that they're receiving a lot of
+1:50
+outbound themselves and we'll need to make sure that your message and your outreach stands out. So what really
+1:57
+matters when thinking about where talent goes? First, we should think about the options that they have and how they're
+2:03
+probably evaluating joining your company versus joining another company. We think of that in three main buckets. The first
+2:10
+one is big tech. Um, fan companies, as we might imagine, strong compensation
+2:15
+packages and a very stable job. At the same time, the pace will probably be slower. And the impact that those people
+2:22
+are having in those roles is less. We can contrast that with growth stage companies. And so, a few logos on this
+2:28
+slide are kind of later stage or large stage growth companies, Stripe, OpenAI, and Anthropic. But really, most series B
+2:35
+and onwards companies are going to fit into this category. What matters most here is that the compensation has pretty
+2:40
+predictable upside. Uh their stock is likely not going to go to zero and they can estimate how much they'll be making
+2:46
+in future years as the company continues to grow and they're probably already starting at a pretty good base salary as
+2:52
+well. At the same time, their work is somewhat fast-paced and they still feel like they're making somewhat of an
+2:58
+impact. At the same time, there's a lot of structure in place. Um there might be multi-layer orgs. They're definitely not
+3:05
+working with the founders directly and they have less ownership about the work that they actually do. Now, we'll think
+3:11
+about your startup or where you probably are right now. The reason for an early
+3:16
+hire to join is to be able to shape the culture, the product, and the trajectory. They also have the highest
+3:22
+variance in potential outcome on the economics of your stock. They're going to receive the largest equity grants in
+3:28
+your company, but they're also the most likely to go to zero at that point. And so in some ways the risk that an early
+3:34
+employee is taking on is somewhat similar to the risk that a founder takes on. We'll go through different ways to
+3:40
+minimize that risk and sell being at an early stage company in the best way possible. So as we think about what
+3:46
+candidates we're bringing on and hiring, we'll want to make sure that we understand which of those three groups are they leaning towards.
+3:53
+Most talent will already have an inclination one way or another. We might be able to tell based on the companies
+3:59
+that they recently worked at or currently work at or even what they tell us on the interview. When we're speaking to candidates, the first thing we want
+4:05
+to find out is do they have a leaning in one of those three directions? If yes, why? Which of those things matter to
+4:12
+them? And how can we use that to our advantage to convince them to join our company? Now, as we continue the process
+4:18
+with them, we want to make sure that they're staying true to their word. Are they also interviewing with a big tech
+4:24
+company? If so, that might indicate that they're not quite sure in which direction they want to go yet, and we'll
+4:30
+have to circle back to selling on why should they be joining a startup in the first place. Now, once we've figured out
+4:36
+that they want to be joining a startup, we'll have to go to the second question, which is why should they choose your
+How to sell your startup to top talent
+4:41
+startup? We've already established that they probably want to have high impact. They're open to pretty high risk and
+4:47
+they want to have the ownership of being able to work directly on important features, working with the founder
+4:52
+directly and really being able to influence that trajectory. Now, those things can happen at a lot of different startups. And let's say an early
+4:59
+engineer is speaking with your company, they're likely also going to be speaking with other companies, maybe even other
+5:04
+companies in your batch. And so, next, we should think about why they should work at your startup.
+5:10
+This is really unique to you. There's a few guiding points on here that we've often seen be a main selling point. One
+5:17
+of them is being missiondriven. For example, if you're working in an industry that has a specific connection
+5:22
+to certain people. Let's say you're doing a fintech that addresses international bank accounts or you're
+5:29
+working on immigration startup. There might be people that are more driven to that mission and really want to
+5:34
+contribute. Other candidates might be more focused on equity and compensation upside. They view this as a chance to
+5:39
+have a really high variance outcome. And there we might want to focus more on what the potential upside is. Um even
+5:46
+provide a stock calculator for where they might want to go in the future. In other cases, you might have a really
+5:52
+interesting problem space. This could be deep tech. Um things that are really technically big challenges and will
+5:58
+attract a certain pool of people who want to work on those deep challenges. And then finally, and I think this is
+6:03
+often missed, is many people join companies because of the culture and the team, especially referrals. They already
+6:10
+know people who are working at that business and they have a reason to be a part of it. As you pitch your company,
+6:15
+you should make sure that you know which of those four you're pitching, probably pitching one or two of them. And they
+6:21
+might also vary depending on the candidate that you're speaking to. Now that we have some of the initial things
+6:26
+in place, let's think about the sources that we have for finding those candidates.
+6:31
+There's three main ones that we're going to cover at a high level and then we're really going to dive into the sourcing part because that's what's most under
+6:37
+your control. First, you want to maximize your referrals. People that you know, people that you've worked with in
+6:43
+the past, people that your existing team members know as well. You can get very specific on this. In fact, we've seen
+6:50
+companies where on the first day of a new hire, they sit down with that hire and look through every single one of
+6:55
+their connections to see who else could be a good fit and who else they might want to reach out to. You might also
+7:00
+want to include a referral incentive or referral bonus. That can be anywhere from 10 to 20K, sometimes even more for
+7:06
+successful hires. Compared to the fees that you'd pay with, say, a recruiting agency, that referral bonus is often
+7:13
+still a pretty good deal. Next, you'll want to distribute your job. If you're YC startup, you'll definitely want to
+7:18
+post on work at a startup. In fact, Juicebox made its first hire from work at a startup as well, LinkedIn, as well
+7:23
+as any other job boards. Now, apart from work at a startup, most online job boards are likely going to give you a
+7:30
+lot of noise and might not give you the best hit rate on candidates. At the same time, you want to look at that channel
+7:36
+and make sure that you're reviewing those applicants as well. The main thing you can do there that's under your
+7:41
+control is making the JD very easy to read. Um, I think the easiest test is if
+7:46
+you were reading that job description as an applicant, is that something you'd want to apply to? And finally, sourcing.
+Finding and sourcing great engineers
+7:52
+This is where we're going to be going most in depth. proactively identifying and reaching out to the right candidates
+7:58
+for you. We'll cover a bunch of different steps on how to make that good, but first let's talk what is
+8:04
+sourcing and why does it matter in the first place. Sourcing means proactively finding candidates rather than waiting
+8:10
+for applicants who come to you. The best candidates aren't applying. They're probably already working somewhere else.
+8:16
+You can think of this as very similar to outbound sales. You're building a top offunnel pipeline. In this case,
+8:23
+prospecting is like sourcing candidates. You're doing cold outreach in the form of candidate emails or DMs, and then
+8:29
+you're tracking your pipeline and conversion funnel from there. Often times, we're focused exclusively on the
+8:34
+sales part in the early days of the company and driving that initial revenue. At the same time, when we
+8:39
+switch over to hiring and that becomes a big focus, we want to put the same attention and care into the hiring process as we might have when crafting
+8:46
+our initial outbound process, too. So, how do we win at sourcing? There's a few
+8:52
+different steps to it. The first is actually finding candidates. That's the search component. Uh that's where you go
+8:58
+to platforms like LinkedIn Recruiter or Juicebox to help find top candidates for your role. You'll then put together
+9:05
+outreach messaging for them. Uh typically a multi-step campaign. Think email, LinkedIn messaging, um maybe a
+9:11
+few different founders reaching out to the same person. Your goal is to convert them into an interview and then finally
+9:17
+close the candidate from there. So let's talk how we actually do sourcing specifically to two roles sales and
+9:24
+engineering. A lot of your early roles are probably going to be account executives and software engineers. The
+9:30
+sourcing process for those two roles will differ. The screenshot we saw earlier on with all those LinkedIn DMs
+9:36
+was from an engineering role and traditionally software engineering roles in particular have been the most competitive for your outbound sourcing.
+9:43
+Now, while that's a little bit less so the case on the sales side, if you're hiring in a competitive market like San
+9:48
+Francisco or New York, your sales roles are also going to be very competitive, and you'll want to put the same amount
+9:54
+of attention and detail into those roles as well. As you'll scale, you'll become more specialized, focusing on more niche
+10:00
+roles or creating different strategies altogether. We're going to stay focused on sales and engineering for the next
+10:06
+few slides as well. So, how do we actually find people and what specific criteria we can use to find them? Let's
+10:12
+start with AEES. The first strategy you want to take a look at is other companies in your industry. If they've
+10:18
+sold into the same buyer persona, if they've sold a similar deal size, it'll make it particularly easy for them to
+10:24
+adapt to your company as well and hopefully have a faster starting point. We can look for that based on targeting
+10:31
+specific companies or looking for quota attainment signals. Many account executives will publicly list their
+10:37
+quota attainment. You'll see that in the form of things like 100% attainment in Q3 or 140% attainment for a full year.
+10:46
+It can be different for every single AE or different based on how the company operates. Some of them don't have
+10:51
+calendar years as their annual cycles. Uh and so some of the metrics may look a little bit different. Things that are
+10:57
+consistent are President's Club or being ranked in comparison to other AES.
+11:04
+Another factor that can be useful signal in AEES is candidates who have quickly gone through promotion cycles from SDR
+11:11
+to AE, AE to senior AE and more. It's particularly helpful if they've
+11:16
+done that while being at the same company and they've been promoted while working for either the same manager or
+11:22
+within the same team rather than having hopped between companies to get those promotions. And finally, you'll probably
+11:28
+want to look for someone who has been in a fast-paced startup environment. Now, it's unlikely that you'll find someone
+11:34
+who's been at a preede or seed company previously, though those candidates exist as well. You're more likely to
+11:40
+find people who have been at kind of the greater number of series A to C companies where go to market teams
+11:46
+typically scale. Now, let's think through the software engineering side and how we can find them. The first thing I'll highlight for software
+11:52
+engineering is you'll really want to focus on what advantages you have. And so if there's something that you as a
+11:57
+founder or with your co-founders know makes you unique that might appeal to certain people, you'll want to focus on
+12:03
+that in your search strategy as well. For example, I'm from Germany, so some of the initial outreach we did was for
+12:10
+other Germans who now live in the Bay Area. You can also look at specific technologies they may have used or open
+12:15
+source projects they have contributed to. Get as creative as you can, a little bit like you might do for sales. things
+12:22
+we've seen work particularly well for early stage engineering candidates is having shown some experience of building
+12:28
+their own projects or doing something that's more akin to starting a startup. Maybe they've even been a startup
+12:33
+founder in the past or they've built projects that look a lot like a startup. And finally, you'll want to scale your
+12:39
+outreach by going into specific communities. Um, think Slack groups, even through open- source projects or
+12:45
+Discord forums. All of those are great places to recruit. Next, we'll see what that looks like in practice. So, here's
+12:51
+a couple criteria in this case on juice box that we can use to assess different profiles. In the lower section of the
+12:57
+screenshot, you'll see some of those criteria uh including in this case for the AE role, president's club, 100 plus%
+13:04
+attainment, and more. That'll easily rank those profiles for you and highlight ones that you might want to
+13:09
+focus on. Same thing for software engineers. And we'll see some of those criteria that you can use to assess. So,
+13:16
+moving on to the next step, engaging. You can think of this as the outreach step or the email sequencing step of
+Writing outreach that gets replies
+13:21
+getting in touch. There's some similarities for AEES and squeeze here. We'll want to personalize
+13:26
+the outreach. Um, multi-step campaigns will work in every case and you'll want to distribute that outreach across
+13:32
+multiple channels. So, think emails plus LinkedIn steps. Plus, if you have a different way of getting in touch like a
+13:38
+Twitter DM can make a big impact as well. Some things that are more unique to each of the roles on the AE side, you
+13:45
+can focus on pitching the trajectory. Um, many times AEES have a very rigid promotion cycle, especially in large
+13:51
+orgs. Being at a smaller company will give them a faster path to advancing, be that through promotions to focusing on
+13:58
+enterprise sales or at some point even managing a sales team. It also presents an opportunity for them to get into a
+14:03
+leadership role in the long term. And so, for example, for candidates who really want to become a VP sales down
+14:08
+the road, they might have an advantage by betting on a startup and accelerating their career path that way too. At the
+14:15
+same time, AEES who join companies that work out well oftentimes end up having
+14:20
+very strong comp packages because the sales are going well. They're driving that they own the majority of the
+14:26
+pipeline and they have a consistent percentage quote. That's a really good thing for your company. It might feel
+14:31
+like you're overpaying, especially if things are going well, but it's a great signal to attract even more good AES.
+14:36
+They should be making a lot of money if your company is succeeding. Now on the engineering side, we want to highlight
+14:42
+the ownership and challenges that they might be tackling in your role. Often times great engineers are excited by
+14:49
+that. They want to work on really hard problems and they're able to do that at a startup where they can almost choose
+14:54
+the problems that they will be working on. They'll also be in a very autonomous and small culture or small team which
+15:00
+drives that culture. It really matters that the founder, ideally the technical founder is going to be reaching out for
+15:06
+those sweet hires. For example, at Juicebox, Ishan, our CTO, does all of our software engineering outreach. Now,
+15:12
+what does that actually look like for an email? In the slide, we'll see a few example points of what makes an email
+15:18
+compelling. Uh, some basic things like adding variables for the first name, maybe their current company. You want to
+15:24
+establish legitimacy for your company. This is a little bit like selling. Why is your company a great place to work?
+15:30
+Um, what customers do you have? Do you have momentum in the business? Has it been growing fast? If you have a funding
+15:35
+announcement that you've recently had or any other news article that talks about the company, that's a great place to
+15:41
+include this. Despite those different points, you want to keep it somewhat short. Most candidates are going to read this on
+15:47
+their phone. Uh they're quickly going to skim through it, and there should be a few things that catch their attention, at least enough to be able to give a
+15:53
+quick response or book a call with you if you include your Calendarly link. Now, in the follow-up email, we'll want
+16:00
+to add some additional value. And so, in this case, that's in the third paragraph. It's another reason why this
+16:05
+role is special, why they'll be able to have an impact in that role, and why they should apply. We'll also notice
+16:11
+some previous things like relinking the job description, making it really easy for them to book, uh, in this case, also
+16:17
+including a call to action, and giving them a way out of saying, "Hey, it's not the right time for me." Now, we'll flip
+16:23
+over to reaching out using a different channel. Often times, LinkedIn messaging or LinkedIn connection requests are
+16:28
+going to be your best bet. In this case, it's intentionally the third step because the first two steps are
+16:33
+automated. Emailing and follow-up emails, while LinkedIn steps won't be automated. You'll have to be doing those
+16:39
+manually to comply with LinkedIn's terms. Um, often times that means a quick connection request. U maybe
+16:44
+following up on the previous messages you sent and again including a booking link or a call to action. And we can see
+16:51
+what that looks like on Juicebox. Um, Juicebox will give you a reminder to send that outreach request so that you
+16:56
+keep your email sequence on track, but you also do the manual steps uh that you or your co-founder will complete. Now,
+17:03
+after you've done those two emails and the LinkedIn message, you want to circle back with at least one final email. We
+17:08
+have some customers who do like eight email sequence steps. So, it's really up to you how many you want to do. They can
+17:13
+relink back to the JD. They might even mention to the fact that you reached out to them on LinkedIn. Um, or you can do
+17:19
+things like saying, "My co-founder came across your profile again," or, um, "I just thought of another reason that this
+17:25
+role could be a good fit for you," or noticed something in your background. The more personalized you make this,
+17:30
+even if that means individually going in and customizing each of those emails, will have a big impact, especially at
+17:36
+that final step. With that, we'll see a quick snapshot of what that looks like in Juicebox 2 um, as you manage your
+17:42
+email campaigns. So, let's take a look at some metrics, what these look like. Um this is a real
+17:48
+screenshot of Juicebox outreach metrics. We'll see AEES sw and events managers and a customer success manager role in
+17:55
+here. And the kind of main metric I'd look at is the the middle column, the
+18:00
+third one where you can see the reply rate. And so this was before series A announcement. Uh Juicebox had not had
+18:06
+any funding public at that time. I think we're around 10 to 15 team members when we were sending these campaigns. And
+18:11
+with response rates between 10 and 18% depending on the rule. In this case, the SW sequence have the lowest response
+18:17
+rate around 11%. Which is roughly what we'd expect because it's also the most competitorful. Now, overall, if your
+18:24
+sequences are in that 10 to 20% range, you're doing good. It could still be better. We have some customers who get
+18:30
+40 plus% response rates. Often times, that's because they have a good brand, but other times it's because they do a
+18:35
+really compelling job of writing specific email outreach and personalizing that to the candidates that they're reaching out to. Now, the
+18:42
+second metric is whether those candidates are actually interested in your role. And so, even if you get a 15% reply rate, um only roughly half of
+18:49
+them, maybe a little bit more, are likely going to be interested in your role. And so, your target there should be that your response rate is roughly
+18:55
+half of your interested rate. If your response rate overall is going up, but your interested rate is staying steady,
+19:00
+that's probably a sign that something that you're doing in the email messaging is getting people to say something, but that could also be things like, "Stop
+19:07
+emailing me or please unsubscribe." And so reply rate alone shouldn't be the golden standard. Rather it's the
+19:12
+interested rate that you get beyond the reply rate. Going back to these example campaigns
+19:18
+for the AES we have a 9% interested rate. Um SWE 7% and then up to 11% for
+19:24
+the community and events manager role. So how do you actually make this a priority? Um oftent times when I chat
+19:30
+with founders and we kind of go through some different tips of doing your sourcing and outreach uh everything makes sense, people are aligned but then
+19:36
+they don't actually do it in the following weeks. There's a lot of things that are going on. There's a lot of things that are going to seem more
+19:41
+important, especially if you're also working with external agencies where you'll also be getting candidate pipeline. What we found to be really
+19:47
+helpful there is just setting a schedule for yourself and making a commitment. Let's say we want to schedule a 100
+19:52
+emails every week that will be spread out throughout the week. You can do that on a weekend day. I personally do these
+19:58
+on Sunday evenings. Get ready for the week, know who I'm reaching out to, and then it kind of flows autonomously for
+20:04
+me from there. You can do even do it multiple weeks in advance once you're calibrated on your roles and you know
+20:10
+kind of what type of outreach you'll be doing. Your goal should be to speak with at least 10 candidates a week. You can
+20:15
+either do those all in one day or spread those out a little bit depending on your preference. Uh if you're not getting to
+20:20
+10 interviews per week, it's probably a sign that you're not doing enough outreach and so you can scale that outreach up. Think 150 emails, 200
+20:26
+emails per week, etc. And then finally, every founder should be involved in this process. uh it's tempting to say oh one
+20:33
+founder is going to you know lead the charge on on hiring. Um it becomes really difficult because it also means
+20:39
+that not every founder is giving that same input or calibration into the hiring process and so especially with those early hires going back to what we
+20:45
+talked about in the very beginning it shapes the culture. It should be that something that every founder is involved in and cares about to do that initial
+20:52
+outreach. Quick hack there, especially if you have, say, a founder who's doing sales or has a particularly booked
+20:57
+calendar, just block some time that's dedicated for sourcing or coffee chats. Now, going on to the interview and
+Interviewing: sell first, assess second
+21:04
+closing stages. We'll be a little bit shorter on these ones um because a lot of this will be more custom to your
+21:09
+company. Next up, let's talk about interviewing the right candidates and what interview schedule works for you.
+21:15
+There's two example interview schedules here, one for AEES and one for SWES. Let's start with the sales side. In the
+21:22
+first round, you'll want to focus on selling. That can be a 30-minute chat. It can even be shorter, just sharing
+21:28
+what the company does, why you're passionate about the company, and what the vision for the company is. Parts of that might be similar to even an
+21:34
+investor intro chat. Um, you're trying to get them excited about the company and make them remember what it is you
+21:39
+do. You also want to try to understand what their potential selling points could be. And so, why is the candidate
+21:46
+interested to speaking with you? What other companies are they speaking to? you know, are they squarely in that
+21:52
+startup category of I want to join an early stage startup or are they still uncertain whether they fall into maybe I
+21:57
+want to go to big tech or growth stage company. You want to gather as much information as you can because you'll use that to sell later on in the
+22:03
+process. Second round is where you're going to be doing most of your assessment. Uh different companies have different ways
+22:09
+of doing this. Um, I've had some debates on whether it makes sense, for example, for an AE role to have the AE demo your
+22:15
+product or demo the product that they are familiar with, and that might be the company they're currently working at or a company they previously worked for.
+22:22
+You can experiment with both and see what works. If your company is PLG or the product is pretty easy to understand, it could make sense for them
+22:29
+to demo your product as well. During that call, you'll be taking on the role of the customer. And so you're
+22:35
+effectively um kind of role-playing the customer while the candidate is being your seller and already getting uh
+22:42
+embedded in that role. One of the advantages of that too is that they get to know what your company actually does and the product. If they like the
+22:48
+product, that'll be an advantage for you later on as you go towards closing. Next step is the final round. Typically
+22:54
+on-site if you're in person, uh you'll want to have as many touch points as you can with other people on the team. So if
+22:59
+there's already other gotomarket hires, schedule some coffee chats with them. uh they're mainly for the AEES to get to
+23:04
+know each other and you'll still be doing most of the evaluation in the final round at Juicebox. In the final round, we do another u mock demo or
+23:11
+pitch uh and we'll go through that in this case with both co-founders present. Each company has kind of their own style
+23:17
+of doing that and what works best is up to you. On the software engineering side, the first call is going to be very
+23:22
+similar, really focused on selling. Why is your company great? Why should they be interested in joining? And then also
+23:28
+getting to know, you know, why is that candidate interested in taking the call in the first place and what could you be using later on to sell them? From there,
+23:35
+we'll also want to go into a case study. Um, for example, in this case, uh, building a web app on a 1-hour call. Um,
+23:41
+you want to make sure that your interview is not one that's easily subject to cheating on an interview. Uh,
+23:46
+and so that might also change the way you run that second round interview. And then with the final round, you'll also bring them on-site. In our case, we try
+23:53
+to make it like almost like a full day, roughly 6 hours. that includes a system design portion, a more of a sandbox
+24:00
+project, and then also more traditional interview with the co-founders. We try to include something more casual, say a
+24:05
+lunch or coffee chats with the team, so that they feel like they're actually a part of the team as well, rather than just interviewing all day. So, really to
+24:13
+emphasize the selling piece. That's the number one thing we see founders do wrong is in the first call, they're just
+24:18
+interviewing the candidate rather than selling the company. Uh, you should flip that order. The first thing you do is
+24:23
+sell the company. Uh and then the second thing you do is interview the candidate. So for selling the company, uh some
+24:29
+example lines you could use on the kind of compensation upside, you might focus
+24:34
+on you having done founder sales previously. And so if you as a founder have closed over $400,000 in revenue, um
+24:41
+and perhaps you don't even have a sales background, an AE might see that as an opportunity for them to go in and do
+24:47
+even better, bring their sales expertise and push the company forward. on the team side and perhaps more on the
+24:53
+engineering hiring side. You would emphasize the backgrounds of you or your co-founders um why you're building what
+24:58
+you're building or even the investors that you're working with. Now, let's talk about the offer stage and closing
+25:04
+your offer. Your main advantage is speed throughout the whole process. You can run this process within 7 days, 10 days,
+25:11
+maybe max 2 weeks. Big tech or even growth stage companies are going to move much slower than that. They have to
+25:17
+coordinate across many people. They probably have more interview stages to their process and you should use that to
+25:23
+your advantage. That means knowing exactly when the next step is for the candidate, communicating that clearly to
+25:29
+the candidate, ideally even getting it scheduled as soon as you have that confidence in whether they're a good fit
+25:34
+or not. During the offer, you'll want to emphasize why they should be joining your company specific to the selling
+25:40
+points that the candidate cares about. And so oftent times we see those offers be pretty generic or pretty much the
+25:47
+same across different companies. At this point you should have a pretty good understanding of who the candidate is um
+25:52
+why they want to work at your company and you should be able to emphasize that in your conversations with them. Ideally
+25:58
+you can also ask the other founder or an investor maybe an angel investor to reach out to that candidate and
+Closing fast and competing with Big Tech
+26:04
+emphasize that same reason why they should be joining you. Closing the offers is going to be hard, especially
+26:10
+with early stage companies. And so, even if it doesn't work out in your first offer, that's all right. You'll make it
+26:16
+work in the next one. That's it from me today. Um, good luck on making your offers. Please reach out if we can help
+26:22
+with anything. With that, we'll bring on Harj for a bit of a discussion on hiring. Thanks, David. That was a fantastic
+26:28
+talk. Um, I had a few questions um I'd love to discuss with you. So uh first one high level what are the three most
+26:36
+common mistakes you see founders make when they're starting to hire for the first time? That's a good question. Um I think the
+26:43
+first one is one that we talked a bit about in the presentation as well which is around uh not selling the company and
+26:48
+not understanding that hiring is really all about sales and talking about why your company is great why they should be
+26:54
+joining especially early stage founders where you know they've done a lot of selling to customers to investors uh and
+27:00
+then they also need to do selling for hiring and sometimes that only clicks a little bit later on. What do you think it is that they do
+27:05
+instead is that they skip to like interviewing the candidate? Yes. Yeah. They kind of skip right into interviewing the candidate. um sometimes
+27:11
+like no proper intro on themselves, on the company, why it's an exciting place to be uh and much more kind of directly
+27:16
+into more generic candidate questions. I think the candidates feel that too. They know if it's kind of being treated like
+27:21
+a process and they might not be as excited either. And I always found that um it's another way that you stand out from the bigger
+27:27
+companies is that uh the recruiters can never sell the company as effectively as the founders. So just opening up by
+27:33
+talking about yourself, why you founded the company, knowing that for a candidate, knowing that they're on the call with the founder can be really
+27:39
+effective to close those first few hires. Yeah. And and I think ideally it even feels conversational. It's like getting
+27:44
+to know the person and like being excited to be there and hopefully they feel the same way too. I think the second one is really on the
+27:50
+outreach side. Um so kind of making that more generic. Um especially if you benchmark against the emails that you
+27:56
+have received inbound uh and use those examples. They're often pretty bad examples because I'd say the average uh
+28:01
+recruiting outreach is not a very well-crafted email. Uh it's probably not personalized. It probably doesn't have a
+28:07
+clear call to action. Um it probably doesn't sell the company a lot. And so instead really thinking first principles, what is an email I would
+28:13
+respond to and what is an email that would get me excited and trying to use that as the as the bar for the outreach messaging. I would love to go deeper into that. You
+28:20
+mentioned that some of the companies you work with are getting 40% plus response rates and it's not just brand, it's that
+28:26
+they're sending these really wellcrafted outbound emails. Um, what exactly are they doing to make these emails and
+28:33
+messages so great? Like, and any examples that might spring to mind? Yeah, I think the there's two things
+28:40
+that that they do well. The first is creativity on who they actually send the outreach to. And so, they'll have pretty
+28:45
+creative sourcing strategies or or ways of finding talent. Maybe that's people who went to the same high school as you.
+28:50
+Maybe that's people who um happen to have worked at a similar company previously and you have some connection
+28:56
+through that. So really going deep and thinking about every individual person, why am I actually reaching out to them? And then that also gets reflected in the
+29:02
+outreach text. And so um for 40% response rates, those are definitely going to be personalized. And that may
+29:07
+mean you spend five minutes on personalizing each outreach message. It takes a good amount of time. Um, but
+29:13
+it's also worth it because you're going to be getting in touch with people that are definitely not going to be responding otherwise. Yeah, that's really interesting. I mean,
+29:19
+it's so similar to the advice we give to the companies during the B like sales, right? It's like so many founders come in and they think I just need to send a
+29:26
+thousand emails per day. Um, they don't need to be personalized. It's just volume. But the number one thing we teach them is no, you actually have to
+29:32
+spend time handcrafting every email making it personalized if you want to see any response rates.
+29:37
+Yes. Yeah. I think almost all of the best practices or even like from the from the YC content on how to sell apply
+29:43
+pretty directly to recruiting as well. Yeah, I think that's a really interesting insight that the um like actually like the the outreach strategy
+29:50
+like who you're even targeting can tie into the personalization. If you're looking for people that have you have
+29:56
+something in common with and you put that in the outbound email, you should see a higher response rate on that. Yes. Yeah. And and I think it's also
+30:02
+like kind of not being afraid to break the rules a little bit of um you know Twitter DM outreach can be really good.
+30:08
+It works particularly well if you have a bit of a Twitter presence and you post some content on there. Um and so I guess just getting creative with what that
+30:14
+means is um I think a pretty high value. Yeah. I was curious on that front um something else you mentioned you know for example like recruiting out of a
+30:20
+Discord forum like um like how do you do that tactically? Like do you just jump in there and say hey would you like a
+30:26
+job at my company? Like what what like how should you play that? Yeah, I I think the cases where it works best is
+30:31
+where it's like one thematically relevant. So there's kind of some type of related reason that everyone is in this discord. Maybe it's a discord about
+30:38
+an open source project and people are kind of talking about that and that is the main theme. Um and then two, it
+30:43
+should feel somewhat authentic to the founder. Um so if this is your first time opening Discord and you're kind of
+30:48
+starting to send DMs, might get a little bit tricky, but if you know Discord is somewhere where you feel at home and you're in there anyways, it can be a lot
+30:55
+more natural. One question I have I think that every founder has on their mind is that when it comes to sourcing,
+31:01
+isn't effectively everybody sourcing for like the same people and it's highly competitive and how have you seen any
+Common mistakes founders make
+31:09
+strategies for how can you be creative in your sourcing to find people who might not be so competitive but are
+31:15
+equally talented? I think being able to find people who are non-obvious on paper um but then
+31:20
+become obvious throughout your interview process is a a real advantage. It's also really hard and so I think there's like
+31:26
+no kind of single path that that makes it work. Some things we've seen people do that have worked for them is in some
+31:32
+cases just looking through GitHub and basically clicking through contributors to open source projects. In other cases,
+31:38
+the Twitter strategy sometimes goes in that direction because uh even if it's a Twitter profile you recognize, it might
+31:43
+not be like a LinkedIn profile that you would click into. I think there's often a lot of indexing, especially amongst founders for colleges and a lot of great
+31:50
+talent may not have gone to a great college. Um, especially from like your competitive advantage perspective. If
+31:56
+they went to a good university and worked at a good company, they're going to get a lot of outreach anyways. If they've maybe only done one of those two
+32:02
+things, they might still be really talented and they might not be getting as much outreach. When people ask me sort of why Juicebox
+32:09
+has got so much traction, I essentially reply it's because the product just works. I don't think I have a better
+32:14
+answer. I've always been curious like why is it so difficult to make the product work? What's actually so hard
+32:20
+about when I type in I want a software engineer with 10 years of experience? Um
+32:25
+um why is it so hard to surface like the relevant candidates and how have you been able to do that?
+32:31
+A little bit of context on Juicebox. We do search um contact management outreach and then sync all of that data with your
+32:36
+ATS. And of those, search is really the hardest part. And so being able to find the right person is a hard problem for
+32:42
+two reasons. One, there's a long tale of different search queries. And so if people are using the platform correctly,
+32:49
+no one will have exactly the same search query because there's always something unique about the rule or unique about the opportunity. That also means that
+32:55
+there's a long tale of um potential filters we might need or potential ways to to think through how we filter a
+33:02
+segment of search. And then that relates to the depth of a profile. So, if someone has previous experiences, those are really important in a search result.
+33:08
+And it's also quite different than how search on like a sales tool might work where it's all about the current company or the current role. Um, with
+33:14
+recruiting, it's really about their full depth of experience. And so, I guess long-winded way of saying that search is
+33:20
+really important and is usually what drives those outcomes. And so, I guess to get the most out of a tool like Juicebox, how detailed should
+33:27
+my search be? Like, it's it's almost like I'm prompting Juicebox. So like am I trying to write like a full system
+33:33
+prompt here or like give give us like a a sense of of what I should be doing? I think the easiest way to learn is kind
+33:38
+of by starting with what feels natural. That might be a couple sentences about the role and then Juicebox gives you a few different ways to filter further.
+33:44
+And so we have a feature called autopilot which is personally my favorite feature in the platform. It lets you define criteria and then you'll
+33:50
+get a check mark for every profile who matches that criteria. Criteria can be super specific like has published a
+33:55
+paper in at least two peer-reviewed journals. something that doesn't exist as a filter otherwise. And you can write
+34:02
+your own. You'll get check marks for everyone who matches that and then continue customizing from there. And so I'd start with like a fairly broad
+34:08
+initial prompt, maybe a couple sentences, and then as you fine-tune it and get more narrow, adding additional criteria.
+34:13
+That makes sense. And then the more criteria you have, the more like material you have to personalize the outreach message to those candidates.
+34:19
+Exactly. And you can even create like different um groups of candidates that you might do similar personalization for. So maybe like academic outreach,
+34:26
+open source outreach, etc. um which can be a good way at like personalizing at scale. When it comes to sort of like the
+34:31
+channels sort of outreach, we have different channels. Um should I be trying to contact the same candidate through every channel or should I be
+34:38
+focusing on one channel? Um and do certain channels tend to have better response rates than others?
+34:43
+Ideally, yes, we'd reach out to every candidate on every channel. Um practically it becomes difficult and and
+34:49
+quite timeconuming. I'd say the default should always be email because it's what you can automate and get real data on.
+34:55
+What are your reply rates, open rates, and more. If you're just sending a single message, your best response rate is probably going to be on, I guess,
+35:02
+apart from like a Twitter, it's probably going to be on LinkedIn. But the advantage of email is that you're not just sending a single message. Instead,
+35:08
+you're orchestrating this multi-step campaign. And so with those multiple steps, you're going to get a better response rate on email than you would
+35:14
+with a single message on a LinkedIn. Um, and so I think the easiest way to get started is just email automation. Um,
+35:20
+improving your response rates by adding in a LinkedIn step. And then if you want to get creative beyond that is when you can start layering in the other
+35:25
+channels. Your answer are different for engineers versus AES. Good sellers are often particularly active on LinkedIn because they're also
+35:32
+communicating with their prospects there. Um, and so response rates tend to be higher there. For engineering, in the
+35:38
+comparisons we've seen customers do, often times emails get better response rates instead. For referrals, you mentioned referrals,
+35:44
+great source of early hires. Um, once I've got my team to identify a list of potential referral candidates, who
+35:51
+should do the reach out? Ideally, you as the founder. In general, I think the more senior the person reaching out, the better the response
+35:57
+rate is going to be. And so, ideally, all outreach always comes from the founders. Um, a lot of systems will also let you set sender emails different from
+36:04
+the person operating it. And so, if for example, you have a recruiter on your team who's doing outreach on behalf of
+36:09
+the founder, um, can be a good scalable high impact strategy, too. Often the first thing the candidates will see when they look up the company
+36:15
+is like the job description. And, um, are there any things I can do to make the job descriptions unique or stand
+36:21
+out? I think the bar for job descriptions is pretty low. Um the a lot of job descriptions are very wordy, kind
+36:27
+of sound corporate, you know, maybe chat GPT written. Um and if your job description is not that, that's already
+36:33
+a big advantage over others. I'd say the other part that generally trends one way is job descriptions are often long.
+36:40
+They're kind of hard to read and most applicants are probably not going to read the whole thing. And so if you keep it short, a few bullets of what really
+36:46
+matters to you and what encompasses the role can be quite impactful. And the only other advice I'd have is that
+36:51
+oftentimes kind of goes back to the selling thing. People forget to sell the company in the job description. And so
+36:56
+that should be at least 30% maybe more of the job description is why is this a great place to work? And um what would
+37:02
+that involve for you? Often companies when they're describing themselves in their job description or even on their website, it's almost like
+37:08
+they want to cast as wide of a net as possible. They want to be attractive to everyone and as a result it comes across
+37:13
+as very bland. It's like just the same set of values on every single job description. Um I wish companies would
+37:19
+actually be more opinionated at times like say what they will trade off like hey we value collaboration which means
+37:26
+you might not like we value that more than just autonomy just as like one example. Um, what do you think? Is it is
+37:31
+it better to cast a wide net or or should you try and be opinionated? How much? Opinionated is great. I think it also
+37:38
+shows the character of the founders and like the culture of the team. Um, that can be one of your main selling points as well is like you're joining the team
+37:44
+for the culture and and for that opinionated selling point. And so I don't know if I've seen an example of something that's too opinionated. Um, so
+37:51
+so probably leaning as far there as possible. Yeah. Because I think it's it's the point that you made in your talk too is about you care about like the interested
+37:57
+rate, not just the raw reply rate. It's better to have a smaller number of applications from highly
+38:05
+convert the kind of value per interested
+38:10
+response you'll you'll see depending on the role it can be like maybe 20 interested responses gets you to higher
+38:16
+maybe five interested responses gets you to higher and so even that like relative value can can change quite a lot as it gets towards more of the you've
+38:23
+identified someone you want you've interviewed them you know you want to hire them you mentioned a lot about sort of convincing them to join you over a
+38:30
+bigger company. How hard should you try actually to convince someone? Um, and
+38:35
+when do you know if maybe you're trying too hard? It's again a little bit like enterprise sales like knowing what does the
+38:41
+candidate or in the sales comparison the prospect actually want? What are they really looking for? And you might get signals early on that they really want
+38:47
+to be in big tech and that can be really hard to convince them otherwise especially if it's like say comp package
+When (and how) to hire a recruiter
+38:52
+related or stability of jobreated. it's probably not worth fighting that battle because they are likely going to end up
+38:58
+going that direction. I think in the later stages if they have indicated they want to be at a startup and you've kind
+39:03
+of you know checked in on that a few times and you're pretty convinced they want to be at a startup then you should fight really hard because then it's you
+39:09
+against a different company and um you should try to win that. Yeah, this is one of the things I think it's really hard in like the heat of the moment to
+39:16
+stick to it because you're behind on hiring. You feel desperate. You get the superstar engineer and you know it's
+39:23
+really tempting to tell them like when they say things like I like a bigger company maybe I'll have like more stability and it's like you can't
+39:30
+convince you shouldn't try and convince them that oh like your startup's going to have as much stability or like working hours I think are often like a
+39:36
+thing that come up. Um it's like having the discipline to be like you know what maybe actually this candidate isn't
+39:41
+going to be a good fit and I should just move on. The related part to that as well is hiring is a repeated game. Like the same
+39:47
+you even if you don't hire the candidate now you might be hiring them a year from now. We had a candidate who we made an offer to at the time they were concerned
+39:53
+about like the stability of a company and whether it makes sense to join and then they ended up joining six months later. And so um I think kind of
+39:59
+choosing when to fight that battle and and when you're in the best position to do so as well can make a big impact. Yeah that's a good point there. I think
+40:06
+some of the elite founders um that I've worked with um throughout the YC career,
+40:11
+they are essentially in a sense always recruiting, but they're always looking to meet people who they think are really smart and interesting whether they're
+40:17
+available or not. And it's so common to hear stories from them of, hey, actually I hired this person after like catching
+40:24
+up with them and doing coffees and lunches for 2 years. Um, and I think you assume, it's easy to assume that's just
+40:29
+for these like executive level hires once you're a big company. But I actually think the elite founders just do that from day one, even for like
+40:36
+individual engineers that they really want to hire. And and I think that instinct is often really good, too. Like if if it's if you
+40:41
+know it's an IC who will make a big impact, like trusting that gut instinct and following that, it can make a big
+40:46
+impact. Final question from me here is of course founders should do all the recruiting themselves at first. um especially for
+40:53
+those first few hires. But let's talk about when should they think about hiring a recruiter and maybe you could
+40:59
+start by just giving us a quick primer on what uh are the differences between a contract recruiter, a contingency
+41:05
+recruiter and an in-house recruiter. First thing I'd think about is roughly how many hires are you certain you're
+41:10
+going to make in the next 6 to 12 months. And then that's going to influence which of the three options you go with um because they kind of
+41:16
+correspond with your commitment level as well. And so we'll start with the highest commitment which is hiring a full-time recruiter. They join your team
+41:22
+and that is their job function and their goal is to bring on new talent into your team. And this is in-house recruiting.
+41:27
+In-house recruiter. Exactly. And they're usually not compensated on commission or hiring fees. Um they typically have
+41:34
+mainly a base salary and then some equity upside in the company as well. The second slight slightly lower commitment option is for a contract
+41:40
+recruiter or an embedded recruiter. And they'll be working with you for a certain number of hours every week. And
+41:46
+there might be a predefined contract length, say 3 months or six months. Um, but it could also be a month-to-month or
+41:52
+even a week-to-eek arrangement. Um, advantage there is that your costs are somewhat in control. It's predictable
+41:58
+and you can also adjust if you need to. For example, if your hiring doesn't end up being as much as you thought it would
+42:04
+be. And then the final option is the most flexible, which is a contingency recruiter. On a contingency recruiter,
+42:10
+you pay a percentage of the placement fee. Oftentimes, that's somewhere between 20 25% maybe even a bit higher
+42:17
+than that. for more senior roles. It's quite expensive because you're, you know, potentially paying $50,000 plus
+42:22
+for every hire that you make, but it's also most flexible and you could be working with multiple contingent recruiters at any point in time. And so,
+42:28
+it can also be the most scalable option if you quickly need to make a lot of hires and you have the budget to be able
+42:34
+to pay the contingency fees as well. When should founders think about getting this help? I think as soon as you're
+42:41
+making multiple hires, um I like to think I can work on one hire really well at one point in time and my co-founder
+42:47
+can do the same. And so if we're working on two hires, that's roughly where we're at capacity. And so if you're hiring
+42:52
+more than that, it can start making sense to think about those um recruiting options. Two hires per month, per quarter,
+42:58
+as long as it takes you to fill them. Um ideally it's a month, but uh in our case, I think especially for the early hires, it took us more than a month to
+43:04
+fill them. We were always just working on two at a time. We tried doing more, but it didn't really work. And then we kind of narrowed it back down to each of
+43:10
+us focusing on one role at a time. Thanks so much, David. That was really informative. Thanks for having me.

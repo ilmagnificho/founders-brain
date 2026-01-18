@@ -1,0 +1,1043 @@
+---
+video_id: DH7REvnQ1y4
+
+Navigating B2B sales for the first time can feel slow and overwhelming.
+
+Drawing from his experience founding Monzo and GoCardless, YC's Tom Blomfield shares his playbook for running a tight sales process that lands real, recurring revenue. He walks through each step—free and paid pilots, opt-out contracts, long-term deals—and shows how to prove value and close customers.
+---
+0:00
+[Music]
+0:08
+At YC, we work with a ton of founders
+0:10
+who are navigating the B2B sales process
+0:13
+for the very first time. And I often
+0:16
+notice some very common and easily
+0:18
+avoidable mistakes that I want to talk
+0:20
+about today. So, I'm going to describe
+0:22
+the typical progression that a B2B
+0:24
+founder goes through. normally starting
+0:26
+with something like a a really poorly
+0:28
+defined and overly long unpaid design
+0:32
+partnership uh all the way through to
+0:35
+the like the pro move which is a rapid
+0:37
+well-defined tightlyun sales process
+0:39
+that results in contractually recurring
+0:41
+revenue straight off the bat. In other
+0:43
+words, I'm going to talk about how to
+0:45
+close your first B2B contracts. So in
+0:48
+general, the goal for most early stage
+0:51
+companies is to progress through this
+0:53
+sequence as rapidly as possible so that
+0:56
+you're able to close new ARR every week
+0:58
+and grow your company. And really 90% of
+1:01
+the time, the vast vast majority of the
+1:03
+time, founders get stuck in the very
+1:05
+early stages. It's the the very long
+1:07
+unpaid design partnerships. And my job
+1:10
+is encouraging them to advance to the
+1:12
+next level as quickly as possible.
+1:14
+Occasionally though, really only 5% or
+1:17
+10% of the time, founders will try and
+1:19
+speedrun the entire process and leap
+1:21
+right to the end before their product is
+1:23
+mature enough or without enough social
+1:25
+proof, i.e. other happy customers who
+1:27
+will vouch for you. That's pretty rare
+1:29
+though. Honestly, most founders are too
+1:32
+slow to progress through these stages.
+1:35
+So, let's try to lay out the different
+1:37
+stages and talk through them. The first
+1:39
+is the design partnership we've talked
+1:41
+about. Maybe you're very early in your
+1:43
+company journey. Perhaps you've got some
+1:45
+Figma mock-ups or really just an idea,
+1:48
+barely any code written at all. Or
+1:50
+perhaps you're selling into an industry
+1:52
+like law or accounting where there's a
+1:54
+ton of domain knowledge and maybe you
+1:56
+don't have that knowledge yet. And so
+1:58
+founders at this stage will often pitch
+2:00
+uh what's sometimes called a design
+2:02
+partnership. They'll spend a bunch of
+2:04
+time with a customer, often a customer
+2:07
+with a big fancy logo in their office
+2:09
+observing how they work and kind of
+2:12
+co-designing this product alongside the
+2:14
+customer to meet their needs. It sounds
+2:17
+really good in theory. The issue is that
+2:19
+these design partnerships are often way
+2:22
+too long, 3 months, 6 months, and
+2:24
+they're poorly defined in scope and
+2:27
+suffer from really low engagement from
+2:29
+the customer as a result. Since the
+2:31
+customer isn't paying for your time and
+2:34
+frankly, they've got their own business
+2:35
+to run, they just don't spend that much
+2:37
+time with you co-designing the product.
+2:39
+The entire engagement is all kind of, I
+2:41
+don't know, like vague and meandering.
+2:44
+You've got this fancy logo on your
+2:46
+website as a design partner, which feels
+2:48
+like progress to you and you're pretty
+2:49
+proud of it. And so, you don't want to
+2:51
+remove it from your website, but really,
+2:53
+you're not getting any closer to real
+2:55
+revenue with this customer. It is
+2:57
+extremely valuable to be able to sit
+2:59
+next to a customer in their office and
+3:00
+and observe their work, you know, sit
+3:02
+next to their keyboard and see what
+3:04
+they're doing uh for a few days. When
+3:07
+doing so, I generally suggest founders
+3:09
+try to identify like narrow pieces of
+3:11
+work that they can automate. Maybe you
+3:14
+ask a customer something like, uh,
+3:16
+what's the part of your job you hate the
+3:18
+most? Or if you could wave a magic wand,
+3:20
+what part of your work would you get rid
+3:22
+of? You can even offer to do the work
+3:24
+yourself manually for the customer so
+3:26
+that you really understand what's
+3:28
+involved. We've seen some of the best
+3:30
+founders even go undercover and get
+3:33
+qualified to work as an auditor or a
+3:35
+real estate agent or an accountant and
+3:37
+actually go and do the work like get a
+3:39
+job for a couple of months so they
+3:41
+deeply understand the problem in the
+3:43
+domain space. Really, the goal of all of
+3:45
+this is to identify a really narrow
+3:48
+burning problem, and you'd be able to go
+3:51
+away and build a narrow wedge product in
+3:53
+as little as 48 hours and bring it back
+3:55
+to the customer and ask them to try it,
+3:57
+see if it solves their problem. And I'd
+3:59
+keep iterating over different like
+4:01
+problem and solution sets until you find
+4:04
+an initial wedge product that they
+4:06
+absolutely love. So, if they are happy
+4:08
+to pay you and use your wed product, I
+4:10
+then actually wouldn't build more stuff.
+4:12
+I try and take that wedge product and
+4:14
+try and sell it to another 10 similar
+4:17
+customers. What many founders do which
+4:19
+is a mistake is to try and overbuild a
+4:22
+really broad platform which is a mistake
+4:25
+at this stage of your company because
+4:26
+you just don't have the resources. You
+4:28
+can waste a lot of time without any real
+4:31
+signal that the customer wants what
+4:33
+you're building. And founders often
+4:35
+justify this as like trying to reach
+4:36
+feature par with the existing software
+4:39
+which because you're such a small
+4:40
+startup is very very difficult. instead
+4:42
+I just focus on doing one part of that
+4:44
+um of that solution really really well
+4:46
+like really focusing on a narrow wedge.
+4:48
+The problem with building something very
+4:50
+broad is that rather than telling you
+4:53
+look this sucks I wouldn't use it the
+4:55
+design partner instead tries to be
+4:58
+helpful and maybe they imagine just one
+5:01
+more feature that they might want that
+5:03
+might make it valuable and really they
+5:05
+just don't want to hurt your feelings by
+5:06
+saying no this sucks. I've also seen
+5:09
+customers treat founders in a design
+5:11
+partnership as like an unpaid dev shop.
+5:14
+The customer gives the founders an
+5:15
+extremely detailed list of software
+5:17
+requirements that's only really relevant
+5:19
+to their business and the list keeps
+5:21
+growing. The founders understandably
+5:24
+want to make their first customer
+5:25
+really, really happy, but they're too
+5:27
+meek to ask for money. So, they do all
+5:29
+this bespoke work for free and it ends
+5:32
+up kind of seeming like an abusive
+5:33
+relationship. I'm not saying that all
+5:35
+design partnerships are a waste of time,
+5:37
+just most of them. Generally speaking,
+5:41
+more and more features are not the
+5:42
+answer. Instead, try to pick an initial
+5:45
+wedge product and sell it aggressively
+5:47
+for a couple of weeks. And if it doesn't
+5:49
+work, pick a different wedge. So, bad
+5:52
+design partnerships is the most common
+5:54
+problem I see with B2B startups coming
+5:56
+into YC and and doing sales for the
+5:58
+first time. Founders cling to these
+6:00
+long, poorly defined design
+6:02
+partnerships. they're just going
+6:03
+nowhere. They get stuck in low bandwidth
+6:06
+communication with a disengaged partner
+6:08
+and can't figure out how to move
+6:10
+forwards. So once founders figure out
+6:12
+that design partnerships can be a waste
+6:14
+of time, then they move on to free
+6:18
+trials, pilots, or proof of concepts.
+6:20
+These are really all the same kind of
+6:22
+thing, honestly. Maybe you have an
+6:24
+initial product built or at least an a
+6:26
+narrow wedge product that people can
+6:28
+use, but maybe you don't have the social
+6:30
+proof from other customers that this
+6:32
+thing really works yet. And so
+6:34
+naturally, uh, your early customers want
+6:36
+to try the thing out before they make a
+6:38
+financial commitment. These are normally
+6:40
+called pilots or proof of concepts. One
+6:42
+founder recently told me that a
+6:44
+customer, I think they were in France,
+6:46
+even asked them for a pre-proof concept,
+6:49
+which seems very low commitment. I I
+6:50
+really don't know what that is at all.
+6:52
+The most common problem for these free
+6:54
+trials is again they're too long, maybe
+6:57
+two or three months, and they suffer
+7:00
+from the same low commitment problems as
+7:02
+a design partnership. There's no target
+7:04
+or end goal, and the customer isn't
+7:06
+really committed uh to engaging with the
+7:09
+product or the design process. So, if
+7:11
+you're doing a proof of concept, you
+7:13
+need to understand what are you trying
+7:15
+to prove? What are the agreed success
+7:17
+metrics you're aiming for? If you've
+7:19
+seen my B2B pricing video, I talk about
+7:21
+defining the value equation with the
+7:23
+customer. So, for example, that's uh
+7:26
+what percentage saving or revenue uplift
+7:29
+are you going to deliver that makes your
+7:31
+product a good return on investment? For
+7:33
+example, if you're selling a customer
+7:35
+service AI, you might claim your product
+7:38
+might solve 20% of inbound customer
+7:40
+queries. The customer will be able to
+7:43
+reduce their customer service team from
+7:44
+a 100 people to 80 people, saving
+7:47
+perhaps a million dollars in salaries
+7:49
+every year. That's the value you claim
+7:51
+to be delivering. And in return, you
+7:54
+might charge $200,000 for that software.
+7:57
+And so, a well-designed pilot or proof
+8:00
+of concept is an ideal way to prove that
+8:03
+value. Maybe the customer doesn't really
+8:05
+believe you can actually solve 20% of
+8:07
+their queries. So you say give us a
+8:09
+sample of a thousand queries and let's
+8:11
+measure how many we can actually solve
+8:13
+for you. Is it really 20%, or is it 15
+8:16
+or is it 25% even? Once you've done
+8:19
+that, your internal champion can now
+8:21
+take the value equation that you've
+8:22
+defined with them and this proof that
+8:24
+you can actually deliver that value to
+8:27
+their CFO or the CEO and explain why
+8:29
+it's um a really good investment for
+8:32
+their firm. If they pay you $200,000,
+8:35
+they're going to get a million dollars
+8:36
+of benefit. It's a win-win. So, pilots
+8:38
+can be a way to convince cautious buyers
+8:41
+and overcome objections. Uh there are
+8:44
+different techniques. You might offer
+8:45
+back testing on historical data or even
+8:48
+sidebyside uh trials with their existing
+8:50
+process. So, for example, your customer
+8:53
+service product will be producing
+8:55
+answers alongside human agents and you
+8:58
+can compare the answers at the end. the
+9:00
+answers that your agent's providing
+9:02
+isn't really going to go to the
+9:04
+customers, but they're compared side by
+9:05
+side for a realistic um evaluation. Or
+9:09
+you might offer to take on just 1% of
+9:11
+their total customer service volume,
+9:13
+which is low risk. Or you could pick a a
+9:15
+smaller geography that they roll you out
+9:17
+in before rolling you out across larger
+9:19
+geographies. Again, this is a chance to
+9:22
+show that your product works in a lower
+9:23
+risk environment, so your champion is
+9:25
+not going to get fired if it all goes
+9:26
+wrong. But the problem with these free
+9:28
+pilots often is they still risk
+9:30
+suffering from low engagement from the
+9:32
+customers and founders are often very
+9:34
+afraid to have a willingness to pay
+9:36
+conversation. They feel like if they
+9:39
+bring a dollar amount up, it might scare
+9:41
+the customer off. But honestly, that's
+9:43
+almost always not true. It's so so
+9:45
+important to have the the conversation
+9:47
+with the customer. If I can solve this
+9:49
+problem for you and deliver these
+9:51
+metrics we've talked about, how much
+9:53
+would that be worth to you? you really
+9:55
+need to disqualify customers who just
+9:57
+aren't ready, able, or willing to buy
+10:00
+your product. So, after the free trial,
+10:03
+founders normally move to paid trials.
+10:06
+We've talked about design partnerships
+10:08
+and and free trials that go on forever.
+10:10
+When founders really get into the groove
+10:12
+and start ramping up their sales, they
+10:14
+figure out they need to make these
+10:15
+pilots much shorter and get a paid
+10:18
+commitment upfront. Getting a financial
+10:21
+commitment from the customer is going to
+10:22
+make them take your pilot much, much
+10:24
+more seriously. They're now paying for
+10:26
+your time and hopefully won't want to
+10:28
+waste their money. As well as the cost
+10:30
+of the pilot, I'd also ask upfront about
+10:33
+their willingness to pay for the full
+10:35
+product. You know, what's the annual fee
+10:37
+going to be and the price point. It's
+10:39
+better to know early if they just aren't
+10:42
+going to pay you any money whatsoever to
+10:44
+solve this problem. If it helps you
+10:45
+avoid going through a full procurement
+10:47
+process or having to talk to finance or
+10:49
+the CFO, you can ask your champion for
+10:51
+the amount that they can personally
+10:53
+approve. Maybe it's a $10,000 or $20,000
+10:56
+charge on their corporate credit card.
+10:58
+I'd often take less money if it allows
+11:00
+you to shortcut a long long approval
+11:02
+process. You might also ask for other
+11:05
+kind of commitments from the customer to
+11:07
+ensure that the pilot is successful
+11:09
+beyond simply a financial commitment.
+11:11
+Say you're doing work for an auditor or
+11:13
+an accountant. Perhaps you should wait
+11:16
+until there's a live project kicking off
+11:18
+that's suitable for you to test your
+11:20
+product on. So you say, "Let's not start
+11:22
+this month. Let's wait until the first
+11:24
+of next month because I know you've got
+11:25
+this important new project with a new
+11:27
+client. That would be a perfect test
+11:28
+case for our software." You might insist
+11:30
+there's client data ready to go or a
+11:33
+person or even a whole team that's
+11:35
+dedicated on the client side to testing
+11:38
+your product. I'd strongly advise you
+11:40
+also schedule check-ins every couple of
+11:42
+days with these people. So, if they find
+11:44
+any bugs or niggles with your software,
+11:46
+you can fix it overnight and bring it
+11:48
+back to them, which will really impress
+11:49
+an enterprise customer. All of that
+11:51
+might mean you delay the pilot starting
+11:54
+by a few weeks until there's a suitable
+11:55
+project. But then from the start date,
+11:57
+you can insist on a really high
+11:59
+engagement from the customer. I'd also
+12:01
+keep the time frame as short as
+12:03
+possible. really just long enough that
+12:05
+they can use your software and
+12:07
+experience the full benefit. Maybe
+12:09
+that's seven or 14 days if you've got
+12:11
+the product dialed in uh really well.
+12:13
+And remember, because your product is so
+12:15
+early, you're never really selling a
+12:17
+complete bug-free experience. You're
+12:20
+actually selling the founders and the
+12:21
+early team. You're selling the promise
+12:24
+that you personally are going to solve
+12:26
+this problem for them. You're promising
+12:28
+that if anything goes wrong, they have
+12:30
+your personal cell phone number and
+12:31
+you're going to respond 24/7 to get the
+12:34
+problem fixed. I'd track the time to
+12:36
+first value like a northstar metric,
+12:39
+reducing it from weeks to hours, is
+12:41
+often the biggest single lever for
+12:43
+higher pilot to paid conversion. What
+12:45
+this actually means is doing janky stuff
+12:48
+to get your product live as soon as
+12:50
+possible. For example, I would never do
+12:52
+a full API integration during a pilot if
+12:55
+it requires any engineering time from
+12:56
+the customer whatsoever because that's
+12:58
+just going to delay you by months. If
+13:00
+you can work from Excel imports and
+13:02
+exports, for example, that can work or
+13:04
+ask the customer to email you the data
+13:06
+you need and then email back the
+13:08
+completed work. So, you're really trying
+13:09
+to get to the point where they can
+13:11
+experience the value of your product as
+13:12
+quickly as possible. I'd also insist you
+13:14
+book a post-pilot meeting before the
+13:17
+pilot even starts. That's a meeting
+13:19
+where you can go through the metrics at
+13:21
+the end of the pilot and show hard ROI
+13:24
+numbers. It should be really crystal
+13:26
+clear to the customer at the end of this
+13:28
+process whether they want to keep using
+13:30
+your software. Now, this is all pretty
+13:32
+good, but the downside of a paid pilot
+13:35
+is you still need to go and negotiate
+13:37
+the full contract afterwards. It's like
+13:40
+a whole second sales process just when
+13:42
+you thought you had a customer who was
+13:44
+ready to buy. And this can be very, very
+13:46
+frustrating. So to get around this,
+13:48
+really sophisticated founders move on
+13:51
+from paid pilots to recurring revenue
+13:53
+contracts with an opt- out period. So
+13:56
+this is typically a monthly or annually
+13:58
+recurring contract with a 30 or 60-day
+14:01
+money back guarantee or opt- out period
+14:03
+at the very start. But by default, if
+14:05
+the customer does nothing and is happy
+14:07
+with your product, it's going to turn
+14:08
+into a full recurring contract after
+14:11
+that opt- out period with no additional
+14:13
+sales process needed. That's the pro
+14:15
+move. It's like magic. It's one sales
+14:18
+process that turns into a recurring
+14:20
+revenue contract. And it can be very
+14:22
+persuasive to be in a sales meeting and
+14:24
+confidently say, "Well, this is how
+14:26
+customers buy our product. Typically, we
+14:28
+offer annual contracts with a 30-day
+14:30
+grace period or an opt- out and customer
+14:33
+X, Y, and Z all signed on these terms."
+14:36
+It can be hard as a an early stage
+14:38
+founder to leap straight to this step
+14:40
+when you're just starting out. Maybe
+14:42
+your sales process isn't good enough.
+14:44
+Maybe you don't have the social proof or
+14:46
+maybe simply your product isn't ready
+14:48
+yet. So starting with an earlier step,
+14:50
+perhaps a free pilot for the first one
+14:53
+or two customers and then moving onwards
+14:55
+can be an option. Of course, you can't
+14:58
+run before you can walk. But don't be
+15:00
+stuck crawling on all fours for too long
+15:02
+either. And for me, that's the overly
+15:04
+long design partnership with no
+15:06
+financial commitment. As a side note
+15:08
+here, be careful what you report to
+15:10
+investors as MR or ARR, especially if
+15:13
+customers are still in that opt- out
+15:15
+period. Just be super clear with
+15:16
+investors when you're reporting these
+15:18
+numbers where the customers sit. I think
+15:20
+the tactic is still absolutely spoton.
+15:22
+This is just a communication point with
+15:24
+investors. So, when you've got early
+15:26
+sales really dialed in, you might be
+15:28
+closing one of these recurring revenue
+15:30
+contracts every week or two. After
+15:32
+you've signed these contracts, that
+15:33
+takes us to the next thing you should
+15:35
+focus on, which is customer success. So,
+15:38
+after you've signed these contracts, you
+15:39
+may often need to dedicate as much or
+15:41
+even more effort to actually onboarding
+15:44
+the customer and making sure they're
+15:45
+getting value out of your product. I
+15:47
+spoke to a company just this week that
+15:49
+had signed $4 million worth of
+15:51
+contracts, but they implemented less
+15:53
+than $2 million of those contracts.
+15:56
+They're simply missing a customer
+15:57
+success function. Finally, I want to
+16:00
+finish up with some tips that I've
+16:01
+learned from YC companies over the last
+16:03
+years. First, get Sock 2 started as soon
+16:07
+as possible, as well as any other
+16:09
+security certifications. It might be
+16:11
+HIPPA, ISO 27,01.
+16:14
+These security certifications can delay
+16:17
+you by months. And so, I'd get it
+16:19
+started today. There are plenty of YC
+16:21
+companies that can help you with this,
+16:22
+from Vant to to newer companies. I'd
+16:25
+figure out who your internal champion is
+16:28
+and treat them almost like a co-founder
+16:31
+inside the company. It's someone who
+16:33
+sells for you when you're not in the
+16:34
+room and fights budget battles on your
+16:37
+behalf. With this person, I'd try and
+16:39
+set and then work towards a defined
+16:41
+closing date. They're going to miss it
+16:43
+almost every time, but it can still help
+16:46
+create urgency within the customer. Ask
+16:48
+this person to tell you about their
+16:49
+sales process upfront. You might say,
+16:52
+"Describe the last time you bought
+16:53
+software like this. Who internally had
+16:56
+to prove it? What was the process?" You
+16:58
+can map the organization. You might have
+17:00
+the economic buyer, the technical
+17:02
+approver, the security gatekeeper, the
+17:05
+legal team, the day-to-day users, and
+17:07
+then devise a plan to win over each
+17:10
+stakeholder explicitly. Once you
+17:12
+understand that buying process, try to
+17:14
+drive it forward yourself. Don't leave a
+17:17
+meeting without the next touch point set
+17:19
+up. The next tip to move a contract
+17:21
+along is to get on a plane and
+17:23
+physically visit your customer in
+17:24
+person. It can work wonders. You might
+17:27
+email your your champion and say
+17:28
+something like, "Hey, I'm going to be in
+17:30
+Houston next week. What do you say about
+17:32
+getting lunch?" And if they say yes, you
+17:34
+book your flight to Houston. Don't get
+17:36
+caught up in multiple rounds of
+17:38
+reviewing contracts or NDAs. Customer
+17:41
+legal teams love to do this back and
+17:43
+forth. Their entire job is redlining
+17:45
+contracts, but it's going to slow you
+17:47
+down incredibly, and it doesn't really
+17:48
+prevent much risk. So, I'd be pretty
+17:50
+flexible on signing, frankly, whatever
+17:52
+your early customers want as long as
+17:54
+it's not going to expose you to like
+17:56
+unlimited liability or container clause
+17:58
+that's going to transfer all the IP in
+18:00
+your product to your customer or
+18:01
+something company ending like that. So,
+18:03
+I' I'd really ask yourself, is this
+18:05
+clause like company ending or just a
+18:07
+slight annoyance? And frankly, put up
+18:09
+with anything that that's not going to
+18:10
+be company ending. Using scarcity can
+18:13
+also work. You might say something like,
+18:14
+"We're talking with seven or eight
+18:16
+potential customers, but we really only
+18:18
+have the capacity to work with two
+18:20
+enterprise customers this quarter. So,
+18:22
+if you're interested, we'd love to get a
+18:24
+commitment. Otherwise, let's talk again
+18:26
+in 6 months." So, this has been a pretty
+18:28
+exhaustive list. Hopefully, it helps you
+18:30
+to up your B2B sales game. But if you've
+18:32
+discovered other tips that work for you,
+18:34
+please do let us know in the comments
+18:36
+below. And as always, thanks for
+18:38
+watching.

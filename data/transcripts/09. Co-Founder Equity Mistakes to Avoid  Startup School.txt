@@ -1,0 +1,977 @@
+---
+Co-Founder Equity Mistakes to Avoid  Startup School
+
+In order to get your startup off the ground it's critical to keep your co-founders motivated. One of the best ways to do that is to figure out a fair co-founder equity split. In this episode of Startup School, YC Group Partner Michael Seibel explains the ins and outs of co-founder equity, why it's important to be generous with that equity, and how to avoid bad advice that can lead to co-founder breakups.
+---
+Intro
+0:01
+[Music]
+0:09
+hello I'm Michael cybal and today I'm
+0:11
+going to talk about co-founder Equity
+0:12
+splits and co-founder breakups to be
+0:15
+clear we want people who are building
+0:18
+tech software startups that they expect
+0:20
+to be VC funded you know this is advice
+0:23
+for you I can't really comment on other
+0:26
+types of businesses there are many types
+0:27
+of businesses that have that have equity
+0:29
+and and to be clear this is not really
+0:32
+about them also this is really focused
+0:34
+on conversations that Founders are
+0:36
+having in the beginning of a company for
+0:38
+pre-product Market fit companies you're
+0:40
+really talking about the beginning of
+0:42
+companies all kinds of interesting and
+0:43
+crazy things happen later on and I it
+0:46
+would be a misuse of this video and this
+0:48
+advice to apply to companies that are
+0:50
+later on or to apply to companies that
+0:52
+are not tech companies so here's the
+0:54
+tldr the core advice we want to give is
+0:59
+be generous
+1:00
+with co-founder Equity what you're
+1:02
+trying to do is motivate your founding
+1:05
+team to work extremely hard when it
+1:10
+looks for many of the first couple years
+1:12
+like things are not working the biggest
+1:14
+mistake is to be stingy on Equity during
+1:18
+this very very very delicate time in the
+1:21
+beginning of a startup causing people to
+1:24
+leave while it's still possible you
+1:27
+might make something big so the Jedi
+1:29
+found founder and the dumb founder
+1:31
+they're both generous with co-founder
+1:33
+Equity the uh midwit oh they're thinking
+1:37
+about skill sets and contributions and
+1:40
+time commitments and the network and
+1:42
+futurals and D thinking about all of
+1:44
+these things and trying to do a really
+1:46
+complicated calculation I'm going to
+1:48
+argue today that's not required let's go
+1:50
+over what we're talking about first
+1:52
+co-funder Equity spits then co-founder
+1:55
+breakups bad reasons for very unequal
+1:58
+Equity splits bad advice and then some
+2:01
+final thoughts all right co-founder
+Co-founder equity split
+2:04
+Equity um in my experience the mistake
+2:08
+that Founders make is they don't think
+2:10
+about how to motivate their team their
+2:12
+founder co-founders today and tomorrow
+2:15
+typically you're giving people Equity
+2:17
+over that they're going to earn over the
+2:18
+course of four years and you don't want
+2:22
+them to be thinking in year 2 year three
+2:25
+year four I don't have enough equity I'm
+2:28
+not motivated or or I have this amount
+2:31
+of equity and the CEO has four times
+2:33
+more but I'm grinding every day and I've
+2:36
+been here since the beginning which
+2:38
+would create resentment so the job of a
+2:41
+CEO when Distributing co-founder Equity
+2:43
+is to not just think about what's going
+2:45
+to convince your co-founder to work on
+2:48
+your company today is to think about
+2:51
+what's going to keep them motivated over
+2:52
+the course of all four years and
+2:55
+hopefully much longer in that situation
+2:58
+our typical advice is to go for close to
+3:01
+equal Equity splits don't have to be
+3:03
+exactly equal but the more generous you
+3:06
+are the more you can expect a strong
+3:09
+founder to stay motivated
+3:11
+next vesting and cliffs most often when
+3:15
+you're giving Founders Equity that
+3:17
+Equity vests over a period of time which
+3:19
+means it's earned over a period of time
+3:22
+and if you
+3:23
+leave during that period of time you
+3:26
+don't get all of the equity in addition
+3:28
+a cliff is essentially designed to say
+3:31
+if you don't make it to this moment in
+3:34
+the company's history if you don't make
+3:35
+it through year one you don't get any of
+3:38
+your Equity Grant both of those tools
+3:41
+are extremely valuable and they should
+3:44
+apply to all founders I have to be
+3:47
+honest sometimes Founders ask me why are
+3:50
+we doing this like we all like each
+3:52
+other we're not going to break up
+3:53
+nothing's going to go wrong I would just
+3:55
+say this giving away founder Equity is
+3:57
+not something that you should be
+3:59
+innovating on
+4:00
+and the best practice is that all of
+4:03
+equity comes with vesting and cliffs
+4:05
+when it's given to Founders life happens
+4:07
+crazy happens sometimes people have
+4:10
+to leave and they don't even want to
+4:12
+leave sometimes family circumstances
+4:14
+change sometimes people get sick
+4:17
+sometimes people don't
+4:18
+perform so by having vesting and having
+4:21
+a cliff that gives Founders the ability
+4:25
+to let other Founders go or for those
+4:27
+Founders to leave without destroying the
+4:30
+cap table so you should be using vesting
+4:32
+in Cliffs what's extremely typical is
+4:34
+four-year vesting you earn your stock
+4:36
+over four years and a one-year Cliff you
+4:39
+don't earn any stock until you've hit
+4:42
+one year of working at the company NeXT
+4:44
+your co-founders must be essential to
+4:47
+your founding team one of the things I
+4:49
+think about with a founding team is like
+4:51
+it's the smallest number of people who
+4:53
+can get an MVP built get it in the hands
+4:56
+of customers and start learning one of
+4:58
+the reasons why we tell people one of
+5:00
+the other reasons why we tell people to
+5:01
+be generous with their Equity is it
+5:03
+helps them remove quote unquote
+5:05
+co-founders who are not essential who
+5:08
+really shouldn't be on the team or
+5:10
+perhaps should be employees instead of
+5:12
+Founders you should understand that like
+5:14
+the co-founder title is not something
+5:16
+that should just be given out
+5:17
+willy-nilly you know teams that come
+5:19
+into YC with you know five six seven
+5:22
+co-founders clearly there's something
+5:25
+weird some conversation hasn't happened
+5:27
+it's almost always the case seven people
+5:30
+are not essential to getting a product
+5:32
+up and out in the hands of customers
+5:34
+next always remember
+5:37
+that once again in almost every case
+5:39
+when you're giving out co-founder Equity
+5:42
+most of the work in your company hasn't
+5:44
+been completed so this kind of comes
+5:46
+back to the first point Equity is about
+5:49
+motivating people for work they have not
+5:52
+yet done as opposed to rewarding people
+5:54
+for work they have done last things
+5:56
+which are kind of negative one the CEO
+5:59
+should have have the ability to fire
+6:01
+Founders who are not performing and so
+6:03
+however you set up the equity split the
+6:05
+CEO should Reserve this right and
+6:08
+honestly there has to be a captain of
+6:11
+the ship there has to be someone who's
+6:13
+ultimately held accountable and they
+6:16
+need to be given the responsibility to
+6:18
+let people go who aren't performing if
+6:21
+you're not willing to join a team under
+6:23
+these
+6:25
+circumstances that's tricky I would say
+6:27
+that you're you're not understanding the
+6:28
+seriousness of a company or maybe you
+6:32
+should go start a company and be the
+6:34
+CEO um but the CEO should have this
+6:36
+responsibility they should um regardless
+6:38
+of the equity split and then finally
+Co-founders break-up
+6:40
+what's most responsible is if
+6:43
+co-founders have a conversation about
+6:45
+what will happen if things don't work
+6:47
+out now let me give you some guidelines
+6:49
+at least YC's thoughts on how that
+6:51
+should go if you have a co-founder
+6:54
+breakup and you are pre-product Market
+6:56
+fit here are some guidelines that YC has
+6:59
+seen work over the years and these are
+7:01
+things that perhaps you should consider
+7:03
+talking amongst the co-founders so first
+7:06
+if a co-founder leaves or is fired
+7:10
+before their one-year Cliff it's
+7:13
+extremely typical for them to get just a
+7:15
+token amount of
+7:17
+equity 5% to 2% remember this is
+7:20
+pre-product Market fit so there's no
+7:22
+evidence that the company is going to
+7:24
+work and the vast majority of work still
+7:27
+has has to be done after the onee near
+7:29
+Cliff but pre-product Market fit we
+7:31
+recommend that if a Founder leaves or is
+7:34
+fired they leave with no more than 5% of
+7:38
+the company which often means they have
+7:40
+to give back some Equity now this can be
+7:43
+a tricky conversation but when a
+7:45
+company's pre-product market fit once
+7:47
+again so much work is left to be done
+7:50
+and you want to motivate the people who
+7:51
+are remaining at the company to
+7:53
+distribute that Equity to people who can
+7:56
+actually help continue to increase the
+7:59
+value of the company employees and
+8:00
+Founders the founder who's leaving can't
+8:03
+help increase the value of the company
+8:04
+anymore so if they're holding a whole
+8:06
+bunch of equity they're basically
+8:07
+reducing the chances of the company
+8:09
+being successful and therefore reducing
+8:12
+the value of their Equity so that's why
+8:14
+I recommend if a Founder is leaving or
+8:17
+is fired after their one-year Cliff they
+8:20
+should retain no more than 5% of the
+8:21
+company NeXT if a Founder is fired it's
+8:24
+extremely reasonable for them to give in
+8:26
+a small Severance you know 1 to three
+8:28
+months but if a founder
+8:30
+leaves that's not typical um you can do
+8:33
+it but it's not typical and finally
+8:36
+every founder regardless of whether they
+8:37
+leave or they're fired should be
+8:39
+expected to resign from the board sign a
+8:41
+release um and often give proxy voting
+8:44
+rights to the founders that are
+8:46
+remaining basically allowing the
+8:47
+founders that are remaining to vote
+8:49
+their shares more often than not it is
+8:52
+the
+8:53
+non is a Founder that's not the CEO who
+8:56
+is going to either leave or be fired but
+8:59
+I will say this um sometimes it's the
+9:01
+CEO right life happens and so if that's
+9:04
+the case whoever the new CEO is has to
+9:08
+kind of arrange this breakup accordingly
+9:12
+and even the CEO the previous CEO should
+9:15
+understand these expectations because
+9:17
+you know like I said sometimes CEOs
+9:19
+screw up and they or sometimes CEOs
+9:21
+choose to leave so with the expectations
+9:25
+on how equ Equity should be distributed
+9:28
+and
+9:30
+um what happens with the breakup let's
+9:33
+talk about um some cases where we see
+9:36
+unequal Equity splits that uh let's just
+9:40
+say don't make any sense the first and
+Bad reasons for very unequal equity splits
+9:42
+most common bad reason for a massively
+9:45
+unequal Equity split is well my
+9:47
+co-founder agreed you know I own 90% of
+9:50
+the company I asked my co-founder if
+9:52
+they're willing to own 10 they said yes
+9:54
+so everything's good right I would say
+9:56
+as a CEO this is a perfect example of
+9:59
+optimizing for today and not optimizing
+10:02
+for tomorrow you should be thinking not
+10:04
+what is your co-founder going to be
+10:05
+happy with today you should be thinking
+10:07
+about what's your co-founder going to be
+10:08
+excited with when it's year three of the
+10:10
+company and everything sucks what's
+10:13
+going to keep them motivated to stay and
+10:15
+work extremely hard then and as CEO you
+10:18
+always have to be thinking about
+10:20
+tomorrow regardless of whether your
+10:22
+co-founder does and you probably should
+10:24
+be more generous with your Equity to
+10:26
+compensate for when those bad times are
+10:28
+happening how do you keep keep that
+10:29
+co-founder motivated next well I came up
+10:32
+with the idea so I deserve more Equity
+10:34
+right it was my idea they're just
+10:36
+building it we get almost 30,000
+10:39
+companies apply to YC every six months
+10:41
+and we see every idea that exists it's
+10:44
+extremely obvious that ideas are a dime
+10:47
+a dozen and execution is the game here
+10:49
+and that co-founder is going to be
+10:51
+essential in executing the company and
+10:53
+if they're not they shouldn't be a
+10:55
+co-founder so I come with an idea is not
+10:57
+a great reason for a 99010 equity but
+10:59
+next I started working 6 months before
+11:02
+my co-founders so I deserve a lot more
+11:04
+Equity they weren't there at the
+11:06
+beginning well you still have to ask
+11:08
+yourself how much work is left to be
+11:10
+done if this is a traditional tech
+11:13
+software startup then 99% of the work is
+11:15
+left to be done this could be a 10 20
+11:18
+30y year Journey if it's really
+11:19
+successful and a difference in starting
+11:21
+date of 6 months probably is not that
+11:24
+significant when it comes to it next my
+11:27
+co-founder needs a salary and I don't I
+11:29
+would argue that you should be thinking
+11:30
+about salary and Equity differently
+11:32
+salary is the money that someone needs
+11:34
+to live to pay their rent to buy food to
+11:37
+literally give themselves the ability to
+11:39
+work in your company Equity is what's
+11:42
+going to motivate them to work extremely
+11:44
+hard and do extremely well and often get
+11:47
+a below Market salary so I never like to
+11:51
+think about reducing someone's Equity
+11:55
+because they need more salary I always
+11:56
+like thinking about giving every person
+11:59
+on the founding team the salary they
+12:01
+need so they can live for some people
+12:03
+that might be zero if they come in with
+12:04
+some money and then giving people the
+12:06
+equity they need to be motivated to work
+12:09
+extremely hard all right next I'm older
+12:12
+and much more experienced than my
+12:13
+co-founder you know this is a tricky one
+12:16
+um certainly people who are more
+12:18
+experienced can contribute to the
+12:19
+company can help fund raise often there
+12:22
+are many things they can do that a
+12:24
+younger less experienced co-founder
+12:25
+can't but if you're making this person a
+12:27
+co-founder that means that they're going
+12:29
+to have to be a key contributor to the
+12:31
+team that should mean you couldn't do it
+12:33
+without them so you should be very
+12:35
+careful about how motivated that
+12:37
+person's going to be you should be
+12:39
+generous with Equity as a result next
+12:42
+well I hired my co-founder after raising
+12:44
+some
+12:44
+money well once again you know
+12:47
+fundraising I think people are surprised
+12:49
+that fundraising doesn't massively
+12:51
+change your chances of being successful
+12:54
+there lots and lots and lots of startups
+12:56
+that raise money and very few that go on
+12:59
+to generate a billion dollars in Revenue
+13:02
+so I would argue that even if you have
+13:05
+$100,000
+13:06
+$500,000 in um in investment 99% of the
+13:10
+work is still left to be done then
+13:11
+finally I hired my co-founder post
+13:13
+launch same
+13:14
+thing that first launch of MVP is just
+13:17
+the beginning of the journey so to sum
+13:20
+up I think that all of these answers are
+13:24
+a flavor of the same thing it's a flavor
+13:26
+of short-term thinking the best founders
+13:29
+are long-term thinkers the best Founders
+13:32
+are not only thinking about today but
+13:33
+they're thinking about tomorrow and the
+13:35
+best Founders are thinking about their
+13:37
+co-founders needs even if those
+13:39
+co-founders are not thinking about them
+13:42
+it's the best Founders the best CEOs
+13:44
+understand that this small team has to
+13:45
+accomplish a lot or else the whole
+13:48
+Endeavor isn't going to work the best
+13:50
+Founders is using Equity to try their
+13:52
+best to motivate people to work
+13:54
+extremely hard they're not thinking
+13:56
+about Equity as something that should be
+13:59
+hoarded they're thinking about Equity as
+14:01
+a tool that can produce maximum
+14:04
+motivation for a small number of people
+Common bad advice
+14:06
+so let's move on to some common uh let's
+14:08
+say bad advice that I see right so if
+14:11
+our advice ISS hey you should be
+14:13
+generous with your co-founder Equity um
+14:15
+you want to motivate people for the long
+14:16
+term and you should protect yourself by
+14:19
+have investing in Cliffs some bad advice
+14:21
+that I see is like oh we should have
+14:23
+performance-based Equity um you know if
+14:26
+my CTO writes this number of lines of
+14:28
+code or if my you know if the founder
+14:31
+that's doing sales like generates a
+14:33
+million dollars in Revenue will set
+14:36
+their Equity based on that needless to
+14:37
+say at the beginning of the Journey of a
+14:40
+tech startup it's really unclear how to
+14:43
+set those types of goals um and those
+14:46
+goals change we see companies pivoting
+14:49
+and thinking that you can kind of
+14:50
+measure things so precisely at the start
+14:52
+is a really big fallacy furthermore uh
+14:56
+this is probably not an area that you
+14:58
+should be innovating should innovating
+15:01
+on your product and how you interact
+15:02
+with your customers um Distributing
+15:04
+Equity there are best practices that
+15:06
+tend to work so that's why Performance
+15:09
+Based Equity is not something I would
+15:11
+consider well what about part-time
+15:12
+Founders um I would argue that a
+15:15
+part-time founder isn't a founder and
+15:18
+shouldn't really be considered in this
+15:20
+equation I know there are some edge
+15:22
+cases where there are some part-time
+15:24
+Founders or like you know people who
+15:26
+swop in and swop out and y y y but I
+15:29
+think if you look at the most viable
+15:31
+companies in the world you don't see a
+15:33
+lot of prevalence of part-time Founders
+15:36
+so I just don't think they should be
+15:37
+considered if you want to be a Founder
+15:38
+you should be working full-time and then
+15:40
+like what about other kinds of like
+15:41
+Dynamic Equity agreements like oh if the
+15:44
+company accomplishes this or if y y
+15:46
+happens and like the equity is not
+15:49
+really set if you're trying to motivate
+15:51
+people it's really nice for them to know
+15:53
+what they have and especially Founders
+15:57
+they're going to be a lot lot more
+15:59
+motivated if they know what they have
+16:01
+when they're starting versus some weird
+16:04
+kind of thing that's like hard to Define
+16:06
+in the rules might change Etc so I think
+16:09
+you know these options are too fancy and
+16:13
+oral advised often times they're created
+16:16
+because people don't understand the
+16:17
+value of vesting in a cliff if founder
+16:21
+relationship isn't working out that
+16:23
+founder should leave or be fired and
+16:26
+that should happen before the cliff
+16:29
+that's your protection that's your
+16:30
+protection if things aren't working out
+16:32
+not fancy formulas and weird kind of
+16:37
+madeup stuff and to be honest if you
+16:40
+don't have
+16:42
+the
+16:43
+wherewithal to ask a co-founder to leave
+16:46
+if they're not performing or as a
+16:49
+co-founder if you realize that you're
+16:51
+not able to perform if you don't have
+16:53
+the wherewithal to leave on your own
+16:55
+accord you shouldn't be doing this like
+16:57
+you're not respecting how hard this is
+17:00
+and how much work your co-founders are
+17:01
+putting into it that's why vesting
+17:03
+Cliffs work that's your downside
+17:05
+protection and that gives you the
+17:07
+ability to be generous with your Equity
+17:10
+um as opposed to create fancy schemes so
+Final thoughts
+17:14
+to wrap up um one common thing that you
+17:18
+see among successful companies is that
+17:21
+over the long term over 10 over 15 years
+17:24
+um one founder will often stick with the
+17:26
+company a lot longer be more responsible
+17:30
+uh for a lot longer and you could argue
+17:34
+was more valuable to the company right
+17:37
+you know you see these famous companies
+17:38
+like Amazon and Jeff Bezos or uh Mark
+17:42
+Zuckerberg at Facebook etc etc that's
+17:46
+true and you would think that that means
+17:49
+that those
+17:50
+people should deserve vastly more Equity
+17:54
+than their co-founders who might not
+17:56
+have stuck around for you know a decade
+17:59
+Etc here's the tricky bit about that it
+18:02
+turns out with tech startups the
+18:05
+beginning is extremely important those
+18:08
+first four to six years is where a lot
+18:12
+of value is being created and those
+18:14
+first four to six years is when most
+18:15
+companies
+18:17
+die so I would argue that even if you're
+18:21
+in this lucky situation of your company
+18:24
+being massively successful and you know
+18:26
+you being the one who stays around the
+18:27
+longest you still want to be extremely
+18:30
+generous with co-founder Equity because
+18:32
+those co-founders actually got you the
+18:35
+energy of activation your company needed
+18:38
+to even be in the game and without them
+18:43
+maybe you're not in the game at all and
+18:44
+you don't get to see this company scale
+18:46
+to something great you should really
+18:50
+understand how important the early years
+18:53
+are and the co-founders are and
+18:55
+co-founder motivation is to making
+18:58
+successful products happen and you
+19:00
+should use your co-founder Equity to
+19:04
+give yourself the best chance of
+19:07
+building something that people want
+19:09
+after
+19:10
+that hey man you're Off to the Races
+19:13
+you're doing better than 99% of other
+19:14
+startups and of course the rules change
+19:19
+[Music]

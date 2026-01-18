@@ -1,0 +1,953 @@
+---
+How To Price For B2B  Startup School
+
+If you're a startup founder, how much should you charge for your product or service? It's a simple question that can make many lock up. What number should you pick? In this episode of Startup School, YC Group Partner Tom Blomfield guides you on how to come up with a price and then justify that number to customers. 
+---
+Intro
+0:01
+[Music]
+0:09
+hi there my name is Tom and I'm a
+0:11
+partner here at y combinator today I'm
+0:14
+going to be talking about one of the
+0:15
+most common questions I get from
+0:17
+Founders which is how to price so the
+0:20
+Founder's been working on outbound sales
+0:22
+contacting people and they finally had a
+0:24
+sales call that went really really well
+0:26
+the champion that's the person the
+0:28
+customer who's uh potentially buying is
+0:31
+really really interested in in the
+0:32
+product and asked us for pricing and we
+0:35
+just froze what number should we pick
+0:38
+often when you haven't worked at a big
+0:40
+company you don't have good calibration
+0:43
+about what kind of prices these
+0:45
+companies tend to pay for software and
+0:47
+so you might think of the last time you
+0:49
+bought software you know a subscription
+0:50
+to GitHub or chat GPT and you pick a
+0:54
+ludicrously no low number $19 a month or
+0:57
+$49 a month or something like that
+0:59
+because for Founders who have spent the
+1:02
+last two or three months building a
+1:03
+product asking for tens or even hundreds
+1:06
+of thousands of dollars can feel very
+1:08
+uncomfortable you almost can't say it
+1:10
+with a straight face and so what I'm
+1:13
+going to talk about today is a way to to
+1:16
+come up with a price and justify that
+1:18
+price to your customer so there are
+The Value Equation
+1:19
+three core elements here and by far the
+1:23
+most important is what I call the value
+1:25
+equation so this is the idea that you
+1:28
+sit down uh with your with your Champion
+1:30
+that's the person at the customer that's
+1:32
+really into your product that perhaps
+1:34
+sees it's going to solve one of their
+1:35
+biggest problems and you write down with
+1:38
+this Champion uh what they expect your
+1:41
+product to do for them what value it's
+1:43
+going to deliver uh to their company
+1:45
+that might be a cost saving it might be
+1:47
+a time saving or an increase in revenue
+1:49
+and you've got to write this down step
+1:51
+by step and then get the customer to
+1:53
+challenge it to produ it and really make
+1:55
+sure the assumptions are correct because
+1:57
+ultimately it's a tool for that person
+1:59
+to take to their boss or their CFO to
+2:02
+justify the purchase of this contract so
+2:04
+we're going to walk through a quick
+2:05
+example here say you're selling a I
+2:09
+don't know a customer service tool to a
+2:11
+big company that has a c 100 customer
+2:13
+support agents and maybe just for the
+2:16
+sake of argument uh each customer
+2:18
+support agent is paid $50,000 a year in
+2:21
+salaries and then there's another
+2:22
+$50,000 uh per employee in additional
+2:25
+costs that might be offices overheads
+2:28
+health insurance all that stuff so so
+2:30
+the fully loaded cost of each customer
+2:32
+service person is
+2:33
+$100,000 and they've got a hundred of
+2:35
+them so that's $10 million of total
+2:38
+customer service cost and say we're
+2:40
+going in to this customer saying we've
+2:42
+got this new AI powered customer service
+2:44
+tool that will eliminate 20% of the
+2:47
+queries or 20% of the total time spent
+2:50
+by that customer service team that's $2
+2:52
+million of potential cost saving and so
+2:55
+again remember you're normally saving
+2:57
+time which is cost or reducing cost
+2:59
+directly or increasing Revenue those are
+3:01
+typically the three things that
+3:02
+companies care about so once you've
+3:05
+established what value you're delivering
+3:08
+the pricing is pretty simple I typically
+3:10
+pick somewhere between 25 and 50% of the
+3:13
+value you're delivering so they keep
+3:16
+roughly 2/3 you keep roughly a third so
+3:19
+our previous example $2 million of
+3:21
+savings uh they keep 1.3 you charge them
+3:25
+maybe 700k something like that and it's
+3:27
+a great deal for both of you this person
+3:29
+take it to their CFO and show really
+3:32
+good return on investment so the great
+3:34
+thing about this value equation is it
+3:36
+also gives you the success metrics that
+3:38
+you need to prove during a pilot project
+3:41
+so you might go to the customer and say
+3:43
+let's try this tool for a month with
+3:45
+with just a portion of your team maybe
+3:47
+let's get 10 customer service agents to
+3:48
+try it out and see if it actually does
+3:51
+reduce queries and let's measure it and
+3:53
+as long as it reduces queries by 20% or
+3:56
+saves the customer service agents at
+3:57
+least 20% of the time we know this value
+4:00
+equation holds and if the metrics come
+4:01
+back slightly different maybe it only
+4:03
+saves 15% or it does really well and
+4:05
+saves 25% you can even adjust the
+4:07
+pricing based on that but the value
+4:09
+equation tells you the the success
+4:12
+metrics that you need to prove during a
+4:14
+pilot process so that's the first part
+4:16
+of pricing and by far it's the most
+4:19
+important if you just stop with that
+4:21
+value equation honestly you'll get 80 or
+4:23
+90% of of the pricing spawn on but there
+4:25
+are a couple of other elements it's
+4:27
+usually useful to consider the first of
+Cost
+4:29
+those is cost what does it cost you to
+4:32
+provide this service to the customer
+4:35
+it's important you never start with cost
+4:37
+some people like to do a cost plus a
+4:39
+margin pricing and it just always ends
+4:41
+up with you underpricing your software
+4:44
+cost should only ever be a floor so you
+4:46
+you do your value equation you take a
+4:48
+third of it um that comes out to
+4:50
+$700,000 perhaps your costs are mainly
+4:53
+open AI fees or something like that and
+4:55
+AWS fees and that comes to something
+4:56
+like
+4:58
+$200,000 so $700 K is your contract
+5:00
+value 200k is your cost you're golden if
+5:03
+however you've come up with a value
+5:05
+equation and and your share of it which
+5:07
+only comes in at 150k and your cost a
+5:10
+200k you're in a bad business know
+5:13
+you'll have to price at below your cost
+5:15
+which is not sustainable and so you're
+5:18
+either going to have to figure out um
+5:19
+how to demonstrate more value or change
+5:22
+what you're building ultimately or get
+5:23
+out of the business entirely really you
+5:25
+should be aiming for software margins of
+5:27
+like 80 or 90%
+5:29
+note on uh credits so people AWS
+5:33
+Microsoft open AI giving out tons and
+5:35
+tons of credits to startups you should
+5:37
+treat those as a cash cost don't assume
+5:40
+you'll have unlimited credits forever
+5:42
+it'll totally mess up your margins there
+5:44
+are occasionally situations where you
+5:46
+might want to price at or even below
+5:49
+cost but it's a really really risky
+5:52
+maneuver typically used by Founders who
+5:54
+want to grab market share in a in a you
+5:55
+know in an arms race it's a land grab
+5:58
+situation it's very very dangerous
+6:00
+you're really betting that the costs are
+6:01
+going to come down dramatically in
+6:03
+future although having said that with
+6:05
+the development of llms um companies
+6:07
+like open Ai and anthropic do keep
+6:09
+dramatically reducing costs so there's
+6:12
+perhaps some argument that you might
+6:13
+want to price a little bit lower now
+6:15
+because you know your margins are going
+6:16
+to improve with time but honestly it's a
+6:19
+really risky maneuver and I would advise
+6:21
+startups to to really try to keep to
+6:23
+that 80 or 90% uh gross margin so the
+Competition
+6:26
+third element in pricing is competition
+6:30
+so you've done your value equation
+6:31
+you've calculated about a third of that
+6:33
+you've checked that your costs are way
+6:35
+way below that so you're sustaining a
+6:36
+sort of 8 90% Marin you're in good shape
+6:38
+but you have a direct competitor who's
+6:41
+just entered the market and uh their
+6:44
+software is equivalent to yours and
+6:45
+they've decided to underprice you by
+6:47
+half what do you do this is really
+6:50
+really tricky a Founder's um first
+6:53
+response is to often just engage in a
+6:55
+price War so to take the price that your
+6:58
+competitors's offered and then just
+6:59
+undercut them the problem is they'll do
+7:01
+the same undercut you and that you'll
+7:03
+undercut them again and it's just a race
+7:05
+to the bottom so competing solely on
+7:08
+pricing really is not a winning maneuver
+7:10
+you don't want to get into a
+7:12
+head-to-head bidding war for a commodity
+7:14
+product instead what you want to do is
+7:16
+set your product apart based on
+7:19
+functionality or value it can't be an
+7:21
+apples for apples comparison your
+7:24
+product needs to be differentiated if
+7:26
+there's extreme competition in an
+7:28
+industry for a commodity product that's
+7:30
+a product where they're all basically
+7:31
+the same all the margin gets driven out
+7:34
+so you take the airline industry as an
+7:36
+example basically commodity taking a a
+7:39
+seat in an airplane um across the
+7:41
+country the airline industry on average
+7:42
+has 2.7% net profit margin it's a brutal
+7:46
+brutal business and airlines are on the
+7:47
+brink of going bus the whole time
+7:50
+because they're just struggling to
+7:51
+differentiate so now we've talked about
+7:53
+the three main elements starting with
+7:55
+the value equation considering your cost
+7:57
+and competition we're going to talk
+7:58
+about other techniques for determining
+8:01
+the price or maybe even the pricing
+8:03
+structure so another question you want
+8:04
+to ask uh your Champion is how and what
+8:07
+do they pay for other similar software
+8:09
+products for example are they used to
+8:12
+paying a monthly flat fee or per sey
+8:15
+pricing or usage bands or credits I
+8:17
+would really explore the industry you're
+8:19
+selling into and understand what they're
+8:21
+used to paying and and the way they're
+8:23
+used to structuring pricing and then
+8:25
+pick a pricing strategy they're used to
+8:27
+people typically are wary of totally
+8:30
+uncapped usage based pricing so you
+8:32
+might want to put a cap on that and
+8:34
+really if you can mirror the way they
+8:36
+are used to paying for other software
+8:38
+the better you'll do overwhelmingly
+8:40
+though when you're choosing pricing it's
+8:42
+important to keep it simple over
+8:44
+complicating pricing will kill a sales
+8:47
+process in general committed recurring
+8:50
+Revenue that's monthly recurring revenue
+8:52
+or annual recurring revenue is
+8:53
+preferable to usage based pricing and
+8:56
+that's because during an economic
+8:58
+downturn or a Slowdown
+9:00
+your revenue is protected at least until
+9:02
+the contract is up for Renewal and then
+9:04
+you can have a debate with the customer
+9:05
+about whether it's worth renewing
+9:07
+whereas if it's pure usage based Revenue
+9:09
+there's a real risk that your Revenue
+9:10
+just falls off a cliff in a in a bad
+9:12
+month and investors are really worryed
+9:14
+about that so if you can uh aim for Mr
+9:17
+or even ARR one technique to do this is
+9:21
+to start with usage based pricing for
+9:23
+new customers um run the the the
+9:27
+contract for a month or two and see what
+9:29
+usage is and then offer to move them to
+9:31
+a minimum monthly commitment uh with
+9:34
+volume discounts so you can see they're
+9:35
+using on average $15,000 a month offer
+9:38
+them a 12,000 a month flat fee which
+9:41
+includes all their usage if they commit
+9:43
+to a 12-month contract another technique
+9:46
+is to ask your Champion what amount
+9:49
+they're able to personally sign off
+9:51
+without having to get additional
+9:52
+approvals from the CFO or the legal team
+9:55
+so maybe have they have signing
+9:57
+authority of up to $15,000
+9:59
+that's a good hint that you should keep
+10:01
+your Pilot pricing to maybe
+10:04
+$149.99 something like that just to keep
+10:06
+it moving really really quickly next I
+Pricing
+10:08
+want to talk about whether you should
+10:10
+publish your prices on your website or
+10:12
+have a contact sales for Enterprise
+10:14
+pricing there are strong feelings about
+10:16
+this on the internet and often software
+10:18
+developers say I just want to see the
+10:19
+price I just want to click a button and
+10:21
+put my credit card into bio I hate
+10:23
+talking to sales why do I have to talk
+10:24
+to sales the problem is the value
+10:27
+equation is going to be different for
+10:29
+each Enterprise customer that's why most
+10:31
+Enterprise plans say contact sales if
+10:34
+you choose a price randomly and put it
+10:36
+on your website for an Enterprise
+10:37
+contract you are certainly leaving money
+10:40
+on the table you'll overprice the
+10:42
+product for a whole chunk of customers
+10:44
+who don't get that much value out of it
+10:45
+so you've lost them entirely and for the
+10:47
+people who get much more value out of it
+10:49
+you're underpricing it for that segment
+10:51
+dramatically so typically what companies
+10:54
+do is have one or two cheaper plans
+10:56
+perhaps an individual plan and a small
+10:58
+team or startup plan that contains most
+11:01
+of the basic functionality but excludes
+11:03
+the core functionality that enterprises
+11:06
+really really want so you can go and
+11:07
+look at other SAS company pricing pages
+11:09
+and see what they gate behind Enterprise
+11:11
+plans often it's things like uh sock 2
+11:14
+audit reports or single sign on or audit
+11:17
+logs or compliance reports or data being
+11:20
+kept in certain geographies things like
+11:21
+that uh that really individuals and
+11:23
+small companies don't really care about
+11:25
+and Enterprises find absolutely vital
+11:28
+and can't live without that allows you
+11:30
+to um to price differently for your
+11:32
+small customers and your Enterprise
+11:33
+customers sometimes up to 10 times more
+11:36
+for Enterprise customers for these um
+11:38
+extra compliance legal data privacy
+11:41
+kinds of features the next thing we
+11:42
+should talk about is understanding that
+11:45
+your pricing strategy dictates your
+11:48
+sales channels but differently at this
+11:51
+pricing level is there enough money in
+11:54
+each contract to compensate a sales team
+11:56
+or account Executives so a good rule of
+11:59
+thumb is about a 5:1 ratio between new
+12:04
+signed ARR and total compensation for a
+12:07
+salesperson including commission so for
+12:10
+example if you you pay a salesperson
+12:13
+$100,000 a year in annual compensation
+12:16
+including their base salary plus uh any
+12:19
+sales commission so 100,000 total
+12:21
+compensation you might reasonably expect
+12:23
+that salesperson to close $500,000 of
+12:26
+new AR every year but $500,000 of new AR
+12:30
+can can be split down in so many
+12:32
+different ways is that
+12:34
+$500,000 contracts in which case each
+12:37
+account executive is really they're
+12:39
+hunting whales they're trying to close a
+12:41
+contract every couple of months
+12:43
+something like that and they might might
+12:45
+only be working on four five six
+12:47
+contracts at a time or is it 20 time
+12:50
+$25,000 contracts so $25,000 annual
+12:54
+contract about $22,000 a month and your
+12:56
+account Executives would need to close
+12:58
+about two of those per month just under
+13:00
+two to meet 20 per year to get to that
+13:03
+$500,000 contract still doable or are
+13:06
+you tasking them with closing
+13:09
+$500,000 annual contracts every year so
+13:12
+that last example $1,000 annually is
+13:15
+about $83 a month your sales rep has to
+13:17
+clo close 42 deals every month that's
+13:21
+almost two every single working day
+13:23
+that's not really a true account
+13:24
+executive or outbound sales team at best
+13:27
+you might have a call center of inside
+13:29
+sales so they're basically picking up
+13:30
+the phone when someone wants to buy and
+13:32
+you know typing stuff into a a computer
+13:34
+system and answering questions it's not
+13:36
+they're not out hunting whales anymore
+13:38
+they're really sort of harvesting a you
+13:40
+know a field of wheat or something the
+13:41
+next subject I want to talk about is
+Free trials
+13:43
+whether you should offer free trials or
+13:46
+pilots in general offering a really long
+13:49
+free trial or a pilot is
+13:52
+counterproductive uh the customer not
+13:54
+actually bought into using the product
+13:56
+and so what you want to do is keep these
+13:57
+these Pilots or these proof Concepts
+13:59
+really really short maybe a couple of
+14:01
+weeks maybe four weeks with really
+14:04
+really clear success criteria from what
+14:06
+we talked about earlier with the the
+14:07
+value equation a better technique if
+14:10
+you're really confident is to push your
+14:12
+customers to sign up for an annual
+14:14
+contract from the very start but with a
+14:17
+30-day or 60-day money back guarantee
+14:20
+and opt out at the start so if it
+14:21
+doesn't deliver what they want they can
+14:22
+get their money back no questions asked
+14:24
+but by default it becomes a recurring
+14:27
+contract You Can Count this as recurring
+14:29
+Revenue pretty much straight away
+14:31
+another question I get is we just a two
+14:33
+or three person startup should we uh you
+14:35
+know um put up more people on our
+14:37
+website or uh sign more people up to our
+14:39
+LinkedIn company account to act like
+14:41
+we're a much much bigger company to try
+14:43
+and close these customers in general no
+14:46
+that's not a good idea what you should
+14:47
+do instead is play to your strengths as
+14:49
+a startup say to your customers you can
+14:52
+have the phone number of the founders
+14:54
+and we're on call 24/7 to come and fix
+14:57
+your problems you're certainly not going
+14:58
+to going to get that from Salesforce or
+15:01
+Oracle or something like that so play
+15:03
+into your strengths as a startup okay in
+15:06
+conclusion if you really really don't
+15:08
+know how to price you've tried the value
+15:10
+equation it's it's just not worked you
+15:12
+just it's too uncertain somehow honestly
+15:15
+just pick a number that's similar to
+15:17
+other kinds of software that your
+15:18
+customers buy and then what I would do
+15:21
+is increase that number by 50% for every
+15:24
+time you pitch a new customer so you
+15:26
+start at 10,000 and they say yes and the
+15:28
+next customer you going 15 and the next
+15:29
+customer maybe you get a
+15:31
+22,000 and when you start to lose more
+15:34
+than 25% of potential deals base solely
+15:37
+on price you're now probably in the
+15:39
+right ballp so you don't need to win
+15:41
+every single deal and if every single
+15:43
+deal is closing straight away you're
+15:45
+almost certainly underpricing and just
+15:48
+remember if your company is successful
+15:50
+these initial 5 10 customers you sign up
+15:53
+at the start are going to be a tiny tiny
+15:54
+fraction of the revenue you make over
+15:56
+the next 5 years and so it's more
+15:59
+important to start signing deals and
+16:01
+getting to the flow of it you can always
+16:02
+increase prices as the product improves
+16:04
+you add new modules and put them behind
+16:06
+a payall or upsell customers so over
+16:09
+optimizing for pricing early is a big
+16:11
+mistake pick a number try and sell it
+16:14
+and and just experiment As you move on
+16:16
+it gets easier and easier to close
+16:18
+customers and increase prices as the
+16:20
+company grows because you presumably are
+16:22
+getting better at sales over time you're
+16:24
+getting validation logos on your
+16:26
+homepage of all of the happy customers
+16:28
+who you're using your product and unless
+16:30
+you're doing something really wrong your
+16:32
+product should be improving dramatically
+16:34
+over time the first two or three sales
+16:37
+are normally the absolute hardest you'll
+16:39
+ever have to do uh so just get them
+16:41
+closed so to recap there are three
+Recap
+16:44
+really really important parts to any
+16:46
+pricing first is the value equation
+16:50
+write it down get your Champion to
+16:52
+challenge it and then price at about a
+16:54
+third of the value you're delivering so
+16:56
+the customer keeps 2third of the value
+16:58
+you keep one third second consider cost
+17:02
+make sure you're not pricing at or below
+17:05
+cost unless you've got a really really
+17:07
+good plan to dramatically reduce costs
+17:09
+in the short to medium term and then
+17:11
+thirdly if there's competition in the
+17:13
+space you could get into a pricing war
+17:15
+and really no one wins from that and so
+17:17
+it's better rather than engaging head on
+17:19
+with a competitor try to differentiate
+17:20
+your product pick a niche focus on
+17:22
+certain Integrations or certain
+17:24
+industries and show how your product is
+17:26
+dramatically better and really inoma
+17:29
+able to competitors and that's it that's
+Outro
+17:31
+had a price I'd love any questions in
+17:33
+the comments below thanks for listening
+17:37
+[Music]

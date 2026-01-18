@@ -1,0 +1,1443 @@
+---
+Tips For Technical Startup Founders  Startup School
+
+YC Group Partner Diana Hu was the CTO of her YC startup Escher Reality, which was acquired by Niantic (makers of Pokemon Go). She shares her advice for being a technical founder at the earliest stages - including topics like how to ship an MVP fast, how to deal with technology choices and technical debt, and how and when to hire an engineering team.
+---
+Intro
+0:01
+[Music]
+0:08
+welcome everyone to how to build and
+How to Build and Perpetuate as a Technical Founder
+0:12
+succeed as a technical founder for the
+0:15
+startup School talk quick intro I'm
+0:17
+Diana who I'm currently a group partner
+0:20
+at YC and previously I was a co-founder
+0:24
+and CTO for Azure reality which was a
+0:27
+startup building augmented reality SDK
+0:30
+for game developers and we eventually
+0:33
+had an exit and sold to Niantic where I
+0:37
+was the director of engineering and
+0:38
+heading up all of the AR platform there
+0:41
+so I know a few things about building
+0:43
+something from was just an idea to then
+0:47
+a prototype to launching an MVP which is
+0:50
+like a bit duct tapey to then scaling it
+0:52
+and getting to product Market fit and
+0:55
+scaling systems to millions of users so
+0:58
+what are we going to cover in this talk
+1:00
+is three stages first is what is the
+1:05
+role of the technical founder and who
+1:07
+are they number two how do you build in
+1:11
+each of the different stages where all
+1:13
+of you are in startup school ideating
+1:16
+which is just an idea you're just
+1:17
+getting started building an MVP once you
+1:20
+got some validation and getting it to
+1:22
+launch and then launch where you want to
+1:24
+iterate towards product Market fit
+1:26
+and then I'll have a small section on
+1:29
+how the role of the technical founder
+1:31
+evolved Pro product Market fit I won't
+1:33
+cover it too much because a lot of you
+1:35
+in startup School are mostly in this
+1:38
+earlier stage and I'm excited to give
+1:40
+this talk because I compiled it from
+1:43
+many conversations and chats with many
+1:45
+YC technical Founders like from algolia
+1:50
+segment optimal easily way up so I'm
+1:53
+excited for all of their inputs and
+1:55
+examples in here all right the technical
+What Does a Technical Founder Do?
+1:58
+founder sometimes I hear non-technical
+2:01
+Founders say I need somebody to build my
+2:04
+app so that isn't going to cut it a
+2:08
+technical founder is a partner in this
+2:11
+whole journey of a startup and it
+2:14
+requires really intense level of
+2:16
+commitment and you're in just a Dev what
+2:18
+does a technical founder do they lead a
+2:22
+lot of the
+2:23
+building of the product of course
+2:26
+and also talking with users and
+2:29
+sometimes I get the question of who is
+2:32
+the CEO or CTO for a technical founder
+2:34
+and this is a nuanced answer it really
+2:37
+depends on the type of product the
+2:39
+industry you're in the complete scale
+2:41
+composition of the team to figure out
+2:44
+who the CEO of CTO is and I've seen
+2:47
+technical Founders be the CEO the CTO or
+2:50
+various other roles and what does the
+2:52
+role of the technical founder look like
+2:54
+in the early eight stages it looks a lot
+2:57
+like being a lead developer like if
+3:00
+you've been a lead developer a company
+3:01
+you were in charge of putting the
+3:03
+project together and building it and
+3:05
+getting it out to the finish line or if
+3:07
+you're contributing to an open source
+3:08
+project and you're the main developer
+3:10
+you make all the tech choices but
+3:12
+there's some key differences from being
+3:15
+a lead developer you got to do all the
+3:18
+tech things like if you're doing
+3:20
+software you're gonna have to do the
+3:22
+front and the back end devops the
+3:25
+website the ux even I.T to provision the
+3:29
+Google accounts anything if you're
+3:32
+building hardware and maybe you're just
+3:34
+familiar familiar with electrical and
+3:35
+working with eaglecad you'll have to get
+3:37
+familiar with the mechanical too and
+3:40
+you'll of course as part of doing all
+3:42
+the tech things you'll have to talk with
+3:43
+users to really get those insights to
+3:46
+iterate and you're going to have a bias
+3:48
+towards building a good enough versus
+3:51
+the perfect architecture because if you
+3:54
+worked at a big company
+3:56
+you might have been rewarded for the
+3:58
+perfect architecture but not for a
+4:00
+startup you're going to have bias
+4:02
+towards action and moving quickly and
+4:04
+actually deciding with a lot of
+4:06
+incomplete information you're gonna get
+4:08
+comfortable with technical debt
+4:10
+inefficient processes and a lot of ugly
+4:13
+code and basically lots of chaos and all
+4:17
+of these is to say is the technical
+4:20
+founder is committed to the success of
+4:23
+your company
+4:24
+and that means doing whatever it takes
+4:26
+to get it to work and it's not going to
+4:29
+cut it if you're an employee at a
+4:30
+company I sometimes hear oh this task or
+4:33
+this thing is not in my pay grade no
+4:35
+that's not going to cut it here you got
+4:37
+to do you gotta do it this next session
+How To Build
+4:39
+on how to build the first stage is the
+4:43
+ideating stage where you just have an
+4:46
+idea of what you want to build and the
+4:48
+goal here is to build a prototype as
+4:52
+soon as possible with the singular Focus
+4:55
+to build something to show and demo to
+4:58
+users and it doesn't even have to work
+5:01
+fully in parallel your CEO co-founder
+5:05
+will be finding a list of users in these
+5:08
+next couple days to TF meetings to show
+5:10
+the Prototype when it's ready so the
+5:12
+principle here is to build very quickly
+5:14
+in a matter of days and sometimes I hear
+5:17
+it's like oh Diana a day prototype that
+5:20
+seems impossible how do you do it and
+5:23
+one way of doing it is building on top
+5:25
+of a lot of prototyping software and you
+5:28
+keep it super super simple so for
+5:30
+example if you're a software company you
+5:33
+will build a clickable prototype perhap
+5:35
+using something like figma or Envision
+5:38
+if you're a devtools company you may
+5:40
+just have a script that you wrote in an
+5:42
+afternoon and just launch it on the
+5:44
+terminal
+5:45
+if you're a hardware company or heart
+5:47
+attack it is possible to build a
+5:49
+prototype maybe it takes you a little
+5:50
+bit longer but the key here is 3D
+5:52
+renderings to really show you the
+5:54
+promise of what the product is and the
+5:56
+example I have here is a company called
+5:58
+Remora that is helping trucks capture
+6:02
+carbon with this attachment and that
+6:05
+example of that rendering was enough to
+6:08
+get the users excited about their
+6:11
+product even though it's hard tech so
+6:13
+give you a couple examples of prototypes
+6:15
+in the early days this company
+6:16
+optimizely went through YC on winter 10
+6:19
+and they put this prototype literally in
+6:22
+a couple of days and the reason why is
+6:24
+that they had applied with YC with a
+6:26
+very different idea they started with a
+6:28
+Twitter referral widget and that idea
+6:30
+didn't work and they quickly found out
+6:32
+why
+6:33
+so they strapped together very quickly
+6:35
+this prototype and it was because the
+6:37
+founders uh Pete and Dan and Dan was
+6:40
+actually heading analytics for the Obama
+6:42
+campaign and he recalled that he was
+6:44
+called to optimize one of the funding
+6:47
+pages and thought huh this could be a
+6:49
+startup so they put a very together very
+6:51
+quickly together and it was the first
+6:53
+visual editor by creating a a b test
+6:55
+that was just a Javascript file that
+6:58
+lived on S3 I literally just opened
+7:00
+option command J if you're in Chrome and
+7:03
+they literally run manually the A B test
+7:05
+there and it would work of course nobody
+7:07
+could use it except the founders but it
+7:09
+was enough to show it to marketers who
+7:11
+were the target users to optimize sites
+7:13
+to get the user excited so this was
+7:16
+built in just few days other example is
+7:20
+my startup Azure reality since we're
+7:22
+building more harder Tech we had to get
+7:25
+computer vision algorithms running on
+7:27
+phones and we got that done in a few
+7:29
+weeks that was a lot easier to show a
+7:32
+demo of what AR is as you saw on the
+7:34
+video than just explaining and hand
+7:37
+waving and made selling and explaining
+7:39
+so much easier now what are some common
+7:42
+mistakes on prototypes you don't want to
+7:45
+overbuild at this stage I've seen people
+7:48
+have this bias and they tell me hey
+7:50
+Diana but users don't see it or it's not
+7:54
+good enough this prototype doesn't show
+7:55
+the whole Vision this is the mistake
+7:57
+when founder things you need a full MVP
+7:59
+and the stage and not really the other
+8:02
+mistake is obviously not talking or
+8:05
+listening to users soon enough that
+8:07
+you're gonna get uncomfortable and show
+8:08
+this kind of prototyping duct type thing
+8:11
+that you just slap together and that's
+8:14
+okay you're gonna get feedback the other
+8:16
+one at the stage as an example for
+8:18
+optimizely when founders get too
+8:21
+attached to idea I went up the feedback
+8:23
+from users is something obvious that is
+8:25
+not quite there not something that users
+8:27
+want and it's not letting go of bad
+Build an MVP: The Startup Process
+8:30
+ideas okay so now into the next section
+8:33
+so imagine you have this prototype you
+8:36
+talk to people and there's enough
+8:38
+interest then you move on to the next
+8:39
+stage of actually building an MVP that
+8:42
+works to get it to launch and the goal
+8:44
+is basically build it to launch and it
+8:47
+should be done also very quickly ideally
+8:49
+in a matter of can be done a few days
+8:51
+two weeks or sometimes months but
+8:54
+ideally more on the weeks range for most
+8:56
+software companies again exceptions to
+8:58
+hardware and deep tech companies so the
+9:00
+goal here at this stage is to build
+9:03
+something that you will get commitment
+9:06
+from users to use your product and
+9:08
+ideally what that commitment looks like
+9:10
+is getting them to pay and the reason
+9:12
+why you have a prototype is while you're
+9:14
+building this your co-founder or CEO
+9:17
+could be talking to users and showing
+9:19
+the Prototype and even getting
+9:20
+commitments to use it once is ready to
+9:23
+launch so I'm gonna do a bit of a bit of
+9:25
+a diversion here because sometimes
+9:28
+Founders get excited it's like oh I show
+9:29
+this prototype people are excited and
+9:31
+there's so much to build is hiring a
+9:34
+good idea
+9:35
+first is thing is like okay I got this
+9:37
+prototype got people excited I'm gonna
+9:39
+hire people to help me to build it as a
+9:41
+first-time founder he's like oh my God
+9:42
+oh my God there's a fit people want it
+9:43
+is it a good idea it really depends it's
+9:46
+gonna actually slow you down in terms of
+9:49
+launching quickly
+9:50
+because if you're hiring from a pool of
+9:53
+people and Engineers that you don't know
+9:54
+it takes over a month or more to find
+9:57
+someone good and it's hard to find
+9:59
+people at this stage with very nebulous
+10:01
+and chaotic so it's going to make you
+10:02
+move slowly and the other more Insidious
+10:05
+thing is going to make you
+10:08
+not develop some of the insights about
+10:10
+your product because your product will
+10:12
+evolved if someone else in your team is
+10:14
+building that and not the founders
+10:15
+you're gonna miss that key learning
+10:17
+about your tag that could have a gold
+10:19
+nugget but it was not built by you I
+10:21
+mean there's exceptions to this I think
+10:23
+you can hire a bit later when you have
+10:26
+things more built out but at this stage
+10:28
+it's still difficult so I'll give you a
+10:31
+example here uh Justin TV and twitch it
+10:34
+was just the four Founders and three
+10:36
+very good technical Founders at the
+10:39
+beginning for the MVP it was just the
+10:42
+founders building software as software
+10:45
+engineers and the magic was Justin
+10:47
+Emmett and Kyle Building different parts
+10:50
+of the system you had Kyle who become an
+10:52
+awesome Fearless engineer tackling the
+10:54
+hard problems of video streaming and
+10:57
+then Emma doing all the database work
+10:59
+Justin with the web and that was enough
+11:00
+to get it to launch I mean I'll give you
+11:03
+an exception after they launched they
+11:05
+did hire good Engineers but the key
+11:07
+thing about this they were very good at
+11:10
+not caring about the resume they try to
+11:12
+really find The Misfits and engineers at
+11:15
+Google overlooked and those turned out
+11:16
+to be amazing so Amon and Golem were
+11:20
+very comfortable and awesome engineers
+11:22
+and they took on a lot of the video
+11:24
+weapon just three months since joining
+11:25
+you want people like that that can just
+11:27
+take off and run all right so now
+Principles for Building Your MVP
+11:30
+going back into the principles for for
+11:33
+building towards your MVP principle one
+11:35
+is the classic hologram essay on do
+11:39
+things that don't scale
+11:41
+basically find clever hacks to launch
+11:43
+quickly in the spirit of doing things at
+11:46
+those scale and the Drake posting
+11:49
+edition of this avoid things like
+11:51
+automatic self onboarding because that
+11:53
+adds a lot of engineering building a
+11:55
+scalable back-end automated scripts
+11:57
+those sounds great at some point but not
+11:59
+the stage and the hack perhaps could be
+12:01
+manually onboarding you're literally
+12:03
+editing the database and adding the
+12:05
+users or the entries and the data on the
+12:07
+other counterter thing is insane custom
+12:10
+support it's just you the founders at
+12:12
+the front line doing the work doing
+12:14
+things that don't scale a classic sample
+12:16
+is with stripe this is the site when
+12:17
+they launch very simple they had the API
+12:19
+for developers to send payments but on
+12:22
+the back end the thing that did not
+12:24
+scale it was literally the founders
+12:26
+processing every manual request and
+12:29
+filling Bank forms to process the
+12:31
+payments at the beginning and that was
+12:33
+good enough to get them to launch sooner
+12:34
+now principle number two this is famous
+12:37
+create 9010 solution that was coined by
+12:41
+Paul bukite who was one of the group
+12:44
+Partners here at YC and original
+12:45
+inventor of Gmail the first version is
+12:48
+not going to be the final remember and
+12:49
+they will very likely a lot of the code
+12:51
+be Rewritten and that's okay push off as
+12:54
+many features to post launch and by
+12:57
+launching quickly I created a 9010
+12:58
+solution I don't mean creating bugs I
+13:01
+still want it good enough but you want
+13:03
+to restrict the product to work on
+13:06
+limited Dimensions which could be like
+13:08
+situations type of data you handle
+13:10
+functionality type of users you support
+13:13
+could be the type of data the type
+13:15
+number of devices or it could be Geo
+13:17
+find a way to slice the problem to
+13:19
+simplify it and this can be your secret
+13:21
+superpowers that startup at the
+13:22
+beginning because you can move a Lot
+13:24
+quickly and large companies can't afford
+13:26
+to do this or even if your startup gets
+13:28
+big you have like lawyers and finance
+13:31
+teams and sales team that make you kind
+13:34
+of just move slow so give you a couple
+13:36
+examples here doordash at the beginning
+13:38
+they slapped it in one afternoon soon
+13:41
+and they were actually called Palo Alto
+13:45
+delivery and they took PDS for menus and
+13:48
+literally put their phone number that
+13:50
+phone number there is actually from one
+13:52
+of the founders and there's the site is
+13:54
+not Dynamic static it's literally just
+13:57
+plain HTML and CSS and PDF that was our
+14:00
+front end they didn't bother with
+14:02
+building a back end the back end quote
+14:03
+unquote was literally just Google forms
+14:06
+and Google Docs where they coordinated
+14:07
+all the orders and they didn't even
+14:10
+build anything to track all the drivers
+14:12
+or ETA they did that with using fancy on
+14:16
+your iPhone find my friends to track
+14:18
+where each of the deliveries were that
+14:20
+was enough so this was put together
+14:21
+literally in one afternoon and they were
+14:24
+able to launch the very genius thing
+14:26
+they did is that because they were
+14:27
+Stanford student they constrained it to
+14:29
+work only on Palo Alto and
+14:31
+counterintuitively by focusing on Palo
+14:33
+Alto and getting that right as they grew
+14:35
+it got them to focus and get delivery
+14:38
+and unit economics right in the suburbs
+14:41
+right at the beginning so that they
+14:43
+could scale that and get that right
+14:45
+versus the competition which was
+14:47
+focusing on Metro cities like GrubHub
+14:49
+which make them now you saw how the
+14:52
+story played out the unit economics and
+14:54
+the Ops was much harder and didn't get
+14:56
+it right so funny thing about focusing
+14:58
+at the beginning and getting those right
+15:00
+can get you to focus and do things right
+15:02
+that later on can serve you well so now
+Choose the Tech Stack That Makes Sense for Your Startup
+15:04
+at this stage how do you choose a tech
+15:08
+stack so what one thing is to balance
+15:10
+what makes sense for your product and
+15:12
+your personal expertise to ship as
+15:15
+quickly as you can keep it simple don't
+15:18
+just choose a cool new programming
+15:20
+language just to learn it for your
+15:21
+startup choose what you're dangerous
+15:23
+enough and comfortable to launch quickly
+15:25
+which brings me to the next principle
+15:28
+choose the tag for iteration speed I
+15:31
+mean now and the other thing is also
+15:34
+it's very easy to build MVPs very
+15:37
+quickly by using third-party Frameworks
+15:39
+on API tools and you don't need to do a
+15:42
+lot of those work for example
+15:43
+authentication you have things like auth
+15:45
+zero payments you have stripe
+15:46
+cross-platform support and rendering you
+15:48
+have things like react native Cloud
+15:50
+infrastructure you have AWS gcp landing
+15:53
+pages you have webflow back-end back-end
+15:56
+serverless you have lambdas or Firebase
+15:59
+or hosted database in the past startups
+16:03
+would run out of money before even
+16:04
+launching because they had to build
+16:06
+everything from scratch and shift from
+16:08
+metal don't try to be the kind of like
+16:10
+cool engineer just build things from
+16:12
+scratch no just use all these Frameworks
+16:14
+but I know ctOS tell me oh it's too
+16:16
+expensive to use this third-party apis
+16:19
+or it's too slow it doesn't skill to use
+16:22
+XYZ so what I'm going to say to this I
+16:25
+mean there's there's two sides of the
+16:27
+story with using third party
+16:29
+I mean to move quickly but it doesn't
+16:31
+mean this this is a great meme that Sean
+16:35
+Wang who's the head of developer
+16:38
+experience that everybody posted the
+16:40
+funny thing about it is you have at the
+16:42
+beginning quartile kind of the noob that
+16:45
+just learned PHP or just JavaScript and
+16:48
+just kind of use it to build the toy car
+16:50
+serious engineers make fun of the new
+16:52
+because oh PHP language doesn't scale or
+16:55
+JavaScript and all these things it's
+16:57
+like oh our PHP is not a good language
+16:59
+blah blah and then the middle or average
+17:02
+or mid-wit Engineers like okay I'm gonna
+17:04
+put my big engineer pants and do what
+17:07
+Google would do and build something
+17:09
+optimal and scalable and use something
+17:11
+for the back end like Kafka Linker Ros
+17:13
+AMA Prometheus kubernetes Envoy big red
+17:17
+or hundreds of microservices okay that's
+17:20
+the average technical founder the
+17:22
+average startup dies so that's not a
+17:23
+good outcome another funny thing you got
+17:25
+the Jedi Master and when you squint
+17:28
+their Solutions look the same like the
+17:30
+new one they chose also PHP and
+17:33
+JavaScript but they choose it for
+17:35
+different reasons not because they just
+17:36
+learned it but they wreck recognizes
+17:39
+this is because they can move a lot
+17:41
+quicker and what I'm going to emphasize
+17:43
+here is that if you build a company and
+17:46
+it works and you get users good enough
+17:48
+the tech choices don't matter as much
+17:50
+you can solve your way out of it like
+17:52
+Facebook famously was built on PHP
+17:55
+because Mark was very familiar with that
+17:57
+and of course PHP doesn't quite scale or
+17:59
+is very performant but if you're
+18:02
+Facebook and you get to that scale of
+18:04
+the number of users they got you can
+18:05
+solve your way out and that's when they
+18:08
+built a custom transpiler called hip hop
+18:11
+to make PHP compound C plus plus so that
+18:14
+it would optimize see so that was the
+18:16
+Jedi move and even for JavaScript
+18:18
+there's a V8 engine which makes it
+18:21
+pretty performant so I think it's fine
+18:22
+way up was a 2015 company at YC that
+18:27
+helps company hire diverse companies and
+18:29
+is a job board for college students so
+18:32
+JJ the CTO although he didn't formally
+18:35
+study computer science or engineering at
+18:37
+UPenn he that taught himself how to
+18:39
+program on freelance for a couple years
+18:42
+before he started way up and JJ chose
+18:45
+again as the Jedi Master chose
+18:47
+technology for iteration speed he chose
+18:50
+Django and python although a lot of
+18:52
+other peers were telling him to go and
+18:55
+use Ruby and rails and I think in 2015
+18:58
+Ruby and rails were 10 times more
+19:01
+popular by Google Trends and that was
+19:03
+fine that that didn't kill the company
+19:05
+at all I mean that was the right choice
+19:06
+for them because he could move and get
+19:08
+this move quickly and get this out of
+19:10
+the door very quickly I kept it simple
+19:12
+in the back end postgres python
+19:14
+Heroku and that worked out well for them
+19:17
+now I'm going to summarize here the only
+19:20
+Tech choices that matter are the ones
+19:23
+tied to your customer promises for
+19:25
+example at Azure we in fact rewrote and
+19:28
+threw away a lot of the code multiple
+19:30
+times as we scale in different stages of
+19:32
+our Tech but the promise that we
+19:34
+maintain to our customers was at the API
+19:36
+level in unity and game engines and
+19:39
+that's the thing that we cannot throw
+19:40
+away but everything else we rewrote and
+19:42
+that's fine all right now we're gonna go
+What Happens In The Launch Stage?
+19:44
+part three so you have the MVP you built
+19:48
+it and launched it now you launched it
+19:50
+so what happens on this stage your goal
+19:53
+here in the launch stage is to iterate
+19:56
+to get towards product Market fit so
+19:59
+principle number one is to quickly
+20:02
+iterate with hard and soft data use hard
+20:06
+data as a tech founder to make sure you
+20:09
+have set up a dashboard with analytics
+20:10
+that tracks your main kpi and again here
+20:13
+choose technology for your analytics
+20:15
+stack for Speed keep some keep it super
+20:18
+simple something like Google analytics
+20:19
+amplitude mix panel and don't go
+20:22
+overboard with something super complex
+20:24
+like lock stash Prometheus these are
+20:27
+great for large companies but not at
+20:28
+your stage you don't have that load
+20:30
+again use Soft Data if I keep talking to
+20:33
+users after you launch and marry these
+20:36
+two to know why users stay or churn
+20:39
+and ask to figure out what new problems
+20:41
+your users have to iterate and build we
+20:44
+pay another YC company when they launch
+20:46
+they were at b2c payments product kind
+20:49
+of a little bit like venmo-ish but the
+20:51
+thing is that it never really took off
+20:53
+they iterated so in terms of analytics
+20:56
+they saw some of the features that we're
+20:58
+launching like messaging nobody cared
+21:00
+nobody used and they found out in terms
+21:03
+of a lot of the payments their biggest
+21:04
+user was GoFundMe back then they also
+21:07
+talked to users they talk to GoFundMe
+21:08
+who didn't care for any of this b2c UI
+21:12
+stuff they just care to get the payments
+21:15
+and then they discover a better
+21:17
+opportunity to be an API and basically
+21:19
+pivoted it into it and they got the
+21:22
+first version and again applying the
+21:24
+principles that did a scale they didn't
+21:26
+even have technical docs and they worked
+21:28
+with GoFundMe to get this version and
+21:31
+this API version was the one that
+21:33
+actually took off and got them to
+21:34
+product Market fit principle number two
+21:36
+in this launch stage is to continuously
+21:39
+launch perfect example of this is a
+21:41
+segment who started as a very different
+21:42
+product they were classroom analytics
+21:45
+similar stories they struggled with this
+21:48
+first idea it didn't really work out
+21:49
+until they launched a stripped out
+21:52
+version of just their back end which was
+21:53
+actually segment and see the impressive
+21:56
+number of launches they did their very
+21:59
+first launch was back in December
+22:02
+2012. that was their very first post and
+22:05
+you saw the engagement in Hacker News
+22:07
+very high that was a bit of a hint of a
+22:09
+product Market fit and they got excited
+22:11
+and they pivoted into this and kept
+22:13
+launching every week they had a total of
+22:15
+five launches in a span of a month or so
+22:19
+and they kept adding features and
+22:20
+iterating they added support for more
+22:23
+things when they launched it only
+22:24
+supported Google analytics mixpanel and
+22:26
+intercom and by listening to the users
+22:28
+they added node PHP support and
+22:31
+WordPress and it kept on going
+22:34
+and it took them to be then a unicorn
+22:37
+that eventually had an exit to Twilight
+22:39
+for over three billion dollars pretty
+22:42
+impressive too now
+When You Launch: The Right Way to Build Tech
+22:44
+the last principle here what I want to
+22:46
+say for when you're launch there's this
+22:48
+funny state where you have Tech builds
+22:50
+you want to balance building versus
+22:52
+fixing you want to make thoughtful
+22:54
+choices between fixing bugs or adding
+22:57
+new features or addressing technical
+22:58
+debt and one I want to say Tech debt is
+23:01
+totally fine you gotta get comfortable a
+23:03
+little bit with the heat of your Tech
+23:05
+burning totally okay you're gonna fear
+23:07
+the right things and that is towards
+23:09
+getting you product Market fit sometimes
+23:11
+that tiny bug and rendering maybe is not
+23:14
+critical for you at this point to fix
+23:16
+like in fact a lot of early products are
+23:19
+very broken you're probably very
+23:21
+familiar with Pokemon go when it
+23:23
+launched in 2016 nobody could log into
+23:26
+the game and guess what that did not
+23:28
+kill the company at all in fact to this
+23:31
+day Pokemon I think last year made over
+23:34
+a billion dollars in Revenue that did
+23:36
+not kill them and I'll give a little
+23:38
+background what was happening on the
+23:39
+tech it was very uh very straightforward
+23:42
+they had a load balancer that was on
+23:44
+Google cloud and they had a back-end and
+23:47
+they had a TCP termination and HTTP
+23:49
+requests that were done with their nginx
+23:52
+to route to the different servers that
+23:54
+were the AFE the application front end
+23:56
+to manage all the requests and the issue
+23:59
+with there it was that as users were
+24:02
+connected they didn't get terminated
+24:04
+until they got to the nginx
+24:06
+and then as a result client also had
+24:09
+retries and that what happened when you
+24:12
+had such a huge load that in fact I
+24:14
+think Pokemon go by the first month
+24:17
+after launching they had the same number
+24:19
+of uh active as as Twitter which took
+24:22
+them 10 years to get there and they got
+24:23
+there in one month of course things
+24:25
+would break it was basically a lot of
+24:26
+users trying to log in was kind of
+24:28
+creating a bit of a dito's attack now
+24:30
+December is a bit on when you launch
+24:32
+some of the common mistakes after
+24:34
+launching and I myself has made CTO Doge
+24:38
+sad it is tempting to to build and say
+24:41
+what would Google do that's almost
+24:43
+certainly a trap would try to build like
+24:47
+a big company or hiring to try to move
+24:51
+quickly sometimes I think this is more
+24:53
+of a nuanced question can be a mistake
+24:55
+or the other thing is focusing too much
+24:57
+on fixing refactoring and not building
+24:59
+features towards iterating to product
+25:01
+Market fit not discovering insights from
+25:03
+users sometimes I see ctOS like okay we
+25:06
+launched I get to conquer down and just
+25:08
+get into building totally no again your
+25:10
+role as a technical founder very
+25:12
+different you got to be involved in the
+25:14
+journey and really understand the
+25:15
+insights of why users Stay or Leave Your
+25:18
+products you have to keep talking to
+25:19
+them and the other mistake I see is like
+25:21
+oh we're just building features for
+25:22
+their product
+25:23
+but you also need to build Tech to grow
+25:27
+in fact some of the best growth hacks
+25:30
+where Engineers pair it up with sales
+25:34
+and growth folks who are non-technical
+25:35
+so now the last section on how the role
+How the role evolved from ideating to hiring
+25:38
+evolves so assuming you got product
+25:40
+Market fit what happens this is this
+25:43
+point where you can actually then put on
+25:46
+your big engineering pants
+25:48
+and figure out pieces of the tech that
+25:52
+need to be built to scale you need to
+25:55
+and the attack will break which is
+25:57
+actually a good thing breaking because
+25:58
+of too much demand and that's totally
+26:00
+okay that's my example from Pokemon go
+26:03
+you'll find the pieces that need to be
+26:05
+reworked refactor this is when you do it
+26:07
+not before now not before product Market
+26:09
+fit and you'll decide also what the
+26:12
+engineering culture will look like and
+26:14
+this is a stage where you actually do
+26:15
+more of the hiring and here you're
+26:17
+probably going to evolve from leading a
+26:20
+small team of Engineers to hiring your
+26:22
+first hires who are going to be people
+26:23
+that you know and at this point Your
+26:25
+Role really changes because you'll start
+26:27
+having communication overhead and this
+26:30
+is when you realize your role morphs
+26:32
+like between two to five you still get
+26:34
+time to code about 70 when you get to
+26:36
+five to ten you only have less than 50
+26:38
+percent and Beyond 10 you probably won't
+26:41
+really have time to code and have to
+26:43
+decide how to structure things and
+26:45
+whether you're going to remain as a
+26:47
+architect type or role or you want to be
+26:49
+more of a people role and be more of a
+26:50
+BP rich now to summarize uh hear the
+Summary
+26:53
+talk first stage ideating Bill the goal
+26:57
+is to build a prototype as soon as
+26:59
+possible and the principle is built very
+27:02
+quickly in a matter of days stage two
+27:04
+you're in the process of building an MVP
+27:07
+which I think a lot of you are in this
+27:09
+or the previous one the goal is to build
+27:11
+as quickly to launch in a matter of few
+27:14
+weeks
+27:15
+and the principles are do things that
+27:16
+don't scale create a 90 10 solution
+27:18
+choose the tech for iteration speed and
+27:22
+the last one is once you launch all of
+27:25
+the previous ideas on 9010 solution do
+27:28
+things that don't scale still apply and
+27:30
+add these onto it and the goal is to get
+27:33
+an iteration towards product Market fit
+27:35
+so you're going to also quickly iterate
+27:37
+with hard and soft data with analytics
+27:39
+and user interviews
+27:41
+you're going to continuously launch and
+27:44
+you're going to find the fine balance
+27:46
+between building and fixing and where
+27:49
+techdat is totally fine
+27:51
+feel the heat for that Tech that is
+27:53
+totally fine and if there's only one
+27:55
+take away from this whole talk is that
+27:57
+startups move quickly so thank you
+Outro
+28:00
+everyone
+28:03
+[Music]

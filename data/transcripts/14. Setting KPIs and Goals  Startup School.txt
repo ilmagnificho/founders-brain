@@ -1,0 +1,1502 @@
+---
+Setting KPIs and Goals  Startup School
+
+YC Visiting Partner Divya Bhat talks about how to set your KPIs (key metrics) and how to prioritize your time. This talk helps founders launch faster and set goals in order to make real progress.
+---
+KPIs and Prioritization for an Early-Stage Startup
+0:01
+foreign
+0:03
+[Music]
+0:08
+good morning I'm Divya and today I'm
+0:11
+going to talk a little bit about kpis
+0:13
+and prioritization for an early stage
+0:15
+startup this is my second batch as a
+0:17
+visiting group partner here at YC where
+0:19
+I've worked with hundreds of Founders on
+0:21
+hitting their demo day goals and
+0:22
+navigating goal setting and execution as
+0:25
+they search for product Market fit I
+0:27
+myself am a two-time YC founder and have
+0:29
+also held leadership roles at several
+0:31
+fast growth startups just as a heads up
+0:33
+I'm going to be giving you some homework
+0:35
+at the end of this talk my hope is that
+0:37
+today we can improve the way you spend
+0:39
+your time and expedite your journey to
+0:41
+product Market fit so why are we talking
+0:43
+about this now that you're a startup
+0:45
+founder there is nobody telling you how
+0:47
+to spend your time you might have heard
+0:48
+some version of and not or
+0:51
+implying that you have to turn over
+0:52
+every Rock and optimize every metric to
+0:55
+build a successful startup while this is
+0:57
+true to some extent you still have to
+0:59
+choose how you're going to spend your
+1:00
+time each day ultimately as a startup
+1:02
+founder you want to get to product
+1:03
+Market fit as quickly as possible
+1:06
+prioritization matters and having
+1:08
+Clarity on your kpis is crucial for
+1:10
+prioritization let's start by defining
+1:12
+these terms kpi stands for key
+1:15
+performance indicator these are the
+1:17
+metrics that you track and report on
+1:19
+both internally and externally these
+1:21
+metrics make sure that you're measuring
+1:23
+what matters and they tell you whether
+1:25
+what you're doing is working
+1:26
+prioritization tells you in what order
+1:29
+you need to tackle your work each day
+1:31
+there are infinite things you could be
+1:33
+doing each day and your work is never
+1:35
+done but time is finite prioritization
+1:38
+tells you how you spend your time each
+1:40
+day how you direct your team to spend
+1:43
+their time each day when you have one
+1:45
+and most importantly prioritization
+1:47
+helps you decide which super important
+1:50
+things on your list you don't get to
+1:52
+today here's what your task list may
+1:54
+look like note that the highlighted
+1:56
+items in yellow are the ones that I
+1:58
+might decide to prioritize also note
+2:00
+that every item on this list feels
+2:03
+important yet only a few are likely to
+2:06
+truly move your business forward and
+2:08
+toward product Market fit in a world
+2:10
+where you can't possibly get to
+2:11
+everything you need to prioritize the
+2:14
+tasks that'll move you to word your kpis
+2:16
+faster so why are kpis and
+2:19
+prioritization in one talk well
+2:21
+prioritization means that you're working
+2:23
+on the things most likely to impact your
+2:26
+top kpis so it's critical that you
+2:28
+choose the right kpis and then are
+2:31
+honest with yourself about which tasks
+2:33
+are most likely to move those kpis when
+2:35
+you're moving fast it's extra important
+2:38
+to make sure you're running in the right
+2:39
+direction
+2:40
+I'll use this analogy a few times today
+2:42
+so look out for it we come across
+2:44
+companies all the time who are working
+2:46
+so hard but optimizing for the wrong
+2:49
+thing we call these vanity metrics
+2:51
+things that make you feel good and
+2:54
+things that you can brag about on
+2:55
+LinkedIn at the end of the day if you
+2:57
+fall into the Trap of making these your
+2:59
+primary kpis you're going to be spending
+3:01
+your time on the wrong things so why are
+3:03
+kpis and prioritization important well
+3:06
+as a Founder no one is going to tell you
+3:08
+how to spend your time it's very easy to
+3:10
+feel busy and feel productive and not be
+3:12
+moving your business forward
+3:14
+here are some common examples of things
+3:16
+you can be doing to feel busy today
+3:18
+optimizing paperwork tasks maybe we're
+3:21
+good enough is all that you needed
+3:22
+perfectionism and craft craftsmanship on
+3:25
+a feature that nobody's using anyway
+3:26
+premature optimization or building for
+3:29
+scale that you don't need to yet or
+3:31
+choosing a more intellectually hard
+3:34
+problem to solve rather than building
+3:35
+what your users want I remember in the
+3:38
+early days of one of my companies we
+3:39
+were trying to pick a legal firm to work
+3:41
+with
+3:42
+sure you need a lawyer and you need to
+3:44
+need to pick a good lawyer there are so
+3:47
+many to interview and so many of them
+3:48
+wanted to take us out to lunch or to
+3:50
+drinks have us visit their offices The
+3:52
+Works you guys this felt flattering and
+3:54
+glamorous we felt so busy but at the end
+3:56
+of the day we hadn't even launched yeah
+3:59
+choose a good lawyer no this is not
+4:00
+impacting your kpis do it quickly and
+4:03
+move on
+4:03
+again it's easy to run fast but in the
+4:06
+wrong direction
+4:07
+you need to run fast and be running in
+4:10
+the right direction when you're doing a
+4:12
+startup time is at a premium
+4:15
+the faster you get to market the sooner
+4:17
+you earn money and you can reinvest that
+4:19
+money in your business and be less
+4:21
+dependent on outside capital or even if
+4:24
+you want to keep raising you'll have
+4:26
+more leverage to raise money on better
+4:28
+terms taking more time to get to Market
+4:30
+means you burn more money lastly moving
+4:33
+slowly means that competitors have more
+4:35
+time to copy you and catch up time spent
+4:38
+without making real progress also has an
+4:40
+emotional and mental cost and can raise
+4:43
+red flags externally in fundraising and
+4:45
+hiring so don't waste time on things
+How to Prioritize Your Time in the Startup
+4:48
+that don't matter so let's talk about
+4:49
+how to prioritize there are two ways we
+4:52
+can talk about prioritization one is how
+4:54
+you spend your time on your startup
+4:56
+versus other things in your life listen
+4:58
+guys I can't tell you this this is a
+4:59
+very personal decision this depends on
+5:01
+what else is going on in your life and
+5:03
+how you want to spend your time this is
+5:05
+a whole separate topic that we won't
+5:07
+spend much time on today that said I
+5:09
+have two important points one remember
+5:11
+speed matters and two this is an area
+5:15
+where it's really important to align
+5:16
+with your co-founder on expectations
+5:18
+when we discuss prioritization we mean
+5:21
+how do you spend the time you've
+5:23
+allocated to working on your startup
+5:24
+let's make sure that you're doing the
+5:27
+most impactful things with your valuable
+5:28
+time okay so step one for prioritizing
+Setting the Right KPI Goals for Prioritization
+5:31
+we're going to talk more about how to
+5:33
+set kpis in the next section but I want
+5:35
+to talk about why this is critical for
+5:37
+prioritization so first you need to
+5:39
+identify your top kpis
+5:41
+if you've launched your primary kpi
+5:44
+should be Revenue growth if you don't
+5:46
+want to make Revenue growth your primary
+5:48
+kpi you need to really push yourself on
+5:50
+why we talk more about this later in
+5:52
+this talk but this is important enough
+5:54
+to mention here a non-revenue kpi is
+5:57
+rarely the right one and we'll talk
+5:59
+about a few exceptions later if your
+6:01
+pre-launch your kpis in the short term
+6:03
+might be weeks until launch or number of
+6:06
+conversations with users
+6:08
+but once you do launch please quickly
+6:10
+shift your kpis to revenue growth second
+6:13
+you need to decide what's your kpi goal
+6:16
+for this week we'll talk about goal
+6:18
+setting later but assume that you have
+6:19
+some goal for example 10 more paying
+6:22
+customers by next week make sure this
+6:24
+ladders up to any longer term goals that
+6:26
+you have
+6:27
+the reason setting the right kpi goals
+6:30
+is critical is that it'll remind you of
+6:32
+the urgency of growing fast early growth
+6:35
+compounds and tracking goals weekly
+6:37
+reminds you of this here at YC we talk a
+6:40
+lot about the early days of Airbnb where
+6:42
+the founding team wrote their weekly kpi
+6:45
+goals on their bathroom mirror so they
+6:47
+were facing that reality multiple times
+6:49
+a day in addition to identifying the
+6:51
+right kpis you also need to identify
+6:54
+your biggest bottleneck or problem in
+6:56
+moving your top kpi here's an example
+6:58
+from a YC company called super daily a
+7:01
+daily grocery Subscription Service in
+7:03
+India that sold to swiggy in 2018. super
+7:06
+daily faced a scenario early on when
+7:08
+they launched V1 of their product there
+7:11
+were a ton of things to be optimized you
+7:14
+guys picture this business it's
+7:15
+operationally complex the mobile app Ops
+7:18
+tooling Inventory management and a whole
+7:21
+lot of messy on the ground Logistics
+7:23
+with their North Star was growth and
+7:26
+they were able to see clearly that their
+7:29
+bottleneck was the conversion of users
+7:31
+who actually got pretty far down the
+7:33
+sign up flow and then churned
+7:35
+so they asked themselves
+7:37
+why are high intent users not converting
+7:40
+that was the biggest problem they needed
+7:42
+to solve and the first tasks they
+7:44
+prioritized were conversations and
+7:46
+experiments to understand this by
+7:48
+focusing on this question they realized
+7:50
+that high intent users were dropping out
+7:52
+because a lot of users wanted a specific
+7:55
+milk brand that super daily didn't carry
+7:58
+it wasn't a ux friction issue or an app
+8:00
+issue so they onboarded that milk brand
+8:03
+rather than beautifying their sign up
+8:04
+screen once they solved this then they
+8:07
+started looking at how to convert users
+8:08
+that were maybe farther up the funnel or
+8:10
+lower intent users that were referred by
+8:12
+word of mouth or people that were
+8:13
+casually checking out super daily so by
+8:16
+the time those users got farther down
+8:18
+the funnel to the highest intent phase
+8:20
+they now had that top milk brand on the
+8:22
+app and they knew that they weren't
+8:24
+optimizing a funnel that would leak
+8:26
+farther down
+8:27
+by onboarding this new brand super daily
+8:29
+was able to increase their conversion
+8:31
+rate by 50 here's a simple framework to
+Simple Framework to Optimize KPI Goal
+8:34
+prioritize aggressively to optimize for
+8:37
+that kpi goal number one write down any
+8:39
+ideas that you might have to hit your
+8:41
+goals don't start working on them right
+8:43
+away it's really easy to chase shiny new
+8:45
+things just write them down next you
+8:47
+want to rank by probability of success
+8:49
+and then sub-rank with respect to
+8:52
+complexity or how long it's going to
+8:53
+take you to do this task pick only a
+8:56
+couple of things to try once you pick a
+8:57
+few tasks and start working on them if
+9:00
+your kpi isn't moving be really honest
+9:02
+about why ask why several times until
+9:06
+you feel like you can actually
+9:07
+understand the real reason even if it's
+9:09
+hard to hear per the example of super
+9:11
+daily earlier it might be something
+9:13
+simple like the milk brand do Retros in
+9:15
+your weekly initiatives are you
+9:16
+predicting impact and complexity well
+9:19
+did you complete all the tasks you were
+9:21
+expecting to complete in the Sprint if
+9:23
+not next time break them down more give
+9:26
+yourself time blocks to reduce context
+9:28
+switching or maybe did you accidentally
+9:30
+work on some of those fake progress
+9:32
+tasks we talked about just do better
+9:34
+next time and then move fast learn and
+9:37
+then do something differently the next
+9:39
+time if what you did didn't work the
+9:41
+definition of insanity is doing the same
+9:43
+thing over and over and expecting
+9:45
+different results don't let indecision
+9:47
+slow you down just pick a path and keep
+9:49
+moving
+9:50
+ideally you're going to be growing fast
+9:52
+if not talk to a lot of users fast
+9:55
+churn through your bad ideas fast so you
+9:58
+can get to working on the right good
+10:00
+ideas as fast as possible don't waste
+10:03
+time on indecision so as a sanity check
+5 Things That Should & Should Not End Up on Your Task List
+10:05
+here are some things that should and
+10:08
+should not end up on your list in most
+10:09
+cases since we're talking about the 90
+10:12
+case here and specifically talking about
+10:15
+early stage startups here are a list of
+10:17
+example tasks that you should see on
+10:20
+your task list
+10:21
+talking to users
+10:23
+and then building and iterating based on
+10:25
+user feedback when you're spending time
+10:27
+talking to your customers and responding
+10:29
+to support emails there is a direct path
+10:33
+to revenue growth the only way you know
+10:36
+what your customers want is by talking
+10:38
+to them all the time and the only way to
+10:40
+grow is by building something people
+10:42
+want not much else is going to help you
+10:44
+at this stage here are some things that
+10:46
+should not end up on your task list AKA
+10:48
+fake progress
+10:50
+passive fundraising conversations or
+10:52
+coffees when you aren't actively raising
+10:54
+when you do decide to raise it should be
+10:56
+deliberate focused and time boxed
+10:58
+conference attendances other than a few
+11:00
+select Industries this generally won't
+11:02
+move your needle in an early stage third
+11:05
+arbitrary technical Milestones spending
+11:07
+time optimizing technical benchmarks
+11:10
+launching an Android app unless you're
+11:12
+hearing clearly from your users that
+11:14
+this is a burning pain point this is
+11:17
+probably fake progress at this point you
+11:19
+guys this fake progress list it's not
+11:21
+anything to be ashamed about
+11:23
+smart people put these things on their
+11:25
+list all the time we've all done it
+11:27
+these are all tasks that can make you
+11:29
+feel good they boost your ego their
+11:31
+metrics that you can brag about on
+11:33
+LinkedIn they might make your mom proud
+11:35
+they might make your ex-boyfriend
+11:36
+jealous but what they don't do is they
+11:39
+don't necessarily get you closer to
+11:40
+product Market fit here are some common
+11:42
+tricks your brain plays on you when
+11:44
+you're trying to prioritize
+11:46
+these are tricks and traps that your
+11:48
+mind has to help you avoid negative
+11:50
+feelings like shame despair
+11:53
+embarrassment self-doubt many people are
+11:56
+drawn to low leverage tasks why they
+11:59
+provide a sense of accomplishment they
+12:01
+allow you to check things off your list
+12:03
+and it's so tangible at a time when your
+12:05
+startup's future is uncertain there can
+12:07
+be so much satisfaction in checking
+12:09
+tasks off a list don't fall into this
+12:12
+trap here are some examples of this
+12:14
+spending too much time optimizing
+12:16
+paperwork or unlicensing incorporation
+12:18
+Equity this is not an area where you
+12:22
+need to optimize or innovate just follow
+12:24
+the standard advice to stay legal and
+12:26
+compliant slightly cheaper workers comp
+12:28
+insurance or slightly better Equity
+12:30
+structure is not going to make or break
+12:32
+your business taking meetings with
+12:34
+potential investors advisors Partners or
+12:37
+building cool hard features that you
+12:39
+don't know people want yet again these
+12:42
+things can make you feel really good and
+12:43
+really smart solving hard problems is
+12:45
+awesome unfortunately it's not going to
+12:47
+help you find product Market fit sooner
+12:49
+it's just going to be things you're
+12:50
+checking off a list the second mental
+12:52
+trap I want to talk about is that
+12:54
+sometimes you can fool yourself into
+12:55
+thinking something is working when it's
+12:57
+really not be honest with yourself it
+13:00
+doesn't feel good to admit to yourself
+13:02
+or your teammates or your investors or
+13:05
+your mom the things aren't going well
+13:07
+but you're not doing yourself any favors
+13:10
+by not diagnosing problems early and
+13:12
+often slow growth can be deceptive it's
+13:15
+easy to mistake slow growth for product
+13:17
+Market fit as someone that's worked at
+13:20
+both kind of slow steady growth
+13:21
+companies my own startups and companies
+13:23
+with clear product Market fit like
+13:25
+doordash trust me you guys these types
+13:28
+of growth feel fundamentally different
+13:30
+third trap I want to talk about is
+13:32
+perfectionism or indecision blocking
+13:35
+progress when nothing seems to be
+13:37
+working it's really easy to make every
+13:39
+decision feel like it's going to make or
+13:41
+break your company in reality
+13:44
+most decisions don't matter and for the
+13:46
+ones that do it's okay to decide wrong
+13:49
+first and then fix it later just keep
+13:52
+moving so the best case scenario you
+13:54
+know the one you can put on a pedestal
+13:56
+is a scenario where you make the right
+13:57
+decision quickly every time this is
+14:00
+completely impossible no one's going to
+14:01
+achieve this I recommend the second best
+14:04
+option which is to make pretty good
+14:06
+decisions quickly and then if they turn
+14:08
+out to be wrong fail learn and switch to
+14:11
+what's working quickly as a startup
+14:14
+founder you have dozens of decisions to
+14:16
+make every day
+14:17
+don't waste time on the ones that won't
+14:19
+help you get to product Market fit
+14:20
+remember if it's a tough call it
+14:23
+actually probably means you can't go
+14:24
+wrong
+14:25
+so pick one keep moving the fourth
+14:28
+mental trap I want to talk about is
+14:29
+spending too much time on downside
+14:32
+protection instead of chasing upside
+14:34
+downside protection is straightforward
+14:36
+and satisfying fixing little problems is
+14:39
+very easy but rarely where the
+14:42
+Innovation happens chasing upside
+14:44
+requires risk taking creativity a lot of
+14:47
+false starts so get in as many
+14:49
+iterations as you can for example we
+14:52
+hear a lot of Ops teams talking about
+14:54
+getting themselves out of spreadsheets
+14:55
+y'all at this stage spreadsheets are
+14:58
+fine until they're not if they're
+14:59
+working stick with them it's good to do
+15:02
+things that don't scale as long as
+15:04
+they're not breaking instead spend your
+15:06
+time finding out what your users need in
+15:09
+order to use your product every day
+15:11
+instead of once a week that's the upside
+15:13
+chasing that we're talking about the
+15:15
+last trap I want to call out today is
+15:17
+chipping away at small problems when
+15:19
+there's a big existential one looming
+15:21
+that maybe you don't want to face for
+15:23
+example you may tell yourself hey okay
+15:25
+my 150 users are asking for one click
+15:28
+ordering let me go build it you guys you
+15:30
+only have 150 users this is a problem
+15:32
+maybe you've only had 150 users for the
+15:35
+past three months and they're starting
+15:36
+to churn and no one knew is signing up
+15:38
+that's your biggest problem go solve
+15:40
+that so here's a quick recap on
+15:42
+prioritization you'll never get to
+15:44
+everything on your task list
+15:46
+you have to use kpis to prioritize your
+15:49
+work and only work on the biggest
+15:51
+blocker to your primary kpi and be
+15:53
+honest with yourself and fail fast so
+Choosing the Right KPIs for your Startup
+15:56
+now let's talk about how to choose the
+15:58
+right kpis remember we can't afford to
+16:01
+waste time running fast in the wrong
+16:02
+direction let's define primary and
+16:05
+secondary kpis your primary kpi or
+16:07
+primary metric is the main metric you
+16:10
+use to measure whether your business is
+16:13
+on track for the vast majority of
+16:15
+startups your primary kpi should be
+16:17
+growth and ideally Revenue growth this
+16:19
+indicates that you've built something
+16:21
+people want and you're on track to
+16:23
+building a huge business as we've
+16:25
+mentioned there are a few exceptions to
+16:27
+this for example maybe a Marketplace
+16:29
+business might choose signups or gmv as
+16:32
+their primary kpi or an early Enterprise
+16:34
+business with a long sales cycle might
+16:36
+choose letters of intent secondary kpis
+16:39
+are things that need to be tracked
+16:41
+moving in the right direction to make
+16:42
+sure you're not cheating on your primary
+16:44
+kpi or to give you an early signal when
+16:47
+your primary kpi is very lagging here
+16:49
+are some examples of secondary kpis
+16:50
+retention and churn these are going to
+16:53
+actually contribute to your Revenue
+16:54
+growth so they're very important to
+16:56
+track unit economics you need to make
+16:58
+sure you're making money on each user
+17:00
+and not giving away free money and
+17:02
+calling it growth customer acquisition
+17:04
+cost depending on your stage you may not
+17:07
+need to optimize this right now just
+17:09
+have a sense for your payback period and
+17:11
+whether you'll make or lose money per
+17:12
+customer acquired keep this list small
+17:15
+and relevant three to five secondary
+17:17
+kpis is reasonable I've also included a
+17:19
+short list here of vanity metrics as we
+17:22
+discussed earlier it is very easy even
+17:25
+for good Founders to fall into the Trap
+17:28
+of prioritizing for these metrics they
+17:30
+feel good and they provide external
+17:33
+validation
+17:34
+you find these creeping into your task
+17:36
+list just ask yourself
+17:38
+is this directly on my path to revenue
+17:40
+growth is this my biggest blocker to
+17:43
+illustrate what a laser focus on growth
+17:45
+looks like I dug up some examples here's
+17:48
+a side by side comparison of doordash on
+17:51
+demo day which everyone knows and my own
+17:53
+startup Rickshaw which was also a
+17:55
+delivery platform we went through YC
+17:58
+right after doordash did and doordash
+18:00
+eventually acquired Rickshaw in 2017.
+18:03
+both companies had a laser focus on
+18:05
+order volume as a Top Line metric this
+18:08
+allowed for Clear focused execution and
+18:11
+resulted in strong and very similar
+18:13
+early traction however post demo day the
+18:17
+paths diverged a little bit Rickshaw had
+18:19
+a bit of trouble fundraising despite
+18:21
+comparable early attraction to doordash
+18:23
+this caused us to make a decision out of
+18:26
+fear and instead of continuing to have a
+18:28
+clear focus on Top Line growth as
+18:30
+doordash did we tried to optimize for
+18:33
+both growth and unit economics we tried
+18:36
+to hedge and this was very dangerous
+18:38
+this split Focus put us in a weird no
+18:41
+man's land of slow growth which as we
+18:43
+described before can kill startups there
+18:46
+is a lot more Nuance about profitability
+18:48
+versus growth that I won't get into here
+18:50
+the main message today is to choose your
+18:53
+primary kpis and don't try to get smart
+18:55
+and optimize for two or more hard things
+How to Set Targets
+18:58
+at once so now that we've talked about
+19:00
+how to define primary and secondary kpis
+19:02
+how do we set targets assuming growth is
+19:05
+your primary kpi how much growth is
+19:08
+enough this depends on your business and
+19:10
+your stage but in Paul Graham's classic
+19:13
+essay about growth she notes that for a
+19:16
+company going through YC
+19:17
+five to seven percent week over week is
+19:20
+growth is good and a ten percent week
+19:22
+over week growth is exceptional
+19:25
+as I've said a few times now small
+19:27
+changes in weekly or monthly growth
+19:29
+growth rate really compound and make a
+19:32
+difference in the long run so early
+19:34
+growth is better than late growth if you
+19:36
+can choose that number on your bathroom
+19:38
+mirror per the Airbnb story reminds you
+19:41
+to focus on this early
+19:43
+here are a few factors that might impact
+19:45
+your growth rate that you might want to
+19:46
+keep in mind
+19:48
+first latent demand might boost early
+19:51
+growth perhaps some early users will be
+19:53
+willing to put up with an inferior
+19:55
+product experience because you're
+19:57
+solving an urgent need
+19:59
+but that growth rate might be tougher to
+20:01
+sustain later
+20:03
+for Enterprise businesses the length of
+20:05
+your sales cycle might be long this
+20:07
+should go up down over time but it might
+20:10
+impact early kpi and goal setting in
+20:13
+these cases you can set goals around
+20:15
+other process metrics for example leads
+20:17
+in different stages of your funnel
+20:19
+another thing that might be impacting
+20:20
+your growth rate is whether you're doing
+20:22
+organic or paid user acquisition
+20:25
+early on organic is ideal you should
+20:29
+know where to find your first few
+20:31
+passionate users and talk to them
+20:32
+directly and ideally have them spread
+20:35
+the word
+20:36
+you can also run paid acquisition tests
+20:38
+so that once you have a product that's
+20:40
+growing organically and a sense for
+20:42
+payback period you can crank out the ads
+20:44
+crank up the ad spend to drive growth
+20:46
+but please don't do this too early and
+20:49
+don't leak money on this strategy
+20:51
+accidentally the last thing I want to
+20:53
+talk about on the slide is retention and
+20:55
+engagement
+20:56
+we get a common question should we focus
+20:58
+on getting new users or focused on
+21:01
+retaining our existing users
+21:03
+the short answer to this is you have to
+21:05
+do both the slightly longer nuanced
+21:08
+answer is that both will impact your
+21:10
+Revenue growth so get a sense for which
+21:12
+one's going to have more impact first
+21:14
+make sure you don't have a problem with
+21:16
+churn and that your users are sticking
+21:19
+around long enough to pay back their
+21:21
+acquisition cost and to tell their
+21:22
+friends
+21:23
+you don't want to bring new customers
+21:25
+into a substandard product
+21:27
+but beyond that of course focus on
+21:30
+bringing in new users ultimately both
+21:33
+these metrics will need to be strong to
+21:35
+sustain a healthy Revenue growth to
+21:38
+share another example from Super daily
+21:40
+early on they realized that the
+21:42
+acquisition numbers they were tracking
+21:44
+were not reflecting a healthy growing
+21:46
+business and could be artificially
+21:48
+boosted due to paid promos to protect
+21:51
+against this they switched their track
+21:53
+metric from sign ups which was too easy
+21:56
+to game to tracking customers who who'd
+21:59
+placed five or more orders since they
+22:01
+saw this as a leading indicator to
+22:03
+customers that were very likely to
+22:05
+become long-term Revenue generating
+22:07
+customers this helped the super daily
+22:09
+teams align their marketing and their
+22:11
+overall Revenue goals to chase top line
+22:13
+revenue growth when setting targets
+Setting Targets - Top Down & Bottom Up
+22:15
+there are two possible approaches and
+22:17
+you can and actually should do both your
+22:20
+first option is a top-down approach set
+22:23
+a goal or a milestone that you need to
+22:24
+reach sometime in the future for example
+22:26
+five thousand dollars in mrr by the end
+22:29
+of startup School
+22:30
+back into that Weekly growth rate that
+22:33
+you need to achieve to achieve that
+22:34
+longer term goal the Airbnb demo day
+22:37
+example is a great example of this set a
+22:40
+Target and obsess over it compounding
+22:43
+matters so getting an early start helps
+22:46
+a lot your second option is a Bottoms Up
+22:48
+approach ask yourself what do you think
+22:51
+is realistic for you to get done in the
+22:53
+next week
+22:54
+then you can project out from there as a
+22:57
+thought exercise when doing a Bottoms Up
+22:59
+goal setting you can ask yourself what
+23:02
+could we achieve with unlimited funding
+23:04
+a lot of people in their heads think
+23:06
+that funding is a bottleneck so let's
+23:07
+remove that what could we do in the next
+23:10
+week with unlimited money or resources
+23:12
+then ask yourself what creative ways can
+23:15
+we still achieve that even with limited
+23:17
+funding
+23:19
+set your goal between top down and
+23:21
+bottom up
+23:22
+either is actually fine I recommend
+23:24
+periodically doing both to see whether
+23:26
+what you're doing is realistic
+23:27
+achievable and ambitious at the same
+23:30
+time just make sure that you're checking
+23:32
+to make sure that you're always on track
+23:34
+to build a big business and aren't
+23:36
+accidentally ending up in that no man's
+23:38
+land of underwhelming but consistent
+23:40
+growth let's talk a little bit more
+23:42
+about some non-revenue kpis that may be
+23:44
+tempting but not always right first
+23:47
+CAC to LTV ratio
+23:50
+you might hear these buzzwords together
+23:52
+these are generally concerns kind of
+23:56
+later in your business but they usually
+23:59
+come post product Market fit once you
+24:01
+have a fundamental business that you
+24:03
+know people want and then you need to
+24:04
+reliably scale your user base
+24:07
+so for now we recommend you only worry
+24:09
+about payback period
+24:11
+ideally your payback period is zero as
+24:14
+in zero dollars spent on CAC so
+24:16
+customers are profitable on day one
+24:19
+if you do need to spend on CAC or unpaid
+24:21
+acquisition get a sense for how quickly
+24:24
+users pay back that CAC and whether
+24:26
+you're reliably hitting it does your
+24:28
+retention rate make this work
+24:31
+LTV can really be a rabbit hole for
+24:33
+early stage companies and it's really
+24:35
+hard to calculate so just make sure your
+24:37
+payback period is reasonable and you're
+24:39
+making money per user a second tempting
+24:42
+kpi I want to talk about is free sign
+24:44
+ups or daily active users
+24:47
+I'll start by saying this
+24:48
+paying customers will have very
+24:51
+different expectations for a product
+24:52
+than for than free customers will so if
+24:55
+you plan to charge for your product
+24:57
+eventually don't mess around getting
+24:59
+feedback from free customers it'll
+25:01
+likely be the wrong feedback
+25:03
+get paid from day one or at least don't
+25:05
+count those users as part of your growth
+25:07
+the main exception here is from
+25:10
+marketplaces or products that have a
+25:12
+strong Network effect and need volume in
+25:14
+order to have utility Uber is a great
+25:17
+example of this without enough drivers
+25:19
+on the platform the user experience was
+25:21
+not good enough for writers to pay a
+25:23
+premium for in these cases sign ups or
+25:26
+gmv can sometimes suffice if no revenue
+25:29
+is being generated yet I have a couple
+25:31
+of stories of startups spending too much
+25:34
+time on sign ups and shifting to revenue
+25:36
+too late in the game Scribd was an early
+25:39
+YC company that went through in summer
+25:41
+2006.
+25:42
+they spent their first four years
+25:44
+primarily growing a free product and
+25:47
+they were afraid of losing their
+25:49
+millions of customers if they started
+25:51
+charging as you can see in this graph in
+25:53
+year five so remember they started in
+25:55
+2006 in mid-2010 they started charging
+25:58
+and while they did lose over 90 percent
+26:01
+of their customers their revenue grew by
+26:04
+Infinity percent they finally had a
+26:05
+business and while Scribd already had
+26:07
+millions of users it wasn't until they
+26:10
+started charging that they started to
+26:12
+really learn what their paying users
+26:14
+wanted I want to quickly talk about a
+Exceptions To Revenue KPIs: Hard Tech
+26:17
+few exceptions other exceptions to
+26:19
+revenue kpis and this is hardware
+26:21
+companies biotech companies Enterprise
+26:23
+businesses with a long long sales cycle
+26:26
+and these businesses it can be more
+26:28
+challenging to measure growth and in
+26:30
+these cases something like letters of
+26:32
+intent contracts maybe even technical
+26:34
+Milestones might be reasonable metrics
+26:37
+but please keep yourself honest and make
+26:41
+sure that these are actually indicators
+26:43
+of actual progress and growth and audit
+26:45
+them frequently now I challenge each of
+26:47
+you at the end of this talk you should
+26:49
+each write down your primary and
+26:51
+secondary kpis and set ambitious targets
+26:54
+next audit your task list for the week
+26:58
+and make sure you are laser focused on
+27:00
+hitting those goals I know a lot of you
+27:02
+are in slack and WhatsApp groups for
+27:04
+startup school I encourage you to share
+27:06
+your kpis and your goals with your
+27:08
+community and get feedback and hold
+27:10
+yourselves accountable I hope this talk
+27:12
+helps at least one of you get to product
+27:14
+Market fit faster
+27:17
+foreign
+27:19
+[Music]

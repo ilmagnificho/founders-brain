@@ -1,0 +1,659 @@
+---
+video_id: z1aKRhRnVNk
+
+How To Start A Dev Tools Company  Startup School
+
+In this episode of Startup School, YC General Partner and Co-Founder of Algolia Nicolas Dessaigne explains the ins and outs of starting a dev tools company from the ground up. He'll explain how to find the right idea, who should be a part of your team, and whether or not you need a sales and marketing team when you're ready to go to market.
+---
+Intro
+0:09
+Hello, my name is Nicolas Dessaigne and I'm a group partner here at YC.
+0:14
+Before that, I was the co founder and CEO of Algolia. Algolia is a search API used by millions
+0:21
+of developers to build a great search experience in their apps and websites. And it's relevant today because today
+0:28
+we are going to speak about dev tools and how to start a dev tools company.
+0:33
+So here's what we're going to cover. First, we'll discuss about the founding team and how to find your idea.
+0:40
+Then how to start the company from the prototype to the MVP. And finally, we'll dive into the
+0:47
+go-to market, including sales and marketing for dev tools. But first, what is a dev tool?
+0:54
+So a dev tool is software that is used by developers to help them build products.
+1:00
+And that includes a lot of aspects. From coding, testing, debugging,
+1:05
+documenting, deploying, running. It's all of the gamut of aspects of their job.
+1:11
+And it's a broad category then. You can think about IDEs, like VS Code. API, like Stripe, Twilio,
+1:19
+or Algolia, my company. Library and frameworks, like React, Node. js, or LangChain.
+1:25
+Or even infrastructure or cloud services, like AWS or Vercel. And many other tools.
+1:31
+Docker, Terraform, Datadog, GitHub. You get it, it's very diverse.
+1:37
+And at YC, we've supported many of these dev tools. Hundreds of them.
+1:42
+And we already have two public companies. GitLab, the open source GitHub, and
+1:47
+PagerDuty, that started as a simple alerting system and now is used
+1:52
+by half the Fortune 500 companies. And many others. You probably know about Stripe,
+1:58
+Docker, Heroku, Superbase, Segment, Postdoc, Apollo, Airbyte
+2:03
+and also Algolia of course. And we've learned a lot from them.
+2:08
+So let's dive in and start at the founding stage. Well, first you need a founding
+2:13
+team, and the key aspect of dev tools is that you are going to build
+Founding Stage
+2:19
+a technical product for developers. Obviously, you need to be a developer yourself.
+2:24
+Most of our co founding team for dev tools are all developer teams.
+2:30
+And the great thing about dev tools is that developers are actually using dev tools every day.
+2:36
+So when you're building a dev tool, you're basically helping yourself in your action of building a product.
+2:42
+So let's take a step back and chat quickly about what are good and bad dev tool ideas.
+2:48
+And as a preface, let me start by telling you that with the advent of LLMs and AI in general, it's
+2:54
+actually very difficult to know for sure today what's a good or bad idea. The bad ideas, the tar pit ideas of
+3:00
+yesterday, could actually be possible to make successful now, thanks to LLMs.
+3:06
+Some ideas are actually more difficult than others. Developers every day are going to work on things they are actually not going to
+3:12
+like, like documentation, QA, testing. And these become obvious ideas
+3:17
+for them to fix for others. The problem here is that they are not the only one to think about it,
+3:23
+and that creates a lot of noise. And that's why there are so many of these on the market.
+3:28
+Do you really want to build the next, yet the next QA tool for other developers? Hmm, I don't know.
+3:34
+Another way to look at it is the difference between build time and runtime ideas.
+3:39
+So, docs, QA, testing, all of these ideas are build time ideas.
+3:45
+Things, tools you are going to use when you are building the software. It happens that these ideas
+3:50
+are mostly nice to have. You could build your product without them.
+3:56
+What's more interesting are runtime ideas. Why? Because at runtime, it
+4:01
+becomes really critical. It's must have products. If you bet on an API, for example, you
+4:08
+cannot run your own product if it's down. That's why it's more critical and it's way better idea for dev tools.
+4:16
+The other advantage of these runtime ideas is usage because the more your
+4:22
+customers are going to grow, usually the more they are going to use your product.
+4:28
+So your incentives are aligned. Think about Stripe, for example. If their customers sell more
+4:33
+product, they make more money. Everyone is happy. Much better idea. Another quick category that I can
+4:40
+touch upon is libraries and frameworks. These can be created. It's usually open source.
+4:46
+But they can also be very challenging to monetize. Think about Pandas, for example.
+4:52
+Very difficult to make money out of that. The one way you can monetize these ideas is by offering a hosting service.
+4:59
+Think about Next.js and Vercel, for example. Okay, last point I wanted to touch on
+5:05
+this idea, which is the LLM and AI trend. Actually, with this change in the
+AI Trend
+5:11
+world, there are many new dev tools being created and it's awesome. It's so exciting to work on a dev tool that's going to help
+5:17
+these companies building LLMs. But it's also a time where the market is very nascent.
+5:23
+So an obvious great idea is LLM observability. Well, uh, it's obvious, right?
+5:30
+Anyone building with LLMs, they want to know how they are doing. They want to be able to evaluate them.
+5:35
+Guess what? Many other companies think the same thing. And that's why you have dozens, if not hundreds, of such companies out there.
+5:42
+It doesn't mean that it's a bad idea, but I think that if you are starting in that space, you need
+5:48
+to have a clear idea of how you are going to differentiate yourself. Or are you going to win against
+5:54
+all of these competitors? Okay, which leads me to a few mistakes people often do.
+5:59
+The first one is waiting for the perfect idea. You are going to wait for a very long time.
+6:06
+Let me go back to these LLM observability ideas. I would actually encourage you, if that's the idea you have, just start.
+6:12
+That's okay. Even if you don't differentiate yourself right away, that's okay. You learn as you go and eventually
+6:19
+you'll be able to pull it off or you'll change your idea. Which leads me to my second mistake,
+6:24
+sticking with the wrong idea for too long. You may not realize, but 50% of
+6:31
+the companies in YC eventually pivot from their first idea. It's huge.
+6:37
+And it's also true for dev tools. Finally, last mistake, thinking you need a business founder in the team.
+6:44
+I know that's what I thought when I created Algolia. We ended up creating Algolia with two tech co founders, but it crossed our mind.
+6:49
+Hey, we don't know how to sell. We need to hire or to find some other co founder who knows about sales.
+6:55
+No, it's actually way easier than you think to sell, to learn how to sell your product.
+7:01
+Actually. We checked the numbers. 74% of YC dev tool companies
+7:07
+had only tech co founders. And that's compared to 45% for
+7:13
+all of the other companies. Okay, so now that you have a team and an idea, where do you start?
+7:19
+Well, there is only two things you have to do. Build and talk with users.
+Where to start?
+7:24
+There is no specific order. You can actually start by talking with users because they are going to help you
+7:29
+figure out if your initial idea is good. Or you can start by building a prototype so you can get easier feedback from users.
+7:36
+Let's speak about that prototype. The most important thing here is not to over engineer it.
+7:43
+You should do that quick and dirty. And I know that it can be very difficult for some developers out
+7:49
+there, especially for experienced engineers who pride themselves on robustness and scalability of their code.
+7:57
+But the truth is that the most important thing at that stage is to iterate as fast as you can.
+8:03
+Rule of thumb, I would assume that you'll throw away 90% of all the code you write.
+8:11
+So your goal at that stage is just to identify the 10% of what you are building that's actually
+8:17
+valuable as fast as possible. And then later on, you can refactor this 10% only and avoid wasting a lot of time.
+8:25
+As you iterate, of course, you'll want to speak with users and get feedback. It's completely okay to show them a prototype.
+8:32
+Please don't wait to have a perfect product. Just show them a prototype and start gathering feedback as early as you can.
+8:39
+And that will eventually lead you to an MVP. A minimal viable product.
+8:45
+And this word, the V is important, viable. You need to provide value to your customers.
+8:51
+It's much better to be 10x better on a very tiny thing for someone who cares about it.
+8:59
+Working for a niche is completely okay. Once you have real customers who love your product, it will be
+9:04
+very easy to expand from there. Let me give you the example of Algolia. Well, today Algolia is a
+9:09
+very broad, large, like full featured search engine, right?
+9:15
+But when we started, to be honest, it was just a glorified autocomplete, very minimal.
+9:20
+But that product was so much better than whatever else was available at the time
+9:26
+that some people cared enough about it. And when we, when we started demonstrating
+9:31
+it, we didn't have much to show. Actually, I still remember our first customer, that first
+9:36
+meeting, when I did demo using a command line to indexed content.
+9:42
+We didn't have any API client yet. We didn't have any admin UI yet, just a command line and then a very
+9:48
+simple webpage to show the search. That was enough to close a $2,000 a month contract.
+9:54
+Okay, you have built something you can show users. So the next step is to talk with users.
+9:59
+I know that many developers, many tech co founders are actually introverts and they don't like speaking with users or with customers.
+Talking to users
+10:06
+Like, they don't like sales. Well, you may not realize, but as you are building a dev tool,
+10:12
+you have a huge advantage. You know your audience. You are the audience, you are a
+10:18
+developer yourself, you speak the language of your customers, you are uniquely qualified to understand them.
+10:24
+So, you'll see, it actually will be way easier than you think. Please don't wait for the product to be ready.
+10:31
+You want to learn ASAP right away if you are solving a real problem that people will be ready to pay for.
+10:38
+But how do you find these users? Two things, outreach and launches.
+10:43
+Let's speak about outreach quickly. Dev tool co founders often plan to have a bottom up adoption model where
+10:50
+individual developers are going to come inbound, try the product, and convert. Or maybe become their
+10:55
+champions at bigger companies. Well, I have some bad news for you.
+11:01
+Nobody knows you yet. So to get there, first, you need to get people to know about you.
+11:08
+And there is no other way to do that than outreaching and finding them yourself. But you need to be smart about it.
+11:14
+Start with your network, your previous colleagues or classmates. And then you expand from there, um,
+11:20
+friends of friends, you can leverage LinkedIn, you can find like specific calls over there, but please,
+11:26
+please personalize your messages. Like, don't copy what you can see out there, sent by marketers.
+11:34
+Actually, you're developers, I'm sure you hate these messages. So don't do the same. Just ask yourself, would you be
+11:41
+excited to open your message? Then ask your co founder, ask other developer friends, would they be excited
+11:47
+to open your message, and then read your email, and then possibly act on it? Well, you simply iterate until they do.
+11:54
+Now, let's speak about launching. You can launch many times. And that's what you should do
+Launches
+12:00
+here to get more attention. The best place to launch for dev
+12:06
+tools, I would argue, is Hacker News. Hacker News is a community of
+12:11
+intellectually curious people. Many of them are developers. And there is that section in
+12:18
+Hacker News called Show HN. That's the perfect place to launch and gather feedback on what you are building.
+12:25
+Again, like when you were writing like kind of this outreach messages. Please don't do marketing,
+12:31
+don't try to sell your product. Just explain plainly and simply what's new
+12:37
+and interesting in what you are building. That will be very engaging for the community and they'll share comments to you.
+12:44
+Engage with these comments. Don't let them unanswered. Try to engage with people asking questions.
+12:50
+Some of them are going to be haters and be rude. Well, you should engage with them too, but your goal is not to convince
+12:56
+them, it's just to convince any other readers who are going to read how you reply to these haters.
+13:02
+Just be classy here. One of the great examples here is Segment. They simply did an experiment by
+13:09
+launching their next idea on Hacker News. And it blew up. They got hundreds of votes
+13:15
+and so many comments that they knew they were onto something. And that became their idea.
+13:20
+Another example is Ollama. Ollama helps companies run LLMs on their own machines.
+13:26
+Well, it started as a comment on a comment on another post on Hacker News.
+13:31
+And just from that, they got a few people interested. And then shortly after,
+13:38
+they launched their product. It completely took off on Hacker News. They got like, again, hundreds of upvotes.
+13:43
+And they knew they were onto something. And they didn't stop there. They launched again and again every few months.
+13:50
+Each time they had like new things to share. And that continued to fuel their growth, creating a lot
+13:56
+of excitement in the community. Hacker News, best place to launch. The last thing I wanted to touch
+14:02
+upon here in that section is you should do things that don't scale.
+14:07
+So again, you're here to learn as fast as possible from your users, what they like or not about your product.
+14:15
+A great example of a team that did things that don't scale is Stripe. Early on, the Stripe team were going to
+14:22
+their customers, small startups, and they helped them implement their own product.
+14:27
+Sitting side by side in front of the computer, coding with them. That was not only a great way to make sure
+14:34
+their users were going to be satisfied, were going to be actually excited about what they were building, but it was
+14:40
+also a great way to gather invaluable feedback very early from their users.
+14:46
+So it's completely okay to do things that don't scale if they lead to faster learnings.
+14:52
+Okay, and here are a few mistakes to avoid. So you remember, the goal is to go fast and iterate fast.
+14:58
+So please don't choose a tech stack because it's cool, because you want to learn it. No, you should took it because of
+15:05
+your expertise with it so that you can iterate as fast as possible. Other mistakes we, we touch,
+15:11
+not talking with users. Please get that feedback as fast as
+15:16
+you can, which also means avoiding overbuilding before getting that feedback.
+15:22
+Maybe a small thing here. Be careful about that feedback. Be careful about not misunderstanding
+15:27
+some of the developer feedback. For example, they may share, they may tell you, Oh, you should build your product.
+15:34
+You don't care. You just want to know if they would use your product or not and why. Or they could tell you,
+15:40
+Hey, you know what? I could build this in a week. I don't need it. Well, guess what? You just build it yourself in a week.
+15:46
+You're fine. You should not mind about that. Just move on and continue improving the product. Last mistake some teams
+15:53
+do is hiring too early. Very early on you don't even know if your product is providing value.
+16:00
+Please don't hire anyone until you have convinced yourself you are working on the right idea.
+16:06
+Let's now talk about go to market. And the first question you should ask yourself about go to
+16:12
+market is your business model. More explicitly, should you be open source?
+GTM
+16:18
+Open source has become one of the main go to market for dev tools, and it definitely works as a business model,
+16:24
+as many companies have proven, like Databricks, Elastic, HashiCorp, GitLab. All awesome great companies.
+16:30
+I would argue that you must be open source if you are working on things like a library or framework.
+16:36
+That's what's today expected for the market. Developers wouldn't implement on top of a new framework that is not open source.
+16:43
+You should also be open source if you are dealing with data, especially sensitive data. A new database would need to be open
+16:50
+source or an API connecting with sensitive data in a CRM or maybe
+16:56
+an EHR needs to be open source. You could be open source but probably don't have to be open source if you are
+17:02
+working on other things like an API or maybe an application like a bug tracker. Maybe in that case it's not as important
+17:09
+but still could be your differentiation. Open source has quite a lot of benefits.
+17:15
+Your customers are developers. Well, as you know already, developers prefer working with open source tools.
+17:22
+It's also going to help you create more awareness through the community. It can be also your differentiation, like
+17:28
+you could be the open source version of X. Think about PostHog and Amplitude,
+17:34
+or Supabase and Firebase, or Airbyte and Fivetran. Great approach. Speaking of Airbyte, you could also
+17:40
+receive contributions from the community. In the case of Airbyte, they got a lot of connectors contributed from the community.
+17:46
+But I would be careful on that one. Most cases, you shouldn't count on them, because the quality of the contribution
+17:52
+may not be up to your standards. And then you have to deal with the contributors.
+17:58
+And that could be more actually more difficult than you think. But in most cases, I would say that you should not count on them.
+18:06
+Good contributions are actually pretty rare. And last benefit, but not the least, is the trust.
+18:11
+And it's actually very important for large enterprises in the enterprise realm.
+18:18
+Take the example of Medplum, for example, who is building a open source EHR.
+18:23
+The fact that they are open source, I would argue, probably help them shorten their sales cycle with
+18:28
+enterprises by a year or more. There is one thing you need to think about, however, when you are
+18:34
+creating an open source project. Maybe not at the start, but pretty soon. It's monetization.
+18:41
+If you cannot monetize your product, you don't have a company. At some point, even if it's
+Monetization
+18:46
+later in the life of the company, you need to earn money. There are many variants out
+18:52
+there, but it's good to look at the common approaches. Some of the common ones are hosting, having a cloud offer.
+18:58
+So your customers may use your open source free, self hosted, but they
+19:04
+could also pay for you to host it so that they don't have to maintain it. Sometimes cloud version also
+19:10
+have like some additional features like team management. Another one is being open core.
+19:15
+In that case, you usually have a special offer, typically an enterprise offer, that have advanced features that are
+19:22
+not in the open source version, or maybe they're on a different license. Common features are typically
+19:27
+the ones that are going to be necessary for enterprises, like SSO, audit logs, disaster recovery,
+19:34
+SLAs, these kind of features. And finally, some open source companies
+19:39
+charge for support and services. But I would actually discourage you to follow that monetization path,
+19:45
+because your incentive becomes to build the most complex product possible, so you can charge for support and
+19:51
+services, which is a bad incentive. And if your product doesn't need too much support, then people are going to churn
+19:57
+and not renew their support contract. And what if you are not open source? Well, for these dev tools, they are
+20:03
+usually following one of two approaches. Either they are usage based, like APIs, Algolia, Twilio, Stripe.
+20:10
+And so they charge based on the usage their customers do. Possibly they have a volume discount.
+20:17
+Or enterprise specific options that are on the side. And the second approach is
+20:23
+having some specific plans. Typically like a good, better, best approach. Good is going to be the self serve option.
+20:31
+Um, that's going to solve the problem of developers for a very low price. For the better options, usually
+20:36
+are going to be interacting with engineering managers, who are going to care about collaboration. That's going to enable teams,
+20:43
+still can be self serve. And the best option is higher up. You are talking to the CTO.
+20:49
+It's all about security, audit logs, disaster recovery, SLA.
+20:54
+And in that case, it's usually a sales led approach. Let's speak about sales. So, as a quick reminder from what I was
+21:01
+saying earlier, don't fear outreach. Even if most dev tools are going to end up being bottom up and rely on inbound
+Selling
+21:10
+only heavily, no one knows you at first, and so you need to start with outreach. That period of founder
+21:16
+outreach is how you start. As you get more well known, that's when you'll get inbound.
+21:23
+Usually you're going to have at that point more self serve leads. And then eventually, you will end
+21:28
+up hiring a sales team to sell to bigger accounts, enterprise. So, should you hire a sales team?
+21:35
+Well, I would argue that you should wait as long as you can. Start by selling yourself.
+21:41
+Don't delegate away. The truth is that you are the only person in the company today
+21:47
+capable of selling your own product. If you as the founder cannot sell your product, nobody else can.
+21:55
+As a rule of thumb, I would wait to get to about $1 million ARR before hiring your first salesperson.
+22:03
+And even then, try to hire people who are technical, who at least understand
+22:08
+developers, because developers hate speaking with salespeople. I actually remember our first
+22:14
+sales people at Algolia. They decided to change their title on LinkedIn. And instead of like being sales,
+22:20
+well, account execs, they called themselves product specialists. And the nice thing here is that they
+22:27
+actually had to own that stages. They had to understand the product intimately. So it was kind of like a great
+22:32
+incentive for them to be better at product and a great way for them to open doors with developers who,
+22:39
+um, don't want to speak with sales. Another example, PostHog. Did you know that Tim their
+22:44
+CTO is also their sales leader? Not a business leader. Their sales leader is also the CTO.
+22:51
+He sees sales as an engineering problem, which is an awesome approach for a dev tool. If you want to learn more about
+22:57
+sales, you should also watch Pete's talk about enterprise sales, another startup school video.
+23:03
+So is it different to sell a dev tool from selling any other product? Yes, it is.
+23:08
+You shouldn't build a sales deck. Developers don't want to waste their time reading through a sales deck.
+23:16
+You should show, not tell. Just do demonstrations. I think that's the best sales
+23:23
+approach you can do for a dev tool. At Algolia, we didn't have a sales deck before we got to $10 million ARR.
+23:31
+So even our sales like proper account execs were just showing demonstrations
+23:37
+when they were selling and that was working so much better for everyone. You should lean completely in
+23:43
+the tech aspect of your product. For example, at Algolia, we sell a lot to e commerce players.
+23:48
+And what we realized is that when the buyer is not technical, and want a turnkey
+23:55
+solution, we always, not always, but most of the time, we actually lose the deal.
+24:00
+But when the buyer is technical, or if tech has a lot of influence in
+24:05
+the decision, we win way more often. So we realized by leaning into that aspect of our product.
+24:12
+We are an API. We are not like a turnkey solution. Well, we ended up like finding our
+24:18
+ICP and having better success selling. Okay. And the last thing that is also true in within dev tools is
+24:24
+that most of them are bottom up. What that means is that a lot of people are going to self serve even within enterprises.
+24:32
+So instead of going top down, just pitching your product directly, sales
+24:38
+should also check if some of the enterprise employees are already using the product, and they should then
+24:45
+focus on helping management understand what the product is already doing for them and how much more it could help
+24:52
+them if they were to pay for more. Like new seats or features or actual usage.
+24:58
+Okay, so the last topic I wanted to touch in this video is developer marketing.
+25:06
+Your goal is to create a lot of awareness for your product because you want inbound. The first thing you should
+Marketing
+25:11
+do is find your community. So it could be Hacker News or some subreddit or some discords out there that
+25:19
+is related to what you're working on. But be careful. Your goal is not to sell
+25:24
+your product just yet here. Just be helpful. Just establish yourself as the expert.
+25:31
+And of course people are going to start knowing you and trust your brand, your company.
+25:36
+That will help you down the line. People will think about you when they have that problem. Launch often.
+25:43
+That's very important. We discussed about, uh, the example of Ollama before. But that should also be done
+25:49
+for the life of your company. Some companies even do launch weeks and have been very successful for that.
+25:55
+It works great for open source, for example. Supabase is doing that once a quarter,
+26:01
+bundling all their news in one week a quarter to make as much noise as they can. Other things you can do.
+26:08
+Make your documentation a first class citizen. Documentation is often an
+26:13
+afterthought for developers. They prefer coding than actually documenting their code.
+26:19
+I would argue that documentation should never be an afterthought. It should be part of the product.
+26:24
+Documentation is marketing. That's how people are going to interact with your product.
+26:30
+That's actually the first place people are going after your homepage and maybe a pricing page.
+26:35
+Stripe and other dev tools have really raised expectations there.
+26:40
+Developers have become very demanding. That's something you should invest in.
+26:45
+At Algolia, we decided that a feature was not ever done until the doc was done.
+26:51
+And documentation should be written by developers. You know Algolia, even when we call the team.
+26:57
+And at some point, uh, we created that documentation team. Their role was not to write the documentation for the developers.
+27:04
+They were here to help developers write better documentations. For example, they built a tool where
+27:09
+it would automatically insert API keys for people who'd be logged in so that when they copy paste the code,
+27:16
+it would work right away out of the box which made the documentation ever more useful for our customers.
+27:22
+Speaking of things that developers should do, I would include support there. You should make support a
+27:29
+huge part of your marketing. Your users are developers, right?
+27:34
+Developers hate speaking to these level one support people who don't know anything
+Support
+27:40
+about the product they are supporting. Engineers should do support, and that's going to lead to two great things.
+27:47
+One, your users are developers, and when they interact with developers who speak their language, they're
+27:53
+going to be way more satisfied. Actually, I have examples where someone would reach out to support, and then
+27:58
+the developers, like the person doing the support, was able to actually fix the bug and deploy in 20 minutes.
+28:06
+And so that kind of like blew the customer away. Like they were so impressed, so excited about the product.
+28:11
+And two, it's going to help your own developers much better
+28:16
+understand your customers needs. Because they are going to face the pain as they are supporting them.
+28:23
+And that's a great way for them to be the better product. Taking the example of Algolia again, we actually waited until
+28:30
+hundreds of employees before we built a delegated support team. And then we actually asked our best
+28:37
+engineering manager to build that team. Support was never a second class citizen for us.
+28:43
+So, developers are doing documentation, developers are doing support, all of that is your marketing.
+28:49
+Should you ever hire a marketing team or when should you do that? Well, similarly to sales, I think
+28:56
+founders should lead marketing for a long time, maybe forever actually. To be honest, even at a later stage,
+29:02
+I don't know a single dev tool company that is happy with their CMO when they
+29:08
+have a traditional marketing background. Why? Because traditional marketers, they
+29:13
+don't really understand the persona. They don't really understand developers. Only other developers do.
+29:19
+And developers really hate being marketed at. Please don't insult their intelligence.
+29:24
+You know that because you are developers, right? Well, early on at Algolia, we were
+29:29
+actually asking every single engineer in the team to do what we called a marketing hack every single month.
+29:37
+A hack could be writing a simple blog post, or could be speaking at a meetup,
+29:42
+or could be building a new search. All our best marketing at
+29:47
+Algolia was done by developers. I would encourage you as you build your marketing team to make sure that you have
+29:54
+a lot of developers in your marketing team, because they are the ones who know how to speak to your customers.
+30:00
+You may ask, what about dev advocates? Well, I love the idea because that means having developers in your marketing team.
+30:07
+But it's also a very ill defined role with often a lot of very fuzzy expectations.
+30:14
+So it's difficult to measure. It's difficult to build accountability for.
+30:19
+So my recommendation here would be to wait and first leverage your existing engineering team.
+30:26
+and ask them to do some form of marketing or dev advocacy. And probably at Series A or
+30:33
+later, it starts to make sense to hire dedicated dev advocates. Even then, think about hiring from
+30:38
+within, or from your community. For example, if your open source could be contributors or active or helpful
+30:46
+Discord members, these are the best dev advocate candidates to join you.
+30:51
+So let's wrap up and recap what we said here. Start now. Please don't wait for the perfect
+30:57
+idea because as you are going to build your product, even if it's not a perfect idea, you'll do the reps.
+Outro
+31:02
+You'll learn. And that will lead you to the best idea. If you don't start,
+31:08
+you'll never get anywhere. Build quickly. Please, please, don't over engineer.
+31:13
+You need to have that very fast iteration pace where you can learn from your users as you are building.
+31:20
+Crappy, quick and dirty is completely okay early stage, and then you refactor what actually matters.
+31:27
+Spend time with your users. Like, there is no way you're going to learn if you don't speak with your users.
+31:32
+Learn from them. Do things that don't scale. Go to their office. Spend time with them. Launch early.
+31:38
+You may have seen many of our videos where we say, there is no shame in launching early. People won't remember you
+31:43
+if it doesn't work out. But you could get invaluable feedback that will lead you to work on the
+31:49
+right product to build the right thing that people need. As you are building a dev tool, you should
+31:56
+consider open source as your go to market. Observe the market, observe other players, how they have built their
+32:02
+product, and figure out if open source is the right thing for you. But don't dismiss it. Think about it hard
+32:08
+before making a choice. Don't forget, you are the best salesperson for your product.
+32:13
+No one else is going to know your product or your audience as well as you do.
+32:19
+Learning to sell is way easier than learning how to speak with a developer. And finally, you are also the best
+32:26
+marketing person for your product. You know the language of developers, you know how to speak with them,
+32:32
+you know where they are spending their time, the community, you know how to access this audience
+32:38
+Okay, that's wrapped up for me today. Thanks for watching the video. And if you are building a dev tool,
+32:44
+don't forget you can apply to YC anytime.

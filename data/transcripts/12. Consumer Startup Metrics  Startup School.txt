@@ -1,0 +1,1196 @@
+---
+Consumer Startup Metrics  Startup School
+
+In this episode of Startup School, YC Group Partner Tom Blomfield dives deeper into the metrics that matter most for consumer startups. Tom discusses paid and organic user growth, unit economics, net promoter scores, and the "magic moment" in your product that is most important to track.
+---
+Intro
+0:01
+[Music]
+0:09
+welcome to metrics for Consumer startups
+0:12
+in our video on metrics for B2B startups
+0:15
+we talked about net dollar retention and
+0:17
+gross margin metrics that are most
+0:19
+important for B2B companies now we're
+0:21
+going to dig into metrics that are
+0:22
+particularly important for Consumer
+0:24
+companies I was previously the founder
+0:26
+of a consumer online bank called monzo
+0:29
+it's now up to about 8 million customers
+0:31
+in the UK and I also worked at grouper a
+0:34
+YC company that built a a group social
+0:36
+club and dating app so two consumer
+0:39
+companies I've also worked with dozens
+0:41
+of consumer companies here at YC for
+0:43
+Consumer companies growth headline user
+0:46
+growth is the most obvious metric that a
+0:49
+lot of people track the reason is often
+0:52
+monetization comes later um you might
+0:55
+have to build up some kind of network
+0:57
+effect or viral coefficient things will
+0:59
+go into later a good growth rate is 15%
+Growth Rates
+1:02
+month over month at that rate you'll 5x
+1:06
+your user base every year 10% monthly
+1:08
+growth for Consumer company is okay it
+1:10
+means you'll approximately triple your
+1:12
+user base every year 5% a month or lower
+1:15
+is unlikely to reach breakout success
+1:18
+I'm afraid but growth is much more
+1:20
+complex than simply headline user
+1:23
+numbers we'll split first of all into
+Organic vs. Paid Growth
+1:25
+organic versus paid growth so organic
+1:27
+growth is really anything you don't pay
+1:29
+for
+1:30
+and Founders running consumer companies
+1:32
+often neglect this we got to a million
+1:35
+customers at monzo before we spent any
+1:38
+money on Direct marketing or advertising
+1:40
+and really we did this in two ways
+1:44
+virality and network effect it's worth
+1:47
+pausing on these because they're so
+1:48
+important virality is the idea that one
+1:52
+user using your product introduces it to
+1:55
+other users somehow in the use of your
+1:57
+product whereas Network effect is the
+2:00
+idea that the product gets better uh
+2:03
+that more nodes in the network exist
+2:04
+I'll give you an example from Facebook's
+2:06
+early days so when you took a a picture
+2:09
+on Facebook and uploaded it you prompted
+2:12
+to tag your friends even if they weren't
+2:14
+already on Facebook and those friends
+2:17
+would get an email saying hey someone's
+2:18
+tagged a photo of you sign up to view
+2:20
+the photo that's a viral mechanic by
+2:23
+uploading the photo and tagging your
+2:25
+friends you spread it to New users
+2:27
+another example might be Wordle so when
+2:29
+people play Wordle they post their score
+2:32
+on social networks you see those little
+2:34
+green and and gray dots that's a signal
+2:36
+for everyone else there they're playing
+2:38
+uh this game and it attracts new people
+2:40
+into the game so that's virality a
+2:44
+network effect comes from meta's law the
+2:46
+value of the network is the square of
+2:48
+the nodes in a network and what that
+2:49
+basically means is the more people who
+2:52
+use this thing the more valuable it gets
+2:54
+and so WhatsApp is a great example of
+2:56
+this if you're the only one on WhatsApp
+2:58
+you know you can't message with anyone
+3:00
+it's pretty useless but the more people
+3:03
+you add to the product the more people
+3:05
+you invite the more useful it gets for
+3:07
+you you can message all these people
+3:09
+around the world for free and so the
+3:11
+best consumer companies incorporate both
+3:14
+virality and network effect which are
+3:17
+different concepts but very closely
+3:18
+related in order to grow their user base
+3:21
+organically so let's think about your
+3:24
+product How Could You incorporate both
+3:27
+of these things virality and netw effect
+3:30
+first of all for virality what are the
+3:32
+sharable moments what are the points at
+3:34
+which you you know you accomplished a
+3:37
+something new in the product you've you
+3:39
+know dualingo you've reached a new level
+3:41
+something you want to brag about or
+3:42
+Wordle you've completed it in two tries
+3:44
+or something uh what are those points in
+3:47
+the product uh where people naturally
+3:50
+are inclined to share it and then how
+3:51
+can you make it really easy with all of
+3:53
+those sharing prompts that um both IOS
+3:55
+and Android offer the second is Network
+3:58
+effect how could my product get better
+4:02
+than more people who join you have to
+4:04
+shift from thinking about your product
+4:05
+as a single player journey to a
+4:07
+multiplayer Journey so for something
+4:08
+like monzo which was a Neo Bank the
+4:10
+network effect with things like being
+4:12
+able to send and receive money really
+4:14
+quickly within the bank so we've built a
+4:16
+venmo style um money transmission within
+4:19
+the bank you could also open joint
+4:21
+accounts or have big pots for groups of
+4:24
+people who are going on a holiday and so
+4:25
+what we'd often see is a group of six or
+4:28
+seven people go on a holiday
+4:30
+the St only three people have monzo and
+4:32
+by the end of the holiday uh all of the
+4:34
+group have been bullied to to sign up to
+4:36
+monzo so they can jointly manage their
+4:37
+expenses that's a network effect working
+4:40
+on these Network effect and viral Loops
+4:43
+will pay back every day for the rest of
+4:45
+the life of the company where with ad
+4:47
+spend you spend the money one day
+4:49
+tomorrow it's gone you've got to keep
+4:51
+spending that money to keep acquiring
+4:52
+users viral loops and network effects
+4:55
+pay back forever so every one or 2%
+4:58
+extra you can op optimize in your viral
+5:00
+loops and your network effect will pay
+5:02
+back for the rest of the life of the
+5:03
+company paid referral schemes are a sort
+5:06
+of interesting blend it seems like
+5:08
+member get member where you know if you
+5:10
+refer a friend you get $5 and they get
+5:12
+$5 or maybe with Uber you get a free
+5:13
+ride they get a free ride I would treat
+5:15
+this as paid acquisition actually you're
+5:17
+spending money to acquire customers and
+5:19
+if you stop spending those customers
+5:21
+won't won't appear there are two things
+5:23
+to watch out for if you're doing this uh
+5:25
+these paid referral schemes first of all
+Cannibalization
+5:27
+is cannibalization this is the idea that
+5:30
+people would have referred their friends
+5:32
+anyway and now by paying them you're
+5:34
+simply paying for users that would have
+5:37
+signed up for free so that's
+5:39
+cannibalization and you can test that by
+5:41
+only running your paid referral schemes
+5:42
+in certain parts of the country or
+5:44
+certain cities or turning it off for a
+5:46
+period of time and seeing what natural
+5:48
+organic rate of referral you get the
+5:50
+second thing you need to watch out for
+5:52
+is fraud honestly people somehow milking
+5:55
+your referral scheme so I had a friend
+5:57
+who in the early days of um of zip car
+6:00
+just set up a bunch of cheap Google ads
+6:02
+that bid on zip car and then would
+6:04
+redirect them straight to Zipcar and
+6:05
+milk the referral scheme and so he drove
+6:07
+free Zip Cars for a year and then got
+6:09
+banned for life from zip car so there
+6:11
+are always people doing this you've just
+6:12
+got to watch out for it it's just an
+6:14
+annoying cost okay so we talked about
+6:17
+organic growth and particularly Network
+6:19
+effect and and viral Loops now we're
+Paid Growth
+6:21
+going to talk about paid growth so this
+6:23
+is the idea that you you know you you do
+6:26
+a pay-per-click campaign maybe you do
+6:28
+some TV advertising ing or advertising a
+6:30
+newspaper or whatever the first thing is
+6:33
+you have to have good tracking set up
+6:35
+you need to know where every user is
+6:37
+coming from did they come from your
+6:39
+Facebook ads or your Instagram ads or
+6:41
+that TV ad the simplest way for
+6:42
+pay-per-click ads is that UTM referr in
+6:45
+the URL if you can't get that or I know
+6:47
+recent changes to iOS has made it much
+6:49
+much harder to track you should just ask
+6:51
+your users when they signed up where
+6:53
+they heard about you you so you have to
+6:55
+measure this paid versus free and you've
+6:56
+got to know where they came from you can
+6:59
+get really convoluted with you know
+7:01
+first touch attribution last touch
+7:03
+multi-touch attribution
+7:05
+it's it's often way more hassle than
+7:07
+it's worth simply using those UTM
+7:10
+referrals or asking your customers where
+7:11
+they came where they heard about your
+7:13
+your business is probably the best way
+7:15
+for most of you so understanding where
+7:17
+each user came from and then how much
+7:19
+you spent on each Channel lets you
+7:22
+understand your customer acquisition
+7:23
+cost how much you spent for each channel
+7:26
+to acquire each User it's important that
+7:29
+you track this per Channel and then
+7:32
+crucially record that in your database
+7:35
+where each user came from record it
+7:36
+forever because you can then monitor the
+7:39
+performance of those customers over time
+7:41
+back at monzo we found a particular um
+7:44
+money-saving blog that was very very
+7:46
+cheap to get users from they sent us
+7:48
+hundreds and hundreds of users uh when
+7:50
+we were eventually paying for
+7:51
+advertising uh it seemed very very cheap
+7:54
+but the customers it turns out were
+7:55
+deeply unprofitable they would load
+7:57
+money onto their monzo card they'd go on
+7:59
+holiday
+7:59
+and then they instantly just go and take
+8:01
+,000 out from the ATM and just spend in
+8:03
+cash and we couldn't understand why this
+8:05
+was for a very very long time we
+8:07
+researched it but the the net result of
+8:09
+it was we shut down that advertising
+8:11
+Channel even though the cost of
+8:13
+acquisition looked really really good
+8:14
+for that channel the lifetime value of
+8:17
+those customers was negative the the
+8:19
+revenue and the profit they generated
+8:20
+was negative for the company because
+8:22
+they generated so much cost the second
+8:24
+thing for to watch out for for for CAC
+8:26
+for customer acquisition cost is you
+8:29
+have to measure it to an active
+8:31
+monetized retaining user whether
+8:34
+whatever that's defined as for your
+8:35
+business it might be a subscriber for
+8:37
+monzo it was a weekly active user you
+8:39
+have to measure it to get to a good user
+8:41
+not simply a sign up because you might
+8:43
+have 80 or 90% drop off rate in your
+8:46
+first week for example you've got to
+8:48
+track what does it cost us to generate a
+8:51
+user who sticks around for the longterm
+8:53
+who performs and retains like a like one
+8:56
+of our good users that's your customer
+8:58
+acquisition cost the best consumer
+9:00
+companies have a split of organic versus
+9:04
+paid growth of something like north of
+9:07
+80% organic to 20% paid even 100%
+9:11
+organic to 0% paid for some of the
+9:13
+absolute best consumer companies like
+9:15
+Facebook and and WhatsApp in the early
+9:17
+days a 50/50 split between paid and
+9:19
+organic is okay anything below 50/50 for
+9:23
+any period of time honestly is pretty
+9:24
+worrisome that's because if you're
+9:26
+relying too much on the big ad platforms
+9:28
+like Google and meta to increase your
+9:32
+growth you're basically just going to
+9:33
+have to pay them more money and as you
+9:35
+pay them more money to acquire more
+9:36
+users the cost to acquire each user goes
+9:38
+up and these ad platforms are really
+9:40
+well tuned to extracting the maximum
+9:43
+value from you and your competitors as
+9:45
+possible and so what happens is all
+9:46
+these competing companies bid and bid
+9:48
+and bid to get more and more and more
+9:50
+customers and see they're making less
+9:52
+and less profit on each customer because
+9:54
+they're requiring more and more to to
+9:55
+acquire them and at the end of the day
+9:57
+only Google and meta really win in that
+10:00
+battle You all take your margins to zero
+10:04
+and Google and meta end up making all
+10:05
+the money that's why it's so dangerous
+10:08
+to be so reliant on paid growth
+10:10
+similarly a big platform shift like the
+10:12
+changes to uh to the iOS platform to the
+10:15
+broke advertising tracking just wipes
+10:17
+out half of your business I've seen so
+10:19
+many companies overnight just die from
+10:22
+changes that made were made to the big
+10:24
+advertising platforms so please please
+10:26
+please focus on organic growth and
+10:29
+that's viral loops and network effect so
+10:31
+to finish up on paid growth I've not
+10:34
+seen any great consumer company get to
+10:37
+True scale where more than 50% of their
+10:40
+signups are coming from organic JS and
+10:42
+I'm sure someone out there will watch
+10:44
+this and find an example but
+10:45
+overwhelmingly the great consumer
+10:47
+companies that get to IPO scale to get
+10:51
+to really big scale um have optimized
+10:54
+their viral loops and their Network
+10:55
+effects to get the majority of their
+10:57
+growth from organic channs so now we're
+Unit Economics
+10:59
+going to dive into unit economics this
+11:01
+is the idea that you can measure on a
+11:03
+per customer level how much revenue they
+11:05
+generate minus the variable or
+11:08
+incremental cost associated with serving
+11:10
+that warn customer so let's take monzo
+11:12
+an online bank when I was there just a
+11:14
+few years ago these numbers aren't
+11:16
+current each customer generated about
+11:18
+$50 in Revenue but we had a lot of costs
+11:21
+to serve each customer so for example
+11:24
+sending out a new plastic card and a
+11:26
+replacement plastic card whenever they
+11:28
+were lost was a variable cost the cost
+11:30
+of customer service so the more each
+11:33
+customer contacted customer service the
+11:35
+more cost that would generate any fraud
+11:37
+on the account or any transaction fees
+11:40
+to to make a bank payment or wire fees
+11:42
+all of those were cost that monzo would
+11:45
+bear and then we track those on a per
+11:47
+customer basis this is very very
+11:50
+important because you can then
+11:52
+understand not just how profitable or
+11:55
+unprofitable the entire customer base is
+11:57
+but for each sing single customer and
+11:59
+each cohort of customer how they
+12:02
+performed so for example we discovered
+12:05
+that customers at monzo who traveled
+12:07
+abroad very often would earn a lot more
+12:09
+revenue or customers who came in Via a
+12:12
+certain advertising Channel I mentioned
+12:14
+earlier might take money out of ATMs and
+12:17
+incur massive costs there or certain
+12:18
+kind of customers might contact customer
+12:21
+service very very regularly and incur a
+12:23
+lot of cost there and so this really
+12:26
+matters in an operationally complex
+12:28
+business where you've got thin margins
+12:30
+it's really important that you
+12:31
+understand on a per customer basis how
+12:33
+much revenue each customer generates and
+12:35
+then how much variable cost each
+12:37
+customer generates and you can optimize
+12:40
+it so you can start reducing the cost or
+12:42
+you can start investing in the
+12:44
+advertising channels that bring the
+12:46
+kinds of customers who tend to generate
+12:49
+higher revenue and lower cost so rather
+12:51
+than tracking these on a a really broad
+12:54
+basis the more granular you can get on
+12:56
+these costs the better so quick note
+12:58
+things that aren't included in variable
+13:00
+costs are those fixed costs the things
+13:02
+that if you doubled or tripled your
+13:03
+customer base really those costs
+13:05
+wouldn't change at all so those might be
+13:07
+engineering salaries or the rent on your
+13:09
+head office those are the things that
+13:11
+you deduct afterwards to get to your
+13:14
+total profit line at the bottom so for
+13:16
+uni economics you really want to take
+13:17
+your Revenue minus your variable costs
+13:20
+those are costs that vary as you
+13:23
+increase the number of customers and as
+13:25
+we talked about in the video on Gross
+13:27
+margins scaling negative unit economics
+13:30
+is very very dangerous in the early days
+13:32
+of monzo we were AT3 or4 per customer
+13:37
+per year and we scale to half a million
+13:39
+customers before we fix them earn a lot
+13:41
+of capital so beware pay attention to un
+13:44
+economics and try to get them positive
+13:46
+before you scale up your user base okay
+13:48
+next retention we talked about retention
+13:51
+in our B2B video and particularly net
+13:53
+dollar retention it's pretty easy in uh
+13:56
+B2B SAS companies when you have a
+13:58
+recurring contract with a paying
+14:00
+customer to know whether they've churned
+14:01
+or not with consumer it's often a little
+14:04
+harder especially when they're not a
+14:05
+subscriber but they just periodically
+14:07
+use your product like Airbnb and the
+14:09
+complicated question is what is the
+14:12
+right period to measure to tell if
+14:14
+there's still an active customer or not
+14:16
+should they be using a product every day
+14:18
+or every week or month or even year so
+14:20
+for Facebook an active user might be
+14:22
+checking Facebook once or multiple times
+14:24
+a day but with Airbnb you might only
+14:27
+book a vacation home every six months
+14:30
+and so for your business it's really
+14:33
+important to think for a successful
+14:35
+customer so want someone who really
+14:36
+likes the product how often would they
+14:39
+typically be using this service so for
+14:42
+monzo we chose one transaction at least
+14:44
+one financial transaction every week it
+14:46
+can be hard to measure retention in
+14:48
+consumer startups especially when you've
+14:50
+decided that the relevant usage period
+14:53
+might be months or even years bit like
+14:55
+Airbnb or an airline booking so what
+14:58
+some companies figured out is you can
+15:00
+look for what's called a magic moment
+15:04
+this user Behavior or activity that is
+15:07
+correlated with or predicts long-term
+15:09
+retention so the way you go about that
+15:11
+is you analyze a group of your best
+15:13
+users and compare their behavior how
+15:16
+they use the product to the rest of your
+15:18
+customer base so a famous example was
+15:20
+Facebook they figured out that if you
+15:23
+added seven friends in your first 10
+15:26
+days of usage you'd overwhelmingly go on
+15:28
+to become long-term happy users of
+15:31
+Facebook whereas if you didn't add
+15:33
+friends in your first 10 days it's much
+15:35
+more likely you churn off for monzo we
+15:37
+had something similar because we had a
+15:39
+bank account but also this venmo like
+15:41
+functionality built into the product
+15:42
+where you could send and receive money
+15:44
+customers who added three friends from
+15:47
+their phone book to their monzo account
+15:48
+so they could send and receive money as
+15:50
+they signed up retain something like 20
+15:52
+percentage points better than users who
+15:55
+didn't have any friends in their first
+15:57
+few days so once you figured out what
+15:59
+your magic moment is might be adding
+16:01
+friends like Facebook or monzo or it
+16:04
+might be booking a stay and having a
+16:05
+fstar experience as with Airbnb you can
+16:08
+try to re-engineer your product
+16:10
+unboarding to make sure that as many
+16:13
+users as possible Hit This Magic Moment
+16:16
+as soon as possible so for Facebook it
+16:18
+was getting that ad friend uh popup
+16:21
+inside the signup flow making sure that
+16:23
+everyone who joined Facebook was
+16:26
+prompted to add friends and so for your
+16:28
+product think about what that magic
+16:29
+moment could be and how you can
+16:31
+re-engineer the signup flow to get as
+16:34
+many users as possible hitting that
+16:36
+point there is a mistake here and then I
+16:38
+definitely uh fell victim to this it's
+16:41
+getting too fixated on that precise
+16:44
+definition of that magic moment for
+16:45
+Facebook it probably didn't matter that
+16:47
+much whether it was seven friends or
+16:49
+eight friends or six friends simply
+16:51
+finding that kind of Tipping Point that
+16:53
+looks about right from your metrics and
+16:56
+then agreeing with everyone that that's
+16:57
+what you're going to optimize for rather
+16:59
+than being really pedantic about the
+17:01
+exact definition it's probably the best
+17:03
+way to go the next thing we're going to
+Net Promoter Score (NPS)
+17:04
+talk about for Consumer startup metrics
+17:06
+is the net promoter score again this is
+17:09
+a three-letter acronym NPS that sounds
+17:11
+pretty complicated but it's pretty much
+17:13
+a measure of How likely you are to
+17:16
+recommend this product to a friend you
+17:18
+ask it to your customers and it's a
+17:19
+scale of 0 to 10 and you basically take
+17:24
+all the people who are promoters and
+17:26
+that's a n or 10 and then you net off
+17:29
+hence the net the detractors that's
+17:32
+people who rate you 0 to six and that'll
+17:35
+give you a score so if everyone is a
+17:38
+detractor all people who vote voted at
+17:40
+zero you'd have a negative 100 100% of
+17:43
+people were detractors if 100% of people
+17:46
+were promoters you had zero detractors
+17:48
+100 minus zero you have a plus 100 net
+17:51
+promoter score another example say you
+17:53
+have 50 promoters 50 scoring 9 or 10 25
+17:57
+in the middle 25 neutral you don't do
+17:59
+anything with those you just ignore them
+18:00
+and then minus 25 detractors those who
+18:03
+people who are scoring at 0 to six 50us
+18:06
+25 your MPS is positive 25 if your net
+18:11
+promoter score your MPS is not extremely
+18:13
+high as a new consumer company your
+18:15
+toast you pretty much have to
+18:17
+re-engineer the product to make it
+18:20
+something that people love the reason is
+18:23
+it correlates extremely well with Word
+18:25
+of Mouth referral so I would argue
+18:28
+positive 50 is pretty much a minimum
+18:30
+Baseline for any new consumer company
+18:33
+you have to be in order of magnitude
+18:34
+better than your competitors mono for
+18:36
+example hovered somewhere between
+18:38
+positive 75 and positive 80 while I was
+18:41
+there I looked up Tesla it's currently
+18:43
+at positive 96 so the best consumer
+18:47
+companies always always have a Sky High
+18:50
+net promoter score and you if you look
+18:52
+at old incumbents people like cell phone
+18:54
+companies or really old Banks their net
+18:57
+promoter scores are often
+18:58
+zero or even negative that's a really
+19:01
+good sign that you could disrupt those
+19:03
+Industries with great customer service
+19:05
+and a great mobile proposition how you
+19:08
+gather this score is extremely important
+19:11
+so you ask this question to your
+19:13
+customers it might be every month or so
+19:15
+with a random sample or at a certain
+19:16
+point in the product but the crucial
+19:18
+thing is that you keep it consistent if
+19:21
+you change the point in the app or the
+19:24
+the point in the customer's lifetime
+19:26
+when you ask this question you're going
+19:28
+to change the values you get you're
+19:30
+going to change the responses and your
+19:32
+net promoter score will jump around
+19:34
+wildly and you won't know whether it's
+19:37
+something you've changed or simply an
+19:39
+artifact of you having changed the
+19:40
+collection method we fell into this trap
+19:42
+at grouper dating website I worked at we
+19:45
+changed the collection method and the
+19:47
+net promoter score decreased by 20
+19:49
+percentage points overnight we couldn't
+19:50
+figure it out so it's crucial you ask
+19:53
+this in the same way of all of customers
+19:57
+at various points in time that you don't
+19:59
+change this and finally on NPS you can
+20:01
+influence this this figure in particular
+20:03
+as a next question after people have
+20:05
+answered whether they recommend this to
+20:07
+a friend you should ask a qualitative
+20:10
+question why why do you like the product
+20:13
+or what's wrong with it and then in
+20:15
+particular you can go and look at all of
+20:17
+the detractors and you can fix all of
+20:19
+the things they don't like and that's a
+20:20
+sure fire way to increase your net
+20:22
+promoter score okay we've covered a lot
+Recap
+20:24
+of stuff in consumer metrics today let's
+20:27
+quickly recap first of all is your
+20:29
+growth rate at least 15% month-on-month
+20:32
+growth in active users is the target 10%
+20:36
+is okay 5% is probably not going to cut
+20:38
+it for Consumer startup we talked about
+20:40
+organic versus paid growth you really
+20:43
+need at least 50% organic to get to any
+20:45
+kind of scale if you've got more than
+20:47
+50% of your growth coming from Paid
+20:49
+channels I'd suggest in the long term
+20:52
+you have a problem that you need to fix
+20:54
+so focus on virality and network effect
+20:57
+to get the those organic signups humming
+21:00
+if you're not already start tracking
+21:02
+unit economics this is the amount of
+21:04
+Revenue each customer generates minus
+21:07
+the variable cost that each customer
+21:09
+creates if your unit economics are
+21:11
+negative you must fix them before you
+21:13
+scale then we talked about retention
+21:16
+retention needs to flatten off somewhere
+21:18
+if your retention periods are really
+21:20
+long if people only come back every 6
+21:21
+months or year look for a magic moment
+21:24
+in your product that moment where users
+21:26
+finally discover the aha moment and are
+21:28
+more likely to convert to long-term
+21:30
+happy users and the net promoter score
+21:33
+plus 50 as a minimum for great consumer
+21:36
+startups and don't mess around with how
+21:38
+you're measuring net promoter score
+21:40
+you're likely to throw off your metrics
+21:41
+and confuse yourself a final warning
+21:44
+these are all benchmarks your company
+21:47
+and your industry May well be different
+21:50
+you may have off the charts organic
+21:52
+growth and very poor unit economics like
+21:55
+early monzo or you might have really
+21:57
+really good economics and pretty slow
+22:00
+growth that rely on paid ads every
+22:03
+business is different and it's hard to
+22:05
+give cookie cutter benchmarks for
+22:06
+everything so just think about these
+22:08
+metrics and how they might be different
+22:10
+for your business I hope these are
+22:11
+useful in running your company thanks
+Outro
+22:14
+very much for
+22:16
+[Music]
+22:24
+watching

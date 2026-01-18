@@ -1,0 +1,1033 @@
+---
+How To Talk To Users  Startup School
+
+YC often says "talk to your users", but actually doing that is surprisingly tricky. YC Group Partner Gustaf Alströmer gives non-obvious advice on how to talk to both current and potential users, how to run a great user interview, and how to interpret the feedback in these conversations.
+---
+Introduction
+0:01
+foreign
+0:03
+[Music]
+0:09
+my name is Gustav and I work here at y
+0:12
+combinator as a group partner I've been
+0:14
+here since 2017. before YC I was a
+0:17
+practically to Airbnb and actually a YC
+0:20
+founder back in 2007. today I'm going to
+0:22
+talk about how to talk to your users and
+0:25
+your future customers here's what I plan
+Outline
+0:27
+to cover today why the best Founders
+0:29
+talk to the users throughout the
+0:31
+lifetime of the company two how to find
+0:33
+your users and how to talk to them three
+0:35
+what questions to ask them and what not
+0:37
+to ask them and four how to turn your
+0:40
+conclusions into an MVP most people in
+Best founders learn from their users
+0:42
+the world have the idea on how new
+0:44
+startups to form completely wrong they
+0:46
+think ideas of new products is something
+0:48
+the financials come up with on a lazy
+0:49
+Sunday or a late night coding session
+0:51
+you probably know it doesn't work this
+0:53
+way this scene as you can see here here
+0:55
+is a scene from The Social Network movie
+0:57
+it's a great movie but they got a lot of
+0:59
+things wrong on how Facebook actually
+1:01
+got started this is Brian chesky Brian
+1:03
+is the co-founder and CEO of Airbnb on
+1:06
+the left side of the photo is Amal Amal
+1:08
+was the very first guest on Airbnb they
+1:10
+actually spent a weekend together in San
+1:12
+Francisco when they'd be kind of watched
+1:14
+you notice the difference between this
+1:16
+photo and the previous photo well this
+1:18
+photo actually is a real photo it
+1:19
+includes a two-way conversation with a
+1:21
+real customer great Founders talk to
+1:23
+Future customers before they even have a
+1:25
+product in fact the very best Founders
+1:28
+in the world learn directly from their
+1:30
+users throughout the life of their
+1:32
+company but that's again if you have
+1:34
+correctly identified who your users are
+1:36
+you should learn from them throughout
+1:38
+the lifetime of your company why you
+1:40
+might ask
+1:41
+users and customers will keep you honest
+1:44
+they are the only stakeholders actually
+1:46
+paying you anything if anyone will tell
+1:49
+you the truth it will be them so my talk
+1:51
+today is about how to do this well so
+1:54
+let's talk about another m b story in
+1:56
+2010 um and I remember this uh myself
+1:59
+Brian chesky the CEO of Airbnb he'll
+2:02
+decide to launch an experiment he was
+2:04
+going to give up his apartment and live
+2:06
+in 50 different airbnbs over the next
+2:08
+couple of months you might ask yourself
+2:09
+why would anyone do that so much hassle
+2:12
+most people read the articles about this
+2:14
+experiment because he did announce it
+2:15
+they missed a point
+2:17
+um I personally remember this being kind
+2:19
+of crazy by doing this Brian will
+2:21
+literally get a chance to talk to every
+2:22
+one of these 50 hosts each single day on
+2:25
+this trip and one incredible source of
+2:27
+honest feedback on your product without
+2:28
+the Airbnb hosts MB would not exist
+2:31
+exist today what Brian Joe and Nate did
+2:33
+so early is deeply understand the
+2:35
+motivations
+2:36
+um and the feedback from their hosts
+2:38
+still today Brian and Joe gets calls
+2:41
+from hosts on their personal cell phone
+2:43
+numbers I remember them telling me that
+2:45
+that on their first day of adworks at
+2:47
+Airbnb
+2:48
+why do they do that well it's the number
+2:50
+that they put on the website and share
+2:52
+with all of their hosts early on they
+2:54
+weren't hiding behind Anonymous email
+2:55
+they wanted to hear from the customers
+2:57
+at the time this seemed almost radical
+3:00
+most Founders would spend their time in
+3:02
+front of the computers trying to find
+3:04
+scalable growth channels like Google ads
+3:06
+unfortunately most Founders still don't
+3:09
+build personal connections with their
+3:10
+users today behind behind info at emails
+3:13
+or don't do not reply emails you don't
+3:17
+believe me you should just do a search
+3:18
+in your email for do not reply at and
+3:21
+see how many people don't want to talk
+Who should I talk to?
+3:23
+to their customers so let's start by
+3:25
+trying to figure out who I should talk
+3:27
+to it's always easy to interview people
+3:30
+that you know or people who are on your
+3:32
+network they're simply the most likely
+3:33
+to respond but perhaps can be less
+3:35
+honest in their answers to not offend
+3:39
+you don't be afraid of reaching out to
+3:41
+them and don't be afraid of rejection
+3:43
+the second group here is co-workers or
+3:45
+former co-workers they can be a really
+3:47
+great source they might know the topic
+3:49
+really well and if you're building
+3:51
+software for startups you can easily and
+3:53
+easily navigate yourself to someone
+3:55
+who's a potential User it's also very
+3:57
+common that the early users you speak to
+3:59
+are outside of your personal circuits or
+4:01
+your co-workers circles when asking YC
+4:03
+Founders how they found their early
+4:05
+users some of the most common answers
+4:07
+were LinkedIn red forms slack or Discord
+4:10
+communities and sometimes in-person
+4:12
+events so to illustrate this process
+4:15
+um a little better I'm going to start a
+4:17
+new mock startup this is not a real
+4:19
+company I'm just making it up but I'm
+4:21
+going to go through the process as I
+4:22
+would have if this was a real company
+4:24
+and first I want to understand if the
+4:26
+problem is real my hypothesis that I
+4:28
+have here or kind of like the idea space
+4:30
+that we sometimes call as NYC is that
+4:33
+companies want to reduce their carbon
+4:35
+emissions but for whatever reasons don't
+4:36
+do that so my plan is very simple I want
+4:39
+to first interview some potential
+4:40
+customers to learn about the problems
+4:42
+and motivations around carbon emissions
+4:44
+and three try to understand what an MVP
+4:46
+will look like MVP is a minimal viable
+4:48
+product to do this research I plan to
+4:51
+start by reaching out to Founders CEOs
+4:53
+CFOs at startups or bigger companies I'm
+4:57
+also going to be shocked to people on
+4:58
+LinkedIn that have titles like
+5:01
+carbon or climate or sustainability
+5:04
+basically Wars that gives me hint that
+5:07
+they might be relevant people to talk to
+5:09
+so what am I looking to learn well first
+5:11
+I'm trying to understand do the company
+5:13
+that they work for care about their
+5:15
+carbon emissions and two why do they
+5:18
+care and why do they not care if they
+5:20
+don't care and three who in that company
+5:23
+might be the one who cares the most
+5:25
+about this uh and why all right so so
+5:27
+here are two examples of Outreach
+5:29
+messages so the first one is a LinkedIn
+5:31
+message to a CFO who I used to work with
+5:33
+at Airbnb the message will go something
+5:35
+like this first I introduce myself I
+5:37
+mentioned something about our time at
+5:38
+Airbnb then I say I'm starting a new
+5:40
+project briefly describe it but not too
+5:42
+much in detail and I just asked for 20
+5:44
+minute phone call or video call that's
+5:46
+it and here's another example of a
+5:48
+message to someone I don't know it's
+5:50
+also on LinkedIn to the same group that
+5:52
+I mentioned earlier it's similar but
+5:54
+geared towards people I don't know so
+5:56
+the message will and the tone will be a
+5:57
+little bit different all right so once I
+How to interview potential customers
+6:00
+get on the phone or once again on the
+6:02
+video call let's talk about uh how to
+6:05
+actually interview potential customers
+6:07
+so first you want to make sure that
+6:09
+these interviews are over video calls
+6:11
+phone calls or in person you can learn a
+6:13
+lot more from a five minute video
+6:15
+interview than 500 or 5 000 sugar
+6:18
+responses
+6:19
+secondly you want to build some Report
+6:21
+with interviewee they're going to give
+6:24
+you answers to questions that maybe no
+6:25
+one have asked them before so you need
+6:27
+to make sure that they can trust you and
+6:28
+feel comfortable in this situation next
+6:30
+uh the most important thing here the
+6:32
+most most important thing here is to not
+6:35
+introduce your idea until maybe at the
+6:37
+end of the call or maybe not at all
+6:39
+doing this too early can bias them in
+6:41
+their answers your role here in this
+6:44
+interview is to listen not to talk
+6:47
+there are some great techniques to get
+6:49
+people to open up and talk about their
+6:51
+problems and one good one is to ask
+6:53
+follow-up questions that are open-ended
+6:55
+for example tell me about that if you're
+6:58
+not recording the interview you should
+7:00
+at least take notes as much as you can
+7:03
+you need to translate the recordings to
+7:05
+notes anyway so you might as well take
+7:07
+notes in the in the actual interview I'm
+7:08
+going to play an example video here on
+7:11
+uh how a potential customer for my
+7:14
+carbon emission company and how that
+7:16
+conversation will go like Hi how are you
+7:18
+um it's been a long time since we worked
+7:20
+together Airbnb
+7:21
+yeah great to see you
+7:23
+so I don't know if I told her this but
+7:25
+I'm thinking about starting another
+7:26
+company and I have a couple questions I
+7:28
+wanted to ask you about this era that
+7:30
+I'm interested in uh does your company
+7:32
+montevue Inc do you care about your
+7:34
+carbon emissions
+7:36
+we do actually care and we use a
+7:38
+consultant who creates these PDF reports
+7:40
+once a year
+7:41
+interesting uh what do you do with a
+7:44
+report
+7:45
+I mean right now I don't think we really
+7:47
+take much action on it unfortunately
+7:50
+well why not
+7:51
+it's just really hard to know what to do
+7:53
+with the information
+7:55
+um the information is really dense and
+7:57
+um uses words we don't really understand
+8:00
+tell me more about that
+8:01
+well we hired this consultant
+8:04
+um they asked us to fill out this word
+8:06
+doc with information but most of the
+8:08
+data that goes into it uh seems
+8:10
+inaccurate and I just feel like we need
+8:13
+another expert to figure out what to do
+8:15
+with the data
+8:16
+got it got it
+8:18
+um but why is it important for your
+8:20
+company at all to track carbon emission
+8:22
+well our
+8:29
+um and I think there's some regulations
+8:30
+coming up too
+8:32
+you notice here how I never introduced a
+8:35
+product or a solution I only ask
+8:37
+questions to learn about the problem
+8:39
+that Amy's having I don't even say what
+8:41
+I'm going to build
+8:42
+that's how you want to do it here are
+8:44
+some very specific questions that you
+8:46
+can use in your interviews one tell me
+8:48
+how you do X today by X of course I'm
+8:51
+referring to a specific problem a task
+8:53
+or goal that you are trying to solve two
+8:55
+what is the hardest thing you are doing
+8:57
+about x three why is it hard four how
+9:01
+often do you have to do x five why is it
+9:04
+important for your company to do X make
+9:06
+sure you dive deep into this question
+9:07
+like understanding that motivation is
+9:09
+going to be critical here and six what
+9:11
+do you do to solve this problem for
+9:13
+yourself today it's really important to
+9:15
+understand what they're doing
+9:18
+now if you can watch them do this that's
+9:21
+even better if they can screen share
+9:23
+during the video call or show you their
+9:25
+laptop as you're doing the interview and
+9:28
+show you how they actually get the PDF
+9:30
+report what they do with it
+9:32
+um how it looks like
+9:33
+that's the ideal State you want to
+9:36
+deeply understand their behavior not
+9:37
+just what they're saying but what
+9:39
+they're doing because changing the
+9:41
+behavior will be hard you can also ask
+Follow ups & Don't ask these questions
+9:43
+follow-up questions and please learn how
+9:45
+to make use of these ones it's very hard
+9:47
+to get someone to say everything in just
+9:49
+one answer to one question get
+9:51
+comfortable with asking questions like
+9:53
+what do you mean by that or can you tell
+9:55
+me more about that or why is that
+9:58
+important to you here are some questions
+9:59
+that you should not ask like there are
+10:01
+ways you can kind of derail this
+10:04
+interview will you use our product
+10:06
+they're probably going to say yes but
+10:08
+they're not going to mean anything to
+10:09
+you the answer
+10:11
+two which features would make product X
+10:14
+better
+10:15
+remember their job is to tell you about
+10:17
+the problem your job is to think about
+10:19
+what features to solve that problem so
+10:22
+asking them about your job isn't really
+10:24
+going to help you yes and no questions
+10:27
+it's not really that helpful for you you
+10:29
+want them to explain and give you as
+10:32
+many concrete and real examples as
+10:35
+possible so just simply asking yes no
+10:36
+questions is not ideal here and four
+10:39
+um how would would a better product X
+10:42
+look like to you how would a better
+10:44
+Carbon emission counting software look
+10:46
+like to you uh many of the people aren't
+10:48
+product developers they're not software
+10:49
+Engineers they're not designers they're
+10:51
+not product managers this is not their
+10:53
+job their job is to do a different job
+10:55
+and you are the one trying to understand
+10:58
+what is the challenging part about their
+11:00
+job
+11:01
+and finally
+11:03
+um asking two questions at the same time
+11:05
+that's going to confuse them it's going
+11:06
+to confuse your answers so this is when
+11:09
+you're eager to get um get answers it's
+11:11
+very easy to do this this thing but try
+11:13
+to avoid it but I want to highlight one
+11:15
+of the things I mentioned here there's
+11:16
+one big danger during interviews and
+11:18
+that is to focus on features instead of
+11:19
+problems
+11:20
+it's very natural for you to do that
+11:22
+your bra your brain is thinking through
+11:24
+all the ways you're going to solve this
+11:26
+problem
+11:27
+but really what you're here for during
+11:28
+this interview is to deeply understand
+11:30
+the problems not actually come up with
+11:32
+Solutions that's for for us for a
+11:35
+separate event so users generally have
+11:38
+good problems but also generally bad
+11:40
+Solutions so I'll give you two specific
+11:42
+examples so early days of Gmail users
+11:45
+were asking
+11:46
+um Paul Buchheit the founder of Gmail to
+11:49
+view both the Inbox and the actual email
+11:52
+that they were reading on the same
+11:53
+screen now why would they ask for that
+11:55
+well the reason was simply that Gmail is
+11:57
+too slow and people did not want to wait
+11:59
+to load each of the emails in the inbox
+12:01
+they want to see everything at the same
+12:02
+time similarly in early Airbnb a lot of
+12:05
+guests want to have the phone numbers of
+12:07
+the host so they can call them we're
+12:09
+like why do you need that it just turned
+12:12
+out that they didn't fully trust the
+12:13
+platform like we had not displayed
+12:15
+enough trust in Airbnb so they needed to
+12:18
+feel comfortable uh with getting to know
+12:19
+the host before it actually
+12:21
+um making the booking secondly
+12:23
+um users don't
+12:25
+have incentive to say no to really any
+12:28
+additional features if you ask for this
+12:29
+feature or this feature this feature
+12:30
+they'll probably say yes to everything
+12:32
+right you however are in charge of the
+12:34
+projectations and you have a lot more
+12:36
+incentives than they have to figure out
+12:38
+which are the most important of the
+12:41
+features so let's talk about next steps
+12:43
+so you've done your um five or ten of
+12:45
+these user interviews you've written
+12:47
+down your notes let's let's talk about
+12:49
+what you do then one you want to make
+12:51
+sure you have notes from all each of the
+12:52
+interviews you can use sticky notes or
+12:54
+some similar software to organize these
+12:56
+learnings you can bucket them in
+12:58
+different buckets that kind of describes
+13:00
+different problems and see which one is
+13:01
+actually the thing that matters the most
+13:03
+and then you want to write down your
+13:04
+conclusions what are you learning from
+13:06
+all of this you want to use all of this
+13:08
+information to create a hypothesis or
+13:10
+what the solution to this problem might
+13:11
+be don't over intellectualize this
+13:13
+process really you just want to start
+13:14
+assigning MVP as fast as you can but you
+13:16
+want to make sure you have accurate
+13:17
+information when you decide the MEP and
+13:20
+then you'll want to test it with the
+13:21
+same users it's also important to know
+13:22
+if the problem you're solving is
+13:24
+actually valuable what I mean by this is
+13:26
+that people will value the solution to
+13:29
+the problem enough to pay for it or the
+13:31
+problem itself solving the problem is
+13:33
+valuable so here's some good tips to
+13:35
+determine if it is one are people paying
+13:37
+money for other Solutions in the space
+13:39
+today are the people that make the PDF
+13:41
+reports for carbon emissions accounting
+13:42
+are they getting paid well if they are
+13:44
+getting paid that's a good sign that
+13:45
+this is probably a valuable thing do
+13:47
+people already have solutions to this
+13:48
+problem they are very happy with even
+13:50
+though it might appear Basics to you for
+13:52
+example like Excel or Google
+13:54
+spreadsheets is actually competitors to
+13:56
+many many many hundreds of startups
+13:58
+actually quite a formidable one to move
+13:59
+someone off Excel a Google spreadsheet
+14:01
+you need to make the experience of your
+14:03
+solution dramatically better they're not
+14:05
+going to pay you hundreds of dollars a
+14:06
+month for something they can almost as
+14:08
+easily do in Google spreadsheet or Excel
+14:10
+and three you want to evaluate how easy
+14:12
+it is to sell to this audience and this
+14:14
+is one thing that I like to do a lot
+14:16
+with the companies I work with for
+14:17
+example selling to Plumbers or
+14:19
+contractors is notoriously difficult
+14:21
+compared to selling to startups the
+14:22
+first two groups just don't change their
+14:24
+tools or the software very often versus
+14:27
+startups are open to trying new things
+14:29
+all the time so if you are solving a
+14:32
+problem is valuable you still have to
+14:33
+think about whether it's going to be
+14:35
+easy to sell this particular audience
+14:36
+once you have an MVP prototype you can
+MVP prototype session interviews
+14:39
+start by showing it to users even if
+14:41
+it's just a design prototype in Envision
+14:43
+or something like that you can just
+14:44
+click through we used to do this at MB
+14:46
+all the time we would go downstairs in
+14:48
+our in our office and we would find some
+14:50
+people that were waiting for an
+14:52
+interview or waiting for getting a
+14:54
+coffee or something and we just show
+14:55
+them the latest version of the app this
+14:57
+would be a Envision prototype on our
+14:59
+phone it would be Spike hand them our
+15:01
+phone and and show it to them this is
+15:03
+stuff that we haven't even built yet the
+15:05
+key thing but if you're doing this
+15:06
+tactic is to not tell them what to do do
+15:11
+not tell them what to do just watch them
+15:12
+play around with it you can tell them a
+15:14
+specific goal like try to make a book in
+15:16
+Airbnb or try to do a search with dates
+15:19
+and even b or something like that but do
+15:21
+not tell them exactly how to solve each
+15:23
+screen remember if this was a real
+15:25
+product you wouldn't you wouldn't be
+15:26
+standing there next to them to give them
+15:27
+advice another good trick when you're
+15:29
+doing this either when you're listening
+15:31
+or having them or recording them is to
+15:34
+have them speak their mind while they're
+15:35
+doing it have them describe exactly what
+15:37
+they're thinking on each of the steps
+15:39
+maybe the words that they're reading
+15:41
+maybe that will give you hints of what
+15:42
+words that they understand and which
+15:44
+words they don't understand or maybe
+15:45
+what specific screen means or what
+15:47
+purpose is and after you've done a bunch
+15:49
+of these interviews and then maybe MVP
+15:52
+protest sessions it's a great idea to
+15:54
+keep these interviewees involved
+15:56
+throughout the process
+15:57
+one common idea that a lot of wasting
+15:59
+companies are using is to create a slack
+16:01
+instance or a WhatsApp group for with
+16:03
+their customers now you want to make
+16:05
+them feel special right you want to make
+16:07
+them feel like they have exclusive
+16:08
+active access to the Future world
+16:11
+changing product so think about how
+16:13
+you're wording or or how you communicate
+16:16
+this WhatsApp group that you adding them
+16:18
+to it's a great idea to keep showing
+16:19
+them your product as they are
+16:21
+progressing like kind of give them this
+16:23
+exclusive feeling that I'm the first one
+16:24
+to see this product assets progressing
+16:27
+and also as you are
+16:30
+reacting to things that they're saying
+16:32
+you can ship a new a new screen with a
+16:34
+new version of the product
+16:36
+um and that builds trust with it with
+16:38
+them they now know that you react to
+16:40
+their feedback very fast finally some of
+16:42
+them will love connecting with other
+16:44
+people doing the same thing as they are
+16:46
+they don't get to do this very often and
+16:49
+um you are the one enabling that if you
+16:51
+do all these steps you will collect the
+16:53
+right information
+16:54
+um from your future users you will keep
+16:56
+them involved and transfer the
+16:59
+information uh and that allow you to
+17:01
+transfer the information into your first
+17:02
+prototype and MVP so to summarize here's
+Summary
+17:05
+what I covered today why the best
+17:07
+Founders talk to their users throughout
+17:08
+the lifetime of the company
+17:10
+how to find your users and how to talk
+17:12
+to them
+17:13
+what questions to ask them and what not
+17:15
+to ask them and finally how to turn some
+17:17
+of those conclusions into an MVP thank
+17:20
+you everyone
+17:21
+[Music]

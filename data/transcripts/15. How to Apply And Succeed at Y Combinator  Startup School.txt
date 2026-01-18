@@ -1,0 +1,1461 @@
+---
+How to Apply And Succeed at Y Combinator  Startup School
+
+YC Group Partner Dalton Caldwell shares his strategies for how to think about applying to YC. This talk goes beyond the information on YC's website, and reflects Dalton's latest advice on the topic. (Fun Fact: An earlier version of this talk is frequently mentioned by YC founders as instrumental in their decision to apply to YC and to getting in!)
+---
+Intro
+0:01
+[Music]
+0:08
+hey everybody this is Dalton I am
+0:11
+excited to talk to you today topic of
+0:13
+today's talk is how to apply and succeed
+0:16
+at y a combinator so to begin with let's
+Why It's Worth Applying to YC
+0:18
+talk about why it's worth applying to Y
+0:20
+combinator it's a good idea to sit down
+0:22
+and think about your startup this is
+0:24
+Evergreen advice regardless of IC and so
+0:27
+going through and answering the
+0:28
+application questions
+0:30
+um to organize and clarify your thinking
+0:31
+super helpful right go look at the
+0:34
+questions
+0:35
+um it'll help you think about your own
+0:36
+business and maybe find some edge cases
+0:38
+and so I think that's worth doing for
+0:40
+everybody in addition if you're sitting
+0:42
+there watching this presentation the
+0:45
+odds uh that YC is good fit for you is
+0:47
+pretty good and then let's talk about
+0:49
+the cost benefit analysis of applying to
+0:51
+YC we very intentionally designed the
+0:54
+application to be fast and easy to fill
+0:57
+out and so the the downside is you apply
+1:01
+and you don't don't get in but you only
+1:03
+spend a tiny bit of time doing it versus
+1:05
+the potential upside being very big man
+1:07
+that's that's a pretty good trade-off
+1:08
+and so those are all some reasons why
+1:10
+it's worth applying to YC I want to talk
+Creating Luck
+1:12
+about luck a little bit um I've spoken
+1:14
+about this in past YC talks and I've
+1:16
+noticed a lot of applicants that have
+1:18
+gotten into YC referenced this talk that
+1:20
+I gave years ago so I want to remind you
+1:21
+all of kind of My Philosophy about
+1:23
+creating luck certain people are luckier
+1:26
+than others but one of the ways you can
+1:28
+create luck and become luckier is to put
+1:30
+yourself out there more to create this
+1:33
+luck you need to take risks
+1:35
+you can systematically put yourself out
+1:38
+there
+1:39
+to be in situations where good things
+1:41
+can happen to you or surprising upside
+1:43
+things can happen to you on the flip
+1:45
+side if you avoid situations where you
+1:47
+face rejection like applying to YC
+1:49
+you're reducing the surface area to get
+1:52
+lucky and so I think this is pretty good
+1:55
+Evergreen advice regardless of what
+1:57
+you're doing which is if you're looking
+1:59
+for a startup idea if you're trying to
+2:00
+learn how to do sales if you're trying
+2:02
+to recruit great employees you want to
+2:04
+put yourself out there and take risks
+2:07
+you want to try a lot of different stuff
+2:08
+and the more you can develop this luck
+2:10
+creation skill the better and deciding
+2:13
+to apply apply to YC itself is a way to
+2:15
+great luck I also want to go through a
+Weird Reasons Not to Apply to YC
+2:17
+lot of the weird reasons people come up
+2:20
+with not to apply to IC again I've
+2:22
+talked to lots of Founders and so these
+2:23
+are all coming
+2:24
+um from many conversations I've had in
+2:26
+person with folks first off I am too
+I Am Too Early
+2:29
+early this is a very common one if you
+2:31
+look at the history of great YC
+2:33
+companies that have gotten in many of
+2:34
+them
+2:36
+pivoted after they got in and so if
+2:37
+that's not too early I don't know what
+2:39
+is many folks haven't quit their job
+2:41
+they get into YC they haven't written
+2:43
+any code
+2:44
+um there's there's honestly no such
+2:46
+thing as too early
+2:48
+um and so I would not count that as a
+2:50
+valid reason next I am too far along the
+2:53
+flip side of I'm too early
+2:55
+um this one we hear a lot again it's
+2:57
+it's pretty funny because we have folks
+2:59
+that get into YC that have I don't know
+3:01
+half a million dollars in annual
+3:02
+recurring Revenue also a common one here
+3:05
+these days is oh I'm too far along
+3:06
+because I've already raised some money
+3:07
+we have folks that apply and get
+3:09
+accepted to YC that have raised
+3:11
+literally a million dollars
+3:13
+um often more depending on uh their
+3:16
+specific situation and so if you don't
+3:19
+have product Market fit as per the other
+3:21
+talks you've heard here there's a good
+3:23
+chance that you are not too far along
+3:24
+from YC and much of the help we can give
+3:27
+you is to kind of zero in on and focus
+3:30
+on finding product Market fit all right
+3:32
+and so I wouldn't say to yourself well
+3:33
+I'm too far along for YC
+3:35
+um I doubt it next this is kind of a new
+Being a YC founder is different than watching YC YouTube videos
+3:37
+one a lot of folks have seen our videos
+3:39
+like this one and they think this is
+3:41
+like a reasonable approximation of being
+3:43
+an NYC that is not the case so let me
+3:46
+just run through a few of these uh
+3:48
+reasons why being a real YC founder is
+3:51
+different than watching these videos
+3:53
+first off we are real people believe it
+3:56
+or not yeah
+3:57
+um and by being in the batch you get our
+3:59
+full attention you get real-time access
+4:01
+to us we text with people all the time
+4:03
+and you get to know us in person very
+4:05
+different experience and so you get
+4:07
+these one-on-one office hours with your
+4:08
+group Partners folks like me and I'll
+4:11
+tell you a secret there's tons of
+4:12
+Secrets we tell you that we would never
+4:15
+say on the internet we have to be you
+4:18
+know we're careful about what things we
+4:19
+say in this format and there's a whole
+4:21
+breadth and depth of knowledge that you
+4:23
+will only hear if you're NYC in addition
+4:25
+there's a bunch of internal tools for
+4:27
+Founders inside of YC work at a startup
+4:29
+all of our proprietary fundraising data
+4:31
+and tools our series a fundraising tools
+4:35
+etc etc so so there's lots of stuff that
+4:37
+go on behind the scenes it could not be
+4:39
+more different than watching some videos
+4:40
+on the internet another one that comes
+How to Stop Being Discouraged From Applying to YC
+4:42
+up a lot is a potential applicant is
+4:45
+discouraged by someone in their life
+4:46
+someone is trying to play the role of
+4:48
+gatekeeper and that person is saying oh
+4:50
+don't apply to YC you know and then
+4:52
+there's a there's a few different
+4:53
+reasons why they may say that you could
+4:55
+ask someone that's saying oh don't apply
+4:57
+to IC some of these questions hey so
+4:59
+you're saying I shouldn't spend a few
+5:01
+minutes filling out this application and
+5:02
+applying to maybe getting in and I get
+5:04
+half a million dollars up front and so
+5:06
+if it's an investor discouraging you you
+5:08
+should ask the investor oh so are you
+5:10
+going to invest on what terms are you
+5:12
+going to invest this is again this is a
+5:14
+tip for you because if the investor is
+5:16
+not willing to invest themselves they're
+5:17
+simply saying they don't want to see you
+5:19
+raise but they themselves are not going
+5:21
+to invest you can call them out on that
+5:23
+next sometimes folks are in some Market
+5:27
+or some City or somewhere
+5:29
+um and there's there's folks saying you
+5:32
+know stay small stay in this country
+5:33
+stay in the city don't think of this on
+5:35
+a global scale YC's too big it's too far
+5:38
+away and again I we fund people from all
+5:41
+over the world from every city from
+5:43
+every country and you want to ask them
+5:45
+if if they're discouraging you from
+5:47
+actually dreaming as big as you can
+5:48
+dream because sometimes they are and I
+5:51
+don't think that's great and then
+5:52
+finally sometimes folks uh suggest not
+5:54
+applying because some other theoretical
+5:56
+thing might happen like maybe you'll do
+5:58
+this maybe you'll raise a series a maybe
+5:59
+you'll raise a seed round and again I
+6:02
+want you to think about asking the
+6:03
+person
+6:04
+are you discouraging me from seizing an
+6:06
+opportunity right in front of me for
+6:08
+some theoretical thing that might happen
+6:11
+and I think you'll you'll kind of see
+6:12
+where they're coming from so anyway I
+6:14
+think these are questions you can ask
+6:15
+someone that's discouraging you from
+6:17
+applying to YC and again maybe they'll
+6:19
+have something good to say maybe they'll
+6:20
+want to invest I don't know next up a
+Other Reasons Why People Don't Apply to YC
+6:22
+few other reasons people sometimes don't
+6:23
+apply one they think their company is
+6:25
+too different or unique for YC to
+6:27
+understand again if you look at our top
+6:29
+companies list you'll see we fund
+6:31
+companies in every vertical from every
+6:32
+country and so again I I doubt it
+6:35
+sometimes people are based on a location
+6:37
+and they're not sure if we fund people
+6:39
+in that location I assure you we do if
+6:43
+you look at all the countries
+6:44
+um for companies we fund we fund them
+6:46
+all over
+6:47
+sometimes people are worried that we
+6:48
+funded a startup in the same space it's
+6:50
+pretty common especially if it's a great
+6:52
+startup idea to have multiple companies
+6:54
+in the same space and so we don't hold
+6:56
+that against someone okay and then
+6:58
+finally people that have applied before
+7:01
+um are upset about it and don't want to
+7:03
+apply again because they fell they feel
+7:05
+upset about not applying again I we're
+7:07
+going to talk about this more later but
+7:09
+I can't stress enough that it's actually
+7:10
+a plus to have applied multiple times
+7:14
+um and not a negative and so look don't
+7:15
+let that hold you back I think my last
+Don't Overthink
+7:17
+point on this section is is a simple
+7:19
+piece of advice don't overthink this
+7:21
+just like anything with your startup
+7:23
+don't overthink the decisions if
+7:25
+something seems like it might be a good
+7:26
+idea give it a shot it's as simple as
+7:28
+that and we see a lot of people with
+7:29
+these really complex ideas about the
+7:31
+best time to apply to YC or when to
+7:33
+apply to yce or what startup ideas to
+7:35
+apply to IC with you know don't
+7:36
+overthink this certainly not conducive
+7:39
+with folks we've seen build big
+7:40
+companies and look a lot of the reason
+7:42
+people don't apply to ycee is because
+7:45
+they're pretty confident they won't get
+7:47
+it fair I would just suggest to everyone
+7:51
+get used to doing things that you think
+7:54
+probably won't work and get comfortable
+7:57
+being uncomfortable in this way I think
+7:59
+it's a really good lesson to set
+8:01
+yourself up to do things that are kind
+8:03
+of a long shot and the fact is most of
+8:06
+the folks in the most recent YC batches
+8:08
+are not first-time applicants there's
+8:11
+some folks that applied five times six
+8:13
+times seven times those folks had
+8:14
+persistence they showed character and it
+8:16
+worked for them and so uses just is just
+8:19
+one little lesson on not being afraid of
+8:23
+doing something you think has a
+8:24
+relatively low odds of success here's a
+8:26
+few good reasons not to apply to IC uh
+8:28
+one is you don't want to work on the
+8:30
+company for very long say you want to
+8:32
+just work on it for the summer or six
+8:34
+months and then go get a job okay yeah
+8:36
+you know don't don't apply another one
+8:38
+is if you don't think Venture uh capital
+8:41
+is a good route to take all right that's
+8:43
+fair I mean because because YC investing
+8:45
+is a form of venture capital right and
+8:47
+so if you don't want to pursue that type
+8:49
+of business probably a good reason not
+8:50
+to apply and then also if your business
+8:52
+is not a technology startup say it's
+8:55
+more of a traditional business where
+8:57
+there's no technical component there's
+8:59
+no programming there's no biotechnology
+9:01
+okay that's probably a good reason not
+9:02
+to apply that's not really
+9:04
+um our sweet spot let's shift gears and
+YC's Application Tips
+9:06
+let's talk about the application and let
+9:08
+me give you some tips for your YC
+9:09
+application first off you apply on our
+9:12
+website you don't need permission you
+9:15
+don't need to email us you don't need to
+9:17
+send us a deck you just apply on our
+9:19
+website it really is that simple let me
+9:22
+give you some tips on your application
+9:23
+first fill the whole thing out fill out
+9:26
+the founder biographies a lot of the
+9:28
+worst applications say worse but the
+9:30
+ones that are just not strong the
+9:32
+founders did not take the time to fill
+9:33
+them out okay that's obviously someone
+9:36
+that didn't put much effort in and so
+9:38
+actually fill it out pay attention to
+9:40
+little things like grammar punctuation
+9:42
+capitalization little stuff like that if
+9:45
+you don't if you don't do it certainly
+9:47
+shows to us that you may not be that
+9:48
+serious about applying to YC so do that
+9:50
+stuff make a Founder video that follows
+9:52
+directions we put directions on how to
+9:55
+do the video sometimes people don't
+9:57
+follow the directions for whatever
+9:58
+reason and I just want to give you a
+10:00
+little tip our entire application
+10:02
+process has these detailed instructions
+10:04
+and we definitely take into account if
+10:07
+you follow them in our selection
+10:09
+criteria this is one of the ways to tell
+10:11
+how detail-oriented someone is if they
+10:14
+just follow directions and So Pro tip
+10:16
+read all the stuff follow the directions
+10:18
+we definitely weigh that in our decision
+10:20
+next your written answers should be
+10:22
+clear and concise don't write a novel
+10:26
+more words is not better right you don't
+10:30
+get bonus points for writing something
+10:32
+that's so long we can't scroll down the
+10:33
+screen be clear be concise answer the
+10:36
+question directly let me talk to you
+YC Application Reviewing: The Basics
+10:37
+about what it's like to be on our side
+10:40
+of the table someone that reads
+10:41
+applications and so here are the
+10:43
+questions that I ask myself when I'm
+10:45
+reviewing someone's YC application first
+10:47
+off who are the founders what's their
+10:49
+backstory how do they come together how
+10:51
+do they know each other who on the team
+10:53
+is doing what okay I ask myself that
+10:56
+next what is their idea what are they
+10:58
+working on
+10:59
+um do I understand what they're doing
+11:01
+does it seem interesting have I heard
+11:02
+this before what exactly do they have
+11:05
+today right today at this moment in time
+11:09
+is it built are there users
+11:12
+um I really want to know what the
+11:13
+current state of the union is on the
+11:15
+product
+11:16
+in addition is there any evidence that
+11:18
+people want this they have customers
+11:20
+they have users um are they using their
+11:22
+own product in addition is there
+11:23
+evidence that the founders are serious
+11:25
+and serious in this in this sense is the
+11:28
+following that they really want to do a
+11:30
+startup
+11:31
+right for instance if someone has left
+11:32
+their job to work on this full-time
+11:34
+that's an Evidence of seriousness if
+11:36
+someone has applied multiple times and
+11:38
+every time they apply
+11:39
+they make more progress that's evidence
+11:41
+of seriousness you see what I'm saying
+11:43
+like it's it's trying to get the sense
+11:46
+if they're just throwing in the
+11:47
+application with
+11:49
+for fun or if they really are serious
+11:52
+about doing a startup and then finally
+11:54
+um I look for what's impressive or
+11:55
+unique or special about the application
+11:57
+this could be different things sometimes
+11:58
+the founders are unique sometimes the
+12:01
+traction is unique sometimes the ideas
+12:02
+and idea I've never heard before and so
+12:04
+I really look for something that really
+12:05
+stands out about the application what I
+12:08
+do with this data that I just told you
+12:09
+that I read is an application reader is
+12:11
+I tell myself a little story and so I
+12:14
+might say something again this is all my
+12:16
+head but I might say something like oh
+12:17
+this is the story of two friends we're
+12:19
+both programmers working on
+12:20
+infrastructure at Facebook and they quit
+12:22
+their jobs three months ago to build a
+12:23
+new Cloud hosting company they built a
+12:25
+basic demo and have one first customer
+12:27
+and that customer is using it on this
+12:28
+website and I can go look at the website
+12:30
+and our plan has become the top hosting
+12:32
+company for all react apps great do you
+12:34
+see how that's a story it has characters
+12:35
+it has a beginning it has an end I
+12:37
+understand what's going on
+12:39
+um if I can tell this kind of story
+12:40
+about your company by reading your
+12:41
+application it means it was a good
+12:43
+application on the flip side
+12:45
+weak applications obfuscate everything
+12:49
+and so I as a reader can't tell what's
+12:51
+going on I don't understand what the
+12:53
+idea actually is I don't understand the
+12:55
+back story like why do these people know
+12:57
+each other how do they meet I can't tell
+12:59
+if they built it
+13:01
+I have no idea you know I can't see a
+13:03
+demo maybe it's built I don't know I
+13:05
+can't tell if they have customers they
+13:07
+might have customers but I can't
+13:09
+actually tell and so it's basically
+13:10
+impossible for me to tell a story about
+13:12
+you because I don't even understand the
+13:14
+basics to me this is actually a deep
+13:16
+tourism for all aspects of your startup
+13:18
+which is if I can't even understand
+13:22
+basics of what you're trying to
+13:24
+communicate to me you're not even the
+13:26
+ball in the ballpark of convincing me
+13:28
+right like if I don't even know if I
+13:31
+can't parse what you're trying to say
+13:32
+the odds of you convincing someone is
+13:35
+basically zero and so you want to really
+13:38
+make sure people understand the basics
+13:40
+here's an example that I threw up
+13:42
+there's a company called gitlab it's
+13:43
+publicly traded you can go buy their
+13:44
+stock it's a multi-billion dollar
+13:47
+company this is from their YC
+13:49
+application I just pulled it off to give
+13:51
+you an example of what a clear
+13:52
+description is do you see they're very
+13:54
+concrete about what it is what it does
+13:56
+who uses it they say a hundred thousand
+13:59
+organizations use it they say
+14:00
+programmers Apple use it this is really
+14:02
+well done so me as a reader reading this
+14:04
+Crystal Clear what gitlap is great
+14:07
+application and look they did it in just
+14:09
+a few sentences very well done here is a
+14:11
+fake thing that I wrote because I don't
+14:13
+want to shame anyone
+14:14
+and I I put this together I don't even
+14:17
+know if this is really exaggerated these
+14:19
+are these are the kinds of things I read
+14:20
+in applications sometimes where there
+14:22
+are words here the words say things
+14:24
+there's there's words I recognize but if
+14:27
+you ask me to summarize what these three
+14:30
+or four sentences are and tell a story
+14:32
+about what you do or what it is or how
+14:34
+it's different I would not be able to
+14:35
+tell you this just turns my brain off so
+14:38
+there you go please don't submit stuff
+14:40
+like this
+14:41
+I still don't know what they do I wrote
+14:43
+this and I have no idea what this is
+14:44
+okay let me give you some other tips our
+14:47
+entire system rewards honest people
+14:49
+acting in good faith if there's some
+14:52
+hint somewhere in your application or
+14:54
+elsewhere that you are being misleading
+14:56
+in your answers your application will be
+14:58
+rejected uh we're sympathetic to honest
+15:01
+mistakes but anyone that's doing
+15:03
+intentional obfuscation or
+15:05
+misrepresentation of things in their
+15:07
+application like revenue or traction
+15:09
+your founder background your educational
+15:12
+history you name it that just that's
+15:13
+disqualifying you know it's pretty
+15:15
+common to see people kind of try to
+15:17
+misrepresent revenue or make it look
+15:19
+like it's monthly revenue is really
+15:21
+annual revenue so just don't do things
+15:24
+like this we notice and we really
+15:27
+um don't like it as an application
+15:30
+reader this is like automatic
+15:32
+disqualification okay in addition I want
+15:35
+you all to understand extraordinary
+15:36
+claims on your application require
+15:38
+extraordinary evidence and so if your
+15:40
+claim are hey we have no users cool like
+15:43
+there's not a lot of evidence you would
+15:45
+need to show there but if you want to
+15:47
+argue that some big impressive company
+15:49
+is one of your customers you should be
+15:51
+prepared to back that up or demonstrate
+15:53
+that they are actually one of your
+15:54
+customers shouldn't be a problem in the
+15:56
+case of gitlab it wasn't a problem for
+15:57
+them to demonstrate who their customers
+15:58
+were next a lot of people ask questions
+What Are Your Odds of Getting an Interview at YC?
+16:00
+around what their odds are of getting an
+16:03
+interview at ycee it's very hard to
+16:05
+answer this question but I'm gonna do my
+16:06
+best because it gets asked so much
+16:08
+probably the biggest variable
+16:11
+for if someone is selected for interview
+16:13
+is the quality and quantity of the
+16:16
+technical Talent on the founding team so
+16:19
+if there is a team that's applying or at
+16:21
+least one of the of the founders is it a
+16:24
+skill set level to be hired into a
+16:26
+technical role at a top YC company they
+16:28
+have 5x better odds than teams that
+16:31
+don't and quick note on this internships
+16:33
+are okay so say you're an intern at
+16:35
+stripe or Airbnb or a place like that
+16:38
+okay that counts and so it's very
+16:41
+helpful to have technical Talent on the
+16:42
+founding team and this this includes
+16:44
+biotech hard tech things like that right
+16:46
+this isn't just software but
+16:48
+definitely something we look at and then
+16:50
+as per this talk we did earlier in
+16:52
+startup School dispatch about tar pit
+16:54
+ideas teams where there aren't technical
+16:56
+Founders and they're working on an
+16:58
+unlaunched tarpet idea those folks have
+17:01
+the lowest odds that's a fact how can
+17:02
+you improve your odds of getting an
+17:04
+interview well first off add technical
+17:06
+talent to the team and so this is why we
+17:08
+have co-founder matching there's a
+17:10
+number of folks even in the current
+17:11
+batch that met via co-founder matching
+17:13
+and it works we love it what a great way
+17:15
+to add technical talent to your team
+17:16
+hooray quick note on this the entire YC
+17:21
+model
+17:22
+was built to not require networking we
+17:25
+don't want warm intros we don't want
+17:27
+pitch decks we don't want to hop on a
+17:30
+quick call that is not how YC Works in
+17:33
+our funding decisions we built a system
+17:35
+that is optimized for funding complete
+17:38
+strangers that fill out a form on our
+17:40
+website there's no tricks here it really
+17:43
+is that simple and if you ask alumni the
+17:45
+folks that I found are complete
+17:47
+strangers that I have not met before so
+17:49
+beware of folks out in the world that
+17:51
+claim they can help you get into YC they
+17:53
+claim they're connected with some other
+17:55
+investors and they want something they
+17:57
+want Equity they want money they're
+17:59
+basically scammers and so you should be
+18:01
+aware that there's lots of folks out
+18:03
+there in startup ecosystems that kind of
+18:05
+victimize aspiring Founders giving these
+18:08
+kinds of people Equity or whatever in
+18:10
+your company does not help you get into
+18:11
+YC I'm sorry let's talk about the
+How to Prepare for Your YC Interview
+18:13
+interview let me give you some interview
+18:15
+tips and preparation how do YC
+18:17
+interviews work if you're selected for
+18:19
+interviews after applying there's just a
+18:21
+10 minute Zoom call with us we expect
+18:24
+all the founders on your side to be
+18:25
+there there's usually two to four folks
+18:28
+from YC on the call on our side
+18:30
+and you should assume during the
+18:31
+interview that we have the application
+18:33
+that you applied with open on our screen
+18:35
+and we're looking at your application
+18:36
+while we're asking you questions or
+18:38
+taking notes all right this is how this
+18:40
+is how our workflow works on our side
+18:42
+now the first thing to understand is
+18:44
+that interviewers are trained to ask
+18:46
+basic questions help us understand your
+18:49
+startup these are not trick questions
+18:51
+these are basic simple questions and
+18:54
+these questions are highly context
+18:56
+dependent some folks over prepare for
+19:00
+interviews in a way that is not relevant
+19:02
+to them and they're surprised by the
+19:04
+questions we ask you you shouldn't be
+19:06
+surprised so for example if you are
+19:08
+pre-launch we often ask questions that
+19:11
+are relevant to a pre-launch company
+19:12
+when are you going to launch things like
+19:15
+that if you are in a regulated space say
+19:17
+fintech or insurance or things like that
+19:19
+we're going to ask you questions related
+19:21
+to your regulatory strategy if you're in
+19:23
+a space where there's many competitors
+19:25
+we're going to ask you about your
+19:26
+differentiation these are all very basic
+19:28
+questions and so I'd encourage you to
+19:30
+walk into the interview with an open
+19:32
+mind and expect to begin the interview
+19:34
+answering these basic questions and
+19:37
+hopefully this will turn into a quick
+19:39
+conversation about different topics once
+19:41
+we understand the basics for our initial
+19:43
+questions probably the biggest mistake I
+19:45
+see in folks preparing for their YC
+19:48
+interview is to treat it like an
+19:49
+adversarial process they treat it like I
+19:52
+don't know applying to college or I
+19:55
+don't I don't know how to explain it but
+19:56
+they you know we're we're like the other
+19:58
+team and their job is to like work
+20:00
+against us and there's a lot of YC
+20:03
+interview devices out there that I think
+20:05
+is pretty bad because it treats us as an
+20:07
+adversarial process and like let me make
+20:09
+something super clear to you the people
+20:11
+on our side of the zoom call when you
+20:13
+interview are likely the people that are
+20:15
+going to be working with your company if
+20:18
+you're accepted if you act
+20:20
+weird to them or mean to them or
+20:22
+adversarial to them that is completely
+20:25
+going to backfire on you because these
+20:27
+are the folks you're going to be working
+20:28
+with and the fact is interview is ask
+20:30
+themselves this question do I believe I
+20:33
+can have a productive productive working
+20:35
+relationship with these Founders okay so
+20:37
+to give you some examples Founders that
+20:39
+recite memorize speeches where they have
+20:42
+some memorized paragraph they just shout
+20:43
+at us oh man do we not like that uh
+20:46
+Founders that don't listen to the
+20:47
+question were asked and they did all
+20:49
+this preparation so they think they know
+20:51
+what we're going to ask and they recite
+20:52
+back some thing man do we not like that
+20:55
+and then finally Founders that seem to
+20:56
+be stretching the truth right like if we
+20:58
+ask very simple questions and we get the
+21:00
+sense that you're trying to fool us or
+21:02
+lie to us that's going to get you low
+21:05
+scores right because we're the people
+21:06
+you're going to be working with and um
+21:08
+if you don't seem trustworthy that
+21:11
+factors in okay so when you're preparing
+21:13
+for this remember this stuff in terms of
+21:15
+preparing for the interview most of the
+21:17
+folks that get into YC uh read the
+21:20
+instructions provide a lot of
+21:21
+instructions we also have official
+21:23
+videos like this particular video is an
+21:25
+official video put up by YC some folks
+21:27
+do extra interview practice uh with
+21:30
+other folks which can be helpful if it
+21:33
+helps you build confidence so that in
+21:35
+the moment you're not super nervous but
+21:37
+I just want to know it can backfire if
+21:39
+you train yourself if you do too much
+21:41
+preparation and you just give us
+21:44
+nonsense robotic answers so if you've
+21:46
+done so much interview preparation that
+21:48
+every time we ask a question you
+21:50
+immediately spout off some memorized
+21:52
+answer that will frustrate us and again
+21:54
+watch out for being coached by people
+21:58
+to be intentionally confusing or
+22:00
+misleading about what your company does
+22:02
+what the market is what your revenue is
+22:04
+we've heard a lot of horror stories out
+22:06
+there of someone being coached in an
+22:09
+interview preparation
+22:11
+basically try to fool us and that's not
+22:15
+helpful be thoughtful about what you say
+22:17
+and don't take anyone's advice too
+22:19
+seriously especially if it's not advice
+22:21
+that we're putting out ourselves okay so
+What Makes a Successful Interview at YC?
+22:23
+let's talk about a successful interview
+22:24
+someone that gets into YC a good
+22:26
+interview is one where all the basic
+22:28
+questions that we ask are answered well
+22:31
+in a good interview the founders can
+22:33
+demonstrate a Mastery of their own
+22:34
+business they understand their own
+22:36
+numbers they understand the risks they
+22:38
+have a crisp idea on what to work on
+22:40
+next they have a really fleshed out view
+22:42
+of the whole business in our opinion the
+22:44
+founders are credible they're honest
+22:47
+they're self-aware about what the real
+22:49
+challenges are right like they're not in
+22:51
+denial about this but they still are
+22:53
+confident when they are speaking about
+22:54
+their business and then finally we
+22:56
+successful interviewees are
+22:58
+know how to be themselves and I know
+23:00
+this is like annoying when people like
+23:01
+Oh Be Yourself what does that mean let
+23:03
+me explain what I mean by be yourself it
+23:05
+means we want you to show up in an
+23:06
+authentic way
+23:08
+and not act like you're on a Shark Tank
+23:11
+Episode or a pitch competition there's
+23:13
+few things more Awkward for us on the
+23:15
+other side of the table when we you know
+23:17
+we get on a call and we want to talk to
+23:18
+you and you're like hello people we are
+23:20
+here to tell you about Urban oh man that
+23:23
+really
+23:24
+is rough on us the interviewers and so
+23:27
+try to just be natural and try to have a
+23:29
+good conversation and remember we're
+23:30
+people that want to see you succeed or
+23:32
+people that are looking for folks who
+23:33
+are excited to work with try to show who
+23:36
+your real self is for us to get excited
+23:37
+about working with if someone interviews
+Post Interview Feedback
+23:39
+YC and they are not selected we send you
+23:41
+an email it has some quick feedback we
+23:43
+do our best to make it actionable and uh
+23:46
+focused on the most important factors in
+23:48
+our decision internalizing this feedback
+23:50
+and demonstrating that you've addressed
+23:52
+it in a future application is heavily
+23:55
+weighted in your favor you see what I'm
+23:57
+saying for folks that apply and don't
+23:58
+get in and then they address the
+23:59
+feedback from the interviewers the next
+24:01
+time they apply wow does that help we
+24:03
+really keep track of this stuff I
+24:04
+promise we do and for folks that really
+24:06
+internalize it and address the feedback
+24:08
+that helps in closing
+24:11
+um applying to Y combinator is simple
+24:13
+it's well documented it's a pretty good
+24:16
+bet in that
+24:17
+applying to IC is a tiny time commitment
+24:20
+with uncapped upside that could change
+24:22
+everything for you and your startup so
+24:25
+it's high Roi and then I just want to
+24:27
+encourage everyone out there to nurture
+24:29
+this mentality of creating luck which
+24:31
+means putting yourself out there over
+24:33
+and over and over again bring this to
+24:35
+all aspects of your startups because
+24:37
+it's a great lesson that's it thanks so
+Outro
+24:39
+much everybody
+24:42
+[Music]

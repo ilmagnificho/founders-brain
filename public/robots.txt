@@ -1,0 +1,11 @@
+# FoundersBrain Robots.txt
+# https://foundersbrain.ai
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://foundersbrain.ai/sitemap.xml
+
+# Disallow admin/api routes
+Disallow: /api/

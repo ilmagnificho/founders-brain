@@ -1,0 +1,963 @@
+---
+video_id: wH3TKpALlw4
+
+Starting A Company The Key Terms You Should Know  Startup School
+
+Burn rate, MVP, TAM — if you’re interested in tech and startups, you probably hear terms like these regularly. But what do they really mean? In this episode of Startup School, Managing Partner Dalton Caldwell breaks down some of the most common terminology that you’ll come across in the startup world.
+---
+Intro
+0:01
+[Music]
+0:09
+hi there my name is Dalton I'm a
+0:10
+managing partner at ycombinator and I'd
+0:13
+like to talk to you about some startup
+0:15
+terminology today all right so I'm going
+0:17
+to go through some terms that are common
+0:19
+in uh in startup land and give you some
+0:22
+more details and Define it okay let's
+0:24
+talk about the term MVP or minimum
+0:27
+viable product so let's be specific the
+0:29
+keyword here is viable a product that
+MVP
+0:33
+doesn't work at all and is useless to
+0:35
+everyone is not viable and so when
+0:38
+you're thinking about what is an MVP or
+0:40
+how should I build my MVP it has to be
+0:42
+useful enough to serve some kind of
+0:44
+purpose for the customer again that's
+0:46
+that viable word and so it doesn't just
+0:48
+mean uh a simple product that you built
+0:51
+uh that doesn't do anything it's got to
+0:53
+be useful to someone for it to be viable
+0:55
+and so remember this next time you're
+0:57
+thinking about what should go in an MVP
+0:59
+the next term I'd like to talk about is
+1:01
+the term Venture Capital sometimes the
+1:04
+people that work in the Venture Capital
+VCs and Angels
+1:05
+industry are referred to as
+1:08
+VCS uh the way Venture Capital works is
+1:10
+they invest a small amount of uh money
+1:13
+uh to buy equity in startup companies
+1:16
+with the hope that enough of those
+1:18
+companies become very large to return
+1:20
+minold the original investment that they
+1:22
+made they're also comfortable taking
+1:24
+more risk than you would take in a
+1:26
+traditional investment it's often the
+1:28
+case that the majority of a venture
+1:30
+Capital portfolio does not succeed but
+1:32
+the investments in the really big
+1:34
+successful companies uh pay for
+1:36
+everything so for instance imagine you
+1:38
+were an early investor in a company like
+1:40
+Google or Apple or Facebook that small
+1:43
+investment ended up being worth so much
+1:45
+um it was worth taking the risk when
+1:47
+those were tiny unprofitable companies
+1:50
+and so the way to think about venture
+1:51
+capital is it's an industry that's
+1:53
+looking for businesses that may be risky
+1:56
+but could be very huge if they're
+1:58
+successful is I understand the original
+2:01
+uh Venture Capital was in the whaling
+2:03
+industry the way it worked is when
+2:04
+people uh would go out to to hunt whales
+2:08
+a lot of times the ventures would fail
+2:10
+um and so the people that needed money
+2:12
+to start a ship needed to raise money
+2:14
+from investors the way they did a
+2:16
+portfolio was they would they would
+2:18
+invest in multiple ships in the hope
+2:19
+that if one of them was successful in
+2:21
+capturing the whale it would pay for all
+2:23
+the failed Expeditions I'd like to
+2:25
+Define what an angel investor is uh no
+2:28
+that's not someone that is angelic it's
+2:30
+a type of venture capital investor that
+2:32
+is investing usually their own personal
+2:35
+money not out of a VC fund and they tend
+2:38
+to be the earliest stage investor in a
+2:41
+company they also tend to write smaller
+2:43
+checks say $20,000 or $50,000 or
+2:46
+something like that and they tend to do
+2:48
+it not as a full-time job it'll be a
+2:50
+hobby or a side project uh they might be
+2:53
+running a company they might be retired
+2:55
+there's no qualification to be an angel
+2:57
+investor it's usually just someone that
+2:59
+has money and so you'll see just a wide
+3:02
+a wide type of people that do this and
+3:03
+the thing they have in common is they
+3:05
+just writing personal checks into into
+3:08
+small startups and they're doing it um
+3:10
+not as a full-time job so that's that's
+3:12
+the best definition of an angel investor
+3:14
+okay another term in startups that I'd
+3:17
+like to Define is profitability and look
+3:19
+there's some pretty obvious definitions
+Profit and Burn
+3:21
+of profitability which is just you make
+3:22
+more money every month then you spend
+3:24
+and that's a pretty good definition but
+3:26
+to add a little bit more to it it's good
+3:28
+to think about if a business as it grows
+3:32
+bigger and bigger either has stable
+3:35
+profit margins or if the profit margins
+3:38
+uh increase or decrease it's common to
+3:40
+have a startup that at a very small
+3:42
+scale might not be making money but as
+3:45
+it gets bigger and bigger the profit
+3:47
+margins increase it's good to think
+3:49
+about if you're starting a startup or if
+3:50
+you're working at a startup how your
+3:52
+margins I.E the difference between how
+3:54
+much you're making and how much you're
+3:55
+spending change as your company grows
+3:58
+bigger and bigger and what I'd be
+4:00
+looking for is at scale the profit
+4:02
+margins are uh pretty good and there's a
+4:05
+clear way you make more and more money
+4:07
+to give you an example something like
+4:08
+Google Google did not make any revenue
+4:10
+for its first few years of existence um
+4:12
+but the profit margins on online
+4:14
+advertising are very high and so once
+4:16
+Google turned on their monetization
+4:17
+engine they started to make an enormous
+4:19
+amount of money they are very profitable
+4:22
+you can look them up they're publicly
+4:23
+traded and so that's a great example of
+4:25
+a company that initially was not making
+4:28
+money was not profitable
+4:30
+but was able to have an incredibly
+4:32
+attractive business at scale once they
+4:34
+turn on the monetization engine and so
+4:36
+that's the kind of profitability engine
+4:38
+you should be looking for as a startup
+4:39
+founder too next I'd like to talk about
+4:41
+burn rate burn rate is how much money at
+4:46
+the end of the month has uh been burned
+4:49
+by your company or uh how much your bank
+4:51
+account has gone down so hypothetically
+4:54
+if you had a million dollar in the bank
+4:56
+and at the end of the month you had
+4:57
+$900,000 in the bank you're burn rate
+5:00
+would be $100,000 as a startup founder
+5:02
+it is critical to watch your burn rate
+5:05
+you may be making money in some ways you
+5:07
+may have a lot of Topline Revenue but if
+5:09
+you're burning money every month you
+5:11
+might go out of business and so it's
+5:13
+great as a startup founder to think hard
+5:16
+about where the money is going and to
+5:18
+pay careful attention to the bank
+5:19
+account balance and make sure that your
+5:21
+burn rate does not get out of control
+5:23
+not paying attention to this is harmful
+5:24
+to your startup's health next I'd like
+5:26
+to define a seed round there's not a
+5:29
+technical definition of what exactly is
+Seed and Series A, B, C...
+5:31
+or or isn't a seed round so let me give
+5:33
+an example say someone raises $300,000
+5:36
+on a safe you could call that a seed
+5:39
+round say that there's some uh crazy
+5:42
+company that's uh founded by celebrities
+5:44
+and they raise a100 million on a billion
+5:47
+dollar valuation sometimes they refer to
+5:49
+that as a seed round and so because of
+5:51
+this big variability it's sometimes hard
+5:53
+to tell exactly what is and isn't a seed
+5:55
+round U for the sake of argument here's
+5:57
+my suggestion a seed round is usually
+5:59
+the first amount of money that a new
+6:02
+startup raises of any consequence and so
+6:06
+usually when you begin a company and you
+6:08
+raise the first amount of money and you
+6:10
+say okay we're done raising money
+6:11
+whatever amount of money it is that you
+6:13
+raised you would refer to as a seed
+6:15
+round in addition to other fundraising
+6:17
+terms you may have heard of a series A
+6:19
+or a series b or a series C um the
+6:22
+difference between one of those rounds
+6:24
+in a seed round for one it is often the
+6:27
+case but not always that in a series A b
+6:29
+or c a lead investor is involved you
+6:33
+also may be giving a board seat to that
+6:36
+person it's also the case that it
+6:38
+traditionally uh the lead investor gets
+6:40
+a significant ownership percentage so
+6:42
+for instance traditionally in a series a
+6:44
+the lead investor might get something
+6:46
+like a 20% ownership in a seed round
+6:49
+anything goes it could be that it's
+6:52
+entirely composed of 50k checks and
+6:54
+there is no lead investor right it's a
+6:56
+very it's a very wide uh definition but
+6:59
+with a a there's usually one primary
+7:01
+lead investor that leads the series a to
+7:03
+use the terminology and the same thing
+7:05
+goes with series B and C for uh startups
+7:08
+that have been around a while and when
+7:10
+you keep raising a new round you tend to
+7:12
+give it a new name and again
+7:14
+traditionally you just keep incrementing
+7:16
+the letters in the alphabet and so
+7:17
+you'll sometimes see companies that are
+7:19
+like a series e or a series G or a
+7:21
+series H I think I've definitely seen
+7:23
+that before what are the normal
+7:25
+valuations for these I don't know it's a
+7:27
+wide range and so you can't just just
+7:29
+look at what the round letter is you
+7:31
+also want to look at what the valuation
+7:33
+is next I'd like to Define product
+7:35
+Market fit or pmf product Market fit is
+7:37
+something we talk about a lot at Y
+PMF and Bootstrap
+7:39
+combinator and it's one of those terms
+7:41
+where people talk about it so much you
+7:43
+might think you know what it means um
+7:45
+but the actual definition is a little
+7:46
+bit tricky and there's not actually a
+7:48
+scientific explanation of it a good way
+7:50
+to think about product Market fit is
+7:52
+when you've built something and people
+7:54
+are using it and they like it a lot and
+7:57
+your biggest issue is no longer trying
+7:59
+to Define what people want or trying to
+8:02
+make something people want it's to um
+8:05
+start to be in growth mode and serve as
+8:07
+many people as you can okay and so one
+8:10
+way to think about product Market fit
+8:11
+when you're a Founder is that needing to
+8:14
+get more customers is not your biggest
+8:16
+problem you probably have other problems
+8:18
+like scaling or like performance like
+8:21
+sales you have all these other problems
+8:23
+versus most startups when they first
+8:25
+start do not have product Market fit
+8:28
+essentially all of them do not have
+8:30
+product Market fit and what this means
+8:32
+is they may build something they may
+8:34
+have some assumptions about what
+8:35
+customers want but they don't have any
+8:38
+customers or they haven't worked with
+8:40
+enough customers to really figure out if
+8:42
+it's serving their needs properly and so
+8:44
+startups and the pre-product market fit
+8:46
+stage are just spending all their try
+8:48
+time trying to you know test their
+8:50
+assumptions trying to build trying to
+8:52
+design trying to talk to customers to
+8:54
+really zero in on what these customers
+8:56
+want and so from our perspective there's
+8:59
+just a very different set of priorities
+9:01
+when you're pre-product Market Fit
+9:03
+versus post- product Market fit when
+9:05
+you're pre-product Market fit all you
+9:06
+should be worried about is finding
+9:08
+product Market fit when you're post
+9:09
+product Market fit your job is to stay
+9:12
+in that state to keep product Market fit
+9:14
+and to grow and scale to the best of
+9:16
+your ability and so it's good for you as
+9:18
+a Founder to realize that the tactics
+9:20
+and PRI priorities you should have are
+9:22
+very different depending on which of
+9:23
+these two modes you're in I'd like to
+9:25
+define the term bootstrapping
+9:27
+bootstrapping is when you start a
+9:29
+company
+9:30
+and you do not raise any Venture Capital
+9:32
+you just use your own personal funds or
+9:35
+the revenue from the business to get off
+9:37
+the ground so for instance if you were
+9:39
+to start a new company that built an
+9:40
+iPhone app and you didn't raise any
+9:42
+venture capital and you just launched it
+9:44
+on the App Store and starting making
+9:45
+lots of Revenue and built a successful
+9:48
+company you would call that a
+9:49
+bootstrapping situation you would say
+9:51
+you are a bootstrapper because you
+9:53
+didn't raise any money to do it one of
+9:55
+the reasons is a great option is it's
+9:56
+entirely within your control you don't
+9:58
+need the approval if invest to go
+9:59
+bootstrap a company it's also a good
+10:02
+option if you're doing something that is
+10:04
+not traditionally a venture business a
+10:06
+venture scale business um which is
+10:08
+something they could grow really really
+10:09
+big really really fast bootstrapping is
+10:11
+a much much better option for businesses
+10:13
+that you expect to get uh to5 to10
+10:16
+million a year in Revenue something like
+10:18
+that and to probably not grow beyond
+10:20
+that bootstrapping is a great option a
+10:22
+convertible note in the context of
+10:24
+startups is a financial instrument
+Convertible Note and Equity
+10:27
+whereby an investor gives a startup
+10:30
+money and they sign a piece of paper you
+10:32
+should read carefully what this piece of
+10:33
+paper says in the case of a convertible
+10:35
+note it is a debt like instrument there
+10:38
+are usually terms in a convertible note
+10:41
+by which you would pay some amount of
+10:42
+Interest or you might need to pay the
+10:43
+investor back and so it's your job as a
+10:46
+Founder to read the fine print very
+10:48
+carefully an alternative to a
+10:50
+convertible note is something called a
+10:51
+safe note a safe also known as a simple
+10:55
+agreement for future Equity is a
+10:58
+financial instrument that was actually
+10:59
+initially created by y combinator
+11:02
+specifically Carolyn Levy and it is an
+11:05
+alternative to a convertible note if
+11:07
+you're raising as a startup founder and
+11:09
+you are not doing a priced round and
+11:11
+selling preferred Equity a safe is a
+11:14
+great option to quickly close money in a
+11:17
+seed round ahead of when you would raise
+11:20
+a series a at a future date if you're
+11:22
+thinking about whether or not to raise
+11:24
+on a convertible note or a safe I would
+11:26
+encourage you to read carefully the fine
+11:29
+print and understand the pros and cons
+11:31
+of each the advantage of a safe is it's
+11:34
+there's just less terms to worry about
+11:36
+as well as uh different rights SL fewer
+11:40
+rights in a convertible note and so
+11:41
+that's often very useful to Startup
+11:43
+Founders Equity is ownership in a
+11:46
+startup company Equity would refer to
+11:49
+what percentage of that would add up to
+11:51
+100% of the company that a founder or
+11:55
+employee or investor would own if you
+11:57
+work at a startup you may not directly
+11:59
+get Equity you may get stock options
+12:02
+which are basically a right to in the
+12:05
+future execute on the stock options to
+12:08
+receive Equity at that point in the
+12:09
+future and so it's important for you uh
+12:12
+in the fine print as both a Founder a
+12:14
+startup employee or an investor to read
+12:16
+the fine print and understand if you are
+12:18
+getting stock options or if you're
+12:20
+getting Equity directly or if you're
+12:22
+investing in a safe or you're investing
+12:24
+in a convertible node or some other
+12:25
+instrument always read the fine print
+12:27
+and understand exactly what you are
+12:29
+buying buying and selling Tam or total
+12:32
+addressable Market is a term term that
+TAM and Valuation
+12:35
+you would hear a lot um in the land of
+12:37
+startups what it usually refers to is
+12:40
+hypothetically if 100% of the potential
+12:43
+customers of your product all purchase
+12:45
+your product how much money would you be
+12:47
+making no one actually would get to 100%
+12:49
+of their Tam it's more of just a thought
+12:51
+experiment for how big the market could
+12:54
+possibly be so for instance if you were
+12:56
+trying to establish the Tam of something
+12:59
+like a Tesla or a car manufacturer you
+13:02
+would look at how many total cars people
+13:04
+buy across the world and that would be
+13:06
+the total addressable market and you
+13:08
+would make an estimate of how many of
+13:09
+the cars could be sold by Tesla one um
+13:14
+interesting point about Tam calculations
+13:16
+is they can be wrong they can
+13:18
+underestimate how big the market could
+13:19
+be again to give you an example when
+13:21
+Tesla first started the total
+13:22
+addressable market for electric cars was
+13:25
+Tiny and so you had to believe they the
+13:28
+market for electric cars cars would grow
+13:30
+and be so big it would take over and be
+13:32
+effectively the market for all cars for
+13:34
+the Tam to to seem sufficiently big in
+13:37
+addition for a company like uber when
+13:39
+they first started the total addressable
+13:42
+market for taxis or for car services was
+13:44
+quite small but Uber dramatically
+13:47
+increased the size of the market because
+13:49
+they created a better user experience
+13:51
+and they encouraged people to start
+13:53
+taking ride sharing that didn't before
+13:55
+and so this led to the initial Tam
+13:57
+seeming much much smaller than it ended
+13:59
+up being and so think of Tam is sort of
+14:02
+just a a potentially helpful thought
+14:04
+experiment versus something that is set
+14:05
+in stone great products tend to grow The
+14:08
+Tam next I'd like to Define
+14:11
+valuation uh valuation is a term that
+14:13
+people in startup land talk about a lot
+14:16
+um what it usually refers to is what
+14:19
+valuation the last investor invested at
+14:23
+and so say there was a company that
+14:25
+raised $2 million on a $20 million post
+14:29
+money uh safe the valuation would be 20
+14:33
+million the thing about valuation is it
+14:35
+doesn't actually mean there are always
+14:37
+buyers and sellers this doesn't work
+14:39
+like the stock market in the stock
+14:40
+market the stock price is the valuation
+14:43
+and anyone could go and publicly trade
+14:44
+the stock at whatever their current
+14:46
+market price is with startup companies
+14:48
+they are privately held there's not
+14:50
+really a liquid market and so it's best
+14:52
+to think of valuation is just some
+14:55
+measure of how it might be valued by
+14:57
+some folks versus a true measure of how
+15:01
+much that startup uh would be worth if
+15:03
+it were to sell that day or if it were
+15:05
+to go public that day often you might
+15:07
+have noticed that startups with high
+15:08
+valuations uh don't always succeed and
+15:11
+so just think of it as a a helpful term
+15:14
+but not necessarily always accurate next
+IPO and ARR
+15:17
+I'd like to Define an IPO or initial
+15:20
+public offering and an IPO um there is a
+15:23
+company that is privately held I.E it is
+15:26
+owned by its investors or its founders
+15:29
+or its employees and IT issues shares or
+15:32
+it sells shares to the public markets
+15:35
+and the public markets are things like
+15:37
+NASDAQ or the New York Stock Exchange or
+15:39
+other you know public exchanges like
+15:41
+that and anyone in the public that has a
+15:44
+some kind of stock brokerage account can
+15:46
+buy some of those shares the reason IPOs
+15:49
+are important to startups is it's often
+15:52
+a way for their employees or their
+15:54
+Founders or their investors to be able
+15:56
+to realize uh money from from the
+15:59
+companies they have built and it's also
+16:02
+a great um sign that the company is
+16:05
+doing well this isn't always the case
+16:08
+but IPO is the Big Goal that a company
+16:10
+is financially mature that it is growing
+16:13
+well and has built something of enduring
+16:15
+value next I'd like to Define ARR or
+16:19
+annual recurring Revenue you will hear
+16:22
+this term thrown along around all the
+16:24
+time in startup land and let's break it
+16:26
+down annual means every year here
+16:30
+recurring means the customers are either
+16:32
+in some sort of subscription that auto
+16:34
+renews or they've signed contracts that
+16:36
+renew in some way the third R is revenue
+16:39
+which should be obvious that's just
+16:40
+revenue and so the way to think about
+16:42
+this is say you have a company and you
+16:44
+have 10 customers that have each signed
+16:47
+uh yearly contracts for $100,000 a piece
+16:50
+that renew yearly if you have 10 thou
+16:54
+$100,000 contracts that R new yearly
+16:56
+that would be a million dollars of a r r
+17:00
+and so the important thing here if
+17:01
+you're going to use this term is to
+17:03
+understand recurring is important and so
+17:06
+make sure if you're reporting if you're
+17:07
+telling an investor you have ARR make
+17:09
+sure it actually recurs um and it also
+17:11
+is best if it recurs on an annual basis
+17:14
+if you're quoting ARR traditionally if
+17:16
+you're billing people on a monthly basis
+17:18
+you would quote mrr or monthly recurring
+17:21
+revenue and so say it's a subscription
+17:23
+to chat GPT or something like that that
+17:25
+renews monthly you would more commonly
+17:28
+see that Revenue reported as Mr monthly
+17:30
+recurring Revenue versus ARR which is
+17:33
+more traditionally companies that bill
+17:35
+once a year all right that was startup
+17:37
+terminology with Dalton I went through a
+17:39
+number of terms you may have heard
+Outro
+17:41
+before and I'll be sure to Define more
+17:42
+in the future thanks so much
+17:46
+[Music]

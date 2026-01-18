@@ -1,0 +1,28 @@
+{
+    "common": {
+        "appName": "FoundersBrain",
+        "tagline": "YC Startup School 기반 AI 답변",
+        "loading": "로딩 중...",
+        "error": "문제가 발생했습니다"
+    },
+    "chat": {
+        "title": "🧠 FoundersBrain",
+        "subtitle": "YC Startup School 내용을 기반으로 답변합니다",
+        "placeholder": "스타트업에 대해 무엇이든 물어보세요...",
+        "send": "전송",
+        "empty": "질문을 입력하거나 아래 예시를 클릭해보세요",
+        "thinking": "답변 생성 중...",
+        "error": "죄송합니다, 오류가 발생했습니다. 다시 시도해주세요.",
+        "sourcesLabel": "출처",
+        "watchAt": "영상 보기"
+    },
+    "home": {
+        "title": "당신의 AI 창업 어드바이저",
+        "subtitle": "YC Startup School 25시간 이상의 콘텐츠에서 즉시 답변을 받으세요",
+        "cta": "질문 시작하기"
+    },
+    "limits": {
+        "freeQueries": "오늘 남은 무료 질문",
+        "upgradePrompt": "Pro로 업그레이드하여 무제한 질문하세요"
+    }
+}

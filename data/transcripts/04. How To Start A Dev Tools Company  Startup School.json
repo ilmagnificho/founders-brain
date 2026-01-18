@@ -1,0 +1,1288 @@
+{
+  "video_id": "z1aKRhRnVNk",
+  "title": "04. How To Start A Dev Tools Company  Startup School",
+  "url": "https://www.youtube.com/watch?v=z1aKRhRnVNk",
+  "source_origin": "yc_startup_school",
+  "segments": [
+    {
+      "time": "0:09",
+      "text": "Hello, my name is Nicolas Dessaigne and I'm a group partner here at YC."
+    },
+    {
+      "time": "0:14",
+      "text": "Before that, I was the co founder and CEO of Algolia. Algolia is a search API used by millions"
+    },
+    {
+      "time": "0:21",
+      "text": "of developers to build a great search experience in their apps and websites. And it's relevant today because today"
+    },
+    {
+      "time": "0:28",
+      "text": "we are going to speak about dev tools and how to start a dev tools company."
+    },
+    {
+      "time": "0:33",
+      "text": "So here's what we're going to cover. First, we'll discuss about the founding team and how to find your idea."
+    },
+    {
+      "time": "0:40",
+      "text": "Then how to start the company from the prototype to the MVP. And finally, we'll dive into the"
+    },
+    {
+      "time": "0:47",
+      "text": "go-to market, including sales and marketing for dev tools. But first, what is a dev tool?"
+    },
+    {
+      "time": "0:54",
+      "text": "So a dev tool is software that is used by developers to help them build products."
+    },
+    {
+      "time": "1:00",
+      "text": "And that includes a lot of aspects. From coding, testing, debugging,"
+    },
+    {
+      "time": "1:05",
+      "text": "documenting, deploying, running. It's all of the gamut of aspects of their job."
+    },
+    {
+      "time": "1:11",
+      "text": "And it's a broad category then. You can think about IDEs, like VS Code. API, like Stripe, Twilio,"
+    },
+    {
+      "time": "1:19",
+      "text": "or Algolia, my company. Library and frameworks, like React, Node. js, or LangChain."
+    },
+    {
+      "time": "1:25",
+      "text": "Or even infrastructure or cloud services, like AWS or Vercel. And many other tools."
+    },
+    {
+      "time": "1:31",
+      "text": "Docker, Terraform, Datadog, GitHub. You get it, it's very diverse."
+    },
+    {
+      "time": "1:37",
+      "text": "And at YC, we've supported many of these dev tools. Hundreds of them."
+    },
+    {
+      "time": "1:42",
+      "text": "And we already have two public companies. GitLab, the open source GitHub, and"
+    },
+    {
+      "time": "1:47",
+      "text": "PagerDuty, that started as a simple alerting system and now is used"
+    },
+    {
+      "time": "1:52",
+      "text": "by half the Fortune 500 companies. And many others. You probably know about Stripe,"
+    },
+    {
+      "time": "1:58",
+      "text": "Docker, Heroku, Superbase, Segment, Postdoc, Apollo, Airbyte"
+    },
+    {
+      "time": "2:03",
+      "text": "and also Algolia of course. And we've learned a lot from them."
+    },
+    {
+      "time": "2:08",
+      "text": "So let's dive in and start at the founding stage. Well, first you need a founding"
+    },
+    {
+      "time": "2:13",
+      "text": "team, and the key aspect of dev tools is that you are going to build"
+    },
+    {
+      "time": "2:19",
+      "text": "a technical product for developers. Obviously, you need to be a developer yourself."
+    },
+    {
+      "time": "2:24",
+      "text": "Most of our co founding team for dev tools are all developer teams."
+    },
+    {
+      "time": "2:30",
+      "text": "And the great thing about dev tools is that developers are actually using dev tools every day."
+    },
+    {
+      "time": "2:36",
+      "text": "So when you're building a dev tool, you're basically helping yourself in your action of building a product."
+    },
+    {
+      "time": "2:42",
+      "text": "So let's take a step back and chat quickly about what are good and bad dev tool ideas."
+    },
+    {
+      "time": "2:48",
+      "text": "And as a preface, let me start by telling you that with the advent of LLMs and AI in general, it's"
+    },
+    {
+      "time": "2:54",
+      "text": "actually very difficult to know for sure today what's a good or bad idea. The bad ideas, the tar pit ideas of"
+    },
+    {
+      "time": "3:00",
+      "text": "yesterday, could actually be possible to make successful now, thanks to LLMs."
+    },
+    {
+      "time": "3:06",
+      "text": "Some ideas are actually more difficult than others. Developers every day are going to work on things they are actually not going to"
+    },
+    {
+      "time": "3:12",
+      "text": "like, like documentation, QA, testing. And these become obvious ideas"
+    },
+    {
+      "time": "3:17",
+      "text": "for them to fix for others. The problem here is that they are not the only one to think about it,"
+    },
+    {
+      "time": "3:23",
+      "text": "and that creates a lot of noise. And that's why there are so many of these on the market."
+    },
+    {
+      "time": "3:28",
+      "text": "Do you really want to build the next, yet the next QA tool for other developers? Hmm, I don't know."
+    },
+    {
+      "time": "3:34",
+      "text": "Another way to look at it is the difference between build time and runtime ideas."
+    },
+    {
+      "time": "3:39",
+      "text": "So, docs, QA, testing, all of these ideas are build time ideas."
+    },
+    {
+      "time": "3:45",
+      "text": "Things, tools you are going to use when you are building the software. It happens that these ideas"
+    },
+    {
+      "time": "3:50",
+      "text": "are mostly nice to have. You could build your product without them."
+    },
+    {
+      "time": "3:56",
+      "text": "What's more interesting are runtime ideas. Why? Because at runtime, it"
+    },
+    {
+      "time": "4:01",
+      "text": "becomes really critical. It's must have products. If you bet on an API, for example, you"
+    },
+    {
+      "time": "4:08",
+      "text": "cannot run your own product if it's down. That's why it's more critical and it's way better idea for dev tools."
+    },
+    {
+      "time": "4:16",
+      "text": "The other advantage of these runtime ideas is usage because the more your"
+    },
+    {
+      "time": "4:22",
+      "text": "customers are going to grow, usually the more they are going to use your product."
+    },
+    {
+      "time": "4:28",
+      "text": "So your incentives are aligned. Think about Stripe, for example. If their customers sell more"
+    },
+    {
+      "time": "4:33",
+      "text": "product, they make more money. Everyone is happy. Much better idea. Another quick category that I can"
+    },
+    {
+      "time": "4:40",
+      "text": "touch upon is libraries and frameworks. These can be created. It's usually open source."
+    },
+    {
+      "time": "4:46",
+      "text": "But they can also be very challenging to monetize. Think about Pandas, for example."
+    },
+    {
+      "time": "4:52",
+      "text": "Very difficult to make money out of that. The one way you can monetize these ideas is by offering a hosting service."
+    },
+    {
+      "time": "4:59",
+      "text": "Think about Next.js and Vercel, for example. Okay, last point I wanted to touch on"
+    },
+    {
+      "time": "5:05",
+      "text": "this idea, which is the LLM and AI trend. Actually, with this change in the"
+    },
+    {
+      "time": "5:11",
+      "text": "world, there are many new dev tools being created and it's awesome. It's so exciting to work on a dev tool that's going to help"
+    },
+    {
+      "time": "5:17",
+      "text": "these companies building LLMs. But it's also a time where the market is very nascent."
+    },
+    {
+      "time": "5:23",
+      "text": "So an obvious great idea is LLM observability. Well, uh, it's obvious, right?"
+    },
+    {
+      "time": "5:30",
+      "text": "Anyone building with LLMs, they want to know how they are doing. They want to be able to evaluate them."
+    },
+    {
+      "time": "5:35",
+      "text": "Guess what? Many other companies think the same thing. And that's why you have dozens, if not hundreds, of such companies out there."
+    },
+    {
+      "time": "5:42",
+      "text": "It doesn't mean that it's a bad idea, but I think that if you are starting in that space, you need"
+    },
+    {
+      "time": "5:48",
+      "text": "to have a clear idea of how you are going to differentiate yourself. Or are you going to win against"
+    },
+    {
+      "time": "5:54",
+      "text": "all of these competitors? Okay, which leads me to a few mistakes people often do."
+    },
+    {
+      "time": "5:59",
+      "text": "The first one is waiting for the perfect idea. You are going to wait for a very long time."
+    },
+    {
+      "time": "6:06",
+      "text": "Let me go back to these LLM observability ideas. I would actually encourage you, if that's the idea you have, just start."
+    },
+    {
+      "time": "6:12",
+      "text": "That's okay. Even if you don't differentiate yourself right away, that's okay. You learn as you go and eventually"
+    },
+    {
+      "time": "6:19",
+      "text": "you'll be able to pull it off or you'll change your idea. Which leads me to my second mistake,"
+    },
+    {
+      "time": "6:24",
+      "text": "sticking with the wrong idea for too long. You may not realize, but 50% of"
+    },
+    {
+      "time": "6:31",
+      "text": "the companies in YC eventually pivot from their first idea. It's huge."
+    },
+    {
+      "time": "6:37",
+      "text": "And it's also true for dev tools. Finally, last mistake, thinking you need a business founder in the team."
+    },
+    {
+      "time": "6:44",
+      "text": "I know that's what I thought when I created Algolia. We ended up creating Algolia with two tech co founders, but it crossed our mind."
+    },
+    {
+      "time": "6:49",
+      "text": "Hey, we don't know how to sell. We need to hire or to find some other co founder who knows about sales."
+    },
+    {
+      "time": "6:55",
+      "text": "No, it's actually way easier than you think to sell, to learn how to sell your product."
+    },
+    {
+      "time": "7:01",
+      "text": "Actually. We checked the numbers. 74% of YC dev tool companies"
+    },
+    {
+      "time": "7:07",
+      "text": "had only tech co founders. And that's compared to 45% for"
+    },
+    {
+      "time": "7:13",
+      "text": "all of the other companies. Okay, so now that you have a team and an idea, where do you start?"
+    },
+    {
+      "time": "7:19",
+      "text": "Well, there is only two things you have to do. Build and talk with users."
+    },
+    {
+      "time": "7:24",
+      "text": "There is no specific order. You can actually start by talking with users because they are going to help you"
+    },
+    {
+      "time": "7:29",
+      "text": "figure out if your initial idea is good. Or you can start by building a prototype so you can get easier feedback from users."
+    },
+    {
+      "time": "7:36",
+      "text": "Let's speak about that prototype. The most important thing here is not to over engineer it."
+    },
+    {
+      "time": "7:43",
+      "text": "You should do that quick and dirty. And I know that it can be very difficult for some developers out"
+    },
+    {
+      "time": "7:49",
+      "text": "there, especially for experienced engineers who pride themselves on robustness and scalability of their code."
+    },
+    {
+      "time": "7:57",
+      "text": "But the truth is that the most important thing at that stage is to iterate as fast as you can."
+    },
+    {
+      "time": "8:03",
+      "text": "Rule of thumb, I would assume that you'll throw away 90% of all the code you write."
+    },
+    {
+      "time": "8:11",
+      "text": "So your goal at that stage is just to identify the 10% of what you are building that's actually"
+    },
+    {
+      "time": "8:17",
+      "text": "valuable as fast as possible. And then later on, you can refactor this 10% only and avoid wasting a lot of time."
+    },
+    {
+      "time": "8:25",
+      "text": "As you iterate, of course, you'll want to speak with users and get feedback. It's completely okay to show them a prototype."
+    },
+    {
+      "time": "8:32",
+      "text": "Please don't wait to have a perfect product. Just show them a prototype and start gathering feedback as early as you can."
+    },
+    {
+      "time": "8:39",
+      "text": "And that will eventually lead you to an MVP. A minimal viable product."
+    },
+    {
+      "time": "8:45",
+      "text": "And this word, the V is important, viable. You need to provide value to your customers."
+    },
+    {
+      "time": "8:51",
+      "text": "It's much better to be 10x better on a very tiny thing for someone who cares about it."
+    },
+    {
+      "time": "8:59",
+      "text": "Working for a niche is completely okay. Once you have real customers who love your product, it will be"
+    },
+    {
+      "time": "9:04",
+      "text": "very easy to expand from there. Let me give you the example of Algolia. Well, today Algolia is a"
+    },
+    {
+      "time": "9:09",
+      "text": "very broad, large, like full featured search engine, right?"
+    },
+    {
+      "time": "9:15",
+      "text": "But when we started, to be honest, it was just a glorified autocomplete, very minimal."
+    },
+    {
+      "time": "9:20",
+      "text": "But that product was so much better than whatever else was available at the time"
+    },
+    {
+      "time": "9:26",
+      "text": "that some people cared enough about it. And when we, when we started demonstrating"
+    },
+    {
+      "time": "9:31",
+      "text": "it, we didn't have much to show. Actually, I still remember our first customer, that first"
+    },
+    {
+      "time": "9:36",
+      "text": "meeting, when I did demo using a command line to indexed content."
+    },
+    {
+      "time": "9:42",
+      "text": "We didn't have any API client yet. We didn't have any admin UI yet, just a command line and then a very"
+    },
+    {
+      "time": "9:48",
+      "text": "simple webpage to show the search. That was enough to close a $2,000 a month contract."
+    },
+    {
+      "time": "9:54",
+      "text": "Okay, you have built something you can show users. So the next step is to talk with users."
+    },
+    {
+      "time": "9:59",
+      "text": "I know that many developers, many tech co founders are actually introverts and they don't like speaking with users or with customers."
+    },
+    {
+      "time": "10:06",
+      "text": "Like, they don't like sales. Well, you may not realize, but as you are building a dev tool,"
+    },
+    {
+      "time": "10:12",
+      "text": "you have a huge advantage. You know your audience. You are the audience, you are a"
+    },
+    {
+      "time": "10:18",
+      "text": "developer yourself, you speak the language of your customers, you are uniquely qualified to understand them."
+    },
+    {
+      "time": "10:24",
+      "text": "So, you'll see, it actually will be way easier than you think. Please don't wait for the product to be ready."
+    },
+    {
+      "time": "10:31",
+      "text": "You want to learn ASAP right away if you are solving a real problem that people will be ready to pay for."
+    },
+    {
+      "time": "10:38",
+      "text": "But how do you find these users? Two things, outreach and launches."
+    },
+    {
+      "time": "10:43",
+      "text": "Let's speak about outreach quickly. Dev tool co founders often plan to have a bottom up adoption model where"
+    },
+    {
+      "time": "10:50",
+      "text": "individual developers are going to come inbound, try the product, and convert. Or maybe become their"
+    },
+    {
+      "time": "10:55",
+      "text": "champions at bigger companies. Well, I have some bad news for you."
+    },
+    {
+      "time": "11:01",
+      "text": "Nobody knows you yet. So to get there, first, you need to get people to know about you."
+    },
+    {
+      "time": "11:08",
+      "text": "And there is no other way to do that than outreaching and finding them yourself. But you need to be smart about it."
+    },
+    {
+      "time": "11:14",
+      "text": "Start with your network, your previous colleagues or classmates. And then you expand from there, um,"
+    },
+    {
+      "time": "11:20",
+      "text": "friends of friends, you can leverage LinkedIn, you can find like specific calls over there, but please,"
+    },
+    {
+      "time": "11:26",
+      "text": "please personalize your messages. Like, don't copy what you can see out there, sent by marketers."
+    },
+    {
+      "time": "11:34",
+      "text": "Actually, you're developers, I'm sure you hate these messages. So don't do the same. Just ask yourself, would you be"
+    },
+    {
+      "time": "11:41",
+      "text": "excited to open your message? Then ask your co founder, ask other developer friends, would they be excited"
+    },
+    {
+      "time": "11:47",
+      "text": "to open your message, and then read your email, and then possibly act on it? Well, you simply iterate until they do."
+    },
+    {
+      "time": "11:54",
+      "text": "Now, let's speak about launching. You can launch many times. And that's what you should do"
+    },
+    {
+      "time": "12:00",
+      "text": "here to get more attention. The best place to launch for dev"
+    },
+    {
+      "time": "12:06",
+      "text": "tools, I would argue, is Hacker News. Hacker News is a community of"
+    },
+    {
+      "time": "12:11",
+      "text": "intellectually curious people. Many of them are developers. And there is that section in"
+    },
+    {
+      "time": "12:18",
+      "text": "Hacker News called Show HN. That's the perfect place to launch and gather feedback on what you are building."
+    },
+    {
+      "time": "12:25",
+      "text": "Again, like when you were writing like kind of this outreach messages. Please don't do marketing,"
+    },
+    {
+      "time": "12:31",
+      "text": "don't try to sell your product. Just explain plainly and simply what's new"
+    },
+    {
+      "time": "12:37",
+      "text": "and interesting in what you are building. That will be very engaging for the community and they'll share comments to you."
+    },
+    {
+      "time": "12:44",
+      "text": "Engage with these comments. Don't let them unanswered. Try to engage with people asking questions."
+    },
+    {
+      "time": "12:50",
+      "text": "Some of them are going to be haters and be rude. Well, you should engage with them too, but your goal is not to convince"
+    },
+    {
+      "time": "12:56",
+      "text": "them, it's just to convince any other readers who are going to read how you reply to these haters."
+    },
+    {
+      "time": "13:02",
+      "text": "Just be classy here. One of the great examples here is Segment. They simply did an experiment by"
+    },
+    {
+      "time": "13:09",
+      "text": "launching their next idea on Hacker News. And it blew up. They got hundreds of votes"
+    },
+    {
+      "time": "13:15",
+      "text": "and so many comments that they knew they were onto something. And that became their idea."
+    },
+    {
+      "time": "13:20",
+      "text": "Another example is Ollama. Ollama helps companies run LLMs on their own machines."
+    },
+    {
+      "time": "13:26",
+      "text": "Well, it started as a comment on a comment on another post on Hacker News."
+    },
+    {
+      "time": "13:31",
+      "text": "And just from that, they got a few people interested. And then shortly after,"
+    },
+    {
+      "time": "13:38",
+      "text": "they launched their product. It completely took off on Hacker News. They got like, again, hundreds of upvotes."
+    },
+    {
+      "time": "13:43",
+      "text": "And they knew they were onto something. And they didn't stop there. They launched again and again every few months."
+    },
+    {
+      "time": "13:50",
+      "text": "Each time they had like new things to share. And that continued to fuel their growth, creating a lot"
+    },
+    {
+      "time": "13:56",
+      "text": "of excitement in the community. Hacker News, best place to launch. The last thing I wanted to touch"
+    },
+    {
+      "time": "14:02",
+      "text": "upon here in that section is you should do things that don't scale."
+    },
+    {
+      "time": "14:07",
+      "text": "So again, you're here to learn as fast as possible from your users, what they like or not about your product."
+    },
+    {
+      "time": "14:15",
+      "text": "A great example of a team that did things that don't scale is Stripe. Early on, the Stripe team were going to"
+    },
+    {
+      "time": "14:22",
+      "text": "their customers, small startups, and they helped them implement their own product."
+    },
+    {
+      "time": "14:27",
+      "text": "Sitting side by side in front of the computer, coding with them. That was not only a great way to make sure"
+    },
+    {
+      "time": "14:34",
+      "text": "their users were going to be satisfied, were going to be actually excited about what they were building, but it was"
+    },
+    {
+      "time": "14:40",
+      "text": "also a great way to gather invaluable feedback very early from their users."
+    },
+    {
+      "time": "14:46",
+      "text": "So it's completely okay to do things that don't scale if they lead to faster learnings."
+    },
+    {
+      "time": "14:52",
+      "text": "Okay, and here are a few mistakes to avoid. So you remember, the goal is to go fast and iterate fast."
+    },
+    {
+      "time": "14:58",
+      "text": "So please don't choose a tech stack because it's cool, because you want to learn it. No, you should took it because of"
+    },
+    {
+      "time": "15:05",
+      "text": "your expertise with it so that you can iterate as fast as possible. Other mistakes we, we touch,"
+    },
+    {
+      "time": "15:11",
+      "text": "not talking with users. Please get that feedback as fast as"
+    },
+    {
+      "time": "15:16",
+      "text": "you can, which also means avoiding overbuilding before getting that feedback."
+    },
+    {
+      "time": "15:22",
+      "text": "Maybe a small thing here. Be careful about that feedback. Be careful about not misunderstanding"
+    },
+    {
+      "time": "15:27",
+      "text": "some of the developer feedback. For example, they may share, they may tell you, Oh, you should build your product."
+    },
+    {
+      "time": "15:34",
+      "text": "You don't care. You just want to know if they would use your product or not and why. Or they could tell you,"
+    },
+    {
+      "time": "15:40",
+      "text": "Hey, you know what? I could build this in a week. I don't need it. Well, guess what? You just build it yourself in a week."
+    },
+    {
+      "time": "15:46",
+      "text": "You're fine. You should not mind about that. Just move on and continue improving the product. Last mistake some teams"
+    },
+    {
+      "time": "15:53",
+      "text": "do is hiring too early. Very early on you don't even know if your product is providing value."
+    },
+    {
+      "time": "16:00",
+      "text": "Please don't hire anyone until you have convinced yourself you are working on the right idea."
+    },
+    {
+      "time": "16:06",
+      "text": "Let's now talk about go to market. And the first question you should ask yourself about go to"
+    },
+    {
+      "time": "16:12",
+      "text": "market is your business model. More explicitly, should you be open source?"
+    },
+    {
+      "time": "16:18",
+      "text": "Open source has become one of the main go to market for dev tools, and it definitely works as a business model,"
+    },
+    {
+      "time": "16:24",
+      "text": "as many companies have proven, like Databricks, Elastic, HashiCorp, GitLab. All awesome great companies."
+    },
+    {
+      "time": "16:30",
+      "text": "I would argue that you must be open source if you are working on things like a library or framework."
+    },
+    {
+      "time": "16:36",
+      "text": "That's what's today expected for the market. Developers wouldn't implement on top of a new framework that is not open source."
+    },
+    {
+      "time": "16:43",
+      "text": "You should also be open source if you are dealing with data, especially sensitive data. A new database would need to be open"
+    },
+    {
+      "time": "16:50",
+      "text": "source or an API connecting with sensitive data in a CRM or maybe"
+    },
+    {
+      "time": "16:56",
+      "text": "an EHR needs to be open source. You could be open source but probably don't have to be open source if you are"
+    },
+    {
+      "time": "17:02",
+      "text": "working on other things like an API or maybe an application like a bug tracker. Maybe in that case it's not as important"
+    },
+    {
+      "time": "17:09",
+      "text": "but still could be your differentiation. Open source has quite a lot of benefits."
+    },
+    {
+      "time": "17:15",
+      "text": "Your customers are developers. Well, as you know already, developers prefer working with open source tools."
+    },
+    {
+      "time": "17:22",
+      "text": "It's also going to help you create more awareness through the community. It can be also your differentiation, like"
+    },
+    {
+      "time": "17:28",
+      "text": "you could be the open source version of X. Think about PostHog and Amplitude,"
+    },
+    {
+      "time": "17:34",
+      "text": "or Supabase and Firebase, or Airbyte and Fivetran. Great approach. Speaking of Airbyte, you could also"
+    },
+    {
+      "time": "17:40",
+      "text": "receive contributions from the community. In the case of Airbyte, they got a lot of connectors contributed from the community."
+    },
+    {
+      "time": "17:46",
+      "text": "But I would be careful on that one. Most cases, you shouldn't count on them, because the quality of the contribution"
+    },
+    {
+      "time": "17:52",
+      "text": "may not be up to your standards. And then you have to deal with the contributors."
+    },
+    {
+      "time": "17:58",
+      "text": "And that could be more actually more difficult than you think. But in most cases, I would say that you should not count on them."
+    },
+    {
+      "time": "18:06",
+      "text": "Good contributions are actually pretty rare. And last benefit, but not the least, is the trust."
+    },
+    {
+      "time": "18:11",
+      "text": "And it's actually very important for large enterprises in the enterprise realm."
+    },
+    {
+      "time": "18:18",
+      "text": "Take the example of Medplum, for example, who is building a open source EHR."
+    },
+    {
+      "time": "18:23",
+      "text": "The fact that they are open source, I would argue, probably help them shorten their sales cycle with"
+    },
+    {
+      "time": "18:28",
+      "text": "enterprises by a year or more. There is one thing you need to think about, however, when you are"
+    },
+    {
+      "time": "18:34",
+      "text": "creating an open source project. Maybe not at the start, but pretty soon. It's monetization."
+    },
+    {
+      "time": "18:41",
+      "text": "If you cannot monetize your product, you don't have a company. At some point, even if it's"
+    },
+    {
+      "time": "18:46",
+      "text": "later in the life of the company, you need to earn money. There are many variants out"
+    },
+    {
+      "time": "18:52",
+      "text": "there, but it's good to look at the common approaches. Some of the common ones are hosting, having a cloud offer."
+    },
+    {
+      "time": "18:58",
+      "text": "So your customers may use your open source free, self hosted, but they"
+    },
+    {
+      "time": "19:04",
+      "text": "could also pay for you to host it so that they don't have to maintain it. Sometimes cloud version also"
+    },
+    {
+      "time": "19:10",
+      "text": "have like some additional features like team management. Another one is being open core."
+    },
+    {
+      "time": "19:15",
+      "text": "In that case, you usually have a special offer, typically an enterprise offer, that have advanced features that are"
+    },
+    {
+      "time": "19:22",
+      "text": "not in the open source version, or maybe they're on a different license. Common features are typically"
+    },
+    {
+      "time": "19:27",
+      "text": "the ones that are going to be necessary for enterprises, like SSO, audit logs, disaster recovery,"
+    },
+    {
+      "time": "19:34",
+      "text": "SLAs, these kind of features. And finally, some open source companies"
+    },
+    {
+      "time": "19:39",
+      "text": "charge for support and services. But I would actually discourage you to follow that monetization path,"
+    },
+    {
+      "time": "19:45",
+      "text": "because your incentive becomes to build the most complex product possible, so you can charge for support and"
+    },
+    {
+      "time": "19:51",
+      "text": "services, which is a bad incentive. And if your product doesn't need too much support, then people are going to churn"
+    },
+    {
+      "time": "19:57",
+      "text": "and not renew their support contract. And what if you are not open source? Well, for these dev tools, they are"
+    },
+    {
+      "time": "20:03",
+      "text": "usually following one of two approaches. Either they are usage based, like APIs, Algolia, Twilio, Stripe."
+    },
+    {
+      "time": "20:10",
+      "text": "And so they charge based on the usage their customers do. Possibly they have a volume discount."
+    },
+    {
+      "time": "20:17",
+      "text": "Or enterprise specific options that are on the side. And the second approach is"
+    },
+    {
+      "time": "20:23",
+      "text": "having some specific plans. Typically like a good, better, best approach. Good is going to be the self serve option."
+    },
+    {
+      "time": "20:31",
+      "text": "Um, that's going to solve the problem of developers for a very low price. For the better options, usually"
+    },
+    {
+      "time": "20:36",
+      "text": "are going to be interacting with engineering managers, who are going to care about collaboration. That's going to enable teams,"
+    },
+    {
+      "time": "20:43",
+      "text": "still can be self serve. And the best option is higher up. You are talking to the CTO."
+    },
+    {
+      "time": "20:49",
+      "text": "It's all about security, audit logs, disaster recovery, SLA."
+    },
+    {
+      "time": "20:54",
+      "text": "And in that case, it's usually a sales led approach. Let's speak about sales. So, as a quick reminder from what I was"
+    },
+    {
+      "time": "21:01",
+      "text": "saying earlier, don't fear outreach. Even if most dev tools are going to end up being bottom up and rely on inbound"
+    },
+    {
+      "time": "21:10",
+      "text": "only heavily, no one knows you at first, and so you need to start with outreach. That period of founder"
+    },
+    {
+      "time": "21:16",
+      "text": "outreach is how you start. As you get more well known, that's when you'll get inbound."
+    },
+    {
+      "time": "21:23",
+      "text": "Usually you're going to have at that point more self serve leads. And then eventually, you will end"
+    },
+    {
+      "time": "21:28",
+      "text": "up hiring a sales team to sell to bigger accounts, enterprise. So, should you hire a sales team?"
+    },
+    {
+      "time": "21:35",
+      "text": "Well, I would argue that you should wait as long as you can. Start by selling yourself."
+    },
+    {
+      "time": "21:41",
+      "text": "Don't delegate away. The truth is that you are the only person in the company today"
+    },
+    {
+      "time": "21:47",
+      "text": "capable of selling your own product. If you as the founder cannot sell your product, nobody else can."
+    },
+    {
+      "time": "21:55",
+      "text": "As a rule of thumb, I would wait to get to about $1 million ARR before hiring your first salesperson."
+    },
+    {
+      "time": "22:03",
+      "text": "And even then, try to hire people who are technical, who at least understand"
+    },
+    {
+      "time": "22:08",
+      "text": "developers, because developers hate speaking with salespeople. I actually remember our first"
+    },
+    {
+      "time": "22:14",
+      "text": "sales people at Algolia. They decided to change their title on LinkedIn. And instead of like being sales,"
+    },
+    {
+      "time": "22:20",
+      "text": "well, account execs, they called themselves product specialists. And the nice thing here is that they"
+    },
+    {
+      "time": "22:27",
+      "text": "actually had to own that stages. They had to understand the product intimately. So it was kind of like a great"
+    },
+    {
+      "time": "22:32",
+      "text": "incentive for them to be better at product and a great way for them to open doors with developers who,"
+    },
+    {
+      "time": "22:39",
+      "text": "um, don't want to speak with sales. Another example, PostHog. Did you know that Tim their"
+    },
+    {
+      "time": "22:44",
+      "text": "CTO is also their sales leader? Not a business leader. Their sales leader is also the CTO."
+    },
+    {
+      "time": "22:51",
+      "text": "He sees sales as an engineering problem, which is an awesome approach for a dev tool. If you want to learn more about"
+    },
+    {
+      "time": "22:57",
+      "text": "sales, you should also watch Pete's talk about enterprise sales, another startup school video."
+    },
+    {
+      "time": "23:03",
+      "text": "So is it different to sell a dev tool from selling any other product? Yes, it is."
+    },
+    {
+      "time": "23:08",
+      "text": "You shouldn't build a sales deck. Developers don't want to waste their time reading through a sales deck."
+    },
+    {
+      "time": "23:16",
+      "text": "You should show, not tell. Just do demonstrations. I think that's the best sales"
+    },
+    {
+      "time": "23:23",
+      "text": "approach you can do for a dev tool. At Algolia, we didn't have a sales deck before we got to $10 million ARR."
+    },
+    {
+      "time": "23:31",
+      "text": "So even our sales like proper account execs were just showing demonstrations"
+    },
+    {
+      "time": "23:37",
+      "text": "when they were selling and that was working so much better for everyone. You should lean completely in"
+    },
+    {
+      "time": "23:43",
+      "text": "the tech aspect of your product. For example, at Algolia, we sell a lot to e commerce players."
+    },
+    {
+      "time": "23:48",
+      "text": "And what we realized is that when the buyer is not technical, and want a turnkey"
+    },
+    {
+      "time": "23:55",
+      "text": "solution, we always, not always, but most of the time, we actually lose the deal."
+    },
+    {
+      "time": "24:00",
+      "text": "But when the buyer is technical, or if tech has a lot of influence in"
+    },
+    {
+      "time": "24:05",
+      "text": "the decision, we win way more often. So we realized by leaning into that aspect of our product."
+    },
+    {
+      "time": "24:12",
+      "text": "We are an API. We are not like a turnkey solution. Well, we ended up like finding our"
+    },
+    {
+      "time": "24:18",
+      "text": "ICP and having better success selling. Okay. And the last thing that is also true in within dev tools is"
+    },
+    {
+      "time": "24:24",
+      "text": "that most of them are bottom up. What that means is that a lot of people are going to self serve even within enterprises."
+    },
+    {
+      "time": "24:32",
+      "text": "So instead of going top down, just pitching your product directly, sales"
+    },
+    {
+      "time": "24:38",
+      "text": "should also check if some of the enterprise employees are already using the product, and they should then"
+    },
+    {
+      "time": "24:45",
+      "text": "focus on helping management understand what the product is already doing for them and how much more it could help"
+    },
+    {
+      "time": "24:52",
+      "text": "them if they were to pay for more. Like new seats or features or actual usage."
+    },
+    {
+      "time": "24:58",
+      "text": "Okay, so the last topic I wanted to touch in this video is developer marketing."
+    },
+    {
+      "time": "25:06",
+      "text": "Your goal is to create a lot of awareness for your product because you want inbound. The first thing you should"
+    },
+    {
+      "time": "25:11",
+      "text": "do is find your community. So it could be Hacker News or some subreddit or some discords out there that"
+    },
+    {
+      "time": "25:19",
+      "text": "is related to what you're working on. But be careful. Your goal is not to sell"
+    },
+    {
+      "time": "25:24",
+      "text": "your product just yet here. Just be helpful. Just establish yourself as the expert."
+    },
+    {
+      "time": "25:31",
+      "text": "And of course people are going to start knowing you and trust your brand, your company."
+    },
+    {
+      "time": "25:36",
+      "text": "That will help you down the line. People will think about you when they have that problem. Launch often."
+    },
+    {
+      "time": "25:43",
+      "text": "That's very important. We discussed about, uh, the example of Ollama before. But that should also be done"
+    },
+    {
+      "time": "25:49",
+      "text": "for the life of your company. Some companies even do launch weeks and have been very successful for that."
+    },
+    {
+      "time": "25:55",
+      "text": "It works great for open source, for example. Supabase is doing that once a quarter,"
+    },
+    {
+      "time": "26:01",
+      "text": "bundling all their news in one week a quarter to make as much noise as they can. Other things you can do."
+    },
+    {
+      "time": "26:08",
+      "text": "Make your documentation a first class citizen. Documentation is often an"
+    },
+    {
+      "time": "26:13",
+      "text": "afterthought for developers. They prefer coding than actually documenting their code."
+    },
+    {
+      "time": "26:19",
+      "text": "I would argue that documentation should never be an afterthought. It should be part of the product."
+    },
+    {
+      "time": "26:24",
+      "text": "Documentation is marketing. That's how people are going to interact with your product."
+    },
+    {
+      "time": "26:30",
+      "text": "That's actually the first place people are going after your homepage and maybe a pricing page."
+    },
+    {
+      "time": "26:35",
+      "text": "Stripe and other dev tools have really raised expectations there."
+    },
+    {
+      "time": "26:40",
+      "text": "Developers have become very demanding. That's something you should invest in."
+    },
+    {
+      "time": "26:45",
+      "text": "At Algolia, we decided that a feature was not ever done until the doc was done."
+    },
+    {
+      "time": "26:51",
+      "text": "And documentation should be written by developers. You know Algolia, even when we call the team."
+    },
+    {
+      "time": "26:57",
+      "text": "And at some point, uh, we created that documentation team. Their role was not to write the documentation for the developers."
+    },
+    {
+      "time": "27:04",
+      "text": "They were here to help developers write better documentations. For example, they built a tool where"
+    },
+    {
+      "time": "27:09",
+      "text": "it would automatically insert API keys for people who'd be logged in so that when they copy paste the code,"
+    },
+    {
+      "time": "27:16",
+      "text": "it would work right away out of the box which made the documentation ever more useful for our customers."
+    },
+    {
+      "time": "27:22",
+      "text": "Speaking of things that developers should do, I would include support there. You should make support a"
+    },
+    {
+      "time": "27:29",
+      "text": "huge part of your marketing. Your users are developers, right?"
+    },
+    {
+      "time": "27:34",
+      "text": "Developers hate speaking to these level one support people who don't know anything"
+    },
+    {
+      "time": "27:40",
+      "text": "about the product they are supporting. Engineers should do support, and that's going to lead to two great things."
+    },
+    {
+      "time": "27:47",
+      "text": "One, your users are developers, and when they interact with developers who speak their language, they're"
+    },
+    {
+      "time": "27:53",
+      "text": "going to be way more satisfied. Actually, I have examples where someone would reach out to support, and then"
+    },
+    {
+      "time": "27:58",
+      "text": "the developers, like the person doing the support, was able to actually fix the bug and deploy in 20 minutes."
+    },
+    {
+      "time": "28:06",
+      "text": "And so that kind of like blew the customer away. Like they were so impressed, so excited about the product."
+    },
+    {
+      "time": "28:11",
+      "text": "And two, it's going to help your own developers much better"
+    },
+    {
+      "time": "28:16",
+      "text": "understand your customers needs. Because they are going to face the pain as they are supporting them."
+    },
+    {
+      "time": "28:23",
+      "text": "And that's a great way for them to be the better product. Taking the example of Algolia again, we actually waited until"
+    },
+    {
+      "time": "28:30",
+      "text": "hundreds of employees before we built a delegated support team. And then we actually asked our best"
+    },
+    {
+      "time": "28:37",
+      "text": "engineering manager to build that team. Support was never a second class citizen for us."
+    },
+    {
+      "time": "28:43",
+      "text": "So, developers are doing documentation, developers are doing support, all of that is your marketing."
+    },
+    {
+      "time": "28:49",
+      "text": "Should you ever hire a marketing team or when should you do that? Well, similarly to sales, I think"
+    },
+    {
+      "time": "28:56",
+      "text": "founders should lead marketing for a long time, maybe forever actually. To be honest, even at a later stage,"
+    },
+    {
+      "time": "29:02",
+      "text": "I don't know a single dev tool company that is happy with their CMO when they"
+    },
+    {
+      "time": "29:08",
+      "text": "have a traditional marketing background. Why? Because traditional marketers, they"
+    },
+    {
+      "time": "29:13",
+      "text": "don't really understand the persona. They don't really understand developers. Only other developers do."
+    },
+    {
+      "time": "29:19",
+      "text": "And developers really hate being marketed at. Please don't insult their intelligence."
+    },
+    {
+      "time": "29:24",
+      "text": "You know that because you are developers, right? Well, early on at Algolia, we were"
+    },
+    {
+      "time": "29:29",
+      "text": "actually asking every single engineer in the team to do what we called a marketing hack every single month."
+    },
+    {
+      "time": "29:37",
+      "text": "A hack could be writing a simple blog post, or could be speaking at a meetup,"
+    },
+    {
+      "time": "29:42",
+      "text": "or could be building a new search. All our best marketing at"
+    },
+    {
+      "time": "29:47",
+      "text": "Algolia was done by developers. I would encourage you as you build your marketing team to make sure that you have"
+    },
+    {
+      "time": "29:54",
+      "text": "a lot of developers in your marketing team, because they are the ones who know how to speak to your customers."
+    },
+    {
+      "time": "30:00",
+      "text": "You may ask, what about dev advocates? Well, I love the idea because that means having developers in your marketing team."
+    },
+    {
+      "time": "30:07",
+      "text": "But it's also a very ill defined role with often a lot of very fuzzy expectations."
+    },
+    {
+      "time": "30:14",
+      "text": "So it's difficult to measure. It's difficult to build accountability for."
+    },
+    {
+      "time": "30:19",
+      "text": "So my recommendation here would be to wait and first leverage your existing engineering team."
+    },
+    {
+      "time": "30:26",
+      "text": "and ask them to do some form of marketing or dev advocacy. And probably at Series A or"
+    },
+    {
+      "time": "30:33",
+      "text": "later, it starts to make sense to hire dedicated dev advocates. Even then, think about hiring from"
+    },
+    {
+      "time": "30:38",
+      "text": "within, or from your community. For example, if your open source could be contributors or active or helpful"
+    },
+    {
+      "time": "30:46",
+      "text": "Discord members, these are the best dev advocate candidates to join you."
+    },
+    {
+      "time": "30:51",
+      "text": "So let's wrap up and recap what we said here. Start now. Please don't wait for the perfect"
+    },
+    {
+      "time": "30:57",
+      "text": "idea because as you are going to build your product, even if it's not a perfect idea, you'll do the reps."
+    },
+    {
+      "time": "31:02",
+      "text": "You'll learn. And that will lead you to the best idea. If you don't start,"
+    },
+    {
+      "time": "31:08",
+      "text": "you'll never get anywhere. Build quickly. Please, please, don't over engineer."
+    },
+    {
+      "time": "31:13",
+      "text": "You need to have that very fast iteration pace where you can learn from your users as you are building."
+    },
+    {
+      "time": "31:20",
+      "text": "Crappy, quick and dirty is completely okay early stage, and then you refactor what actually matters."
+    },
+    {
+      "time": "31:27",
+      "text": "Spend time with your users. Like, there is no way you're going to learn if you don't speak with your users."
+    },
+    {
+      "time": "31:32",
+      "text": "Learn from them. Do things that don't scale. Go to their office. Spend time with them. Launch early."
+    },
+    {
+      "time": "31:38",
+      "text": "You may have seen many of our videos where we say, there is no shame in launching early. People won't remember you"
+    },
+    {
+      "time": "31:43",
+      "text": "if it doesn't work out. But you could get invaluable feedback that will lead you to work on the"
+    },
+    {
+      "time": "31:49",
+      "text": "right product to build the right thing that people need. As you are building a dev tool, you should"
+    },
+    {
+      "time": "31:56",
+      "text": "consider open source as your go to market. Observe the market, observe other players, how they have built their"
+    },
+    {
+      "time": "32:02",
+      "text": "product, and figure out if open source is the right thing for you. But don't dismiss it. Think about it hard"
+    },
+    {
+      "time": "32:08",
+      "text": "before making a choice. Don't forget, you are the best salesperson for your product."
+    },
+    {
+      "time": "32:13",
+      "text": "No one else is going to know your product or your audience as well as you do."
+    },
+    {
+      "time": "32:19",
+      "text": "Learning to sell is way easier than learning how to speak with a developer. And finally, you are also the best"
+    },
+    {
+      "time": "32:26",
+      "text": "marketing person for your product. You know the language of developers, you know how to speak with them,"
+    },
+    {
+      "time": "32:32",
+      "text": "you know where they are spending their time, the community, you know how to access this audience"
+    },
+    {
+      "time": "32:38",
+      "text": "Okay, that's wrapped up for me today. Thanks for watching the video. And if you are building a dev tool,"
+    },
+    {
+      "time": "32:44",
+      "text": "don't forget you can apply to YC anytime."
+    }
+  ]
+}
