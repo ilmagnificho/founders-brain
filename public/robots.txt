@@ -1,11 +1,11 @@
 # FoundersBrain Robots.txt
-# https://foundersbrain.ai
+# https://founders-brain.vercel.app
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://foundersbrain.ai/sitemap.xml
+Sitemap: https://founders-brain.vercel.app/sitemap.xml
 
 # Disallow admin/api routes
 Disallow: /api/

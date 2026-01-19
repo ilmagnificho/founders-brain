@@ -10,7 +10,7 @@ import "./globals.css";
 // SEO & OpenGraph Metadata
 // =============================================================================
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://foundersbrain.ai";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://founders-brain.vercel.app";
 
 export const metadata: Metadata = {
     metadataBase: new URL(siteUrl),
