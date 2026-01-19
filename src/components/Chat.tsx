@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect, useCallback } from "react";
 import { useTranslations } from "next-intl";
 import ChatMessage from "./ChatMessage";
+import TopicCarousel from "./TopicCarousel";
 import styles from "./Chat.module.css";
 
 // =============================================================================
@@ -29,6 +30,7 @@ interface ChatProps {
     setInputValue: (value: string) => void;
     autoSubmit?: boolean; // New: trigger auto-submit
     onAutoSubmitComplete?: () => void; // New: callback after auto-submit
+    onQuestionSelect?: (question: string) => void; // New: for TopicCarousel in empty state
 }
 
 // =============================================================================
@@ -45,7 +47,8 @@ export default function Chat({
     inputValue,
     setInputValue,
     autoSubmit = false,
-    onAutoSubmitComplete
+    onAutoSubmitComplete,
+    onQuestionSelect
 }: ChatProps) {
     const t = useTranslations("chat");
     const [messages, setMessages] = useState<Message[]>([]);
@@ -205,16 +208,22 @@ export default function Chat({
             <div className={styles.messages}>
                 {messages.length === 0 ? (
                     <div className={styles.empty}>
-                        <div className={styles.emptyIcon}>🧠</div>
-                        <h3 className={styles.emptyTitle}>궁금한 것을 물어보세요</h3>
-                        <p className={styles.emptyText}>
-                            왼쪽 토픽에서 주제를 선택하거나<br />
-                            아래에 직접 질문을 입력해보세요
-                        </p>
-                        <div className={styles.emptyHint}>
-                            <span className={styles.hintIcon}>💡</span>
-                            <span>예시: "MVP는 어떻게 만들어야 하나요?"</span>
-                        </div>
+                        {onQuestionSelect ? (
+                            <TopicCarousel onQuestionSelect={onQuestionSelect} />
+                        ) : (
+                            <>
+                                <div className={styles.emptyIcon}>🧠</div>
+                                <h3 className={styles.emptyTitle}>궁금한 것을 물어보세요</h3>
+                                <p className={styles.emptyText}>
+                                    왼쪽 토픽에서 주제를 선택하거나<br />
+                                    아래에 직접 질문을 입력해보세요
+                                </p>
+                                <div className={styles.emptyHint}>
+                                    <span className={styles.hintIcon}>💡</span>
+                                    <span>예시: "MVP는 어떻게 만들어야 하나요?"</span>
+                                </div>
+                            </>
+                        )}
                     </div>
                 ) : (
                     <>

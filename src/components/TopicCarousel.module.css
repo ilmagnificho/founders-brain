@@ -21,13 +21,13 @@
 .title {
     font-size: 1.2rem;
     font-weight: 600;
-    color: rgba(255, 255, 255, 0.9);
+    color: var(--text-primary);
     margin-bottom: 8px;
 }
 
 .subtitle {
     font-size: 0.9rem;
-    color: rgba(255, 255, 255, 0.6);
+    color: var(--text-tertiary);
     margin-bottom: 24px;
 }
 
@@ -45,26 +45,26 @@
     align-items: center;
     gap: 8px;
     padding: 10px 16px;
-    background: rgba(255, 255, 255, 0.05);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-light);
     border-radius: 100px;
-    color: rgba(255, 255, 255, 0.8);
+    color: var(--text-secondary);
     font-size: 0.9rem;
     cursor: pointer;
     transition: all 0.2s ease;
-    backdrop-filter: blur(10px);
 }
 
 .topicPill:hover {
-    background: rgba(255, 255, 255, 0.1);
+    background: var(--bg-elevated);
+    border-color: var(--border-medium);
     transform: translateY(-2px);
-    border-color: rgba(255, 255, 255, 0.2);
+    color: var(--text-primary);
 }
 
 .topicPill.active {
-    background: rgba(255, 107, 53, 0.15);
-    border-color: #ff6b35;
-    color: #ff6b35;
+    background: var(--yc-orange-light);
+    border-color: var(--yc-orange);
+    color: var(--yc-orange);
     font-weight: 500;
 }
 
@@ -74,8 +74,8 @@
 
 /* Questions Panel */
 .questionsPanel {
-    background: rgba(255, 107, 53, 0.05);
-    border: 1px solid rgba(255, 107, 53, 0.2);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-light);
     border-radius: 16px;
     padding: 20px;
     text-align: left;
@@ -96,7 +96,7 @@
 
 .questionsTitle {
     font-size: 0.85rem;
-    color: #ff6b35;
+    color: var(--yc-orange);
     font-weight: 600;
     margin-bottom: 12px;
 }
@@ -113,10 +113,10 @@
     gap: 10px;
     width: 100%;
     padding: 12px 16px;
-    background: rgba(255, 255, 255, 0.05);
+    background: var(--bg-elevated);
     border: 1px solid transparent;
     border-radius: 8px;
-    color: rgba(255, 255, 255, 0.9);
+    color: var(--text-primary);
     font-size: 0.95rem;
     text-align: left;
     cursor: pointer;
@@ -124,16 +124,74 @@
 }
 
 .questionButton:hover {
-    background: rgba(255, 255, 255, 0.1);
+    background: var(--bg-secondary);
+    border-color: var(--border-light);
     transform: translateX(4px);
+    box-shadow: var(--shadow-sm);
 }
 
 .questionArrow {
-    color: #ff6b35;
+    color: var(--yc-orange);
     opacity: 0.5;
     transition: opacity 0.2s ease;
 }
 
 .questionButton:hover .questionArrow {
     opacity: 1;
+}
+
+/* =============================================================================
+   Mobile Responsive Styles
+   ============================================================================= */
+
+@media (max-width: 768px) {
+    .container {
+        margin: 0 auto 20px;
+        max-width: 100%;
+    }
+
+    .title {
+        font-size: 1rem;
+        margin-bottom: 6px;
+    }
+
+    .subtitle {
+        font-size: 0.85rem;
+        margin-bottom: 18px;
+    }
+
+    .topics {
+        gap: 8px;
+        margin-bottom: 16px;
+    }
+
+    .topicPill {
+        padding: 8px 14px;
+        font-size: 0.85rem;
+        gap: 6px;
+    }
+
+    .topicIcon {
+        font-size: 1rem;
+    }
+
+    .questionsPanel {
+        padding: 16px;
+        border-radius: 12px;
+    }
+
+    .questionsTitle {
+        font-size: 0.8rem;
+        margin-bottom: 10px;
+    }
+
+    .questions {
+        gap: 6px;
+    }
+
+    .questionButton {
+        padding: 10px 14px;
+        font-size: 0.9rem;
+        gap: 8px;
+    }
 }

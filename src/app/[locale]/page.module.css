@@ -210,3 +210,187 @@
 .footerLink:hover {
     text-decoration: underline;
 }
+
+/* =============================================================================
+   Mobile Header Buttons
+   ============================================================================= */
+
+.mobileHeaderButton {
+    display: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid var(--border-light);
+    background: var(--bg-tertiary);
+    cursor: pointer;
+    font-size: 1.2rem;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+}
+
+.mobileHeaderButton:hover {
+    background: var(--bg-elevated);
+    border-color: var(--border-medium);
+}
+
+/* =============================================================================
+   Mobile Drawer & Overlay
+   ============================================================================= */
+
+.mobileOverlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 200;
+    animation: fadeIn 0.2s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.mobileDrawer {
+    display: none;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 85%;
+    max-width: 320px;
+    background: var(--bg-secondary);
+    z-index: 300;
+    overflow-y: auto;
+    transition: transform 0.3s ease;
+    flex-direction: column;
+}
+
+.mobileDrawerLeft {
+    left: 0;
+    transform: translateX(-100%);
+    border-right: 1px solid var(--border-light);
+}
+
+.mobileDrawerRight {
+    right: 0;
+    transform: translateX(100%);
+    border-left: 1px solid var(--border-light);
+}
+
+.mobileDrawerOpen {
+    transform: translateX(0);
+}
+
+.mobileDrawerHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border-light);
+    background: var(--bg-tertiary);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.mobileDrawerHeader h3 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.mobileDrawerClose {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    border: 1px solid var(--border-light);
+    background: var(--bg-primary);
+    cursor: pointer;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-secondary);
+    transition: all var(--transition-fast);
+}
+
+.mobileDrawerClose:hover {
+    background: var(--bg-elevated);
+    color: var(--text-primary);
+}
+
+/* =============================================================================
+   Mobile Responsive Overrides
+   ============================================================================= */
+
+@media (max-width: 768px) {
+    .mobileHeaderButton {
+        display: flex;
+    }
+
+    .mobileOverlay {
+        display: block;
+    }
+
+    .mobileDrawer {
+        display: flex;
+    }
+
+    .header {
+        padding: 10px 12px;
+        gap: 8px;
+    }
+
+    .logo {
+        gap: 6px;
+    }
+
+    .logoIcon {
+        width: 28px;
+        height: 28px;
+        font-size: 0.8rem;
+    }
+
+    .logoText {
+        font-size: 0.95rem;
+    }
+
+    .betaBadge {
+        font-size: 0.6rem;
+        padding: 3px 8px;
+    }
+
+    .headerRight {
+        gap: 8px;
+    }
+
+    .aboutLink {
+        font-size: 0.8rem;
+        padding: 4px 8px;
+    }
+
+    .themeToggle {
+        width: 32px;
+        height: 32px;
+        font-size: 1rem;
+    }
+
+    .layoutContainer {
+        height: calc(100vh - 90px);
+    }
+
+    .footer {
+        padding: 10px 16px;
+    }
+
+    .disclaimer {
+        font-size: 0.7rem;
+    }
+}
