@@ -140,11 +140,14 @@ export default function Chat({
     }, [isLoading, setInputValue, t]);
 
     // Handle auto-submit when triggered from parent
+    const prevAutoSubmitRef = useRef(false);
     useEffect(() => {
-        if (autoSubmit && inputValue.trim() && !isLoading) {
+        // Only trigger when autoSubmit changes from false to true
+        if (autoSubmit && !prevAutoSubmitRef.current && inputValue.trim() && !isLoading) {
             submitQuestion(inputValue);
             onAutoSubmitComplete?.();
         }
+        prevAutoSubmitRef.current = autoSubmit;
     }, [autoSubmit, inputValue, isLoading, submitQuestion, onAutoSubmitComplete]);
 
     const handleSubmit = async (e: React.FormEvent) => {
